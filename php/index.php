@@ -5,6 +5,16 @@ error_reporting(E_ALL);
 
 include 'includes/config.inc.php';
 
+require_once "controleur/HomeControlleur.php";
+
+$ctrlHome = new HomeControlleur();
+    $id=(isset($_GET['id']))?$_GET['id']: "";
+if(isset($_GET['action'])){
+    
+} else {	
+    $ctrlHome->homePage();
+}
+/*
 $pdo = new BD();
 
 $requete = "SELECT * FROM easybet_users";
@@ -16,7 +26,7 @@ $users = $user->fetchAll(PDO::FETCH_ASSOC);
 echo '<pre>';
 print_r($users);
 echo '</pre>';
-
+*/
 
 ?>
 

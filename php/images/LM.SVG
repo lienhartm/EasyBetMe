@@ -1,0 +1,13 @@
+            <svg xmlns="http://www.w3.org/2000/svg" width="45" height="40" viewBox="0 0 45 40">
+                <!-- Fond -->
+                <rect width="45" height="40" fill="#f2f2f2" />
+                <!-- Lettre L -->
+                <rect x="5" y="5" width="5" height="30" fill="#000000" />
+                <rect x="5" y="30" width="20" height="5" fill="#000000" />
+                <!-- Lettre M -->
+                <rect x="15" y="5" width="5" height="20" fill="#000000" />
+                <rect x="20" y="10" width="5" height="5" fill="#000000" />
+                <rect x="25" y="15" width="5" height="5" fill="#000000" />
+                <rect x="30" y="10" width="5" height="5" fill="#000000" />
+                <rect x="35" y="5" width="5" height="30" fill="#000000" />
+            </svg>

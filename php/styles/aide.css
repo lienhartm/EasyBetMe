@@ -1,0 +1,52 @@
+main {
+	display: flex;
+	align-items: center;
+    justify-content: center;
+}	
+
+div.help {
+	width: 90%;
+	height: calc(100% - 200px);
+	background: rgba(255,255,255,1);
+	padding: 0px;
+	border-radius: 4px;
+    overflow: auto;
+}	
+div.help h2 {
+	text-align: center;
+    margin: 0;
+    padding: 0;
+    background: #333;
+    color: #fff;
+    font-size: 1.5em;
+}	
+
+div.help div.content {
+    padding: 20px;
+}
+div.help p {
+	/*text-align: justify;*/
+    font-size: 1.2em;
+}	
+div.help p a {
+	color: #000;
+}	
+
+@media screen and (max-width: 500px) {
+    div.help {
+        height: calc(100% - 150px);
+        position: relative;
+        top: 20px;
+    }
+}
+@media screen and (max-height: 400px) {
+    main {
+        padding: 0;
+    }
+    div.help {
+        width: 95%;
+        height: calc(100% - 80px);
+        position: relative;
+        top: 20px;
+    }
+}
