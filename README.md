@@ -45,6 +45,49 @@ Fichier de donnée
 Fichier émis
 : Courriel, PDF
 
+## Base de donnée
+
+	         
+                    	         			    +---------------------+ 
+	         			                        |  easybet_events     |
+       +----------------------+         +---------------------+
+       |   easybet_gamers     |   	    | id (PK)		          |
+       +----------------------+         | datedebut	          |
+       | id (PK)		          |         | datefin		          |
+       | id_event (FK)	      | *-----1 | competition	        |
+       | id_user (FK)	        |         | description	        |
+       | event_points	        |         | cadeau		          |
+       +----------------------+         | img		              |
+	          *		                        +---------------------+
+	          |
+	          1
+       +-------------------+	       +-----------------+          +-------------------------+		
+       |  easybet_users	   |         |  easybet_gifts  |          |  easybet_gifts_users    |
+       +-------------------+         +-----------------+	        +-------------------------+
+       | id (PK)		       |         | id (PK)	       |	        | id (PK)		              |
+       | pseudo		         | 1-----* | nom		         | 1-----*  | id_gifts (FK)	          |
+       | email		         |         | description	   |	        | id_users (FK)	          |
+       | password	         |         | prix		         |	        | coins		                |
+       | coins		         |         +-----------------+	        +-------------------------+
+       +-------------------+
+                   1
+                   |
+                  *
+       +-------------------+
+       |  easybet_bets   	 |
+       +-------------------+
+       | id (PK)		       |
+       | id_user (FK)    	 |
+       | id_game (FK)  	   |
+       | date	          	 |
+       | score_d           |
+       | score_v           |
+       | bet               |
+       | result            |
+       +-------------------+
+
+
+
 ## Url
 
 | site | sql | phpmyadmin |
