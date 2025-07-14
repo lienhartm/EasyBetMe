@@ -79,12 +79,6 @@
 	<? if($_SESSION['login']==1):?>
 	    <a href="/gift"><span class="icon">&#xe99f;</span><label><?=$User['gift'];?></label></a>
 	<? endif; ?>
-	<? if($_SESSION['login']==1034):?>
-	    <a href="/points"><span class="icon">&#xe9d9;</span><label><?=$User['points'];?></label></a>
-	<? endif; ?>
-	<? if($_SESSION['login']==1):?>
-	    <a href="/coins"><span class="icon">&#xe939;</span><label><?=$User['coins'];?></label></a>
-    <? endif; ?>
 	<? if($_SESSION['login']==1):?>
 	    <a href="/penalty"><span class="icon">&#xe915;</span></a>
 	<? endif; ?>
