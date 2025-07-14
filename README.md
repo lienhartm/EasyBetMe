@@ -4,6 +4,26 @@ Plateforme de pari en ligne.
 
 ## Projet
 
+### Initialement
+Le site était très simple les visiteurs peuvent s'incrire/se connecter au site. Il faut être connecté pour pouvoir parier sur un matches.
+Ces matches sont programmés par l'administrateur en ayant préalablement ajouter la compétition, les équipes, les images (équipes, compétitions) et en renseignant le score à l'issu du matches.
+Les joueurs ont un aperçu sur le classement, un cadeaux peut être mis en jeu avec l'organisateur de l'événement.
+
+Problématiques
+: Structuration peu claire
+Fonctionnalité non développé mais omniprésente dans le projet
+Absence de documentation
+Non respect des règles RGPD
+
+
+### Cahiers des charges
+-----------------------
+Le projet à été en premier lieu de développer cette plateforme de pari en ligne, pour cela plusieurs grand points ont été l'objet de l'étude:
+- Le développement & redynamisme du site 
+- Une simplification de la gestion adminsitrateur
+- Une automatisation de l'affichage des matches et de l'informations sur le thème du football avec plusieurs API.
+- 
+
 ### Pari
 --------
 Les matches sur lesquels les paris sont effectuées sont récupéré depuis une API offrant les services souhaité, elle est spécialisé sur le football.
