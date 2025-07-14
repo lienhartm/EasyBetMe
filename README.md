@@ -1,10 +1,10 @@
-# EasyBetMe
+#EasyBetMe
 
 Plateforme de pari en ligne.
 
-## Projet
+##Projet
 
-### Pari
+###Pari
 --------
 Les matches sur lesquels les paris sont effectuées sont récupéré depuis une API offrant les services souhaité, elle est spécialisé sur le football.
 
