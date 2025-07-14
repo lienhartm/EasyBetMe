@@ -54,9 +54,9 @@ Fichier émis
        |   easybet_gamers     |         | id (PK)             |
        +----------------------+         | datedebut           |
        | id (PK)	      |         | datefin             |
-       | id_event (FK)	      | *-----1 | competition         |
-       | id_user (FK)	      |         | description         |
-       | event_points	      |         | cadeau              |
+       | id_event (FK)        | *-----1 | competition         |
+       | id_user (FK)         |         | description         |
+       | event_points         |         | cadeau              |
        +----------------------+         | img                 |
 	          *                     +---------------------+
 	          |
