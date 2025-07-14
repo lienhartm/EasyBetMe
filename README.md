@@ -47,9 +47,9 @@ Fichier émis
 
 ## Base de donnée
 
-	         
-                    	         			    +---------------------+ 
-	         			                        |  easybet_events     |
+
+                    	                +---------------------+ 
+	                                |  easybet_events     |
        +----------------------+         +---------------------+
        |   easybet_gamers     |   	    | id (PK)		          |
        +----------------------+         | datedebut	          |
