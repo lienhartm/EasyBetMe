@@ -23,6 +23,7 @@ Le projet à été en premier lieu de développer cette plateforme de pari en li
 - Le développement & redynamisme du site 
 - Une simplification de la gestion adminsitrateur
 - Une automatisation de l'affichage des matches et de l'informations sur le thème du football avec plusieurs API.
+
 En deuxième lieu le développement d'un environnement virtuelle pour palier aux mauvaises pratiques de programmation est nécessaire ainsi qu'au passage à une architecture de type MVC, et bien sûr de la maintenance du site pour une optimmisation. Il s'agit de l'étude:
 - Environnement de développement
 - Changement d'architecture de type MVC
