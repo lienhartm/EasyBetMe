@@ -62,9 +62,9 @@ Fichier émis
 	          |
                   1
        +-------------------+         +-----------------+          +-------------------------+
-       |  easybet_users	   |         |  easybet_gifts  |          |  easybet_gifts_users    |
+       |  easybet_users    |         |  easybet_gifts  |          |  easybet_gifts_users    |
        +-------------------+         +-----------------+          +-------------------------+
-       | id (PK)           |         | id (PK)	       |          | id (PK)                 |
+       | id (PK)           |         | id (PK)         |          | id (PK)                 |
        | pseudo            | 1-----* | nom             | 1-----*  | id_gifts (FK)           |
        | email             |         | description     |          | id_users (FK)           |
        | password          |         | prix            |          | coins                   |
