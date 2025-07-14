@@ -48,17 +48,17 @@ Fichier émis
 ## Base de donnée
 
 
-                    	                +---------------------+ 
-	                                |  easybet_events     |
+                                        +---------------------+ 
+                                        |  easybet_events     |
        +----------------------+         +---------------------+
-       |   easybet_gamers     |   	    | id (PK)		          |
+       |   easybet_gamers     |         | id (PK)		          |
        +----------------------+         | datedebut	          |
        | id (PK)	      |         | datefin		          |
        | id_event (FK)	      | *-----1 | competition	        |
        | id_user (FK)	      |         | description	        |
        | event_points	      |         | cadeau		          |
        +----------------------+         | img		              |
-	          *		                        +---------------------+
+	          *                     +---------------------+
 	          |
 	          1
        +-------------------+	       +-----------------+          +-------------------------+		
