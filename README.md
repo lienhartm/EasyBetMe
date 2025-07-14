@@ -53,7 +53,7 @@ Fichier émis
        +----------------------+         +---------------------+
        |   easybet_gamers     |         | id (PK)             |
        +----------------------+         | datedebut           |
-       | id (PK)	      |         | datefin             |
+       | id (PK)              |         | datefin             |
        | id_event (FK)        | *-----1 | competition         |
        | id_user (FK)         |         | description         |
        | event_points         |         | cadeau              |
@@ -61,25 +61,25 @@ Fichier émis
 	          *                     +---------------------+
 	          |
 	          1
-       +-------------------+	       +-----------------+          +-------------------------+		
+       +-------------------+         +-----------------+          +-------------------------+		
        |  easybet_users	   |         |  easybet_gifts  |          |  easybet_gifts_users    |
-       +-------------------+         +-----------------+	        +-------------------------+
-       | id (PK)		       |         | id (PK)	       |	        | id (PK)		              |
-       | pseudo		         | 1-----* | nom		         | 1-----*  | id_gifts (FK)	          |
-       | email		         |         | description	   |	        | id_users (FK)	          |
-       | password	         |         | prix		         |	        | coins		                |
-       | coins		         |         +-----------------+	        +-------------------------+
+       +-------------------+         +-----------------+          +-------------------------+
+       | id (PK)           |         | id (PK)	       |          | id (PK)                 |
+       | pseudo            | 1-----* | nom             | 1-----*  | id_gifts (FK)           |
+       | email             |         | description     |          | id_users (FK)           |
+       | password          |         | prix            |          | coins                   |
+       | coins             |         +-----------------+          +-------------------------+
        +-------------------+
                    1
                    |
                   *
        +-------------------+
-       |  easybet_bets   	 |
+       |  easybet_bets     |
        +-------------------+
-       | id (PK)		       |
-       | id_user (FK)    	 |
+       | id (PK)           |
+       | id_user (FK)      |
        | id_game (FK)  	   |
-       | date	          	 |
+       | date              |
        | score_d           |
        | score_v           |
        | bet               |
