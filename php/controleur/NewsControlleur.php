@@ -4,7 +4,7 @@ class NewsControlleur {
     
     public function newsPage() {
 
-        require "view/home/home.php";
+        require "view/news/news.php";
 
     }
 }

@@ -5,7 +5,15 @@ error_reporting(E_ALL);
 
 include 'includes/config.inc.php';
 
+require_once "controleur/AdminControlleur.php";
+require_once "controleur/AideControlleur.php";
+require_once "controleur/GiftControlleur.php";
 require_once "controleur/HomeControlleur.php";
+require_once "controleur/InfoControlleur.php";
+require_once "controleur/LoginControlleur.php";
+require_once "controleur/NewsControlleur.php";
+require_once "controleur/PenaltyControlleur.php";
+require_once "controleur/ProfilControlleur.php";
 
 $ctrlHome = new HomeControlleur();
     $id=(isset($_GET['id']))?$_GET['id']: "";

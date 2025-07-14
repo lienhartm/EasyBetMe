@@ -4,7 +4,7 @@ class GiftControlleur {
     
     public function giftPage() {
 
-        require "view/home/home.php";
+        require "view/gift/gift.php";
 
     }
 }

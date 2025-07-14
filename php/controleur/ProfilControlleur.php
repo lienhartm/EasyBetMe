@@ -4,7 +4,7 @@ class ProfilControlleur {
     
     public function profilPage() {
 
-        require "view/home/home.php";
+        require "view/profil/profil.php";
 
     }
 }

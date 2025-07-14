@@ -4,7 +4,7 @@ class InfoControlleur {
     
     public function infoPage() {
 
-        require "view/home/home.php";
+        require "view/info/info.php";
 
     }
 }

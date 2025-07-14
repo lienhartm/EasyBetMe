@@ -4,7 +4,7 @@ class LoginControlleur {
     
     public function loginPage() {
 
-        require "view/home/home.php";
+        require "view/login/login.php";
 
     }
 }
