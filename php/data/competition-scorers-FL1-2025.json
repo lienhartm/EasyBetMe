@@ -1,0 +1,333 @@
+{
+    "count": 10,
+    "filters": {
+        "season": "2025",
+        "limit": 10
+    },
+    "competition": {
+        "id": 2015,
+        "name": "Ligue 1",
+        "code": "FL1",
+        "type": "LEAGUE",
+        "emblem": "https:\/\/crests.football-data.org\/FL1.png"
+    },
+    "season": {
+        "id": 2420,
+        "startDate": "2025-08-17",
+        "endDate": "2026-05-16",
+        "currentMatchday": 3,
+        "winner": null
+    },
+    "scorers": [
+        {
+            "player": {
+                "id": 3371,
+                "name": "Olivier Giroud",
+                "firstName": "Olivier",
+                "lastName": "Giroud",
+                "dateOfBirth": "1986-09-30",
+                "nationality": "France",
+                "section": "Centre-Forward",
+                "position": null,
+                "shirtNumber": null,
+                "lastUpdated": "2025-03-27T09:48:55Z"
+            },
+            "team": {
+                "id": 521,
+                "name": "Lille OSC",
+                "shortName": "Lille",
+                "tla": "LIL",
+                "crest": "https:\/\/crests.football-data.org\/521.png",
+                "address": "Grand Rue 59, 780 Camphin-en-P\u00e9v\u00e8le Lille null",
+                "website": "http:\/\/www.losc.fr",
+                "founded": 1944,
+                "clubColors": "White \/ Red",
+                "venue": "Stade Pierre-Mauroy",
+                "lastUpdated": "2024-07-29T17:19:48Z"
+            },
+            "playedMatches": 2,
+            "goals": 2,
+            "assists": null,
+            "penalties": null
+        },
+        {
+            "player": {
+                "id": 175942,
+                "name": "Kamory Doumbia",
+                "firstName": "Kamory",
+                "lastName": "Doumbia",
+                "dateOfBirth": "2003-02-18",
+                "nationality": "Mali",
+                "section": "Attacking Midfield",
+                "position": null,
+                "shirtNumber": null,
+                "lastUpdated": "2024-08-12T11:57:17Z"
+            },
+            "team": {
+                "id": 512,
+                "name": "Stade Brestois 29",
+                "shortName": "Brest",
+                "tla": "BRE",
+                "crest": "https:\/\/crests.football-data.org\/512.png",
+                "address": "Port de Plaisance, 470 bis rue Alain Colas Brest 29200",
+                "website": "http:\/\/www.stade-brestois.com",
+                "founded": 1903,
+                "clubColors": "White \/ Red",
+                "venue": "Stade Francis-Le Bl\u00e9",
+                "lastUpdated": "2022-02-19T08:43:14Z"
+            },
+            "playedMatches": 2,
+            "goals": 2,
+            "assists": null,
+            "penalties": null
+        },
+        {
+            "player": {
+                "id": 552,
+                "name": "Lassine Sinayoko",
+                "firstName": "Lassine",
+                "lastName": "Sinayoko",
+                "dateOfBirth": "1999-12-08",
+                "nationality": "France",
+                "section": "Left Winger",
+                "position": null,
+                "shirtNumber": null,
+                "lastUpdated": "2024-11-05T12:57:20Z"
+            },
+            "team": {
+                "id": 519,
+                "name": "AJ Auxerre",
+                "shortName": "Auxerre",
+                "tla": "AJA",
+                "crest": "https:\/\/crests.football-data.org\/519.png",
+                "address": "Route de Vaux BP 349 Auxerre 89006",
+                "website": "http:\/\/www.aja.fr",
+                "founded": 1905,
+                "clubColors": "White \/ Blue",
+                "venue": "Stade de l'Abb\u00e9 Deschamps",
+                "lastUpdated": "2022-07-26T18:03:55Z"
+            },
+            "playedMatches": 2,
+            "goals": 2,
+            "assists": null,
+            "penalties": null
+        },
+        {
+            "player": {
+                "id": 7801,
+                "name": "Pierre-Emerick Aubameyang",
+                "firstName": "Pierre-Emerick",
+                "lastName": "Aubameyang",
+                "dateOfBirth": "1989-06-18",
+                "nationality": "Gabon",
+                "section": "Centre-Forward",
+                "position": null,
+                "shirtNumber": null,
+                "lastUpdated": "2024-08-12T11:57:17Z"
+            },
+            "team": {
+                "id": 516,
+                "name": "Olympique de Marseille",
+                "shortName": "Marseille",
+                "tla": "MAR",
+                "crest": "https:\/\/crests.football-data.org\/516.png",
+                "address": "La Commanderie, 33, traverse de La Martine Marseille 13012",
+                "website": "http:\/\/www.om.net",
+                "founded": 1898,
+                "clubColors": "White \/ Blue",
+                "venue": "Orange V\u00e9lodrome",
+                "lastUpdated": "2022-02-19T08:35:12Z"
+            },
+            "playedMatches": 2,
+            "goals": 2,
+            "assists": null,
+            "penalties": null
+        },
+        {
+            "player": {
+                "id": 176747,
+                "name": "Frank Magri",
+                "firstName": "Frank",
+                "lastName": "Magri",
+                "dateOfBirth": "1999-09-04",
+                "nationality": "France",
+                "section": "Centre-Forward",
+                "position": null,
+                "shirtNumber": null,
+                "lastUpdated": "2024-08-12T11:57:17Z"
+            },
+            "team": {
+                "id": 511,
+                "name": "Toulouse FC",
+                "shortName": "Toulouse",
+                "tla": "TOU",
+                "crest": "https:\/\/crests.football-data.org\/511.png",
+                "address": "1 all\u00e9e Gabriel Bi\u00e9n\u00e8sm, BP 54023 Toulouse 31028",
+                "website": "http:\/\/www.tfc.info",
+                "founded": 1937,
+                "clubColors": "Violet \/ White",
+                "venue": "Stadium Municipal",
+                "lastUpdated": "2022-02-20T08:39:56Z"
+            },
+            "playedMatches": 2,
+            "goals": 2,
+            "assists": null,
+            "penalties": null
+        },
+        {
+            "player": {
+                "id": 96869,
+                "name": "Ludovic Blas",
+                "firstName": "Ludovic",
+                "lastName": "Blas",
+                "dateOfBirth": "1997-12-31",
+                "nationality": "France",
+                "section": "Right Winger",
+                "position": null,
+                "shirtNumber": 10,
+                "lastUpdated": "2024-08-12T11:57:19Z"
+            },
+            "team": {
+                "id": 529,
+                "name": "Stade Rennais FC 1901",
+                "shortName": "Stade Rennais",
+                "tla": "REN",
+                "crest": "https:\/\/crests.football-data.org\/529.png",
+                "address": "La Piverdi\u00e8re - Chemin de la Taupinais CS 5390 Rennes 35039",
+                "website": "http:\/\/www.staderennais.com",
+                "founded": 1901,
+                "clubColors": "Red \/ Black",
+                "venue": "Roazhon Park",
+                "lastUpdated": "2022-03-20T11:21:26Z"
+            },
+            "playedMatches": 2,
+            "goals": 1,
+            "assists": null,
+            "penalties": null
+        },
+        {
+            "player": {
+                "id": 136646,
+                "name": "Georges Mikautadze",
+                "firstName": "Georges",
+                "lastName": "Mikautadze",
+                "dateOfBirth": "2000-10-31",
+                "nationality": "Georgia",
+                "section": "Centre-Forward",
+                "position": null,
+                "shirtNumber": 18,
+                "lastUpdated": "2024-08-23T10:11:40Z"
+            },
+            "team": {
+                "id": 523,
+                "name": "Olympique Lyonnais",
+                "shortName": "Olympique Lyon",
+                "tla": "LYO",
+                "crest": "https:\/\/crests.football-data.org\/523.png",
+                "address": "350 avenue Jean Jaur\u00e8s Lyon 69007",
+                "website": "http:\/\/www.olweb.fr",
+                "founded": 1896,
+                "clubColors": "White \/ Red \/ Blue",
+                "venue": "Groupama Stadium",
+                "lastUpdated": "2024-07-29T17:19:54Z"
+            },
+            "playedMatches": 2,
+            "goals": 1,
+            "assists": null,
+            "penalties": null
+        },
+        {
+            "player": {
+                "id": 3314,
+                "name": "Eric Dier",
+                "firstName": "Eric",
+                "lastName": "Dier",
+                "dateOfBirth": "1994-01-15",
+                "nationality": "England",
+                "section": "Centre-Back",
+                "position": null,
+                "shirtNumber": null,
+                "lastUpdated": "2024-10-09T09:41:01Z"
+            },
+            "team": {
+                "id": 548,
+                "name": "AS Monaco FC",
+                "shortName": "Monaco",
+                "tla": "ASM",
+                "crest": "https:\/\/crests.football-data.org\/548.png",
+                "address": "Avenue des Castellans Monaco 98000",
+                "website": "http:\/\/www.asmonaco.com",
+                "founded": 1919,
+                "clubColors": "Red \/ White",
+                "venue": "Stade Louis II.",
+                "lastUpdated": "2021-11-06T13:27:09Z"
+            },
+            "playedMatches": 2,
+            "goals": 1,
+            "assists": null,
+            "penalties": null
+        },
+        {
+            "player": {
+                "id": 178663,
+                "name": "Rassoul N'Diaye",
+                "firstName": "Rassoul",
+                "lastName": "N'Diaye",
+                "dateOfBirth": "2001-12-11",
+                "nationality": "France",
+                "section": "Defensive Midfield",
+                "position": null,
+                "shirtNumber": null,
+                "lastUpdated": "2025-02-18T17:35:57Z"
+            },
+            "team": {
+                "id": 533,
+                "name": "Le Havre AC",
+                "shortName": "Le Havre",
+                "tla": "HAC",
+                "crest": "https:\/\/crests.football-data.org\/533.png",
+                "address": "2 route du ch\u00e2teau BP 90 Saint-Laurent-de-Br\u00e8vedent 76700",
+                "website": "http:\/\/www.hac-foot.com",
+                "founded": 1872,
+                "clubColors": "Sky Blue \/ Navy Blue",
+                "venue": "Stade Oc\u00e9ane",
+                "lastUpdated": "2022-06-19T00:03:33Z"
+            },
+            "playedMatches": 2,
+            "goals": 1,
+            "assists": null,
+            "penalties": null
+        },
+        {
+            "player": {
+                "id": 175701,
+                "name": "Maghnes Akliouche",
+                "firstName": "Maghnes",
+                "lastName": "Akliouche",
+                "dateOfBirth": "2002-02-25",
+                "nationality": "Algeria",
+                "section": "Right Winger",
+                "position": null,
+                "shirtNumber": null,
+                "lastUpdated": "2024-11-05T12:57:20Z"
+            },
+            "team": {
+                "id": 548,
+                "name": "AS Monaco FC",
+                "shortName": "Monaco",
+                "tla": "ASM",
+                "crest": "https:\/\/crests.football-data.org\/548.png",
+                "address": "Avenue des Castellans Monaco 98000",
+                "website": "http:\/\/www.asmonaco.com",
+                "founded": 1919,
+                "clubColors": "Red \/ White",
+                "venue": "Stade Louis II.",
+                "lastUpdated": "2021-11-06T13:27:09Z"
+            },
+            "playedMatches": 2,
+            "goals": 1,
+            "assists": null,
+            "penalties": null
+        }
+    ]
+}

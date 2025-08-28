@@ -1,0 +1,333 @@
+{
+    "count": 10,
+    "filters": {
+        "season": "2025",
+        "limit": 10
+    },
+    "competition": {
+        "id": 2019,
+        "name": "Serie A",
+        "code": "SA",
+        "type": "LEAGUE",
+        "emblem": "https:\/\/crests.football-data.org\/SA.png"
+    },
+    "season": {
+        "id": 2395,
+        "startDate": "2025-08-24",
+        "endDate": "2026-05-24",
+        "currentMatchday": 2,
+        "winner": null
+    },
+    "scorers": [
+        {
+            "player": {
+                "id": 8685,
+                "name": "Marcus Thuram-Ulien",
+                "firstName": "Marcus",
+                "lastName": "Thuram",
+                "dateOfBirth": "1997-08-06",
+                "nationality": "France",
+                "section": "Centre-Forward",
+                "position": null,
+                "shirtNumber": null,
+                "lastUpdated": "2024-08-23T09:25:23Z"
+            },
+            "team": {
+                "id": 108,
+                "name": "FC Internazionale Milano",
+                "shortName": "Inter",
+                "tla": "INT",
+                "crest": "https:\/\/crests.football-data.org\/108.png",
+                "address": "Corso Vittorio Emanuele II 9 Milano 20122",
+                "website": "http:\/\/www.inter.it",
+                "founded": 1908,
+                "clubColors": "Blue \/ Black",
+                "venue": "Stadio Giuseppe Meazza",
+                "lastUpdated": "2021-11-24T14:55:58Z"
+            },
+            "playedMatches": 1,
+            "goals": 2,
+            "assists": null,
+            "penalties": null
+        },
+        {
+            "player": {
+                "id": 7905,
+                "name": "Scott McTominay",
+                "firstName": "Scott",
+                "lastName": "McTominay",
+                "dateOfBirth": "1996-12-08",
+                "nationality": "Scotland",
+                "section": "Central Midfield",
+                "position": null,
+                "shirtNumber": null,
+                "lastUpdated": "2024-08-23T09:25:15Z"
+            },
+            "team": {
+                "id": 113,
+                "name": "SSC Napoli",
+                "shortName": "Napoli",
+                "tla": "NAP",
+                "crest": "https:\/\/crests.football-data.org\/113.png",
+                "address": "Centro Tecnico di Castel Volturno, Via S.S. Domitana, Km 35 Castel Volturno 81030",
+                "website": "http:\/\/www.sscnapoli.it",
+                "founded": 1904,
+                "clubColors": "Sky Blue \/ White",
+                "venue": "Stadio San Paolo",
+                "lastUpdated": "2025-02-17T16:51:11Z"
+            },
+            "playedMatches": 1,
+            "goals": 1,
+            "assists": null,
+            "penalties": null
+        },
+        {
+            "player": {
+                "id": 3654,
+                "name": "Kevin De Bruyne",
+                "firstName": "Kevin",
+                "lastName": "De Bruyne",
+                "dateOfBirth": "1991-06-28",
+                "nationality": "Belgium",
+                "section": "Attacking Midfield",
+                "position": null,
+                "shirtNumber": null,
+                "lastUpdated": "2024-08-23T09:25:15Z"
+            },
+            "team": {
+                "id": 113,
+                "name": "SSC Napoli",
+                "shortName": "Napoli",
+                "tla": "NAP",
+                "crest": "https:\/\/crests.football-data.org\/113.png",
+                "address": "Centro Tecnico di Castel Volturno, Via S.S. Domitana, Km 35 Castel Volturno 81030",
+                "website": "http:\/\/www.sscnapoli.it",
+                "founded": 1904,
+                "clubColors": "Sky Blue \/ White",
+                "venue": "Stadio San Paolo",
+                "lastUpdated": "2025-02-17T16:51:11Z"
+            },
+            "playedMatches": 1,
+            "goals": 1,
+            "assists": null,
+            "penalties": null
+        },
+        {
+            "player": {
+                "id": 86045,
+                "name": "Federico Baschirotto",
+                "firstName": "Federico",
+                "lastName": "Baschirotto",
+                "dateOfBirth": "1996-09-20",
+                "nationality": "Italy",
+                "section": "Centre-Back",
+                "position": null,
+                "shirtNumber": null,
+                "lastUpdated": "2024-08-23T09:25:23Z"
+            },
+            "team": {
+                "id": 457,
+                "name": "US Cremonese",
+                "shortName": "Cremonese",
+                "tla": "CRE",
+                "crest": "https:\/\/crests.football-data.org\/457.png",
+                "address": "Via Persico, 19 Cremona 26100",
+                "website": "http:\/\/www.uscremonese.it",
+                "founded": 1903,
+                "clubColors": "Red \/ Grey",
+                "venue": "Stadio Giovanni Zin",
+                "lastUpdated": "2022-03-20T17:53:13Z"
+            },
+            "playedMatches": 1,
+            "goals": 1,
+            "assists": null,
+            "penalties": null
+        },
+        {
+            "player": {
+                "id": 112969,
+                "name": "Strahinja Pavlovi\u0107",
+                "firstName": "Strahinja",
+                "lastName": "Pavlovi\u0107",
+                "dateOfBirth": "2001-05-24",
+                "nationality": "Serbia",
+                "section": "Centre-Back",
+                "position": null,
+                "shirtNumber": null,
+                "lastUpdated": "2024-08-23T10:11:37Z"
+            },
+            "team": {
+                "id": 98,
+                "name": "AC Milan",
+                "shortName": "Milan",
+                "tla": "MIL",
+                "crest": "https:\/\/crests.football-data.org\/98.png",
+                "address": "Via Filippo Turati 3 Milano 20121",
+                "website": "http:\/\/www.acmilan.com",
+                "founded": 1899,
+                "clubColors": "Red \/ Black",
+                "venue": "Stadio Giuseppe Meazza",
+                "lastUpdated": "2024-04-09T16:20:58Z"
+            },
+            "playedMatches": 1,
+            "goals": 1,
+            "assists": null,
+            "penalties": null
+        },
+        {
+            "player": {
+                "id": 2373,
+                "name": "Federico Bonazzoli",
+                "firstName": "Federico",
+                "lastName": "Bonazzoli",
+                "dateOfBirth": "1997-05-21",
+                "nationality": "Italy",
+                "section": "Centre-Forward",
+                "position": null,
+                "shirtNumber": null,
+                "lastUpdated": "2024-08-23T09:25:23Z"
+            },
+            "team": {
+                "id": 457,
+                "name": "US Cremonese",
+                "shortName": "Cremonese",
+                "tla": "CRE",
+                "crest": "https:\/\/crests.football-data.org\/457.png",
+                "address": "Via Persico, 19 Cremona 26100",
+                "website": "http:\/\/www.uscremonese.it",
+                "founded": 1903,
+                "clubColors": "Red \/ Grey",
+                "venue": "Stadio Giovanni Zin",
+                "lastUpdated": "2022-03-20T17:53:13Z"
+            },
+            "playedMatches": 1,
+            "goals": 1,
+            "assists": null,
+            "penalties": null
+        },
+        {
+            "player": {
+                "id": 179164,
+                "name": "Wesley",
+                "firstName": "",
+                "lastName": "Wesley",
+                "dateOfBirth": "2003-09-06",
+                "nationality": "Brazil",
+                "section": "Defence",
+                "position": null,
+                "shirtNumber": null,
+                "lastUpdated": "2024-10-29T09:42:35Z"
+            },
+            "team": {
+                "id": 100,
+                "name": "AS Roma",
+                "shortName": "Roma",
+                "tla": "ROM",
+                "crest": "https:\/\/crests.football-data.org\/100.png",
+                "address": "Via di Trigoria km. 3,600 Roma 00128",
+                "website": "http:\/\/www.asroma.it",
+                "founded": 1927,
+                "clubColors": "Maroon \/ Orange \/ White",
+                "venue": "Stadio Olimpico",
+                "lastUpdated": "2025-02-17T16:53:31Z"
+            },
+            "playedMatches": 1,
+            "goals": 1,
+            "assists": null,
+            "penalties": null
+        },
+        {
+            "player": {
+                "id": 2230,
+                "name": "Rolando Mandragora",
+                "firstName": "Rolando",
+                "lastName": "Mandragora",
+                "dateOfBirth": "1997-06-29",
+                "nationality": "Italy",
+                "section": "Defensive Midfield",
+                "position": null,
+                "shirtNumber": null,
+                "lastUpdated": "2024-08-23T09:25:23Z"
+            },
+            "team": {
+                "id": 99,
+                "name": "ACF Fiorentina",
+                "shortName": "Fiorentina",
+                "tla": "FIO",
+                "crest": "https:\/\/crests.football-data.org\/99.png",
+                "address": "Viale Manfredo Fanti 4 Firenze 50137",
+                "website": "http:\/\/www.acffiorentina.it",
+                "founded": 1926,
+                "clubColors": "Purple \/ White",
+                "venue": "Stadio Artemio Franchi",
+                "lastUpdated": "2024-04-09T16:20:54Z"
+            },
+            "playedMatches": 1,
+            "goals": 1,
+            "assists": null,
+            "penalties": null
+        },
+        {
+            "player": {
+                "id": 2483,
+                "name": "Sebastiano Luperto",
+                "firstName": "Sebastiano",
+                "lastName": "Luperto",
+                "dateOfBirth": "1996-09-06",
+                "nationality": "Italy",
+                "section": "Centre-Back",
+                "position": null,
+                "shirtNumber": null,
+                "lastUpdated": "2024-08-23T09:25:23Z"
+            },
+            "team": {
+                "id": 104,
+                "name": "Cagliari Calcio",
+                "shortName": "Cagliari",
+                "tla": "CAG",
+                "crest": "https:\/\/crests.football-data.org\/104.png",
+                "address": "Viale la Plaia 15 Cagliari 09123",
+                "website": "http:\/\/www.cagliaricalcio.net",
+                "founded": 1920,
+                "clubColors": "Red \/ Navy Blue \/ White",
+                "venue": "Sardegna Arena",
+                "lastUpdated": "2024-04-09T16:20:43Z"
+            },
+            "playedMatches": 1,
+            "goals": 1,
+            "assists": null,
+            "penalties": null
+        },
+        {
+            "player": {
+                "id": 43285,
+                "name": "Anastasios Douvikas",
+                "firstName": "Anastasios",
+                "lastName": "Douvikas",
+                "dateOfBirth": "1999-08-02",
+                "nationality": "Greece",
+                "section": "Centre-Forward",
+                "position": null,
+                "shirtNumber": null,
+                "lastUpdated": "2024-08-12T11:57:15Z"
+            },
+            "team": {
+                "id": 7397,
+                "name": "Como 1907",
+                "shortName": "Como 1907",
+                "tla": "COM",
+                "crest": "https:\/\/crests.football-data.org\/7397.png",
+                "address": "Viale Sinigaglia 2 Como 22100",
+                "website": "http:\/\/www.como1907.net\/",
+                "founded": 1907,
+                "clubColors": "Sky Blue \/ White",
+                "venue": "Stadio Giuseppe Sinigaglia",
+                "lastUpdated": "2025-02-17T16:52:41Z"
+            },
+            "playedMatches": 1,
+            "goals": 1,
+            "assists": null,
+            "penalties": null
+        }
+    ]
+}

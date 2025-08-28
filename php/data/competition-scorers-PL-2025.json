@@ -1,0 +1,333 @@
+{
+    "count": 10,
+    "filters": {
+        "season": "2025",
+        "limit": 10
+    },
+    "competition": {
+        "id": 2021,
+        "name": "Premier League",
+        "code": "PL",
+        "type": "LEAGUE",
+        "emblem": "https:\/\/crests.football-data.org\/PL.png"
+    },
+    "season": {
+        "id": 2403,
+        "startDate": "2025-08-15",
+        "endDate": "2026-05-24",
+        "currentMatchday": 3,
+        "winner": null
+    },
+    "scorers": [
+        {
+            "player": {
+                "id": 152454,
+                "name": "Hugo Ekitike",
+                "firstName": "Hugo",
+                "lastName": "Ekitik\u00e9",
+                "dateOfBirth": "2002-06-20",
+                "nationality": "France",
+                "section": "Centre-Forward",
+                "position": null,
+                "shirtNumber": null,
+                "lastUpdated": "2024-11-26T09:41:18Z"
+            },
+            "team": {
+                "id": 64,
+                "name": "Liverpool FC",
+                "shortName": "Liverpool",
+                "tla": "LIV",
+                "crest": "https:\/\/crests.football-data.org\/64.png",
+                "address": "Anfield Road Liverpool L4 0TH",
+                "website": "http:\/\/www.liverpoolfc.tv",
+                "founded": 1892,
+                "clubColors": "Red \/ White",
+                "venue": "Anfield",
+                "lastUpdated": "2022-02-10T19:30:22Z"
+            },
+            "playedMatches": 2,
+            "goals": 2,
+            "assists": 1,
+            "penalties": null
+        },
+        {
+            "player": {
+                "id": 4417,
+                "name": "Antoine Semenyo",
+                "firstName": "Antoine",
+                "lastName": "Semenyo",
+                "dateOfBirth": "2000-01-07",
+                "nationality": "Ghana",
+                "section": "Right Winger",
+                "position": null,
+                "shirtNumber": null,
+                "lastUpdated": "2024-08-23T09:25:16Z"
+            },
+            "team": {
+                "id": 1044,
+                "name": "AFC Bournemouth",
+                "shortName": "Bournemouth",
+                "tla": "BOU",
+                "crest": "https:\/\/crests.football-data.org\/bournemouth.png",
+                "address": "Dean Court, Kings Park Bournemouth BH7 7AF",
+                "website": "http:\/\/www.afcb.co.uk",
+                "founded": 1890,
+                "clubColors": "Red \/ Black",
+                "venue": "Vitality Stadium",
+                "lastUpdated": "2024-08-29T08:54:34Z"
+            },
+            "playedMatches": 2,
+            "goals": 2,
+            "assists": 1,
+            "penalties": null
+        },
+        {
+            "player": {
+                "id": 8133,
+                "name": "Richarlison",
+                "firstName": "",
+                "lastName": "Richarlison",
+                "dateOfBirth": "1997-05-10",
+                "nationality": "Brazil",
+                "section": "Centre-Forward",
+                "position": null,
+                "shirtNumber": null,
+                "lastUpdated": "2024-08-23T09:25:15Z"
+            },
+            "team": {
+                "id": 73,
+                "name": "Tottenham Hotspur FC",
+                "shortName": "Tottenham",
+                "tla": "TOT",
+                "crest": "https:\/\/crests.football-data.org\/73.png",
+                "address": "Bill Nicholson Way, 748 High Road London N17 0AP",
+                "website": "http:\/\/www.tottenhamhotspur.com",
+                "founded": 1882,
+                "clubColors": "Navy Blue \/ White",
+                "venue": "Tottenham Hotspur Stadium",
+                "lastUpdated": "2024-05-11T21:39:03Z"
+            },
+            "playedMatches": 2,
+            "goals": 2,
+            "assists": 1,
+            "penalties": null
+        },
+        {
+            "player": {
+                "id": 124694,
+                "name": "Brennan Johnson",
+                "firstName": "Brennan",
+                "lastName": "Johnson",
+                "dateOfBirth": "2001-05-23",
+                "nationality": "Wales",
+                "section": "Right Winger",
+                "position": null,
+                "shirtNumber": null,
+                "lastUpdated": "2025-04-03T09:43:08Z"
+            },
+            "team": {
+                "id": 73,
+                "name": "Tottenham Hotspur FC",
+                "shortName": "Tottenham",
+                "tla": "TOT",
+                "crest": "https:\/\/crests.football-data.org\/73.png",
+                "address": "Bill Nicholson Way, 748 High Road London N17 0AP",
+                "website": "http:\/\/www.tottenhamhotspur.com",
+                "founded": 1882,
+                "clubColors": "Navy Blue \/ White",
+                "venue": "Tottenham Hotspur Stadium",
+                "lastUpdated": "2024-05-11T21:39:03Z"
+            },
+            "playedMatches": 2,
+            "goals": 2,
+            "assists": null,
+            "penalties": null
+        },
+        {
+            "player": {
+                "id": 38101,
+                "name": "Erling Haaland",
+                "firstName": "Erling",
+                "lastName": "Haaland",
+                "dateOfBirth": "2000-07-21",
+                "nationality": "Norway",
+                "section": "Centre-Forward",
+                "position": null,
+                "shirtNumber": null,
+                "lastUpdated": "2025-04-02T09:41:03Z"
+            },
+            "team": {
+                "id": 65,
+                "name": "Manchester City FC",
+                "shortName": "Man City",
+                "tla": "MCI",
+                "crest": "https:\/\/crests.football-data.org\/65.png",
+                "address": "SportCity Manchester M11 3FF",
+                "website": "https:\/\/www.mancity.com",
+                "founded": 1880,
+                "clubColors": "Sky Blue \/ White",
+                "venue": "Etihad Stadium",
+                "lastUpdated": "2022-02-10T19:48:37Z"
+            },
+            "playedMatches": 2,
+            "goals": 2,
+            "assists": null,
+            "penalties": null
+        },
+        {
+            "player": {
+                "id": 8057,
+                "name": "Chris Wood",
+                "firstName": "Chris",
+                "lastName": "Wood",
+                "dateOfBirth": "1991-12-07",
+                "nationality": "New Zealand",
+                "section": "Centre-Forward",
+                "position": null,
+                "shirtNumber": null,
+                "lastUpdated": "2024-08-23T09:25:15Z"
+            },
+            "team": {
+                "id": 351,
+                "name": "Nottingham Forest FC",
+                "shortName": "Nottingham",
+                "tla": "NOT",
+                "crest": "https:\/\/crests.football-data.org\/351.png",
+                "address": "Pavilion Road, West Bridgeford Nottingham NG2 5GJ",
+                "website": "http:\/\/www.nottinghamforest.co.uk",
+                "founded": 1865,
+                "clubColors": "Red \/ White",
+                "venue": "The City Ground",
+                "lastUpdated": "2022-07-26T17:53:21Z"
+            },
+            "playedMatches": 2,
+            "goals": 2,
+            "assists": null,
+            "penalties": null
+        },
+        {
+            "player": {
+                "id": 98816,
+                "name": "Jurrien Timber",
+                "firstName": "Jurri\u00ebn",
+                "lastName": "Timber",
+                "dateOfBirth": "2001-06-17",
+                "nationality": "Netherlands",
+                "section": "Right-Back",
+                "position": null,
+                "shirtNumber": null,
+                "lastUpdated": "2025-02-18T17:31:12Z"
+            },
+            "team": {
+                "id": 57,
+                "name": "Arsenal FC",
+                "shortName": "Arsenal",
+                "tla": "ARS",
+                "crest": "https:\/\/crests.football-data.org\/57.png",
+                "address": "75 Drayton Park London N5 1BU",
+                "website": "http:\/\/www.arsenal.com",
+                "founded": 1886,
+                "clubColors": "Red \/ White",
+                "venue": "Emirates Stadium",
+                "lastUpdated": "2022-02-10T19:48:56Z"
+            },
+            "playedMatches": 2,
+            "goals": 2,
+            "assists": 1,
+            "penalties": null
+        },
+        {
+            "player": {
+                "id": 8279,
+                "name": "Viktor Gy\u00f6keres",
+                "firstName": "Viktor",
+                "lastName": "Gy\u00f6keres",
+                "dateOfBirth": "1998-06-04",
+                "nationality": "Sweden",
+                "section": "Centre-Forward",
+                "position": null,
+                "shirtNumber": 9,
+                "lastUpdated": "2024-12-26T09:41:07Z"
+            },
+            "team": {
+                "id": 57,
+                "name": "Arsenal FC",
+                "shortName": "Arsenal",
+                "tla": "ARS",
+                "crest": "https:\/\/crests.football-data.org\/57.png",
+                "address": "75 Drayton Park London N5 1BU",
+                "website": "http:\/\/www.arsenal.com",
+                "founded": 1886,
+                "clubColors": "Red \/ White",
+                "venue": "Emirates Stadium",
+                "lastUpdated": "2022-02-10T19:48:56Z"
+            },
+            "playedMatches": 2,
+            "goals": 2,
+            "assists": null,
+            "penalties": 1
+        },
+        {
+            "player": {
+                "id": 7459,
+                "name": "Cody Gakpo",
+                "firstName": "Cody",
+                "lastName": "Gakpo",
+                "dateOfBirth": "1999-05-07",
+                "nationality": "Netherlands",
+                "section": "Left Winger",
+                "position": null,
+                "shirtNumber": null,
+                "lastUpdated": "2025-04-02T09:41:02Z"
+            },
+            "team": {
+                "id": 64,
+                "name": "Liverpool FC",
+                "shortName": "Liverpool",
+                "tla": "LIV",
+                "crest": "https:\/\/crests.football-data.org\/64.png",
+                "address": "Anfield Road Liverpool L4 0TH",
+                "website": "http:\/\/www.liverpoolfc.tv",
+                "founded": 1892,
+                "clubColors": "Red \/ White",
+                "venue": "Anfield",
+                "lastUpdated": "2022-02-10T19:30:22Z"
+            },
+            "playedMatches": 2,
+            "goals": 1,
+            "assists": 2,
+            "penalties": null
+        },
+        {
+            "player": {
+                "id": 1780,
+                "name": "Federico Chiesa",
+                "firstName": "Federico",
+                "lastName": "Chiesa",
+                "dateOfBirth": "1997-10-25",
+                "nationality": "Italy",
+                "section": "Right Winger",
+                "position": null,
+                "shirtNumber": null,
+                "lastUpdated": "2024-11-28T13:36:10Z"
+            },
+            "team": {
+                "id": 64,
+                "name": "Liverpool FC",
+                "shortName": "Liverpool",
+                "tla": "LIV",
+                "crest": "https:\/\/crests.football-data.org\/64.png",
+                "address": "Anfield Road Liverpool L4 0TH",
+                "website": "http:\/\/www.liverpoolfc.tv",
+                "founded": 1892,
+                "clubColors": "Red \/ White",
+                "venue": "Anfield",
+                "lastUpdated": "2022-02-10T19:30:22Z"
+            },
+            "playedMatches": 2,
+            "goals": 1,
+            "assists": null,
+            "penalties": null
+        }
+    ]
+}

@@ -67,10 +67,10 @@
 
 	<nav>
 
-        <span class="fa icon">&#xf1e3;</span>
+        <a href="#"><span class="fa icon">&#xf1e3;</span></a>
 
         <a href="index.php?action=informations" class="icon">INFOS</a>
-        <a href="index.php?action=news" class="icon">CACTUS</a>
+        <a href="index.php?action=news" class="icon">ACTUS</a>
 
     <? if($_SESSION['login']==1 && ($User['id']==1 || $User['id']==2  || $User['id']==31)):?>
 	    <a href="index.php?action=admin"><span class="icon">&#xe994;</span></a>
