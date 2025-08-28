@@ -37,8 +37,8 @@ II. Cahiers des charges
 2. Fichiers de Maintenance
 3. Planning suivi de projet
 4. Projet
-4.1 Initialement
-4.2 Cahiers des charges V1
+4.1. Initialement
+4.2. Cahiers des charges V1
 4.3. Cahiers des charges V2
 5. Aspect Technique
 5.1. Architecture
