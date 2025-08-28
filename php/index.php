@@ -16,9 +16,51 @@ require_once "controleur/PenaltyControlleur.php";
 require_once "controleur/ProfilControlleur.php";
 
 $ctrlHome = new HomeControlleur();
-    $id=(isset($_GET['id']))?$_GET['id']: "";
-if(isset($_GET['action'])){
+
     
+if(isset($_GET['action'])){
+    $action = $_GET['action'];
+    $id=(isset($_GET['id']))?$_GET['id']: "";
+    switch($action){
+        case "login":
+            $ctrlLogin = new LoginControlleur();
+            $ctrlLogin->loginPage();
+            break;
+        case "logout":
+            $ctrlLogin = new LoginControlleur();
+            $ctrlLogin->logout();
+            break;
+        case "profile":
+            $ctrlProfil = new ProfilControlleur();
+            $ctrlProfil->profilPage();
+            break;
+        case "admin":
+            $ctrlAdmin = new AdminControlleur();
+            $ctrlAdmin->adminPage();
+            break;
+        case "gift":
+            $ctrlGift = new GiftControlleur();
+            $ctrlGift->giftPage();
+            break;
+        case "penalty":
+            $ctrlPenalty = new PenaltyControlleur();
+            $ctrlPenalty->penaltyPage();
+            break;
+        case "news":
+            $ctrlNews = new NewsControlleur();
+            $ctrlNews->newsPage($id);
+            break;
+        case "info":
+            $ctrlInfo = new InfoControlleur();
+            $ctrlInfo->infoPage($id);
+            break;
+        case "aide":
+            $ctrlAide = new AideControlleur();
+            $ctrlAide->aidePage();
+            break;
+        default:
+            $ctrlHome->homePage();
+    }
 } else {	
     $ctrlHome->homePage();
 }

@@ -63,27 +63,29 @@
 </head>
 <body class="football">
 <header>
-	<h1 onclick="document.location.href='<?=$Url?>'"><img src="/images/logo-easybet.png" alt="esayBet - Welcome" /></h1>
+	<h1 onclick="document.location.href='/'"><img src="/images/logo-easybet.png" alt="esayBet - Welcome" /></h1>
 
 	<nav>
 	<?
     $help = '&#xea09;';
     $help = '&#xe941;';
     ?>
-    <a href="/aide"><span class="icon"><?=$help;?></span></a>
-    <a href="/informations"><i class="fa fa-soccer-ball-o" style="padding:13px;font-size:22px;color:rgb(0,104,55);" ></i></a>
-    <a href="/news"><i class="fa" style="padding:13px;font-size:22px;color:rgb(0,104,55);">&#xf1ea;</i></a>
-	<? if($_SESSION['login']==1 && ($User['id']==1 || $User['id']==2  || $User['id']==31)):?>
-	    <a href="/admin"><span class="icon">&#xe994;</span></a>
+    <a href="index.php?action=aide"><span class="icon"><?=$help;?></span></a>
+    <a href="index.php?action=informations"><i class="fa fa-soccer-ball-o" style="padding:13px;font-size:22px;color:rgb(0,104,55);" ></i></a>
+    <a href="index.php?action=news"><i class="fa" style="padding:13px;font-size:22px;color:rgb(0,104,55);">&#xf1ea;</i></a>
+
+    <? if($_SESSION['login']==1 && ($User['id']==1 || $User['id']==2  || $User['id']==31)):?>
+	    <a href="index.php?action=admin"><span class="icon">&#xe994;</span></a>
 	<? endif; ?>
 	<? if($_SESSION['login']==1):?>
-	    <a href="/gift"><span class="icon">&#xe99f;</span><label><?=$User['gift'];?></label></a>
+	    <a href="index.php?action=gift"><span class="icon">&#xe99f;</span><label><?=$User['gift'];?></label></a>
 	<? endif; ?>
 	<? if($_SESSION['login']==1):?>
-	    <a href="/penalty"><span class="icon">&#xe915;</span></a>
+	    <a href="index.php?action=penalty"><span class="icon">&#xe915;</span></a>
 	<? endif; ?>
 	<? $nav_link = ($_SESSION['login']==1) ? $Url.'/profile' : $Url.'/login'; ?>
-	<a href="<?=$nav_link;?>"><span  class="icon">&#xe971;</span></a>
+	<a href="index.php?action=profile"><span  class="icon">&#xe971;</span></a>
+
 </nav>
 
 </header>
@@ -94,17 +96,17 @@
 	<footer>
 		<div class="footer">
 			<div class="column">
-				<a href="<?$Url?>" ><img src="https://www.easybet.me/images/logo-easybet.png" alt="esayBet - Welcome">
-				<a href="<?$Url?>/mentions-legales">Mentions légales</a>
-				<a href="<?$Url?>/cgv">Conditions générales de ventes</a>
-				<a href="<?$Url?>/contact">Contactez-nous</a>
+				<a href="/" ><img src="https://www.easybet.me/images/logo-easybet.png" alt="esayBet - Welcome">
+				<a href="index.php?action=mentions-legales">Mentions légales</a>
+				<a href="index.php?action=cgv">Conditions générales de ventes</a>
+				<a href="index.php?action=contact">Contactez-nous</a>
 			</div>
 
 			<div class="column">
-				<a href="<?$Url?>/competitions">Competitions</a>
-				<a href="<?$Url?>/inscription">Incriptions</a>
-				<a href="<?$Url?>/credits">Crédits</a>
-				<a href="<?$Url?>/aide">Aide</a>
+				<a href="index.php?action=competitions">Competitions</a>
+				<a href="index.php?action=inscription">Incriptions</a>
+				<a href="index.php?action=credits">Crédits</a>
+				<a href="index.php?action=aide">Aide</a>
 			</div>
 		</div>
 
