@@ -158,7 +158,6 @@ Le modèle Octalysis est une grille d'analyse bien connue de la gamification, ba
 | Risque d'addiction au système de récompense | Ajouter des limites / messages de prévention |
 | Frustration des nouveaux joueurs | Ajouter un tutoriel gamifié pour les premiers paris |
 | Inégalité entre joueurs occasionels et réguliers | Equilibrer les événements avec de s"ligues" ou "niveaux" |
-|
 
 #### 2.6. Bilan
 
@@ -179,10 +178,10 @@ Sonétude permet d'illustrer l'impact des designs motivants dans un contexte hyb
 
 ### 2. Fichiers de Maintenance
 
-Démarrage docker :
+Démarrage docker:
 : docker_build_run.sh
 
-RAZ Docker :
+RAZ Docker:
 : docker_remove.sh
 
 ### 3. Planning suivi de projet
@@ -202,12 +201,12 @@ Le site était très simple les visiteurs peuvent s'incrire/se connecter au site
 Ces matches sont programmés par l'administrateur en ayant préalablement ajouter la compétition, les équipes, les images (équipes, compétitions) et en renseignant le score à l'issu du matches.
 Les joueurs ont un aperçu sur le classement, un cadeaux peut être mis en jeu avec l'organisateur de l'événement.
 
-Problématiques
-: Structuration peu claire
-Fonctionnalité non développé mais omniprésente dans le projet
-Absence de documentation
-Mauvaise pratique de programmation
-Non respect des règles RGPD
+##### Problématiques:
+- Structuration peu claire,
+- Fonctionnalité non développé mais omniprésente dans le projet,
+- Absence de documentation,
+- Mauvaise pratique de programmation,
+- Non respect des règles RGPD.
 
 #### 4.2 Cahiers des charges V1
 
