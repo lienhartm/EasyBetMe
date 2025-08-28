@@ -31,6 +31,7 @@ I. Introduction
 2.4. Ancrage académique et théorique
 2.5. Risques et recommandations (Perspective critique)
 2.6. Bilan
+
 II. Cahiers des charges
 1. Phases de développement
 2. Fichiers de Maintenance
@@ -45,6 +46,7 @@ II. Cahiers des charges
 5.3. Base de donnée
 5.4. Url
 5.5. Crontab
+
 III. Conclusion
 
 ----
