@@ -23,8 +23,8 @@
     <link href="https://fonts.googleapis.com/css2?family=Caprasimo&family=Orbitron:wght@400;500;600;700;800;900&display=swap" rel="stylesheet">
     <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
 
-    <link href="/styles/knacss.css" rel="stylesheet" type="text/css" />
-    <link href="/styles/styles.css" rel="stylesheet" type="text/css" />
+    <!--<link href="/styles/knacss.css" rel="stylesheet" type="text/css" />-->
+    <link href="/styles/style.css" rel="stylesheet" type="text/css" />
 
     <meta charset="utf-8" />
     <meta http-equiv="content-language" content="fr" />
@@ -66,13 +66,11 @@
 	<h1 onclick="document.location.href='/'"><img src="/images/logo-easybet.png" alt="esayBet - Welcome" /></h1>
 
 	<nav>
-	<?
-    $help = '&#xea09;';
-    $help = '&#xe941;';
-    ?>
-    <a href="index.php?action=aide"><span class="icon"><?=$help;?></span></a>
-    <a href="index.php?action=informations"><i class="fa fa-soccer-ball-o" style="padding:13px;font-size:22px;color:rgb(0,104,55);" ></i></a>
-    <a href="index.php?action=news"><i class="fa" style="padding:13px;font-size:22px;color:rgb(0,104,55);">&#xf1ea;</i></a>
+
+        <span class="fa icon">&#xf1e3;</span>
+
+        <a href="index.php?action=informations" class="icon">INFOS</a>
+        <a href="index.php?action=news" class="icon">CACTUS</a>
 
     <? if($_SESSION['login']==1 && ($User['id']==1 || $User['id']==2  || $User['id']==31)):?>
 	    <a href="index.php?action=admin"><span class="icon">&#xe994;</span></a>
@@ -84,12 +82,14 @@
 	    <a href="index.php?action=penalty"><span class="icon">&#xe915;</span></a>
 	<? endif; ?>
 	<? $nav_link = ($_SESSION['login']==1) ? $Url.'/profile' : $Url.'/login'; ?>
-	<a href="index.php?action=profile"><span  class="icon">&#xe971;</span></a>
 
+    	<a href="index.php?action=profile"><span  class="fa icon">&#xf007;</span></a>
+
+        <a href="index.php?action=aide"><span class="fa icon">&#xf059;</span></a>
 </nav>
 
 </header>
-<div class="gradient"></div>
+<!--<div class="gradient"></div> ? MESSAGE ?-->
 <main>
 	<?php $contenu ?>
 </main>
@@ -110,7 +110,7 @@
 			</div>
 		</div>
 
-		<h6><?=date("Y",time())?> Copyright ©easyBet.me</h6>
+		<h6><?=date("Y",time())?> Copyright © EasyBet.me</h6>
 	</footer>
 </body>
 </html>
