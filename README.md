@@ -1,6 +1,51 @@
 # EasyBetMe
 
-Etude pluri-disciplinaire en informatique, science des données, psychologie cognitive, économie comortementale, sciences sociales ainsi que l'analyse scientifique sous l'angle de la gamification d'une plateforme de pari en ligne.
+## Licence professionel génie logiciel : développement, conception et test
+
+### Stage de fin d'étude à la formation de l'UHA4.0
+
+#### 2023 - 2025
+
+##### Stagiaire : LIENNART Michaël
+##### Tuteur professionel : OBERLE Jean-Charles
+
+##### Tuteur académique : FRONSECA Daniel
+###### Etude pluri-disciplinaire en informatique, science des données, psychologie cognitive, économie comortementale, sciences sociales ainsi que l'analyse scientifique sous l'angle de la gamification d'une plateforme de pari en ligne.
+
+----
+
+## Sommaire
+
+I. Introduction
+1. Présentation
+1.1. Nature et architecture du système
+1.2. Composantes fonctionnelles
+1.3. Aspect techniques et méthodologiques
+1.4. Aspects UX / UI et cognition humaine
+1.5. Impacts sociaux et éthiques
+1.6. Bilan
+2. Gamification
+2.1. Définition scientifique de la gamification
+2.2. Mécanisme de gamification observés dans *EasyBetMe*
+2.3. Analyse selon le modèle Octalysis (Yu-kay Chou)
+2.4. Ancrage académique et théorique
+2.5. Risques et recommandations (Perspective critique)
+2.6. Bilan
+II. Cahiers des charges
+1. Phases de développement
+2. Fichiers de Maintenance
+3. Planning suivi de projet
+4. Projet
+4.1 Initialement
+4.2 Cahiers des charges V1
+4.3. Cahiers des charges V2
+5. Aspect Technique
+5.1. Architecture
+5.2. Technologie
+5.3. Base de donnée
+5.4. Url
+5.5. Crontab
+III. Conclusion
 
 ----
 
@@ -54,7 +99,7 @@ d. Module Informationnel (Base de Connaissance Sportive)
 - Risques de biais algorithmique dans la distribution des récompenses ou l'équité du classement.
 - La dimension communautaire et compétitive poe des questions sur la gestion de la transparence, la confidentialité des données utilisateurs, et le RGPD.
 
-#### Conclusion scientifique
+#### 1.6. Bilan
 
 EasyBetMe est une plateforme hybride entre le serious game et le système transactionnel, articulée autour de la gamification des pronostics sportifs et de l'utilisation d'une monnaie virtuelle comme mécanisme d'engagement. Elle mobilise une diversité de concepts scientifiques : systèmes d'information, psychologie du joueur, science des données sportives, théorie des jeux, architecture logicielle distribuée, et UX design.
 
@@ -113,7 +158,7 @@ Le modèle Octalysis est une grille d'analyse bien connue de la gamification, ba
 | Inégalité entre joueurs occasionels et réguliers | Equilibrer les événements avec de s"ligues" ou "niveaux" |
 |
 
-#### Conclusion
+#### 2.6. Bilan
 
 EasyBetMe est un excelent exemple de plateforme digitale combiant gamification, traitement de données sportives, et dynamique communautaire.
 Elle utilise avec efficacité les mécanismes ludiques pour augmenter l'engagement, la fidélité et l'investissement des utilisateurs sans recourir à des enjeux monétaires réels.
@@ -124,13 +169,13 @@ Sonétude permet d'illustrer l'impact des designs motivants dans un contexte hyb
 
 ## II. Cahiers des charges
 
-### 1. Phase de développement
+### 1. Phases de développement
 
 - Début de développement dela version V1 (janvier 2025, UHA4.0 - MonWebPro)
 - Fin de développement de la version V1 (juillet 2025, UHA4.0 - MonWebPro)
 - Début du développement de la version V2 (mars 2025)
 
-### 2. Fichier Maintenance
+### 2. Fichiers de Maintenance
 
 Démarrage docker :
 : docker_build_run.sh
@@ -138,7 +183,7 @@ Démarrage docker :
 RAZ Docker :
 : docker_remove.sh
 
-### 3. Planning suivi projet
+### 3. Planning suivi de projet
 
 |- Date -|- Phase -|
 |----------|----------|
@@ -207,7 +252,7 @@ Comme annoncé plus haut dans le *'cahiers des charges V1'* la refonte du site *
 Crontab
 : L'utilisation de la tâche *CRON* se fera hors du conteneur depuis l'hôte. Tous les jours à 4h00 du matin celle ci sera exécutée récupérant ainsi les données footbalistiques (sportives et articles de presse) et mets également à jour les paris effectuer par les joureurs pour l'obtention des points et crédits.
 
-### 5. Technique
+### 5. Aspect Technique
 
 #### 5.1. Architecture
 Le site dispose d'une architecture MVC qui permet une évolution de niveau.
@@ -277,3 +322,17 @@ Fichier émis
 
 #### 5.5. Crontab
 
+----
+
+## Conclusion
+
+EasyBetMe se présente comme une plateforme hybride située à la croisée du serious game et du système transactionn5.5. Crontabel. Elle est articulée autour de la gamification des pronostics sportifs et de l'utilisation d'une monnaie virtuelle en tant que levier d'engagement. Son fonctionnement repose sur une combinaison de disciplines scientifiques telles que les systèmes d'information, la psychologie cognitive du joueur, la science des données sportives, la théorie des jeux, l'architecture logicielle distribuée, ainsi que le design de l'expérinece utilisateur (UX).
+
+EasyBetMe constitue un exemple pertinent de plateforme numérique intégrant avec efficacité :
+- les mécanisme ludiques pour stimuler la participation,
+- le traitement dynamique de données sportives en temps réel,
+- et une dimension communautaire compétitive fondée sur des classements, des événements et des récompenses virtuelles.
+
+Elle parvient à susciter l'engagement, la fidélisation et l'invertissement cognitif des utilisateurs sans faire appel à des enjeux financiers réels, mais en s'appuyant sur des motivations intrinsèques et extrinsèques.
+
+L'analyse de cette plateforme met en lumière l'intérêt et la puissance des stratégies de design gamifiées dans un contexte numérique où se rencontrent le jeu, la compétition et la consommation différée.
