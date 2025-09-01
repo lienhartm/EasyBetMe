@@ -2,3 +2,4 @@
 [28-Aug-2025 17:45:06 Europe/Paris] PHP Warning:  filesize(): stat failed for /var/www/html/data//var/www/html/data/footnews.json in /var/www/html/crontab.php on line 179
 [01-Sep-2025 14:25:30 Europe/Paris] PHP Warning:  file_put_contents(/var/www/html/cron/data/footnews.json): failed to open stream: No such file or directory in /var/www/html/cron/crontab.php on line 209
 [01-Sep-2025 15:05:25 Europe/Paris] PHP Warning:  filesize(): stat failed for /var/www/html/data//var/www/html/data/footnews.json in /var/www/html/cron/crontab.php on line 210
+[01-Sep-2025 16:05:24 Europe/Paris] PHP Warning:  filesize(): stat failed for /var/www/html/data//var/www/html/data/footnews.json in /var/www/html/cron/crontab.php on line 210

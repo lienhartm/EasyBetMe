@@ -111,7 +111,7 @@ EasyBetMe est une plateforme hybride entre le serious game et le système transa
 
 La gamification
 : Terme désignant l'application des mécanismes du jeu dans des contextes non-ludiques afin de renforcer l'engagement, la motivation et l'expérience utilisateur
-*(Deterdin et al. 2011)*
+[*(Deterdin et al. 2011)*](https://github.com/lienhartm/EasyBetMe/blob/main/documentation/deterding11.pdf)
 
 Dans le cas d'*EasyBetMe*, la gamification sert à motiver les utilisateurs à interagir avec la plateforme de manière régulière, prendre part à des événements et s'investir dans un parcours de progression, tout cela sans mise d'agent réelle.
 
@@ -147,9 +147,9 @@ Le modèle Octalysis est une grille d'analyse bien connue de la gamification, ba
 #### 2.4. Ancrage académique et théorique
 
 - **Gamification <> jeu complet** : EasyBetMe n'est pas unjeu vidéo, mais utilise les *dynamics* et *mechnics* du jeu pour augmenter l'engagement.
-- **Comportementalisme** : Le système de crédits agit comme un renforcement positif (Skinner, 1938).
+- **Comportementalisme** : Le système de crédits agit comme un renforcement positif [*(Skinner, 1938)*](https://github.com/lienhartm/EasyBetMe/blob/main/documentation/convention_28406_MICHAËL_LIENHART-1.pdf).
 - **Economie comportementale** : La gratification différée, l'accumulation de points et les classements ecploitent des biais cognitifs (biais de rareté, effet de dotation, biais d'ancrage).
-- expérience utilisateur : L'interface gamifiée améliore la satisfaction et la fdélisation des utilisateurs par des éléments de progression visibles.
+- **Expérience utilisateur** : L'interface gamifiée améliore la satisfaction et la fdélisation des utilisateurs par des éléments de progression visibles.
 
 #### 2.5. Risques et recommandations (Perspective critique)
 
@@ -345,3 +345,22 @@ Elle parvient à susciter l'engagement, la fidélisation et l'invertissement cog
 L'analyse de cette plateforme met en lumière l'intérêt et la puissance des stratégies de design gamifiées dans un contexte numérique où se rencontrent le jeu, la compétition et la consommation différée.
 
 ----
+
+## Référence
+
+#### Documents
+- Edward L. DECI, Richard M. RYAN, *Allocution du président honoraire (2007)*,  University of Rochester - Canadian Psychology by the Canadian Psychological Association (2008). [document](https://github.com/lienhartm/EasyBetMe/blob/main/documentation/2008_DeciRyan_CanPsy_French.pdf)
+- Sebastian Deterding, Dan Dixon, Rilla Khaled, Lennart Nackle, *From Game Design Elements to Gamefulness: Deﬁning Gamiﬁcation*, Conférence Paper (September 2011). [document](https://github.com/lienhartm/EasyBetMe/blob/main/documentation/deterding11.pdf)
+- The Octalysis Group, *The Octalysis Framework is a groundbreaking approach to gamification, developed by Yu-kai Chou,...*, Octalysis Framework 2025. [website](https://octalysisgroup.com/framework/)
+- B.F. SKINNER, *The Behavior of Organisms an Experimental Analysis*, The Century Psychology Series (1938). [document](https://github.com/lienhartm/EasyBetMe/blob/main/documentation/convention_28406_MICHAËL_LIENHART-1.pdf)
+
+#### Site web
+- UHA4.0, *L'école du Numérique, une formation universitaire en développement informatique 100% projet à Mulhouse, en Alsace !*, UHA4.0, 2025. [website](http://www.uha4point0.fr)
+- 4.0, *Formations innovantes 4.0*, UAH, 2025. [website](https://www.uha.fr/fr/formation-1/accompagnement-a-la-reussite-1/formations-innovantes-4-0.htmls)
+- MonWebPro, *Votre site internet professionnel*, MonWebPro, 2025. [website](https://www.monwebpro.com/)
+- EasyBet, *Bienvenue sur le site EasyBetMe !*, EasyBetMe, 2025. [website](monwebprohttps://www.easybet.me/)
+
+#### API
+- News API, *Search News and Blog Articles on the Web*, News API, [website](https://newsapi.org)
+- football∼data⋅org, *A restful API for football data.*, [website](https://www.football-data.org/)
+
