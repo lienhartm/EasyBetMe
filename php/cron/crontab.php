@@ -200,14 +200,14 @@ $data = json_decode($response, true);
 // Vérifier si la requête a réussi
 if ($data['status'] === 'ok' && !empty($data['articles'])) {
     // Nom du fichier avec la date actuelle
-    $filename = $directory . "footnews.json";
+    $filename = "footnews.json";
 
     // Enregistrer les articles dans un fichier JSON
     $jsonData = json_encode($data, JSON_PRETTY_PRINT);
     
     // Sauvegarder les données dans le fichier
-    if (file_put_contents($filename, $jsonData)) {
-        logMessage("| " . str_pad($a, 4) . " | " . str_pad($url, 86) . " |\n". str_pad(" ", 112) . "| " . str_pad($filename, 40) . " | " . str_pad(filesize($directory . $filename), 10) . " | " . str_pad("ok", 8) . " |");
+    if (file_put_contents($directory . $filename, $jsonData)) {
+        logMessage("| " . str_pad($a, 4) . " | " . str_pad($url, 86) . " |  \n". str_pad(" ", 112) . "| " . str_pad($filename, 40) . " | " . str_pad(filesize($directory . $filename), 10) . " | " . str_pad("ok", 8) . " |");
     } else {
         logMessage( "Erreur lors de l'enregistrement des données dans le fichier.");
     }
