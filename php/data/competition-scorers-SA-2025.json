@@ -21,6 +21,37 @@
     "scorers": [
         {
             "player": {
+                "id": 82002,
+                "name": "Du\u0161an Vlahovi\u0107",
+                "firstName": "Du\u0161an",
+                "lastName": "Vlahovi\u0107",
+                "dateOfBirth": "2000-01-28",
+                "nationality": "Serbia",
+                "section": "Centre-Forward",
+                "position": null,
+                "shirtNumber": null,
+                "lastUpdated": "2024-08-23T09:25:23Z"
+            },
+            "team": {
+                "id": 109,
+                "name": "Juventus FC",
+                "shortName": "Juventus",
+                "tla": "JUV",
+                "crest": "https:\/\/crests.football-data.org\/109.png",
+                "address": "Corso Galileo Ferraris, 32 Torino 10128",
+                "website": "http:\/\/www.juventus.com",
+                "founded": 1897,
+                "clubColors": "White \/ Black",
+                "venue": "Allianz Stadium",
+                "lastUpdated": "2024-04-09T16:20:37Z"
+            },
+            "playedMatches": 2,
+            "goals": 2,
+            "assists": null,
+            "penalties": null
+        },
+        {
+            "player": {
                 "id": 8685,
                 "name": "Marcus Thuram-Ulien",
                 "firstName": "Marcus",
@@ -45,9 +76,9 @@
                 "venue": "Stadio Giuseppe Meazza",
                 "lastUpdated": "2021-11-24T14:55:58Z"
             },
-            "playedMatches": 1,
+            "playedMatches": 2,
             "goals": 2,
-            "assists": null,
+            "assists": 1,
             "penalties": null
         },
         {
@@ -76,7 +107,7 @@
                 "venue": "Stadio San Paolo",
                 "lastUpdated": "2025-02-17T16:51:11Z"
             },
-            "playedMatches": 1,
+            "playedMatches": 2,
             "goals": 1,
             "assists": null,
             "penalties": null
@@ -107,7 +138,7 @@
                 "venue": "Stadio San Paolo",
                 "lastUpdated": "2025-02-17T16:51:11Z"
             },
-            "playedMatches": 1,
+            "playedMatches": 2,
             "goals": 1,
             "assists": null,
             "penalties": null
@@ -138,7 +169,7 @@
                 "venue": "Stadio Giovanni Zin",
                 "lastUpdated": "2022-03-20T17:53:13Z"
             },
-            "playedMatches": 1,
+            "playedMatches": 2,
             "goals": 1,
             "assists": null,
             "penalties": null
@@ -169,7 +200,7 @@
                 "venue": "Stadio Giuseppe Meazza",
                 "lastUpdated": "2024-04-09T16:20:58Z"
             },
-            "playedMatches": 1,
+            "playedMatches": 2,
             "goals": 1,
             "assists": null,
             "penalties": null
@@ -231,7 +262,7 @@
                 "venue": "Stadio Olimpico",
                 "lastUpdated": "2025-02-17T16:53:31Z"
             },
-            "playedMatches": 1,
+            "playedMatches": 2,
             "goals": 1,
             "assists": null,
             "penalties": null
@@ -262,7 +293,7 @@
                 "venue": "Stadio Artemio Franchi",
                 "lastUpdated": "2024-04-09T16:20:54Z"
             },
-            "playedMatches": 1,
+            "playedMatches": 2,
             "goals": 1,
             "assists": null,
             "penalties": null
@@ -293,38 +324,7 @@
                 "venue": "Sardegna Arena",
                 "lastUpdated": "2024-04-09T16:20:43Z"
             },
-            "playedMatches": 1,
-            "goals": 1,
-            "assists": null,
-            "penalties": null
-        },
-        {
-            "player": {
-                "id": 43285,
-                "name": "Anastasios Douvikas",
-                "firstName": "Anastasios",
-                "lastName": "Douvikas",
-                "dateOfBirth": "1999-08-02",
-                "nationality": "Greece",
-                "section": "Centre-Forward",
-                "position": null,
-                "shirtNumber": null,
-                "lastUpdated": "2024-08-12T11:57:15Z"
-            },
-            "team": {
-                "id": 7397,
-                "name": "Como 1907",
-                "shortName": "Como 1907",
-                "tla": "COM",
-                "crest": "https:\/\/crests.football-data.org\/7397.png",
-                "address": "Viale Sinigaglia 2 Como 22100",
-                "website": "http:\/\/www.como1907.net\/",
-                "founded": 1907,
-                "clubColors": "Sky Blue \/ White",
-                "venue": "Stadio Giuseppe Sinigaglia",
-                "lastUpdated": "2025-02-17T16:52:41Z"
-            },
-            "playedMatches": 1,
+            "playedMatches": 2,
             "goals": 1,
             "assists": null,
             "penalties": null

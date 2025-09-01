@@ -15,7 +15,7 @@
         "id": 2429,
         "startDate": "2025-08-17",
         "endDate": "2026-05-24",
-        "currentMatchday": 6,
+        "currentMatchday": 3,
         "winner": null
     },
     "scorers": [
@@ -45,7 +45,7 @@
                 "venue": "Coliseum Alfonso P\u00e9rez",
                 "lastUpdated": "2022-02-25T16:43:35Z"
             },
-            "playedMatches": 2,
+            "playedMatches": 3,
             "goals": 3,
             "assists": null,
             "penalties": null
@@ -76,7 +76,7 @@
                 "venue": "Estadio Santiago Bernab\u00e9u",
                 "lastUpdated": "2022-02-19T08:59:31Z"
             },
-            "playedMatches": 2,
+            "playedMatches": 3,
             "goals": 3,
             "assists": null,
             "penalties": 1
@@ -107,7 +107,7 @@
                 "venue": "Estadio de la Cer\u00e1mica",
                 "lastUpdated": "2022-02-22T18:26:04Z"
             },
-            "playedMatches": 2,
+            "playedMatches": 3,
             "goals": 3,
             "assists": null,
             "penalties": null
@@ -138,10 +138,41 @@
                 "venue": "Camp Nou",
                 "lastUpdated": "2024-07-29T17:09:22Z"
             },
-            "playedMatches": 2,
+            "playedMatches": 3,
             "goals": 2,
             "assists": null,
             "penalties": null
+        },
+        {
+            "player": {
+                "id": 202283,
+                "name": "Lamine Yamal",
+                "firstName": "",
+                "lastName": "Lamine Yamal",
+                "dateOfBirth": "2007-07-13",
+                "nationality": "Spain",
+                "section": "Right Winger",
+                "position": null,
+                "shirtNumber": null,
+                "lastUpdated": "2025-01-30T09:41:03Z"
+            },
+            "team": {
+                "id": 81,
+                "name": "FC Barcelona",
+                "shortName": "Bar\u00e7a",
+                "tla": "FCB",
+                "crest": "https:\/\/crests.football-data.org\/81.png",
+                "address": "Avenida Ar\u00edstides Maillol s\/n Barcelona 08028",
+                "website": "http:\/\/www.fcbarcelona.com",
+                "founded": 1899,
+                "clubColors": "Red \/ Navy Blue \/ Orange",
+                "venue": "Camp Nou",
+                "lastUpdated": "2024-07-29T17:09:22Z"
+            },
+            "playedMatches": 3,
+            "goals": 2,
+            "assists": 2,
+            "penalties": 1
         },
         {
             "player": {
@@ -169,9 +200,102 @@
                 "venue": "RCDE Stadium",
                 "lastUpdated": "2024-07-29T17:09:12Z"
             },
-            "playedMatches": 2,
+            "playedMatches": 3,
             "goals": 2,
             "assists": null,
+            "penalties": null
+        },
+        {
+            "player": {
+                "id": 4098,
+                "name": "Rafael Mir",
+                "firstName": "",
+                "lastName": "Rafa Mir",
+                "dateOfBirth": "1997-06-18",
+                "nationality": "Spain",
+                "section": "Centre-Forward",
+                "position": null,
+                "shirtNumber": null,
+                "lastUpdated": "2024-08-12T11:57:15Z"
+            },
+            "team": {
+                "id": 285,
+                "name": "Elche CF",
+                "shortName": "Elche",
+                "tla": "ELC",
+                "crest": "https:\/\/crests.football-data.org\/285.png",
+                "address": "Avenida Manuel Mart\u00ednez Valero, 3 Elche 03208",
+                "website": "http:\/\/www.elchecf.es",
+                "founded": 1923,
+                "clubColors": "White \/ Green",
+                "venue": "Estadio Manuel Mart\u00ednez Valero",
+                "lastUpdated": "2022-02-24T07:42:28Z"
+            },
+            "playedMatches": 3,
+            "goals": 2,
+            "assists": null,
+            "penalties": null
+        },
+        {
+            "player": {
+                "id": 8412,
+                "name": "Nicolas P\u00e9p\u00e9",
+                "firstName": "Nicolas",
+                "lastName": "P\u00e9p\u00e9",
+                "dateOfBirth": "1995-05-29",
+                "nationality": "Ivory Coast",
+                "section": "Right Winger",
+                "position": null,
+                "shirtNumber": null,
+                "lastUpdated": "2024-08-23T10:11:36Z"
+            },
+            "team": {
+                "id": 94,
+                "name": "Villarreal CF",
+                "shortName": "Villarreal",
+                "tla": "VIL",
+                "crest": "https:\/\/crests.football-data.org\/94.png",
+                "address": "Camino Miralcamp, s\/n Villarreal 12540",
+                "website": "http:\/\/www.villarrealcf.es",
+                "founded": 1923,
+                "clubColors": "Yellow \/ Blue",
+                "venue": "Estadio de la Cer\u00e1mica",
+                "lastUpdated": "2022-02-22T18:26:04Z"
+            },
+            "playedMatches": 3,
+            "goals": 2,
+            "assists": 1,
+            "penalties": null
+        },
+        {
+            "player": {
+                "id": 1556,
+                "name": "Vinicius Junior",
+                "firstName": "",
+                "lastName": "Vin\u00edcius Junior",
+                "dateOfBirth": "2000-07-12",
+                "nationality": "Brazil",
+                "section": "Left Winger",
+                "position": null,
+                "shirtNumber": null,
+                "lastUpdated": "2024-08-12T11:57:14Z"
+            },
+            "team": {
+                "id": 86,
+                "name": "Real Madrid CF",
+                "shortName": "Real Madrid",
+                "tla": "RMA",
+                "crest": "https:\/\/crests.football-data.org\/86.png",
+                "address": "Avenida Concha Espina, 1 Madrid 28036",
+                "website": "http:\/\/www.realmadrid.com",
+                "founded": 1902,
+                "clubColors": "White \/ Purple",
+                "venue": "Estadio Santiago Bernab\u00e9u",
+                "lastUpdated": "2022-02-19T08:59:31Z"
+            },
+            "playedMatches": 3,
+            "goals": 2,
+            "assists": 1,
             "penalties": null
         },
         {
@@ -200,131 +324,7 @@
                 "venue": "Estadio del Rayo Vallecano",
                 "lastUpdated": "2024-07-29T17:10:35Z"
             },
-            "playedMatches": 2,
-            "goals": 1,
-            "assists": 1,
-            "penalties": null
-        },
-        {
-            "player": {
-                "id": 32312,
-                "name": "\u00c1lvaro Garc\u00eda",
-                "firstName": "",
-                "lastName": "\u00c1lvaro Garc\u00eda",
-                "dateOfBirth": "1992-10-27",
-                "nationality": "Spain",
-                "section": "Left Winger",
-                "position": null,
-                "shirtNumber": null,
-                "lastUpdated": "2024-08-12T11:57:14Z"
-            },
-            "team": {
-                "id": 87,
-                "name": "Rayo Vallecano de Madrid",
-                "shortName": "Rayo Vallecano",
-                "tla": "RAY",
-                "crest": "https:\/\/crests.football-data.org\/87.png",
-                "address": "Calle del Payaso Fof\u00f3, s\/n Madrid 28018",
-                "website": "http:\/\/www.rayovallecano.es",
-                "founded": 1924,
-                "clubColors": "White \/ Red",
-                "venue": "Estadio del Rayo Vallecano",
-                "lastUpdated": "2024-07-29T17:10:35Z"
-            },
-            "playedMatches": 2,
-            "goals": 1,
-            "assists": null,
-            "penalties": null
-        },
-        {
-            "player": {
-                "id": 33496,
-                "name": "Isi Palaz\u00f3n",
-                "firstName": "",
-                "lastName": "Isi Palaz\u00f3n",
-                "dateOfBirth": "1994-12-27",
-                "nationality": "Spain",
-                "section": "Right Winger",
-                "position": null,
-                "shirtNumber": null,
-                "lastUpdated": "2024-08-12T11:57:14Z"
-            },
-            "team": {
-                "id": 87,
-                "name": "Rayo Vallecano de Madrid",
-                "shortName": "Rayo Vallecano",
-                "tla": "RAY",
-                "crest": "https:\/\/crests.football-data.org\/87.png",
-                "address": "Calle del Payaso Fof\u00f3, s\/n Madrid 28018",
-                "website": "http:\/\/www.rayovallecano.es",
-                "founded": 1924,
-                "clubColors": "White \/ Red",
-                "venue": "Estadio del Rayo Vallecano",
-                "lastUpdated": "2024-07-29T17:10:35Z"
-            },
-            "playedMatches": 2,
-            "goals": 1,
-            "assists": null,
-            "penalties": 1
-        },
-        {
-            "player": {
-                "id": 180280,
-                "name": "Casals",
-                "firstName": "",
-                "lastName": "Joel Roca",
-                "dateOfBirth": "2005-01-01",
-                "nationality": "Spain",
-                "section": "Defence",
-                "position": null,
-                "shirtNumber": null,
-                "lastUpdated": "2025-02-12T09:45:07Z"
-            },
-            "team": {
-                "id": 298,
-                "name": "Girona FC",
-                "shortName": "Girona",
-                "tla": "GIR",
-                "crest": "https:\/\/crests.football-data.org\/298.png",
-                "address": "Avinguda de Montilivi, 141 Girona 17003",
-                "website": "http:\/\/www.gironafc.cat",
-                "founded": 1930,
-                "clubColors": "Red \/ White \/ Blue",
-                "venue": "Estadi Municipal de Montilivi",
-                "lastUpdated": "2022-08-16T12:47:06Z"
-            },
-            "playedMatches": 2,
-            "goals": 1,
-            "assists": null,
-            "penalties": null
-        },
-        {
-            "player": {
-                "id": 203439,
-                "name": "Karl Etta Eyong",
-                "firstName": "Karl",
-                "lastName": "Etta Eyong",
-                "dateOfBirth": "2003-10-14",
-                "nationality": "Cameroon",
-                "section": "Offence",
-                "position": null,
-                "shirtNumber": null,
-                "lastUpdated": "2024-08-17T09:45:37Z"
-            },
-            "team": {
-                "id": 94,
-                "name": "Villarreal CF",
-                "shortName": "Villarreal",
-                "tla": "VIL",
-                "crest": "https:\/\/crests.football-data.org\/94.png",
-                "address": "Camino Miralcamp, s\/n Villarreal 12540",
-                "website": "http:\/\/www.villarrealcf.es",
-                "founded": 1923,
-                "clubColors": "Yellow \/ Blue",
-                "venue": "Estadio de la Cer\u00e1mica",
-                "lastUpdated": "2022-02-22T18:26:04Z"
-            },
-            "playedMatches": 2,
+            "playedMatches": 3,
             "goals": 1,
             "assists": 1,
             "penalties": null

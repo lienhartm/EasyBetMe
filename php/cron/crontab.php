@@ -1,14 +1,14 @@
 <?php
 
 ini_set('log_errors', 1);
-ini_set('error_log', __DIR__ . '/error_log.txt');
+ini_set('error_log', '/var/www/html/logfile/error_log.txt');
 ini_set('error_reporting', E_ALL);
 
 $time = date("d-m-Y H:i");
 
 // journalisation des processus
 function logMessage($message) {
-    $logfile = dirname(__FILE__) . '/cron_log.txt';
+    $logfile = '/var/www/html/logfile/cron_log.txt';
     file_put_contents($logfile, date('Y-m-d H:i:s') . " - " . $message . "\n", FILE_APPEND);
 }
 
@@ -20,7 +20,7 @@ logMessage("| " . str_pad("Nb", 4) . " | " . str_pad("Url", 80) . " | " . str_pa
 $a = 0;
 date_default_timezone_set('Europe/Paris');
 $year = date('Y');
-$directory = dirname(__FILE__) . "/data/";
+$directory = "/var/www/html/data/";
 $dateFrom = date('Y-m-d', strtotime('-1 day'));
 $dateTo = date('Y-m-d');
 
@@ -29,6 +29,37 @@ if (!is_dir($directory)) {
     $errorMessage = "Le répertoire $directory n'existe pas !";
     logMessage($errorMessage);
     die($errorMessage);
+}
+
+// fonction pour supprimer les fichiers plus vieux que 10 jours
+$currentTime = time();
+$files = scandir($directory);
+
+foreach ($files as $file) {
+    // Ignorer les dossiers '.' et '..'
+    if ($file === '.' || $file === '..') {
+        continue;
+    }
+
+    // Récupérer le chemin complet du fichier
+    $filePath = $directory . DIRECTORY_SEPARATOR . $file;
+
+
+    // Vérifier si c'est un fichier
+    if (is_file($filePath)) {
+        // Obtenir la date de la dernière modification du fichier
+        $fileModificationTime = filemtime($filePath);
+
+        // Vérifier si le fichier a été modifié il y a plus de 10 jours
+        if ($currentTime - $fileModificationTime > 10 * 24 * 60 * 60) {
+            // Supprimer le fichier
+            if (unlink($filePath)) {
+                logMessage("Le fichier $file a été supprimé.\n");
+            } else {
+                logMessae("Erreur lors de la suppression du fichier $file.\n");
+            }
+        }
+    }
 }
 
 // fonction pour les requêtes
@@ -126,7 +157,7 @@ foreach ($competitions as $code) {
 $date = date('Y-m-d', strtotime('-1 day'));
 $dateTo = date('Y-m-d'); // Correction du format de date
 $apiKey = 'dcd3126ac90f4aab9585afd4b50c8703';
-$directory = __DIR__ . '/data/'; // Assurez-vous que ce répertoire existe
+$directory = '/var/www/html/data/'; // Assurez-vous que ce répertoire existe
 $baseUrl = 'https://newsapi.org/v2/everything';
 
 // Paramètres de la requête
@@ -149,7 +180,7 @@ $ch = curl_init();
 curl_setopt($ch, CURLOPT_URL, $url);             // L'URL de l'API
 curl_setopt($ch, CURLOPT_RETURNTRANSFER, true);  // Retourner le résultat sous forme de chaîne
 curl_setopt($ch, CURLOPT_TIMEOUT, 30);           // Temps d'attente pour la requête (en secondes)
-curl_setopt($ch, CURLOPT_USERAGENT, 'YourAppName/1.0'); // Ajouter un User-Agent personnalisé
+curl_setopt($ch, CURLOPT_USERAGENT, 'EasyBetMe - MonWebPro'); // Ajouter un User-Agent personnalisé
 
 // Exécuter la requête cURL
 $response = curl_exec($ch);
@@ -176,7 +207,7 @@ if ($data['status'] === 'ok' && !empty($data['articles'])) {
     
     // Sauvegarder les données dans le fichier
     if (file_put_contents($filename, $jsonData)) {
-        logMessage("| " . str_pad($a, 4) . " | " . str_pad($url, 83) . " |\n " . str_pad($filename, 40) . " | " . str_pad(filesize($directory . $filename), 10) . " | " . str_pad("ok", 8) . " |");
+        logMessage("| " . str_pad($a, 4) . " | " . str_pad($url, 86) . " |\n". str_pad(" ", 112) . "| " . str_pad($filename, 40) . " | " . str_pad(filesize($directory . $filename), 10) . " | " . str_pad("ok", 8) . " |");
     } else {
         logMessage( "Erreur lors de l'enregistrement des données dans le fichier.");
     }
@@ -213,11 +244,6 @@ if (curl_errno($ch)) {
 curl_close($ch);
 $response = null;
 $url = null;
-
-
-
-
-
 
 logMessage(" ## Fin récupération des données ## ");
 

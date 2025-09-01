@@ -12,6 +12,7 @@ services:
       - ./php:/var/www/html
     ports:
       - "80:80"
+#    restart: unless-stopped
 
   db:
     container_name: mysql8
@@ -26,6 +27,7 @@ services:
       - ./sql:/docker-entrypoint-initdb.d
     ports:
       - "3306:3306"
+#    restart: unless-stopped
 
   phpmya:
     image: phpmyadmin/phpmyadmin:latest
@@ -40,4 +42,4 @@ services:
       UPLOAD_LIMIT: 20M
     ports:
       - "8899:80"
-
+#    restart: unless-stopped

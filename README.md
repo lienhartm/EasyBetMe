@@ -321,7 +321,13 @@ Fichier émis
 | --- | --- | --- | --- |
 | http://localhost | :80 | :3306 | :8899 |
 
-#### 5.5. Crontab
+#### 5.5. Tâche Cron
+
+La commande suivante permet d'insérer la tâche *cron* dans le fichier *crontab* en la recopiant directement dans le terminal de votre ordinateur hébergeant localement l'environnement docker propre au site **EasyBetMe**.
+
+```bash
+(crontab -l; echo "# Récupération des données depuis les API's";echo "0 4 * * * docker exec php73 php /var/www/html/crontab.php") | crontab -
+```
 
 ----
 
@@ -337,3 +343,5 @@ EasyBetMe constitue un exemple pertinent de plateforme numérique intégrant ave
 Elle parvient à susciter l'engagement, la fidélisation et l'invertissement cognitif des utilisateurs sans faire appel à des enjeux financiers réels, mais en s'appuyant sur des motivations intrinsèques et extrinsèques.
 
 L'analyse de cette plateforme met en lumière l'intérêt et la puissance des stratégies de design gamifiées dans un contexte numérique où se rencontrent le jeu, la compétition et la consommation différée.
+
+----

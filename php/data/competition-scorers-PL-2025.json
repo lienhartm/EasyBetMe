@@ -21,6 +21,37 @@
     "scorers": [
         {
             "player": {
+                "id": 38101,
+                "name": "Erling Haaland",
+                "firstName": "Erling",
+                "lastName": "Haaland",
+                "dateOfBirth": "2000-07-21",
+                "nationality": "Norway",
+                "section": "Centre-Forward",
+                "position": null,
+                "shirtNumber": null,
+                "lastUpdated": "2025-04-02T09:41:03Z"
+            },
+            "team": {
+                "id": 65,
+                "name": "Manchester City FC",
+                "shortName": "Man City",
+                "tla": "MCI",
+                "crest": "https:\/\/crests.football-data.org\/65.png",
+                "address": "SportCity Manchester M11 3FF",
+                "website": "https:\/\/www.mancity.com",
+                "founded": 1880,
+                "clubColors": "Sky Blue \/ White",
+                "venue": "Etihad Stadium",
+                "lastUpdated": "2022-02-10T19:48:37Z"
+            },
+            "playedMatches": 3,
+            "goals": 3,
+            "assists": null,
+            "penalties": null
+        },
+        {
+            "player": {
                 "id": 152454,
                 "name": "Hugo Ekitike",
                 "firstName": "Hugo",
@@ -45,7 +76,7 @@
                 "venue": "Anfield",
                 "lastUpdated": "2022-02-10T19:30:22Z"
             },
-            "playedMatches": 2,
+            "playedMatches": 3,
             "goals": 2,
             "assists": 1,
             "penalties": null
@@ -76,9 +107,40 @@
                 "venue": "Vitality Stadium",
                 "lastUpdated": "2024-08-29T08:54:34Z"
             },
-            "playedMatches": 2,
+            "playedMatches": 3,
             "goals": 2,
             "assists": 1,
+            "penalties": null
+        },
+        {
+            "player": {
+                "id": 83599,
+                "name": "Wilson Isidor",
+                "firstName": "Wilson",
+                "lastName": "Isidor",
+                "dateOfBirth": "2000-08-27",
+                "nationality": "France",
+                "section": "Centre-Forward",
+                "position": null,
+                "shirtNumber": null,
+                "lastUpdated": "2024-09-02T09:59:05Z"
+            },
+            "team": {
+                "id": 71,
+                "name": "Sunderland AFC",
+                "shortName": "Sunderland",
+                "tla": "SUN",
+                "crest": "https:\/\/crests.football-data.org\/71.png",
+                "address": "The Sunderland Stadium of Light Sunderland SR5 1SU",
+                "website": "http:\/\/www.safc.com",
+                "founded": 1879,
+                "clubColors": "Red \/ White",
+                "venue": "Stadium of Light",
+                "lastUpdated": "2022-02-19T09:12:07Z"
+            },
+            "playedMatches": 3,
+            "goals": 2,
+            "assists": null,
             "penalties": null
         },
         {
@@ -107,7 +169,7 @@
                 "venue": "Tottenham Hotspur Stadium",
                 "lastUpdated": "2024-05-11T21:39:03Z"
             },
-            "playedMatches": 2,
+            "playedMatches": 3,
             "goals": 2,
             "assists": 1,
             "penalties": null
@@ -138,38 +200,7 @@
                 "venue": "Tottenham Hotspur Stadium",
                 "lastUpdated": "2024-05-11T21:39:03Z"
             },
-            "playedMatches": 2,
-            "goals": 2,
-            "assists": null,
-            "penalties": null
-        },
-        {
-            "player": {
-                "id": 38101,
-                "name": "Erling Haaland",
-                "firstName": "Erling",
-                "lastName": "Haaland",
-                "dateOfBirth": "2000-07-21",
-                "nationality": "Norway",
-                "section": "Centre-Forward",
-                "position": null,
-                "shirtNumber": null,
-                "lastUpdated": "2025-04-02T09:41:03Z"
-            },
-            "team": {
-                "id": 65,
-                "name": "Manchester City FC",
-                "shortName": "Man City",
-                "tla": "MCI",
-                "crest": "https:\/\/crests.football-data.org\/65.png",
-                "address": "SportCity Manchester M11 3FF",
-                "website": "https:\/\/www.mancity.com",
-                "founded": 1880,
-                "clubColors": "Sky Blue \/ White",
-                "venue": "Etihad Stadium",
-                "lastUpdated": "2022-02-10T19:48:37Z"
-            },
-            "playedMatches": 2,
+            "playedMatches": 3,
             "goals": 2,
             "assists": null,
             "penalties": null
@@ -200,133 +231,102 @@
                 "venue": "The City Ground",
                 "lastUpdated": "2022-07-26T17:53:21Z"
             },
-            "playedMatches": 2,
+            "playedMatches": 3,
             "goals": 2,
             "assists": null,
             "penalties": null
         },
         {
             "player": {
-                "id": 98816,
-                "name": "Jurrien Timber",
-                "firstName": "Jurri\u00ebn",
-                "lastName": "Timber",
-                "dateOfBirth": "2001-06-17",
-                "nationality": "Netherlands",
-                "section": "Right-Back",
+                "id": 175994,
+                "name": "Thiago Rodrigues",
+                "firstName": "",
+                "lastName": "Thiago",
+                "dateOfBirth": "2001-06-26",
+                "nationality": "Brazil",
+                "section": "Offence",
                 "position": null,
                 "shirtNumber": null,
-                "lastUpdated": "2025-02-18T17:31:12Z"
+                "lastUpdated": "2024-03-30T09:42:07Z"
             },
             "team": {
-                "id": 57,
-                "name": "Arsenal FC",
-                "shortName": "Arsenal",
-                "tla": "ARS",
-                "crest": "https:\/\/crests.football-data.org\/57.png",
-                "address": "75 Drayton Park London N5 1BU",
-                "website": "http:\/\/www.arsenal.com",
-                "founded": 1886,
-                "clubColors": "Red \/ White",
-                "venue": "Emirates Stadium",
-                "lastUpdated": "2022-02-10T19:48:56Z"
+                "id": 402,
+                "name": "Brentford FC",
+                "shortName": "Brentford",
+                "tla": "BRE",
+                "crest": "https:\/\/crests.football-data.org\/402.png",
+                "address": "Braemar Road Brentford TW8 0NT",
+                "website": "http:\/\/www.brentfordfc.co.uk",
+                "founded": 1889,
+                "clubColors": "Red \/ White \/ Black",
+                "venue": "Griffin Park",
+                "lastUpdated": "2022-04-03T16:24:00Z"
             },
-            "playedMatches": 2,
-            "goals": 2,
-            "assists": 1,
-            "penalties": null
-        },
-        {
-            "player": {
-                "id": 8279,
-                "name": "Viktor Gy\u00f6keres",
-                "firstName": "Viktor",
-                "lastName": "Gy\u00f6keres",
-                "dateOfBirth": "1998-06-04",
-                "nationality": "Sweden",
-                "section": "Centre-Forward",
-                "position": null,
-                "shirtNumber": 9,
-                "lastUpdated": "2024-12-26T09:41:07Z"
-            },
-            "team": {
-                "id": 57,
-                "name": "Arsenal FC",
-                "shortName": "Arsenal",
-                "tla": "ARS",
-                "crest": "https:\/\/crests.football-data.org\/57.png",
-                "address": "75 Drayton Park London N5 1BU",
-                "website": "http:\/\/www.arsenal.com",
-                "founded": 1886,
-                "clubColors": "Red \/ White",
-                "venue": "Emirates Stadium",
-                "lastUpdated": "2022-02-10T19:48:56Z"
-            },
-            "playedMatches": 2,
+            "playedMatches": 3,
             "goals": 2,
             "assists": null,
             "penalties": 1
         },
         {
             "player": {
-                "id": 7459,
-                "name": "Cody Gakpo",
-                "firstName": "Cody",
-                "lastName": "Gakpo",
-                "dateOfBirth": "1999-05-07",
-                "nationality": "Netherlands",
-                "section": "Left Winger",
+                "id": 1543,
+                "name": "Lucas Paquet\u00e1",
+                "firstName": "",
+                "lastName": "Lucas Paquet\u00e1",
+                "dateOfBirth": "1997-08-27",
+                "nationality": "Brazil",
+                "section": "Attacking Midfield",
                 "position": null,
                 "shirtNumber": null,
-                "lastUpdated": "2025-04-02T09:41:02Z"
+                "lastUpdated": "2024-08-23T09:25:16Z"
             },
             "team": {
-                "id": 64,
-                "name": "Liverpool FC",
-                "shortName": "Liverpool",
-                "tla": "LIV",
-                "crest": "https:\/\/crests.football-data.org\/64.png",
-                "address": "Anfield Road Liverpool L4 0TH",
-                "website": "http:\/\/www.liverpoolfc.tv",
-                "founded": 1892,
-                "clubColors": "Red \/ White",
-                "venue": "Anfield",
-                "lastUpdated": "2022-02-10T19:30:22Z"
+                "id": 563,
+                "name": "West Ham United FC",
+                "shortName": "West Ham",
+                "tla": "WHU",
+                "crest": "https:\/\/crests.football-data.org\/563.png",
+                "address": "Queen Elizabeth Olympic Park, London London E20 2ST",
+                "website": "http:\/\/www.whufc.com",
+                "founded": 1895,
+                "clubColors": "Claret \/ Sky Blue",
+                "venue": "London Stadium",
+                "lastUpdated": "2022-02-19T08:09:25Z"
             },
-            "playedMatches": 2,
-            "goals": 1,
-            "assists": 2,
-            "penalties": null
+            "playedMatches": 3,
+            "goals": 2,
+            "assists": null,
+            "penalties": 1
         },
         {
             "player": {
-                "id": 1780,
-                "name": "Federico Chiesa",
-                "firstName": "Federico",
-                "lastName": "Chiesa",
-                "dateOfBirth": "1997-10-25",
-                "nationality": "Italy",
-                "section": "Right Winger",
+                "id": 103125,
+                "name": "Jo\u00e3o Pedro",
+                "firstName": "",
+                "lastName": "Jo\u00e3o Pedro",
+                "dateOfBirth": "2001-09-26",
+                "nationality": "Brazil",
+                "section": "Centre-Forward",
                 "position": null,
                 "shirtNumber": null,
-                "lastUpdated": "2024-11-28T13:36:10Z"
+                "lastUpdated": "2025-04-01T09:43:10Z"
             },
             "team": {
-                "id": 64,
-                "name": "Liverpool FC",
-                "shortName": "Liverpool",
-                "tla": "LIV",
-                "crest": "https:\/\/crests.football-data.org\/64.png",
-                "address": "Anfield Road Liverpool L4 0TH",
-                "website": "http:\/\/www.liverpoolfc.tv",
-                "founded": 1892,
-                "clubColors": "Red \/ White",
-                "venue": "Anfield",
-                "lastUpdated": "2022-02-10T19:30:22Z"
+                "id": 61,
+                "name": "Chelsea FC",
+                "shortName": "Chelsea",
+                "tla": "CHE",
+                "crest": "https:\/\/crests.football-data.org\/61.png",
+                "address": "Fulham Road London SW6 1HS",
+                "website": "http:\/\/www.chelseafc.com",
+                "founded": 1905,
+                "clubColors": "Royal Blue \/ White",
+                "venue": "Stamford Bridge",
+                "lastUpdated": "2022-02-10T19:24:40Z"
             },
-            "playedMatches": 2,
-            "goals": 1,
-            "assists": null,
+            "playedMatches": 3,
+            "goals": 2,
+            "assists": 2,
             "penalties": null
         }
     ]
