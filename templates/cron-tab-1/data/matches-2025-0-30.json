@@ -1,0 +1,80 @@
+[
+    {
+        "area": {
+            "id": 2077,
+            "name": "Europe",
+            "code": "EUR",
+            "flag": "https:\/\/crests.football-data.org\/EUR.svg"
+        },
+        "competition": {
+            "id": 2001,
+            "name": "UEFA Champions League",
+            "code": "CL",
+            "type": "CUP",
+            "emblem": "https:\/\/crests.football-data.org\/CL.png"
+        },
+        "season": {
+            "id": 2350,
+            "startDate": "2024-09-17",
+            "endDate": "2025-05-31",
+            "currentMatchday": 2,
+            "winner": null
+        },
+        "id": 524117,
+        "utcDate": "2025-04-30T19:00:00Z",
+        "status": "FINISHED",
+        "matchday": 1,
+        "stage": "SEMI_FINALS",
+        "group": null,
+        "lastUpdated": "2025-04-30T20:58:17Z",
+        "homeTeam": {
+            "id": 81,
+            "name": "FC Barcelona",
+            "shortName": "Bar\u00e7a",
+            "tla": "FCB",
+            "crest": "https:\/\/crests.football-data.org\/81.png"
+        },
+        "awayTeam": {
+            "id": 108,
+            "name": "FC Internazionale Milano",
+            "shortName": "Inter",
+            "tla": "INT",
+            "crest": "https:\/\/crests.football-data.org\/108.png"
+        },
+        "score": {
+            "winner": "DRAW",
+            "duration": "REGULAR",
+            "fullTime": {
+                "home": 3,
+                "away": 3
+            },
+            "halfTime": {
+                "home": 2,
+                "away": 2
+            },
+            "regularTime": {
+                "home": 0,
+                "away": 0
+            },
+            "extraTime": {
+                "home": 0,
+                "away": 0
+            },
+            "penalties": {
+                "home": 0,
+                "away": 0
+            }
+        },
+        "odds": {
+            "msg": "Activate Odds-Package in User-Panel to retrieve odds."
+        },
+        "referees": [
+            {
+                "id": 9374,
+                "name": "Cl\u00e9ment Turpin",
+                "type": "REFEREE",
+                "nationality": "France"
+            }
+        ]
+    }
+]

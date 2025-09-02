@@ -1,0 +1,1124 @@
+{
+    "2": {
+        "area": {
+            "id": 2224,
+            "name": "Spain",
+            "code": "ESP",
+            "flag": "https:\/\/crests.football-data.org\/760.svg"
+        },
+        "competition": {
+            "id": 2014,
+            "name": "Primera Division",
+            "code": "PD",
+            "type": "LEAGUE",
+            "emblem": "https:\/\/crests.football-data.org\/laliga.png"
+        },
+        "season": {
+            "id": 2292,
+            "startDate": "2024-08-18",
+            "endDate": "2025-05-25",
+            "currentMatchday": 29,
+            "winner": null
+        },
+        "id": 498901,
+        "utcDate": "2025-03-29T13:00:00Z",
+        "status": "FINISHED",
+        "matchday": 29,
+        "stage": "REGULAR_SEASON",
+        "group": null,
+        "lastUpdated": "2025-03-30T00:20:55Z",
+        "homeTeam": {
+            "id": 92,
+            "name": "Real Sociedad de F\u00fatbol",
+            "shortName": "Real Sociedad",
+            "tla": "RSO",
+            "crest": "https:\/\/crests.football-data.org\/92.png"
+        },
+        "awayTeam": {
+            "id": 250,
+            "name": "Real Valladolid CF",
+            "shortName": "Valladolid",
+            "tla": "VDD",
+            "crest": "https:\/\/crests.football-data.org\/250.png"
+        },
+        "score": {
+            "winner": "HOME_TEAM",
+            "duration": "REGULAR",
+            "fullTime": {
+                "home": 2,
+                "away": 1
+            },
+            "halfTime": {
+                "home": 1,
+                "away": 0
+            }
+        },
+        "odds": {
+            "msg": "Activate Odds-Package in User-Panel to retrieve odds."
+        },
+        "referees": [
+            {
+                "id": 206205,
+                "name": "Adri\u00e1n Cordero Vega",
+                "type": "REFEREE",
+                "nationality": "Spain"
+            }
+        ]
+    },
+    "3": {
+        "area": {
+            "id": 2114,
+            "name": "Italy",
+            "code": "ITA",
+            "flag": "https:\/\/crests.football-data.org\/784.svg"
+        },
+        "competition": {
+            "id": 2019,
+            "name": "Serie A",
+            "code": "SA",
+            "type": "LEAGUE",
+            "emblem": "https:\/\/crests.football-data.org\/SA.png"
+        },
+        "season": {
+            "id": 2310,
+            "startDate": "2024-08-18",
+            "endDate": "2025-05-25",
+            "currentMatchday": 30,
+            "winner": null
+        },
+        "id": 503342,
+        "utcDate": "2025-03-29T14:00:00Z",
+        "status": "FINISHED",
+        "matchday": 30,
+        "stage": "REGULAR_SEASON",
+        "group": null,
+        "lastUpdated": "2025-03-30T00:20:56Z",
+        "homeTeam": {
+            "id": 454,
+            "name": "Venezia FC",
+            "shortName": "Venezia FC",
+            "tla": "VEN",
+            "crest": "https:\/\/crests.football-data.org\/454.png"
+        },
+        "awayTeam": {
+            "id": 103,
+            "name": "Bologna FC 1909",
+            "shortName": "Bologna",
+            "tla": "BOL",
+            "crest": "https:\/\/crests.football-data.org\/103.png"
+        },
+        "score": {
+            "winner": "AWAY_TEAM",
+            "duration": "REGULAR",
+            "fullTime": {
+                "home": 0,
+                "away": 1
+            },
+            "halfTime": {
+                "home": 0,
+                "away": 0
+            }
+        },
+        "odds": {
+            "msg": "Activate Odds-Package in User-Panel to retrieve odds."
+        },
+        "referees": [
+            {
+                "id": 11060,
+                "name": "Marco Di Bello",
+                "type": "REFEREE",
+                "nationality": "Italy"
+            }
+        ]
+    },
+    "4": {
+        "area": {
+            "id": 2114,
+            "name": "Italy",
+            "code": "ITA",
+            "flag": "https:\/\/crests.football-data.org\/784.svg"
+        },
+        "competition": {
+            "id": 2019,
+            "name": "Serie A",
+            "code": "SA",
+            "type": "LEAGUE",
+            "emblem": "https:\/\/crests.football-data.org\/SA.png"
+        },
+        "season": {
+            "id": 2310,
+            "startDate": "2024-08-18",
+            "endDate": "2025-05-25",
+            "currentMatchday": 30,
+            "winner": null
+        },
+        "id": 503334,
+        "utcDate": "2025-03-29T14:00:00Z",
+        "status": "FINISHED",
+        "matchday": 30,
+        "stage": "REGULAR_SEASON",
+        "group": null,
+        "lastUpdated": "2025-03-30T00:20:56Z",
+        "homeTeam": {
+            "id": 7397,
+            "name": "Como 1907",
+            "shortName": "Como 1907",
+            "tla": "COM",
+            "crest": "https:\/\/crests.football-data.org\/7397.png"
+        },
+        "awayTeam": {
+            "id": 445,
+            "name": "Empoli FC",
+            "shortName": "Empoli",
+            "tla": "EMP",
+            "crest": "https:\/\/crests.football-data.org\/445.png"
+        },
+        "score": {
+            "winner": "DRAW",
+            "duration": "REGULAR",
+            "fullTime": {
+                "home": 1,
+                "away": 1
+            },
+            "halfTime": {
+                "home": 0,
+                "away": 0
+            }
+        },
+        "odds": {
+            "msg": "Activate Odds-Package in User-Panel to retrieve odds."
+        },
+        "referees": [
+            {
+                "id": 11043,
+                "name": "Maurizio Mariani",
+                "type": "REFEREE",
+                "nationality": "Italy"
+            }
+        ]
+    },
+    "5": {
+        "area": {
+            "id": 2088,
+            "name": "Germany",
+            "code": "DEU",
+            "flag": "https:\/\/crests.football-data.org\/759.svg"
+        },
+        "competition": {
+            "id": 2002,
+            "name": "Bundesliga",
+            "code": "BL1",
+            "type": "LEAGUE",
+            "emblem": "https:\/\/crests.football-data.org\/BL1.png"
+        },
+        "season": {
+            "id": 2308,
+            "startDate": "2024-08-23",
+            "endDate": "2025-05-17",
+            "currentMatchday": 27,
+            "winner": null
+        },
+        "id": 502609,
+        "utcDate": "2025-03-29T14:30:00Z",
+        "status": "FINISHED",
+        "matchday": 27,
+        "stage": "REGULAR_SEASON",
+        "group": null,
+        "lastUpdated": "2025-03-30T00:20:55Z",
+        "homeTeam": {
+            "id": 2,
+            "name": "TSG 1899 Hoffenheim",
+            "shortName": "Hoffenheim",
+            "tla": "TSG",
+            "crest": "https:\/\/crests.football-data.org\/2.png"
+        },
+        "awayTeam": {
+            "id": 16,
+            "name": "FC Augsburg",
+            "shortName": "Augsburg",
+            "tla": "FCA",
+            "crest": "https:\/\/crests.football-data.org\/16.png"
+        },
+        "score": {
+            "winner": "DRAW",
+            "duration": "REGULAR",
+            "fullTime": {
+                "home": 1,
+                "away": 1
+            },
+            "halfTime": {
+                "home": 0,
+                "away": 0
+            }
+        },
+        "odds": {
+            "msg": "Activate Odds-Package in User-Panel to retrieve odds."
+        },
+        "referees": [
+            {
+                "id": 57512,
+                "name": "Tobias Reichel",
+                "type": "REFEREE",
+                "nationality": "Germany"
+            }
+        ]
+    },
+    "6": {
+        "area": {
+            "id": 2088,
+            "name": "Germany",
+            "code": "DEU",
+            "flag": "https:\/\/crests.football-data.org\/759.svg"
+        },
+        "competition": {
+            "id": 2002,
+            "name": "Bundesliga",
+            "code": "BL1",
+            "type": "LEAGUE",
+            "emblem": "https:\/\/crests.football-data.org\/BL1.png"
+        },
+        "season": {
+            "id": 2308,
+            "startDate": "2024-08-23",
+            "endDate": "2025-05-17",
+            "currentMatchday": 27,
+            "winner": null
+        },
+        "id": 502607,
+        "utcDate": "2025-03-29T14:30:00Z",
+        "status": "FINISHED",
+        "matchday": 27,
+        "stage": "REGULAR_SEASON",
+        "group": null,
+        "lastUpdated": "2025-03-30T00:20:55Z",
+        "homeTeam": {
+            "id": 11,
+            "name": "VfL Wolfsburg",
+            "shortName": "Wolfsburg",
+            "tla": "WOB",
+            "crest": "https:\/\/crests.football-data.org\/11.png"
+        },
+        "awayTeam": {
+            "id": 44,
+            "name": "1. FC Heidenheim 1846",
+            "shortName": "Heidenheim",
+            "tla": "HEI",
+            "crest": "https:\/\/crests.football-data.org\/44.png"
+        },
+        "score": {
+            "winner": "AWAY_TEAM",
+            "duration": "REGULAR",
+            "fullTime": {
+                "home": 0,
+                "away": 1
+            },
+            "halfTime": {
+                "home": 0,
+                "away": 1
+            }
+        },
+        "odds": {
+            "msg": "Activate Odds-Package in User-Panel to retrieve odds."
+        },
+        "referees": [
+            {
+                "id": 15746,
+                "name": "Bastian Dankert",
+                "type": "REFEREE",
+                "nationality": "Germany"
+            }
+        ]
+    },
+    "7": {
+        "area": {
+            "id": 2088,
+            "name": "Germany",
+            "code": "DEU",
+            "flag": "https:\/\/crests.football-data.org\/759.svg"
+        },
+        "competition": {
+            "id": 2002,
+            "name": "Bundesliga",
+            "code": "BL1",
+            "type": "LEAGUE",
+            "emblem": "https:\/\/crests.football-data.org\/BL1.png"
+        },
+        "season": {
+            "id": 2308,
+            "startDate": "2024-08-23",
+            "endDate": "2025-05-17",
+            "currentMatchday": 27,
+            "winner": null
+        },
+        "id": 502608,
+        "utcDate": "2025-03-29T14:30:00Z",
+        "status": "FINISHED",
+        "matchday": 27,
+        "stage": "REGULAR_SEASON",
+        "group": null,
+        "lastUpdated": "2025-03-30T00:20:55Z",
+        "homeTeam": {
+            "id": 720,
+            "name": "Holstein Kiel",
+            "shortName": "Holstein Kiel",
+            "tla": "KSV",
+            "crest": "https:\/\/crests.football-data.org\/720.png"
+        },
+        "awayTeam": {
+            "id": 12,
+            "name": "SV Werder Bremen",
+            "shortName": "Bremen",
+            "tla": "SVW",
+            "crest": "https:\/\/crests.football-data.org\/12.png"
+        },
+        "score": {
+            "winner": "AWAY_TEAM",
+            "duration": "REGULAR",
+            "fullTime": {
+                "home": 0,
+                "away": 3
+            },
+            "halfTime": {
+                "home": 0,
+                "away": 1
+            }
+        },
+        "odds": {
+            "msg": "Activate Odds-Package in User-Panel to retrieve odds."
+        },
+        "referees": [
+            {
+                "id": 9567,
+                "name": "Sascha Stegemann",
+                "type": "REFEREE",
+                "nationality": "Germany"
+            }
+        ]
+    },
+    "8": {
+        "area": {
+            "id": 2088,
+            "name": "Germany",
+            "code": "DEU",
+            "flag": "https:\/\/crests.football-data.org\/759.svg"
+        },
+        "competition": {
+            "id": 2002,
+            "name": "Bundesliga",
+            "code": "BL1",
+            "type": "LEAGUE",
+            "emblem": "https:\/\/crests.football-data.org\/BL1.png"
+        },
+        "season": {
+            "id": 2308,
+            "startDate": "2024-08-23",
+            "endDate": "2025-05-17",
+            "currentMatchday": 27,
+            "winner": null
+        },
+        "id": 502613,
+        "utcDate": "2025-03-29T14:30:00Z",
+        "status": "FINISHED",
+        "matchday": 27,
+        "stage": "REGULAR_SEASON",
+        "group": null,
+        "lastUpdated": "2025-03-30T00:20:55Z",
+        "homeTeam": {
+            "id": 5,
+            "name": "FC Bayern M\u00fcnchen",
+            "shortName": "Bayern",
+            "tla": "FCB",
+            "crest": "https:\/\/crests.football-data.org\/5.png"
+        },
+        "awayTeam": {
+            "id": 20,
+            "name": "FC St. Pauli 1910",
+            "shortName": "St. Pauli",
+            "tla": "STP",
+            "crest": "https:\/\/crests.football-data.org\/20.png"
+        },
+        "score": {
+            "winner": "HOME_TEAM",
+            "duration": "REGULAR",
+            "fullTime": {
+                "home": 3,
+                "away": 2
+            },
+            "halfTime": {
+                "home": 1,
+                "away": 1
+            }
+        },
+        "odds": {
+            "msg": "Activate Odds-Package in User-Panel to retrieve odds."
+        },
+        "referees": [
+            {
+                "id": 57518,
+                "name": "Florian Badst\u00fcbner",
+                "type": "REFEREE",
+                "nationality": "Germany"
+            }
+        ]
+    },
+    "9": {
+        "area": {
+            "id": 2088,
+            "name": "Germany",
+            "code": "DEU",
+            "flag": "https:\/\/crests.football-data.org\/759.svg"
+        },
+        "competition": {
+            "id": 2002,
+            "name": "Bundesliga",
+            "code": "BL1",
+            "type": "LEAGUE",
+            "emblem": "https:\/\/crests.football-data.org\/BL1.png"
+        },
+        "season": {
+            "id": 2308,
+            "startDate": "2024-08-23",
+            "endDate": "2025-05-17",
+            "currentMatchday": 27,
+            "winner": null
+        },
+        "id": 502606,
+        "utcDate": "2025-03-29T14:30:00Z",
+        "status": "FINISHED",
+        "matchday": 27,
+        "stage": "REGULAR_SEASON",
+        "group": null,
+        "lastUpdated": "2025-03-30T00:20:55Z",
+        "homeTeam": {
+            "id": 18,
+            "name": "Borussia M\u00f6nchengladbach",
+            "shortName": "M'gladbach",
+            "tla": "BMG",
+            "crest": "https:\/\/crests.football-data.org\/18.png"
+        },
+        "awayTeam": {
+            "id": 721,
+            "name": "RB Leipzig",
+            "shortName": "RB Leipzig",
+            "tla": "RBL",
+            "crest": "https:\/\/crests.football-data.org\/721.png"
+        },
+        "score": {
+            "winner": "HOME_TEAM",
+            "duration": "REGULAR",
+            "fullTime": {
+                "home": 1,
+                "away": 0
+            },
+            "halfTime": {
+                "home": 0,
+                "away": 0
+            }
+        },
+        "odds": {
+            "msg": "Activate Odds-Package in User-Panel to retrieve odds."
+        },
+        "referees": [
+            {
+                "id": 43943,
+                "name": "Tobias Stieler",
+                "type": "REFEREE",
+                "nationality": "Germany"
+            }
+        ]
+    },
+    "18": {
+        "area": {
+            "id": 2224,
+            "name": "Spain",
+            "code": "ESP",
+            "flag": "https:\/\/crests.football-data.org\/760.svg"
+        },
+        "competition": {
+            "id": 2014,
+            "name": "Primera Division",
+            "code": "PD",
+            "type": "LEAGUE",
+            "emblem": "https:\/\/crests.football-data.org\/laliga.png"
+        },
+        "season": {
+            "id": 2292,
+            "startDate": "2024-08-18",
+            "endDate": "2025-05-25",
+            "currentMatchday": 29,
+            "winner": null
+        },
+        "id": 498902,
+        "utcDate": "2025-03-29T15:15:00Z",
+        "status": "FINISHED",
+        "matchday": 29,
+        "stage": "REGULAR_SEASON",
+        "group": null,
+        "lastUpdated": "2025-03-30T00:20:55Z",
+        "homeTeam": {
+            "id": 80,
+            "name": "RCD Espanyol de Barcelona",
+            "shortName": "Espanyol",
+            "tla": "ESP",
+            "crest": "https:\/\/crests.football-data.org\/80.png"
+        },
+        "awayTeam": {
+            "id": 78,
+            "name": "Club Atl\u00e9tico de Madrid",
+            "shortName": "Atleti",
+            "tla": "ATL",
+            "crest": "https:\/\/crests.football-data.org\/78.png"
+        },
+        "score": {
+            "winner": "DRAW",
+            "duration": "REGULAR",
+            "fullTime": {
+                "home": 1,
+                "away": 1
+            },
+            "halfTime": {
+                "home": 0,
+                "away": 1
+            }
+        },
+        "odds": {
+            "msg": "Activate Odds-Package in User-Panel to retrieve odds."
+        },
+        "referees": [
+            {
+                "id": 80747,
+                "name": "Javier Alberola Rojas",
+                "type": "REFEREE",
+                "nationality": null
+            }
+        ]
+    },
+    "21": {
+        "area": {
+            "id": 2081,
+            "name": "France",
+            "code": "FRA",
+            "flag": "https:\/\/crests.football-data.org\/773.svg"
+        },
+        "competition": {
+            "id": 2015,
+            "name": "Ligue 1",
+            "code": "FL1",
+            "type": "LEAGUE",
+            "emblem": "https:\/\/crests.football-data.org\/FL1.png"
+        },
+        "season": {
+            "id": 2290,
+            "startDate": "2024-08-18",
+            "endDate": "2025-05-18",
+            "currentMatchday": 27,
+            "winner": null
+        },
+        "id": 498191,
+        "utcDate": "2025-03-29T16:00:00Z",
+        "status": "FINISHED",
+        "matchday": 27,
+        "stage": "REGULAR_SEASON",
+        "group": null,
+        "lastUpdated": "2025-03-30T00:20:56Z",
+        "homeTeam": {
+            "id": 547,
+            "name": "Stade de Reims",
+            "shortName": "Stade de Reims",
+            "tla": "SDR",
+            "crest": "https:\/\/crests.football-data.org\/547.png"
+        },
+        "awayTeam": {
+            "id": 516,
+            "name": "Olympique de Marseille",
+            "shortName": "Marseille",
+            "tla": "MAR",
+            "crest": "https:\/\/crests.football-data.org\/516.png"
+        },
+        "score": {
+            "winner": "HOME_TEAM",
+            "duration": "REGULAR",
+            "fullTime": {
+                "home": 3,
+                "away": 1
+            },
+            "halfTime": {
+                "home": 1,
+                "away": 0
+            }
+        },
+        "odds": {
+            "msg": "Activate Odds-Package in User-Panel to retrieve odds."
+        },
+        "referees": [
+            {
+                "id": 57042,
+                "name": "Willy Delajod",
+                "type": "REFEREE",
+                "nationality": "France"
+            }
+        ]
+    },
+    "22": {
+        "area": {
+            "id": 2114,
+            "name": "Italy",
+            "code": "ITA",
+            "flag": "https:\/\/crests.football-data.org\/784.svg"
+        },
+        "competition": {
+            "id": 2019,
+            "name": "Serie A",
+            "code": "SA",
+            "type": "LEAGUE",
+            "emblem": "https:\/\/crests.football-data.org\/SA.png"
+        },
+        "season": {
+            "id": 2310,
+            "startDate": "2024-08-18",
+            "endDate": "2025-05-25",
+            "currentMatchday": 30,
+            "winner": null
+        },
+        "id": 503338,
+        "utcDate": "2025-03-29T17:00:00Z",
+        "status": "FINISHED",
+        "matchday": 30,
+        "stage": "REGULAR_SEASON",
+        "group": null,
+        "lastUpdated": "2025-03-30T00:20:56Z",
+        "homeTeam": {
+            "id": 109,
+            "name": "Juventus FC",
+            "shortName": "Juventus",
+            "tla": "JUV",
+            "crest": "https:\/\/crests.football-data.org\/109.png"
+        },
+        "awayTeam": {
+            "id": 107,
+            "name": "Genoa CFC",
+            "shortName": "Genoa",
+            "tla": "GEN",
+            "crest": "https:\/\/crests.football-data.org\/107.png"
+        },
+        "score": {
+            "winner": "HOME_TEAM",
+            "duration": "REGULAR",
+            "fullTime": {
+                "home": 1,
+                "away": 0
+            },
+            "halfTime": {
+                "home": 1,
+                "away": 0
+            }
+        },
+        "odds": {
+            "msg": "Activate Odds-Package in User-Panel to retrieve odds."
+        },
+        "referees": [
+            {
+                "id": 11018,
+                "name": "Antonio Rapuano",
+                "type": "REFEREE",
+                "nationality": "Italy"
+            }
+        ]
+    },
+    "23": {
+        "area": {
+            "id": 2088,
+            "name": "Germany",
+            "code": "DEU",
+            "flag": "https:\/\/crests.football-data.org\/759.svg"
+        },
+        "competition": {
+            "id": 2002,
+            "name": "Bundesliga",
+            "code": "BL1",
+            "type": "LEAGUE",
+            "emblem": "https:\/\/crests.football-data.org\/BL1.png"
+        },
+        "season": {
+            "id": 2308,
+            "startDate": "2024-08-23",
+            "endDate": "2025-05-17",
+            "currentMatchday": 27,
+            "winner": null
+        },
+        "id": 502605,
+        "utcDate": "2025-03-29T17:30:00Z",
+        "status": "FINISHED",
+        "matchday": 27,
+        "stage": "REGULAR_SEASON",
+        "group": null,
+        "lastUpdated": "2025-03-30T00:20:55Z",
+        "homeTeam": {
+            "id": 19,
+            "name": "Eintracht Frankfurt",
+            "shortName": "Frankfurt",
+            "tla": "SGE",
+            "crest": "https:\/\/crests.football-data.org\/19.png"
+        },
+        "awayTeam": {
+            "id": 10,
+            "name": "VfB Stuttgart",
+            "shortName": "Stuttgart",
+            "tla": "VFB",
+            "crest": "https:\/\/crests.football-data.org\/10.png"
+        },
+        "score": {
+            "winner": "HOME_TEAM",
+            "duration": "REGULAR",
+            "fullTime": {
+                "home": 1,
+                "away": 0
+            },
+            "halfTime": {
+                "home": 0,
+                "away": 0
+            }
+        },
+        "odds": {
+            "msg": "Activate Odds-Package in User-Panel to retrieve odds."
+        },
+        "referees": [
+            {
+                "id": 8825,
+                "name": "Deniz Aytekin",
+                "type": "REFEREE",
+                "nationality": "Germany"
+            }
+        ]
+    },
+    "24": {
+        "area": {
+            "id": 2224,
+            "name": "Spain",
+            "code": "ESP",
+            "flag": "https:\/\/crests.football-data.org\/760.svg"
+        },
+        "competition": {
+            "id": 2014,
+            "name": "Primera Division",
+            "code": "PD",
+            "type": "LEAGUE",
+            "emblem": "https:\/\/crests.football-data.org\/laliga.png"
+        },
+        "season": {
+            "id": 2292,
+            "startDate": "2024-08-18",
+            "endDate": "2025-05-25",
+            "currentMatchday": 29,
+            "winner": null
+        },
+        "id": 498896,
+        "utcDate": "2025-03-29T17:30:00Z",
+        "status": "FINISHED",
+        "matchday": 29,
+        "stage": "REGULAR_SEASON",
+        "group": null,
+        "lastUpdated": "2025-03-30T00:20:55Z",
+        "homeTeam": {
+            "id": 263,
+            "name": "Deportivo Alav\u00e9s",
+            "shortName": "Alav\u00e9s",
+            "tla": "ALA",
+            "crest": "https:\/\/crests.football-data.org\/263.png"
+        },
+        "awayTeam": {
+            "id": 87,
+            "name": "Rayo Vallecano de Madrid",
+            "shortName": "Rayo Vallecano",
+            "tla": "RAY",
+            "crest": "https:\/\/crests.football-data.org\/87.png"
+        },
+        "score": {
+            "winner": "AWAY_TEAM",
+            "duration": "REGULAR",
+            "fullTime": {
+                "home": 0,
+                "away": 2
+            },
+            "halfTime": {
+                "home": 0,
+                "away": 1
+            }
+        },
+        "odds": {
+            "msg": "Activate Odds-Package in User-Panel to retrieve odds."
+        },
+        "referees": [
+            {
+                "id": 206223,
+                "name": "Jos\u00e9 Munuera Montero",
+                "type": "REFEREE",
+                "nationality": "Spain"
+            }
+        ]
+    },
+    "28": {
+        "area": {
+            "id": 2081,
+            "name": "France",
+            "code": "FRA",
+            "flag": "https:\/\/crests.football-data.org\/773.svg"
+        },
+        "competition": {
+            "id": 2015,
+            "name": "Ligue 1",
+            "code": "FL1",
+            "type": "LEAGUE",
+            "emblem": "https:\/\/crests.football-data.org\/FL1.png"
+        },
+        "season": {
+            "id": 2290,
+            "startDate": "2024-08-18",
+            "endDate": "2025-05-18",
+            "currentMatchday": 27,
+            "winner": null
+        },
+        "id": 498190,
+        "utcDate": "2025-03-29T18:00:00Z",
+        "status": "FINISHED",
+        "matchday": 27,
+        "stage": "REGULAR_SEASON",
+        "group": null,
+        "lastUpdated": "2025-03-30T00:20:56Z",
+        "homeTeam": {
+            "id": 527,
+            "name": "AS Saint-\u00c9tienne",
+            "shortName": "Saint-\u00c9tienne",
+            "tla": "ASS",
+            "crest": "https:\/\/crests.football-data.org\/527.png"
+        },
+        "awayTeam": {
+            "id": 524,
+            "name": "Paris Saint-Germain FC",
+            "shortName": "PSG",
+            "tla": "PSG",
+            "crest": "https:\/\/crests.football-data.org\/524.png"
+        },
+        "score": {
+            "winner": "AWAY_TEAM",
+            "duration": "REGULAR",
+            "fullTime": {
+                "home": 1,
+                "away": 6
+            },
+            "halfTime": {
+                "home": 1,
+                "away": 1
+            }
+        },
+        "odds": {
+            "msg": "Activate Odds-Package in User-Panel to retrieve odds."
+        },
+        "referees": [
+            {
+                "id": 1049,
+                "name": "Jeremy Stinat",
+                "type": "REFEREE",
+                "nationality": "France"
+            }
+        ]
+    },
+    "29": {
+        "area": {
+            "id": 2114,
+            "name": "Italy",
+            "code": "ITA",
+            "flag": "https:\/\/crests.football-data.org\/784.svg"
+        },
+        "competition": {
+            "id": 2019,
+            "name": "Serie A",
+            "code": "SA",
+            "type": "LEAGUE",
+            "emblem": "https:\/\/crests.football-data.org\/SA.png"
+        },
+        "season": {
+            "id": 2310,
+            "startDate": "2024-08-18",
+            "endDate": "2025-05-25",
+            "currentMatchday": 30,
+            "winner": null
+        },
+        "id": 503340,
+        "utcDate": "2025-03-29T19:45:00Z",
+        "status": "FINISHED",
+        "matchday": 30,
+        "stage": "REGULAR_SEASON",
+        "group": null,
+        "lastUpdated": "2025-03-30T00:20:56Z",
+        "homeTeam": {
+            "id": 5890,
+            "name": "US Lecce",
+            "shortName": "Lecce",
+            "tla": "USL",
+            "crest": "https:\/\/crests.football-data.org\/5890.png"
+        },
+        "awayTeam": {
+            "id": 100,
+            "name": "AS Roma",
+            "shortName": "Roma",
+            "tla": "ROM",
+            "crest": "https:\/\/crests.football-data.org\/100.png"
+        },
+        "score": {
+            "winner": "AWAY_TEAM",
+            "duration": "REGULAR",
+            "fullTime": {
+                "home": 0,
+                "away": 1
+            },
+            "halfTime": {
+                "home": 0,
+                "away": 0
+            }
+        },
+        "odds": {
+            "msg": "Activate Odds-Package in User-Panel to retrieve odds."
+        },
+        "referees": [
+            {
+                "id": 11072,
+                "name": "Gianluca Manganiello",
+                "type": "REFEREE",
+                "nationality": "Italy"
+            }
+        ]
+    },
+    "30": {
+        "area": {
+            "id": 2224,
+            "name": "Spain",
+            "code": "ESP",
+            "flag": "https:\/\/crests.football-data.org\/760.svg"
+        },
+        "competition": {
+            "id": 2014,
+            "name": "Primera Division",
+            "code": "PD",
+            "type": "LEAGUE",
+            "emblem": "https:\/\/crests.football-data.org\/laliga.png"
+        },
+        "season": {
+            "id": 2292,
+            "startDate": "2024-08-18",
+            "endDate": "2025-05-25",
+            "currentMatchday": 29,
+            "winner": null
+        },
+        "id": 498900,
+        "utcDate": "2025-03-29T20:00:00Z",
+        "status": "FINISHED",
+        "matchday": 29,
+        "stage": "REGULAR_SEASON",
+        "group": null,
+        "lastUpdated": "2025-03-30T01:48:00Z",
+        "homeTeam": {
+            "id": 86,
+            "name": "Real Madrid CF",
+            "shortName": "Real Madrid",
+            "tla": "RMA",
+            "crest": "https:\/\/crests.football-data.org\/86.png"
+        },
+        "awayTeam": {
+            "id": 745,
+            "name": "CD Legan\u00e9s",
+            "shortName": "Legan\u00e9s",
+            "tla": "LEG",
+            "crest": "https:\/\/crests.football-data.org\/745.png"
+        },
+        "score": {
+            "winner": "HOME_TEAM",
+            "duration": "REGULAR",
+            "fullTime": {
+                "home": 3,
+                "away": 2
+            },
+            "halfTime": {
+                "home": 1,
+                "away": 2
+            }
+        },
+        "odds": {
+            "msg": "Activate Odds-Package in User-Panel to retrieve odds."
+        },
+        "referees": [
+            {
+                "id": 206206,
+                "name": "Pablo Gonz\u00e1lez Fuertes",
+                "type": "REFEREE",
+                "nationality": "Spain"
+            }
+        ]
+    },
+    "33": {
+        "area": {
+            "id": 2081,
+            "name": "France",
+            "code": "FRA",
+            "flag": "https:\/\/crests.football-data.org\/773.svg"
+        },
+        "competition": {
+            "id": 2015,
+            "name": "Ligue 1",
+            "code": "FL1",
+            "type": "LEAGUE",
+            "emblem": "https:\/\/crests.football-data.org\/FL1.png"
+        },
+        "season": {
+            "id": 2290,
+            "startDate": "2024-08-18",
+            "endDate": "2025-05-18",
+            "currentMatchday": 27,
+            "winner": null
+        },
+        "id": 498193,
+        "utcDate": "2025-03-29T20:05:00Z",
+        "status": "FINISHED",
+        "matchday": 27,
+        "stage": "REGULAR_SEASON",
+        "group": null,
+        "lastUpdated": "2025-03-30T00:20:56Z",
+        "homeTeam": {
+            "id": 548,
+            "name": "AS Monaco FC",
+            "shortName": "Monaco",
+            "tla": "ASM",
+            "crest": "https:\/\/crests.football-data.org\/548.png"
+        },
+        "awayTeam": {
+            "id": 522,
+            "name": "OGC Nice",
+            "shortName": "Nice",
+            "tla": "NIC",
+            "crest": "https:\/\/crests.football-data.org\/522.png"
+        },
+        "score": {
+            "winner": "HOME_TEAM",
+            "duration": "REGULAR",
+            "fullTime": {
+                "home": 2,
+                "away": 1
+            },
+            "halfTime": {
+                "home": 0,
+                "away": 1
+            }
+        },
+        "odds": {
+            "msg": "Activate Odds-Package in User-Panel to retrieve odds."
+        },
+        "referees": [
+            {
+                "id": 15548,
+                "name": "J\u00e9r\u00f4me Brisard",
+                "type": "REFEREE",
+                "nationality": "France"
+            }
+        ]
+    }
+}

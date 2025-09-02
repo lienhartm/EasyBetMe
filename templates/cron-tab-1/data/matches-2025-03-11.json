@@ -1,0 +1,238 @@
+{
+    "0": {
+        "area": {
+            "id": 2077,
+            "name": "Europe",
+            "code": "EUR",
+            "flag": "https:\/\/crests.football-data.org\/EUR.svg"
+        },
+        "competition": {
+            "id": 2001,
+            "name": "UEFA Champions League",
+            "code": "CL",
+            "type": "CUP",
+            "emblem": "https:\/\/crests.football-data.org\/CL.png"
+        },
+        "season": {
+            "id": 2350,
+            "startDate": "2024-09-17",
+            "endDate": "2025-05-31",
+            "currentMatchday": 1,
+            "winner": null
+        },
+        "id": 524107,
+        "utcDate": "2025-03-11T17:45:00Z",
+        "status": "TIMED",
+        "matchday": 2,
+        "stage": "LAST_16",
+        "group": null,
+        "lastUpdated": "2025-02-21T20:20:39Z",
+        "homeTeam": {
+            "id": 81,
+            "name": "FC Barcelona",
+            "shortName": "Bar\u00e7a",
+            "tla": "FCB",
+            "crest": "https:\/\/crests.football-data.org\/81.png"
+        },
+        "awayTeam": {
+            "id": 1903,
+            "name": "Sport Lisboa e Benfica",
+            "shortName": "SL Benfica",
+            "tla": "BEN",
+            "crest": "https:\/\/crests.football-data.org\/1903.png"
+        },
+        "score": {
+            "winner": null,
+            "duration": "REGULAR",
+            "fullTime": {
+                "home": null,
+                "away": null
+            },
+            "halfTime": {
+                "home": null,
+                "away": null
+            }
+        },
+        "odds": {
+            "msg": "Activate Odds-Package in User-Panel to retrieve odds."
+        },
+        "referees": []
+    },
+    "8": {
+        "area": {
+            "id": 2077,
+            "name": "Europe",
+            "code": "EUR",
+            "flag": "https:\/\/crests.football-data.org\/EUR.svg"
+        },
+        "competition": {
+            "id": 2001,
+            "name": "UEFA Champions League",
+            "code": "CL",
+            "type": "CUP",
+            "emblem": "https:\/\/crests.football-data.org\/CL.png"
+        },
+        "season": {
+            "id": 2350,
+            "startDate": "2024-09-17",
+            "endDate": "2025-05-31",
+            "currentMatchday": 1,
+            "winner": null
+        },
+        "id": 524104,
+        "utcDate": "2025-03-11T20:00:00Z",
+        "status": "TIMED",
+        "matchday": 2,
+        "stage": "LAST_16",
+        "group": null,
+        "lastUpdated": "2025-02-21T20:20:39Z",
+        "homeTeam": {
+            "id": 108,
+            "name": "FC Internazionale Milano",
+            "shortName": "Inter",
+            "tla": "INT",
+            "crest": "https:\/\/crests.football-data.org\/108.png"
+        },
+        "awayTeam": {
+            "id": 675,
+            "name": "Feyenoord Rotterdam",
+            "shortName": "Feyenoord",
+            "tla": "FEY",
+            "crest": "https:\/\/crests.football-data.org\/675.png"
+        },
+        "score": {
+            "winner": null,
+            "duration": "REGULAR",
+            "fullTime": {
+                "home": null,
+                "away": null
+            },
+            "halfTime": {
+                "home": null,
+                "away": null
+            }
+        },
+        "odds": {
+            "msg": "Activate Odds-Package in User-Panel to retrieve odds."
+        },
+        "referees": []
+    },
+    "9": {
+        "area": {
+            "id": 2077,
+            "name": "Europe",
+            "code": "EUR",
+            "flag": "https:\/\/crests.football-data.org\/EUR.svg"
+        },
+        "competition": {
+            "id": 2001,
+            "name": "UEFA Champions League",
+            "code": "CL",
+            "type": "CUP",
+            "emblem": "https:\/\/crests.football-data.org\/CL.png"
+        },
+        "season": {
+            "id": 2350,
+            "startDate": "2024-09-17",
+            "endDate": "2025-05-31",
+            "currentMatchday": 1,
+            "winner": null
+        },
+        "id": 524100,
+        "utcDate": "2025-03-11T20:00:00Z",
+        "status": "TIMED",
+        "matchday": 2,
+        "stage": "LAST_16",
+        "group": null,
+        "lastUpdated": "2025-02-21T20:20:39Z",
+        "homeTeam": {
+            "id": 64,
+            "name": "Liverpool FC",
+            "shortName": "Liverpool",
+            "tla": "LIV",
+            "crest": "https:\/\/crests.football-data.org\/64.png"
+        },
+        "awayTeam": {
+            "id": 524,
+            "name": "Paris Saint-Germain FC",
+            "shortName": "PSG",
+            "tla": "PSG",
+            "crest": "https:\/\/crests.football-data.org\/524.png"
+        },
+        "score": {
+            "winner": null,
+            "duration": "REGULAR",
+            "fullTime": {
+                "home": null,
+                "away": null
+            },
+            "halfTime": {
+                "home": null,
+                "away": null
+            }
+        },
+        "odds": {
+            "msg": "Activate Odds-Package in User-Panel to retrieve odds."
+        },
+        "referees": []
+    },
+    "10": {
+        "area": {
+            "id": 2077,
+            "name": "Europe",
+            "code": "EUR",
+            "flag": "https:\/\/crests.football-data.org\/EUR.svg"
+        },
+        "competition": {
+            "id": 2001,
+            "name": "UEFA Champions League",
+            "code": "CL",
+            "type": "CUP",
+            "emblem": "https:\/\/crests.football-data.org\/CL.png"
+        },
+        "season": {
+            "id": 2350,
+            "startDate": "2024-09-17",
+            "endDate": "2025-05-31",
+            "currentMatchday": 1,
+            "winner": null
+        },
+        "id": 524105,
+        "utcDate": "2025-03-11T20:00:00Z",
+        "status": "TIMED",
+        "matchday": 2,
+        "stage": "LAST_16",
+        "group": null,
+        "lastUpdated": "2025-02-21T20:20:39Z",
+        "homeTeam": {
+            "id": 3,
+            "name": "Bayer 04 Leverkusen",
+            "shortName": "Leverkusen",
+            "tla": "B04",
+            "crest": "https:\/\/crests.football-data.org\/3.png"
+        },
+        "awayTeam": {
+            "id": 5,
+            "name": "FC Bayern M\u00fcnchen",
+            "shortName": "Bayern",
+            "tla": "FCB",
+            "crest": "https:\/\/crests.football-data.org\/5.png"
+        },
+        "score": {
+            "winner": null,
+            "duration": "REGULAR",
+            "fullTime": {
+                "home": null,
+                "away": null
+            },
+            "halfTime": {
+                "home": null,
+                "away": null
+            }
+        },
+        "odds": {
+            "msg": "Activate Odds-Package in User-Panel to retrieve odds."
+        },
+        "referees": []
+    }
+}

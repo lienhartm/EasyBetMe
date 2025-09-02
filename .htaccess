@@ -1,0 +1,11 @@
+Options +FollowSymLinks
+RewriteEngine on
+RewriteBase /
+
+RewriteEngine On
+RewriteCond %{SERVER_PORT} !=443
+RewriteRule ^(.*)$ https://www.easybet.me/$1 [R=301,L]
+
+ErrorDocument 404 /404.php
+
+RewriteRule ^([a-zA-Z0-9-]+)?/?([a-zA-Z0-9-]+)?/?([a-zA-Z0-9-]+)?/?$ index.php?page=$1&data=$2&niv3=$3 [L]

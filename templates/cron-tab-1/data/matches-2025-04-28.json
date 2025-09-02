@@ -1,0 +1,236 @@
+{
+    "1": {
+        "area": {
+            "id": 2114,
+            "name": "Italy",
+            "code": "ITA",
+            "flag": "https:\/\/crests.football-data.org\/784.svg"
+        },
+        "competition": {
+            "id": 2019,
+            "name": "Serie A",
+            "code": "SA",
+            "type": "LEAGUE",
+            "emblem": "https:\/\/crests.football-data.org\/SA.png"
+        },
+        "season": {
+            "id": 2310,
+            "startDate": "2024-08-18",
+            "endDate": "2025-05-25",
+            "currentMatchday": 31,
+            "winner": null
+        },
+        "id": 503381,
+        "utcDate": "2025-04-28T16:30:00Z",
+        "status": "FINISHED",
+        "matchday": 34,
+        "stage": "REGULAR_SEASON",
+        "group": null,
+        "lastUpdated": "2025-04-28T18:30:42Z",
+        "homeTeam": {
+            "id": 115,
+            "name": "Udinese Calcio",
+            "shortName": "Udinese",
+            "tla": "UDI",
+            "crest": "https:\/\/crests.football-data.org\/115.png"
+        },
+        "awayTeam": {
+            "id": 103,
+            "name": "Bologna FC 1909",
+            "shortName": "Bologna",
+            "tla": "BOL",
+            "crest": "https:\/\/crests.football-data.org\/103.png"
+        },
+        "score": {
+            "winner": "DRAW",
+            "duration": "REGULAR",
+            "fullTime": {
+                "home": 0,
+                "away": 0
+            },
+            "halfTime": {
+                "home": 0,
+                "away": 0
+            },
+            "regularTime": {
+                "home": 0,
+                "away": 0
+            },
+            "extraTime": {
+                "home": 0,
+                "away": 0
+            },
+            "penalties": {
+                "home": 0,
+                "away": 0
+            }
+        },
+        "odds": {
+            "msg": "Activate Odds-Package in User-Panel to retrieve odds."
+        },
+        "referees": [
+            {
+                "id": 10977,
+                "name": "Fabio Maresca",
+                "type": "REFEREE",
+                "nationality": "Italy"
+            }
+        ]
+    },
+    "2": {
+        "area": {
+            "id": 2114,
+            "name": "Italy",
+            "code": "ITA",
+            "flag": "https:\/\/crests.football-data.org\/784.svg"
+        },
+        "competition": {
+            "id": 2019,
+            "name": "Serie A",
+            "code": "SA",
+            "type": "LEAGUE",
+            "emblem": "https:\/\/crests.football-data.org\/SA.png"
+        },
+        "season": {
+            "id": 2310,
+            "startDate": "2024-08-18",
+            "endDate": "2025-05-25",
+            "currentMatchday": 31,
+            "winner": null
+        },
+        "id": 503376,
+        "utcDate": "2025-04-28T18:45:00Z",
+        "status": "FINISHED",
+        "matchday": 34,
+        "stage": "REGULAR_SEASON",
+        "group": null,
+        "lastUpdated": "2025-04-28T20:46:57Z",
+        "homeTeam": {
+            "id": 450,
+            "name": "Hellas Verona FC",
+            "shortName": "Verona",
+            "tla": "HVE",
+            "crest": "https:\/\/crests.football-data.org\/450.png"
+        },
+        "awayTeam": {
+            "id": 104,
+            "name": "Cagliari Calcio",
+            "shortName": "Cagliari",
+            "tla": "CAG",
+            "crest": "https:\/\/crests.football-data.org\/104.png"
+        },
+        "score": {
+            "winner": "AWAY_TEAM",
+            "duration": "REGULAR",
+            "fullTime": {
+                "home": 0,
+                "away": 2
+            },
+            "halfTime": {
+                "home": 0,
+                "away": 1
+            },
+            "regularTime": {
+                "home": 0,
+                "away": 0
+            },
+            "extraTime": {
+                "home": 0,
+                "away": 0
+            },
+            "penalties": {
+                "home": 0,
+                "away": 0
+            }
+        },
+        "odds": {
+            "msg": "Activate Odds-Package in User-Panel to retrieve odds."
+        },
+        "referees": [
+            {
+                "id": 11006,
+                "name": "Rosario Abisso",
+                "type": "REFEREE",
+                "nationality": "Italy"
+            }
+        ]
+    },
+    "3": {
+        "area": {
+            "id": 2114,
+            "name": "Italy",
+            "code": "ITA",
+            "flag": "https:\/\/crests.football-data.org\/784.svg"
+        },
+        "competition": {
+            "id": 2019,
+            "name": "Serie A",
+            "code": "SA",
+            "type": "LEAGUE",
+            "emblem": "https:\/\/crests.football-data.org\/SA.png"
+        },
+        "season": {
+            "id": 2310,
+            "startDate": "2024-08-18",
+            "endDate": "2025-05-25",
+            "currentMatchday": 31,
+            "winner": null
+        },
+        "id": 503379,
+        "utcDate": "2025-04-28T18:45:00Z",
+        "status": "FINISHED",
+        "matchday": 34,
+        "stage": "REGULAR_SEASON",
+        "group": null,
+        "lastUpdated": "2025-04-28T20:47:37Z",
+        "homeTeam": {
+            "id": 110,
+            "name": "SS Lazio",
+            "shortName": "Lazio",
+            "tla": "LAZ",
+            "crest": "https:\/\/crests.football-data.org\/110.png"
+        },
+        "awayTeam": {
+            "id": 112,
+            "name": "Parma Calcio 1913",
+            "shortName": "Parma",
+            "tla": "PAR",
+            "crest": "https:\/\/crests.football-data.org\/112.png"
+        },
+        "score": {
+            "winner": "DRAW",
+            "duration": "REGULAR",
+            "fullTime": {
+                "home": 2,
+                "away": 2
+            },
+            "halfTime": {
+                "home": 0,
+                "away": 1
+            },
+            "regularTime": {
+                "home": 0,
+                "away": 0
+            },
+            "extraTime": {
+                "home": 0,
+                "away": 0
+            },
+            "penalties": {
+                "home": 0,
+                "away": 0
+            }
+        },
+        "odds": {
+            "msg": "Activate Odds-Package in User-Panel to retrieve odds."
+        },
+        "referees": [
+            {
+                "id": 206189,
+                "name": "Juan Luca Sacchi",
+                "type": "REFEREE",
+                "nationality": "Italy"
+            }
+        ]
+    }
+}

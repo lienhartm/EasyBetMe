@@ -1,0 +1,236 @@
+[
+    {
+        "area": {
+            "id": 2114,
+            "name": "Italy",
+            "code": "ITA",
+            "flag": "https:\/\/crests.football-data.org\/784.svg"
+        },
+        "competition": {
+            "id": 2019,
+            "name": "Serie A",
+            "code": "SA",
+            "type": "LEAGUE",
+            "emblem": "https:\/\/crests.football-data.org\/SA.png"
+        },
+        "season": {
+            "id": 2310,
+            "startDate": "2024-08-18",
+            "endDate": "2025-05-25",
+            "currentMatchday": 30,
+            "winner": null
+        },
+        "id": 503336,
+        "utcDate": "2025-03-31T16:30:00Z",
+        "status": "FINISHED",
+        "matchday": 30,
+        "stage": "REGULAR_SEASON",
+        "group": null,
+        "lastUpdated": "2025-03-31T18:31:07Z",
+        "homeTeam": {
+            "id": 450,
+            "name": "Hellas Verona FC",
+            "shortName": "Verona",
+            "tla": "HVE",
+            "crest": "https:\/\/crests.football-data.org\/450.png"
+        },
+        "awayTeam": {
+            "id": 112,
+            "name": "Parma Calcio 1913",
+            "shortName": "Parma",
+            "tla": "PAR",
+            "crest": "https:\/\/crests.football-data.org\/112.png"
+        },
+        "score": {
+            "winner": "DRAW",
+            "duration": "REGULAR",
+            "fullTime": {
+                "home": 0,
+                "away": 0
+            },
+            "halfTime": {
+                "home": 0,
+                "away": 0
+            },
+            "regularTime": {
+                "home": 0,
+                "away": 0
+            },
+            "extraTime": {
+                "home": 0,
+                "away": 0
+            },
+            "penalties": {
+                "home": 0,
+                "away": 0
+            }
+        },
+        "odds": {
+            "msg": "Activate Odds-Package in User-Panel to retrieve odds."
+        },
+        "referees": [
+            {
+                "id": 206189,
+                "name": "Juan Luca Sacchi",
+                "type": "REFEREE",
+                "nationality": "Italy"
+            }
+        ]
+    },
+    {
+        "area": {
+            "id": 2114,
+            "name": "Italy",
+            "code": "ITA",
+            "flag": "https:\/\/crests.football-data.org\/784.svg"
+        },
+        "competition": {
+            "id": 2019,
+            "name": "Serie A",
+            "code": "SA",
+            "type": "LEAGUE",
+            "emblem": "https:\/\/crests.football-data.org\/SA.png"
+        },
+        "season": {
+            "id": 2310,
+            "startDate": "2024-08-18",
+            "endDate": "2025-05-25",
+            "currentMatchday": 30,
+            "winner": null
+        },
+        "id": 503339,
+        "utcDate": "2025-03-31T18:45:00Z",
+        "status": "IN_PLAY",
+        "matchday": 30,
+        "stage": "REGULAR_SEASON",
+        "group": null,
+        "lastUpdated": "2025-03-31T18:50:23Z",
+        "homeTeam": {
+            "id": 110,
+            "name": "SS Lazio",
+            "shortName": "Lazio",
+            "tla": "LAZ",
+            "crest": "https:\/\/crests.football-data.org\/110.png"
+        },
+        "awayTeam": {
+            "id": 586,
+            "name": "Torino FC",
+            "shortName": "Torino",
+            "tla": "TOR",
+            "crest": "https:\/\/crests.football-data.org\/586.png"
+        },
+        "score": {
+            "winner": "DRAW",
+            "duration": "REGULAR",
+            "fullTime": {
+                "home": 0,
+                "away": 0
+            },
+            "halfTime": {
+                "home": 0,
+                "away": 0
+            },
+            "regularTime": {
+                "home": 0,
+                "away": 0
+            },
+            "extraTime": {
+                "home": 0,
+                "away": 0
+            },
+            "penalties": {
+                "home": 0,
+                "away": 0
+            }
+        },
+        "odds": {
+            "msg": "Activate Odds-Package in User-Panel to retrieve odds."
+        },
+        "referees": [
+            {
+                "id": 11029,
+                "name": "Davide Massa",
+                "type": "REFEREE",
+                "nationality": "Italy"
+            }
+        ]
+    },
+    {
+        "area": {
+            "id": 2224,
+            "name": "Spain",
+            "code": "ESP",
+            "flag": "https:\/\/crests.football-data.org\/760.svg"
+        },
+        "competition": {
+            "id": 2014,
+            "name": "Primera Division",
+            "code": "PD",
+            "type": "LEAGUE",
+            "emblem": "https:\/\/crests.football-data.org\/laliga.png"
+        },
+        "season": {
+            "id": 2292,
+            "startDate": "2024-08-18",
+            "endDate": "2025-05-25",
+            "currentMatchday": 29,
+            "winner": null
+        },
+        "id": 498895,
+        "utcDate": "2025-03-31T19:00:00Z",
+        "status": "IN_PLAY",
+        "matchday": 29,
+        "stage": "REGULAR_SEASON",
+        "group": null,
+        "lastUpdated": "2025-03-31T19:05:03Z",
+        "homeTeam": {
+            "id": 558,
+            "name": "RC Celta de Vigo",
+            "shortName": "Celta",
+            "tla": "CEL",
+            "crest": "https:\/\/crests.football-data.org\/558.png"
+        },
+        "awayTeam": {
+            "id": 275,
+            "name": "UD Las Palmas",
+            "shortName": "Las Palmas",
+            "tla": "LPA",
+            "crest": "https:\/\/crests.football-data.org\/275.png"
+        },
+        "score": {
+            "winner": "DRAW",
+            "duration": "REGULAR",
+            "fullTime": {
+                "home": 0,
+                "away": 0
+            },
+            "halfTime": {
+                "home": 0,
+                "away": 0
+            },
+            "regularTime": {
+                "home": 0,
+                "away": 0
+            },
+            "extraTime": {
+                "home": 0,
+                "away": 0
+            },
+            "penalties": {
+                "home": 0,
+                "away": 0
+            }
+        },
+        "odds": {
+            "msg": "Activate Odds-Package in User-Panel to retrieve odds."
+        },
+        "referees": [
+            {
+                "id": 206203,
+                "name": "Juan Mart\u00ednez Munuera",
+                "type": "REFEREE",
+                "nationality": "Spain"
+            }
+        ]
+    }
+]

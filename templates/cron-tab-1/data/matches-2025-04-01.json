@@ -1,0 +1,236 @@
+{
+    "1": {
+        "area": {
+            "id": 2072,
+            "name": "England",
+            "code": "ENG",
+            "flag": "https:\/\/crests.football-data.org\/770.svg"
+        },
+        "competition": {
+            "id": 2021,
+            "name": "Premier League",
+            "code": "PL",
+            "type": "LEAGUE",
+            "emblem": "https:\/\/crests.football-data.org\/PL.png"
+        },
+        "season": {
+            "id": 2287,
+            "startDate": "2024-08-16",
+            "endDate": "2025-05-25",
+            "currentMatchday": 30,
+            "winner": null
+        },
+        "id": 497701,
+        "utcDate": "2025-04-01T18:45:00Z",
+        "status": "FINISHED",
+        "matchday": 30,
+        "stage": "REGULAR_SEASON",
+        "group": null,
+        "lastUpdated": "2025-04-01T20:47:52Z",
+        "homeTeam": {
+            "id": 57,
+            "name": "Arsenal FC",
+            "shortName": "Arsenal",
+            "tla": "ARS",
+            "crest": "https:\/\/crests.football-data.org\/57.png"
+        },
+        "awayTeam": {
+            "id": 63,
+            "name": "Fulham FC",
+            "shortName": "Fulham",
+            "tla": "FUL",
+            "crest": "https:\/\/crests.football-data.org\/63.png"
+        },
+        "score": {
+            "winner": "HOME_TEAM",
+            "duration": "REGULAR",
+            "fullTime": {
+                "home": 2,
+                "away": 1
+            },
+            "halfTime": {
+                "home": 1,
+                "away": 0
+            },
+            "regularTime": {
+                "home": 0,
+                "away": 0
+            },
+            "extraTime": {
+                "home": 0,
+                "away": 0
+            },
+            "penalties": {
+                "home": 0,
+                "away": 0
+            }
+        },
+        "odds": {
+            "msg": "Activate Odds-Package in User-Panel to retrieve odds."
+        },
+        "referees": [
+            {
+                "id": 11327,
+                "name": "John Brooks",
+                "type": "REFEREE",
+                "nationality": "England"
+            }
+        ]
+    },
+    "2": {
+        "area": {
+            "id": 2072,
+            "name": "England",
+            "code": "ENG",
+            "flag": "https:\/\/crests.football-data.org\/770.svg"
+        },
+        "competition": {
+            "id": 2021,
+            "name": "Premier League",
+            "code": "PL",
+            "type": "LEAGUE",
+            "emblem": "https:\/\/crests.football-data.org\/PL.png"
+        },
+        "season": {
+            "id": 2287,
+            "startDate": "2024-08-16",
+            "endDate": "2025-05-25",
+            "currentMatchday": 30,
+            "winner": null
+        },
+        "id": 497704,
+        "utcDate": "2025-04-01T18:45:00Z",
+        "status": "FINISHED",
+        "matchday": 30,
+        "stage": "REGULAR_SEASON",
+        "group": null,
+        "lastUpdated": "2025-04-01T20:45:13Z",
+        "homeTeam": {
+            "id": 76,
+            "name": "Wolverhampton Wanderers FC",
+            "shortName": "Wolverhampton",
+            "tla": "WOL",
+            "crest": "https:\/\/crests.football-data.org\/76.png"
+        },
+        "awayTeam": {
+            "id": 563,
+            "name": "West Ham United FC",
+            "shortName": "West Ham",
+            "tla": "WHU",
+            "crest": "https:\/\/crests.football-data.org\/563.png"
+        },
+        "score": {
+            "winner": "HOME_TEAM",
+            "duration": "REGULAR",
+            "fullTime": {
+                "home": 1,
+                "away": 0
+            },
+            "halfTime": {
+                "home": 1,
+                "away": 0
+            },
+            "regularTime": {
+                "home": 0,
+                "away": 0
+            },
+            "extraTime": {
+                "home": 0,
+                "away": 0
+            },
+            "penalties": {
+                "home": 0,
+                "away": 0
+            }
+        },
+        "odds": {
+            "msg": "Activate Odds-Package in User-Panel to retrieve odds."
+        },
+        "referees": [
+            {
+                "id": 11378,
+                "name": "Tony Harrington",
+                "type": "REFEREE",
+                "nationality": "England"
+            }
+        ]
+    },
+    "3": {
+        "area": {
+            "id": 2072,
+            "name": "England",
+            "code": "ENG",
+            "flag": "https:\/\/crests.football-data.org\/770.svg"
+        },
+        "competition": {
+            "id": 2021,
+            "name": "Premier League",
+            "code": "PL",
+            "type": "LEAGUE",
+            "emblem": "https:\/\/crests.football-data.org\/PL.png"
+        },
+        "season": {
+            "id": 2287,
+            "startDate": "2024-08-16",
+            "endDate": "2025-05-25",
+            "currentMatchday": 30,
+            "winner": null
+        },
+        "id": 497703,
+        "utcDate": "2025-04-01T19:00:00Z",
+        "status": "FINISHED",
+        "matchday": 30,
+        "stage": "REGULAR_SEASON",
+        "group": null,
+        "lastUpdated": "2025-04-01T21:05:47Z",
+        "homeTeam": {
+            "id": 351,
+            "name": "Nottingham Forest FC",
+            "shortName": "Nottingham",
+            "tla": "NOT",
+            "crest": "https:\/\/crests.football-data.org\/351.png"
+        },
+        "awayTeam": {
+            "id": 66,
+            "name": "Manchester United FC",
+            "shortName": "Man United",
+            "tla": "MUN",
+            "crest": "https:\/\/crests.football-data.org\/66.png"
+        },
+        "score": {
+            "winner": "HOME_TEAM",
+            "duration": "REGULAR",
+            "fullTime": {
+                "home": 1,
+                "away": 0
+            },
+            "halfTime": {
+                "home": 1,
+                "away": 0
+            },
+            "regularTime": {
+                "home": 0,
+                "away": 0
+            },
+            "extraTime": {
+                "home": 0,
+                "away": 0
+            },
+            "penalties": {
+                "home": 0,
+                "away": 0
+            }
+        },
+        "odds": {
+            "msg": "Activate Odds-Package in User-Panel to retrieve odds."
+        },
+        "referees": [
+            {
+                "id": 23568,
+                "name": "Jarred Gillett",
+                "type": "REFEREE",
+                "nationality": "Australia"
+            }
+        ]
+    }
+}

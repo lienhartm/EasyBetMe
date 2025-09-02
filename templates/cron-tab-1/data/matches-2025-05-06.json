@@ -1,0 +1,68 @@
+[
+    {
+        "area": {
+            "id": 2077,
+            "name": "Europe",
+            "code": "EUR",
+            "flag": "https:\/\/crests.football-data.org\/EUR.svg"
+        },
+        "competition": {
+            "id": 2001,
+            "name": "UEFA Champions League",
+            "code": "CL",
+            "type": "CUP",
+            "emblem": "https:\/\/crests.football-data.org\/CL.png"
+        },
+        "season": {
+            "id": 2350,
+            "startDate": "2024-09-17",
+            "endDate": "2025-05-31",
+            "currentMatchday": 2,
+            "winner": null
+        },
+        "id": 524119,
+        "utcDate": "2025-05-06T19:00:00Z",
+        "status": "FINISHED",
+        "matchday": 2,
+        "stage": "SEMI_FINALS",
+        "group": null,
+        "lastUpdated": "2025-05-07T00:21:00Z",
+        "homeTeam": {
+            "id": 108,
+            "name": "FC Internazionale Milano",
+            "shortName": "Inter",
+            "tla": "INT",
+            "crest": "https:\/\/crests.football-data.org\/108.png"
+        },
+        "awayTeam": {
+            "id": 81,
+            "name": "FC Barcelona",
+            "shortName": "Bar\u00e7a",
+            "tla": "FCB",
+            "crest": "https:\/\/crests.football-data.org\/81.png"
+        },
+        "score": {
+            "winner": "HOME_TEAM",
+            "duration": "REGULAR",
+            "fullTime": {
+                "home": 4,
+                "away": 3
+            },
+            "halfTime": {
+                "home": 2,
+                "away": 0
+            }
+        },
+        "odds": {
+            "msg": "Activate Odds-Package in User-Panel to retrieve odds."
+        },
+        "referees": [
+            {
+                "id": 43888,
+                "name": "Szymon Marciniak",
+                "type": "REFEREE",
+                "nationality": "Poland"
+            }
+        ]
+    }
+]

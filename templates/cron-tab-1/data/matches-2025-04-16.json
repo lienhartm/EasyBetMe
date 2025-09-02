@@ -1,0 +1,200 @@
+{
+    "1": {
+        "area": {
+            "id": 2072,
+            "name": "England",
+            "code": "ENG",
+            "flag": "https:\/\/crests.football-data.org\/770.svg"
+        },
+        "competition": {
+            "id": 2021,
+            "name": "Premier League",
+            "code": "PL",
+            "type": "LEAGUE",
+            "emblem": "https:\/\/crests.football-data.org\/PL.png"
+        },
+        "season": {
+            "id": 2287,
+            "startDate": "2024-08-16",
+            "endDate": "2025-05-25",
+            "currentMatchday": 32,
+            "winner": null
+        },
+        "id": 497698,
+        "utcDate": "2025-04-16T18:30:00Z",
+        "status": "FINISHED",
+        "matchday": 29,
+        "stage": "REGULAR_SEASON",
+        "group": null,
+        "lastUpdated": "2025-04-17T00:20:59Z",
+        "homeTeam": {
+            "id": 67,
+            "name": "Newcastle United FC",
+            "shortName": "Newcastle",
+            "tla": "NEW",
+            "crest": "https:\/\/crests.football-data.org\/67.png"
+        },
+        "awayTeam": {
+            "id": 354,
+            "name": "Crystal Palace FC",
+            "shortName": "Crystal Palace",
+            "tla": "CRY",
+            "crest": "https:\/\/crests.football-data.org\/354.png"
+        },
+        "score": {
+            "winner": "HOME_TEAM",
+            "duration": "REGULAR",
+            "fullTime": {
+                "home": 5,
+                "away": 0
+            },
+            "halfTime": {
+                "home": 4,
+                "away": 0
+            }
+        },
+        "odds": {
+            "msg": "Activate Odds-Package in User-Panel to retrieve odds."
+        },
+        "referees": [
+            {
+                "id": 11469,
+                "name": "Darren England",
+                "type": "REFEREE",
+                "nationality": "England"
+            }
+        ]
+    },
+    "2": {
+        "area": {
+            "id": 2077,
+            "name": "Europe",
+            "code": "EUR",
+            "flag": "https:\/\/crests.football-data.org\/EUR.svg"
+        },
+        "competition": {
+            "id": 2001,
+            "name": "UEFA Champions League",
+            "code": "CL",
+            "type": "CUP",
+            "emblem": "https:\/\/crests.football-data.org\/CL.png"
+        },
+        "season": {
+            "id": 2350,
+            "startDate": "2024-09-17",
+            "endDate": "2025-05-31",
+            "currentMatchday": 2,
+            "winner": null
+        },
+        "id": 524115,
+        "utcDate": "2025-04-16T19:00:00Z",
+        "status": "FINISHED",
+        "matchday": 2,
+        "stage": "QUARTER_FINALS",
+        "group": null,
+        "lastUpdated": "2025-04-17T00:20:58Z",
+        "homeTeam": {
+            "id": 108,
+            "name": "FC Internazionale Milano",
+            "shortName": "Inter",
+            "tla": "INT",
+            "crest": "https:\/\/crests.football-data.org\/108.png"
+        },
+        "awayTeam": {
+            "id": 5,
+            "name": "FC Bayern M\u00fcnchen",
+            "shortName": "Bayern",
+            "tla": "FCB",
+            "crest": "https:\/\/crests.football-data.org\/5.png"
+        },
+        "score": {
+            "winner": "DRAW",
+            "duration": "REGULAR",
+            "fullTime": {
+                "home": 2,
+                "away": 2
+            },
+            "halfTime": {
+                "home": 0,
+                "away": 0
+            }
+        },
+        "odds": {
+            "msg": "Activate Odds-Package in User-Panel to retrieve odds."
+        },
+        "referees": [
+            {
+                "id": 9351,
+                "name": "Slavko Vin\u010di\u010d",
+                "type": "REFEREE",
+                "nationality": "Slovenia"
+            }
+        ]
+    },
+    "3": {
+        "area": {
+            "id": 2077,
+            "name": "Europe",
+            "code": "EUR",
+            "flag": "https:\/\/crests.football-data.org\/EUR.svg"
+        },
+        "competition": {
+            "id": 2001,
+            "name": "UEFA Champions League",
+            "code": "CL",
+            "type": "CUP",
+            "emblem": "https:\/\/crests.football-data.org\/CL.png"
+        },
+        "season": {
+            "id": 2350,
+            "startDate": "2024-09-17",
+            "endDate": "2025-05-31",
+            "currentMatchday": 2,
+            "winner": null
+        },
+        "id": 524112,
+        "utcDate": "2025-04-16T19:00:00Z",
+        "status": "FINISHED",
+        "matchday": 2,
+        "stage": "QUARTER_FINALS",
+        "group": null,
+        "lastUpdated": "2025-04-17T00:20:58Z",
+        "homeTeam": {
+            "id": 86,
+            "name": "Real Madrid CF",
+            "shortName": "Real Madrid",
+            "tla": "RMA",
+            "crest": "https:\/\/crests.football-data.org\/86.png"
+        },
+        "awayTeam": {
+            "id": 57,
+            "name": "Arsenal FC",
+            "shortName": "Arsenal",
+            "tla": "ARS",
+            "crest": "https:\/\/crests.football-data.org\/57.png"
+        },
+        "score": {
+            "winner": "AWAY_TEAM",
+            "duration": "REGULAR",
+            "fullTime": {
+                "home": 1,
+                "away": 2
+            },
+            "halfTime": {
+                "home": 0,
+                "away": 0
+            }
+        },
+        "odds": {
+            "msg": "Activate Odds-Package in User-Panel to retrieve odds."
+        },
+        "referees": [
+            {
+                "id": 43918,
+                "name": "Fran\u00e7ois Letexier",
+                "type": "REFEREE",
+                "nationality": "France"
+            }
+        ]
+    }
+}

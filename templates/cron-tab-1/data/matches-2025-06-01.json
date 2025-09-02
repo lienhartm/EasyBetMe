@@ -1,0 +1,15 @@
+{
+    "filters": {
+        "dateFrom": "2025-06-01",
+        "dateTo": "2025-06-02",
+        "permission": "TIER_ONE"
+    },
+    "resultSet": {
+        "count": 9,
+        "competitions": "BSA",
+        "first": "2025-06-01",
+        "last": "2025-06-01",
+        "played": 9
+    },
+    "matches": []
+}

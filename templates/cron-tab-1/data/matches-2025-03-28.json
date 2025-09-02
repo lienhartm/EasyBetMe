@@ -1,0 +1,134 @@
+[
+    {
+        "area": {
+            "id": 2088,
+            "name": "Germany",
+            "code": "DEU",
+            "flag": "https:\/\/crests.football-data.org\/759.svg"
+        },
+        "competition": {
+            "id": 2002,
+            "name": "Bundesliga",
+            "code": "BL1",
+            "type": "LEAGUE",
+            "emblem": "https:\/\/crests.football-data.org\/BL1.png"
+        },
+        "season": {
+            "id": 2308,
+            "startDate": "2024-08-23",
+            "endDate": "2025-05-17",
+            "currentMatchday": 27,
+            "winner": null
+        },
+        "id": 502612,
+        "utcDate": "2025-03-28T19:30:00Z",
+        "status": "FINISHED",
+        "matchday": 27,
+        "stage": "REGULAR_SEASON",
+        "group": null,
+        "lastUpdated": "2025-03-29T00:20:54Z",
+        "homeTeam": {
+            "id": 3,
+            "name": "Bayer 04 Leverkusen",
+            "shortName": "Leverkusen",
+            "tla": "B04",
+            "crest": "https:\/\/crests.football-data.org\/3.png"
+        },
+        "awayTeam": {
+            "id": 36,
+            "name": "VfL Bochum 1848",
+            "shortName": "Bochum",
+            "tla": "BOC",
+            "crest": "https:\/\/crests.football-data.org\/36.png"
+        },
+        "score": {
+            "winner": "HOME_TEAM",
+            "duration": "REGULAR",
+            "fullTime": {
+                "home": 3,
+                "away": 1
+            },
+            "halfTime": {
+                "home": 1,
+                "away": 1
+            }
+        },
+        "odds": {
+            "msg": "Activate Odds-Package in User-Panel to retrieve odds."
+        },
+        "referees": [
+            {
+                "id": 15824,
+                "name": "Sven Jablonski",
+                "type": "REFEREE",
+                "nationality": "Germany"
+            }
+        ]
+    },
+    {
+        "area": {
+            "id": 2081,
+            "name": "France",
+            "code": "FRA",
+            "flag": "https:\/\/crests.football-data.org\/773.svg"
+        },
+        "competition": {
+            "id": 2015,
+            "name": "Ligue 1",
+            "code": "FL1",
+            "type": "LEAGUE",
+            "emblem": "https:\/\/crests.football-data.org\/FL1.png"
+        },
+        "season": {
+            "id": 2290,
+            "startDate": "2024-08-18",
+            "endDate": "2025-05-18",
+            "currentMatchday": 27,
+            "winner": null
+        },
+        "id": 498188,
+        "utcDate": "2025-03-28T19:45:00Z",
+        "status": "FINISHED",
+        "matchday": 27,
+        "stage": "REGULAR_SEASON",
+        "group": null,
+        "lastUpdated": "2025-03-29T00:20:55Z",
+        "homeTeam": {
+            "id": 576,
+            "name": "RC Strasbourg Alsace",
+            "shortName": "Strasbourg",
+            "tla": "RC ",
+            "crest": "https:\/\/crests.football-data.org\/576.png"
+        },
+        "awayTeam": {
+            "id": 523,
+            "name": "Olympique Lyonnais",
+            "shortName": "Olympique Lyon",
+            "tla": "LYO",
+            "crest": "https:\/\/crests.football-data.org\/523.png"
+        },
+        "score": {
+            "winner": "HOME_TEAM",
+            "duration": "REGULAR",
+            "fullTime": {
+                "home": 4,
+                "away": 2
+            },
+            "halfTime": {
+                "home": 0,
+                "away": 0
+            }
+        },
+        "odds": {
+            "msg": "Activate Odds-Package in User-Panel to retrieve odds."
+        },
+        "referees": [
+            {
+                "id": 57087,
+                "name": "Romain Lissorgue",
+                "type": "REFEREE",
+                "nationality": "France"
+            }
+        ]
+    }
+]

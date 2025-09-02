@@ -1,0 +1,158 @@
+{
+    "8": {
+        "area": {
+            "id": 2077,
+            "name": "Europe",
+            "code": "EUR",
+            "flag": "https:\/\/crests.football-data.org\/EUR.svg"
+        },
+        "competition": {
+            "id": 2001,
+            "name": "UEFA Champions League",
+            "code": "CL",
+            "type": "CUP",
+            "emblem": "https:\/\/crests.football-data.org\/CL.png"
+        },
+        "season": {
+            "id": 2350,
+            "startDate": "2024-09-17",
+            "endDate": "2025-05-31",
+            "currentMatchday": 2,
+            "winner": null
+        },
+        "id": 524111,
+        "utcDate": "2025-04-08T19:00:00Z",
+        "status": "FINISHED",
+        "matchday": 1,
+        "stage": "QUARTER_FINALS",
+        "group": null,
+        "lastUpdated": "2025-04-08T20:59:16Z",
+        "homeTeam": {
+            "id": 5,
+            "name": "FC Bayern M\u00fcnchen",
+            "shortName": "Bayern",
+            "tla": "FCB",
+            "crest": "https:\/\/crests.football-data.org\/5.png"
+        },
+        "awayTeam": {
+            "id": 108,
+            "name": "FC Internazionale Milano",
+            "shortName": "Inter",
+            "tla": "INT",
+            "crest": "https:\/\/crests.football-data.org\/108.png"
+        },
+        "score": {
+            "winner": "AWAY_TEAM",
+            "duration": "REGULAR",
+            "fullTime": {
+                "home": 1,
+                "away": 2
+            },
+            "halfTime": {
+                "home": 0,
+                "away": 1
+            },
+            "regularTime": {
+                "home": 0,
+                "away": 0
+            },
+            "extraTime": {
+                "home": 0,
+                "away": 0
+            },
+            "penalties": {
+                "home": 0,
+                "away": 0
+            }
+        },
+        "odds": {
+            "msg": "Activate Odds-Package in User-Panel to retrieve odds."
+        },
+        "referees": [
+            {
+                "id": 31823,
+                "name": "Sandro Sch\u00e4rer",
+                "type": "REFEREE",
+                "nationality": "Switzerland"
+            }
+        ]
+    },
+    "10": {
+        "area": {
+            "id": 2077,
+            "name": "Europe",
+            "code": "EUR",
+            "flag": "https:\/\/crests.football-data.org\/EUR.svg"
+        },
+        "competition": {
+            "id": 2001,
+            "name": "UEFA Champions League",
+            "code": "CL",
+            "type": "CUP",
+            "emblem": "https:\/\/crests.football-data.org\/CL.png"
+        },
+        "season": {
+            "id": 2350,
+            "startDate": "2024-09-17",
+            "endDate": "2025-05-31",
+            "currentMatchday": 2,
+            "winner": null
+        },
+        "id": 524108,
+        "utcDate": "2025-04-08T19:00:00Z",
+        "status": "FINISHED",
+        "matchday": 1,
+        "stage": "QUARTER_FINALS",
+        "group": null,
+        "lastUpdated": "2025-04-08T21:01:02Z",
+        "homeTeam": {
+            "id": 57,
+            "name": "Arsenal FC",
+            "shortName": "Arsenal",
+            "tla": "ARS",
+            "crest": "https:\/\/crests.football-data.org\/57.png"
+        },
+        "awayTeam": {
+            "id": 86,
+            "name": "Real Madrid CF",
+            "shortName": "Real Madrid",
+            "tla": "RMA",
+            "crest": "https:\/\/crests.football-data.org\/86.png"
+        },
+        "score": {
+            "winner": "HOME_TEAM",
+            "duration": "REGULAR",
+            "fullTime": {
+                "home": 3,
+                "away": 0
+            },
+            "halfTime": {
+                "home": 0,
+                "away": 0
+            },
+            "regularTime": {
+                "home": 0,
+                "away": 0
+            },
+            "extraTime": {
+                "home": 0,
+                "away": 0
+            },
+            "penalties": {
+                "home": 0,
+                "away": 0
+            }
+        },
+        "odds": {
+            "msg": "Activate Odds-Package in User-Panel to retrieve odds."
+        },
+        "referees": [
+            {
+                "id": 15680,
+                "name": "Irfan Peljto",
+                "type": "REFEREE",
+                "nationality": "Bosnia and Herzegovina"
+            }
+        ]
+    }
+}

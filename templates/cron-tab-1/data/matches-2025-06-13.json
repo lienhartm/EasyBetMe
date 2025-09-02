@@ -1,0 +1,134 @@
+{
+    "filters": {
+        "dateFrom": "2025-06-13",
+        "dateTo": "2025-06-14",
+        "permission": "TIER_ONE"
+    },
+    "resultSet": {
+        "count": 2,
+        "competitions": "BSA",
+        "first": "2025-06-13",
+        "last": "2025-06-13",
+        "played": 0
+    },
+    "matches": [
+        {
+            "area": {
+                "id": 2032,
+                "name": "Brazil",
+                "code": "BRA",
+                "flag": "https:\/\/crests.football-data.org\/764.svg"
+            },
+            "competition": {
+                "id": 2013,
+                "name": "Campeonato Brasileiro S\u00e9rie A",
+                "code": "BSA",
+                "type": "LEAGUE",
+                "emblem": "https:\/\/crests.football-data.org\/bsa.png"
+            },
+            "season": {
+                "id": 2371,
+                "startDate": "2025-03-29",
+                "endDate": "2025-12-21",
+                "currentMatchday": 9,
+                "winner": null
+            },
+            "id": 535050,
+            "utcDate": "2025-06-13T00:30:00Z",
+            "status": "TIMED",
+            "matchday": 12,
+            "stage": "REGULAR_SEASON",
+            "group": null,
+            "lastUpdated": "2025-04-09T17:10:32Z",
+            "homeTeam": {
+                "id": 1766,
+                "name": "CA Mineiro",
+                "shortName": "Mineiro",
+                "tla": "CAM",
+                "crest": "https:\/\/crests.football-data.org\/1766.png"
+            },
+            "awayTeam": {
+                "id": 6684,
+                "name": "SC Internacional",
+                "shortName": "Internacional",
+                "tla": "SCI",
+                "crest": "https:\/\/crests.football-data.org\/6684.png"
+            },
+            "score": {
+                "winner": null,
+                "duration": "REGULAR",
+                "fullTime": {
+                    "home": null,
+                    "away": null
+                },
+                "halfTime": {
+                    "home": null,
+                    "away": null
+                }
+            },
+            "odds": {
+                "msg": "Activate Odds-Package in User-Panel to retrieve odds."
+            },
+            "referees": []
+        },
+        {
+            "area": {
+                "id": 2032,
+                "name": "Brazil",
+                "code": "BRA",
+                "flag": "https:\/\/crests.football-data.org\/764.svg"
+            },
+            "competition": {
+                "id": 2013,
+                "name": "Campeonato Brasileiro S\u00e9rie A",
+                "code": "BSA",
+                "type": "LEAGUE",
+                "emblem": "https:\/\/crests.football-data.org\/bsa.png"
+            },
+            "season": {
+                "id": 2371,
+                "startDate": "2025-03-29",
+                "endDate": "2025-12-21",
+                "currentMatchday": 9,
+                "winner": null
+            },
+            "id": 535048,
+            "utcDate": "2025-06-13T00:30:00Z",
+            "status": "TIMED",
+            "matchday": 12,
+            "stage": "REGULAR_SEASON",
+            "group": null,
+            "lastUpdated": "2025-04-09T17:10:31Z",
+            "homeTeam": {
+                "id": 1776,
+                "name": "S\u00e3o Paulo FC",
+                "shortName": "S\u00e3o Paulo",
+                "tla": "PAU",
+                "crest": "https:\/\/crests.football-data.org\/1776.png"
+            },
+            "awayTeam": {
+                "id": 1780,
+                "name": "CR Vasco da Gama",
+                "shortName": "Vasco da Gama",
+                "tla": "VAS",
+                "crest": "https:\/\/crests.football-data.org\/1780.png"
+            },
+            "score": {
+                "winner": null,
+                "duration": "REGULAR",
+                "fullTime": {
+                    "home": null,
+                    "away": null
+                },
+                "halfTime": {
+                    "home": null,
+                    "away": null
+                }
+            },
+            "odds": {
+                "msg": "Activate Odds-Package in User-Panel to retrieve odds."
+            },
+            "referees": []
+        }
+    ]
+}

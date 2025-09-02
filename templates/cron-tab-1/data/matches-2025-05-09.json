@@ -1,0 +1,158 @@
+{
+    "4": {
+        "area": {
+            "id": 2088,
+            "name": "Germany",
+            "code": "DEU",
+            "flag": "https:\/\/crests.football-data.org\/759.svg"
+        },
+        "competition": {
+            "id": 2002,
+            "name": "Bundesliga",
+            "code": "BL1",
+            "type": "LEAGUE",
+            "emblem": "https:\/\/crests.football-data.org\/BL1.png"
+        },
+        "season": {
+            "id": 2308,
+            "startDate": "2024-08-23",
+            "endDate": "2025-05-17",
+            "currentMatchday": 31,
+            "winner": null
+        },
+        "id": 502661,
+        "utcDate": "2025-05-09T18:30:00Z",
+        "status": "FINISHED",
+        "matchday": 33,
+        "stage": "REGULAR_SEASON",
+        "group": null,
+        "lastUpdated": "2025-05-09T20:28:15Z",
+        "homeTeam": {
+            "id": 11,
+            "name": "VfL Wolfsburg",
+            "shortName": "Wolfsburg",
+            "tla": "WOB",
+            "crest": "https:\/\/crests.football-data.org\/11.png"
+        },
+        "awayTeam": {
+            "id": 2,
+            "name": "TSG 1899 Hoffenheim",
+            "shortName": "Hoffenheim",
+            "tla": "TSG",
+            "crest": "https:\/\/crests.football-data.org\/2.png"
+        },
+        "score": {
+            "winner": "DRAW",
+            "duration": "REGULAR",
+            "fullTime": {
+                "home": 2,
+                "away": 2
+            },
+            "halfTime": {
+                "home": 1,
+                "away": 1
+            },
+            "regularTime": {
+                "home": 0,
+                "away": 0
+            },
+            "extraTime": {
+                "home": 0,
+                "away": 0
+            },
+            "penalties": {
+                "home": 0,
+                "away": 0
+            }
+        },
+        "odds": {
+            "msg": "Activate Odds-Package in User-Panel to retrieve odds."
+        },
+        "referees": [
+            {
+                "id": 56230,
+                "name": "Matthias J\u00f6llenbeck",
+                "type": "REFEREE",
+                "nationality": "Germany"
+            }
+        ]
+    },
+    "5": {
+        "area": {
+            "id": 2224,
+            "name": "Spain",
+            "code": "ESP",
+            "flag": "https:\/\/crests.football-data.org\/760.svg"
+        },
+        "competition": {
+            "id": 2014,
+            "name": "Primera Division",
+            "code": "PD",
+            "type": "LEAGUE",
+            "emblem": "https:\/\/crests.football-data.org\/laliga.png"
+        },
+        "season": {
+            "id": 2292,
+            "startDate": "2024-08-18",
+            "endDate": "2025-05-25",
+            "currentMatchday": 34,
+            "winner": null
+        },
+        "id": 498961,
+        "utcDate": "2025-05-09T19:00:00Z",
+        "status": "FINISHED",
+        "matchday": 35,
+        "stage": "REGULAR_SEASON",
+        "group": null,
+        "lastUpdated": "2025-05-09T21:01:25Z",
+        "homeTeam": {
+            "id": 275,
+            "name": "UD Las Palmas",
+            "shortName": "Las Palmas",
+            "tla": "LPA",
+            "crest": "https:\/\/crests.football-data.org\/275.png"
+        },
+        "awayTeam": {
+            "id": 87,
+            "name": "Rayo Vallecano de Madrid",
+            "shortName": "Rayo Vallecano",
+            "tla": "RAY",
+            "crest": "https:\/\/crests.football-data.org\/87.png"
+        },
+        "score": {
+            "winner": "AWAY_TEAM",
+            "duration": "REGULAR",
+            "fullTime": {
+                "home": 0,
+                "away": 1
+            },
+            "halfTime": {
+                "home": 0,
+                "away": 0
+            },
+            "regularTime": {
+                "home": 0,
+                "away": 0
+            },
+            "extraTime": {
+                "home": 0,
+                "away": 0
+            },
+            "penalties": {
+                "home": 0,
+                "away": 0
+            }
+        },
+        "odds": {
+            "msg": "Activate Odds-Package in User-Panel to retrieve odds."
+        },
+        "referees": [
+            {
+                "id": 214213,
+                "name": "Francisco Hern\u00e1ndez Maeso",
+                "type": "REFEREE",
+                "nationality": "Spain"
+            }
+        ]
+    }
+}

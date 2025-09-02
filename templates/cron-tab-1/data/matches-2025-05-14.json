@@ -1,0 +1,214 @@
+{
+    "filters": {
+        "dateFrom": "2025-05-14",
+        "dateTo": "2025-05-15",
+        "permission": "TIER_ONE"
+    },
+    "resultSet": {
+        "count": 18,
+        "competitions": "CLI,PD,DED",
+        "first": "2025-05-14",
+        "last": "2025-05-14",
+        "played": 18
+    },
+    "matches": [
+        {
+            "area": {
+                "id": 2224,
+                "name": "Spain",
+                "code": "ESP",
+                "flag": "https:\/\/crests.football-data.org\/760.svg"
+            },
+            "competition": {
+                "id": 2014,
+                "name": "Primera Division",
+                "code": "PD",
+                "type": "LEAGUE",
+                "emblem": "https:\/\/crests.football-data.org\/laliga.png"
+            },
+            "season": {
+                "id": 2292,
+                "startDate": "2024-08-18",
+                "endDate": "2025-05-25",
+                "currentMatchday": 36,
+                "winner": null
+            },
+            "id": 498964,
+            "utcDate": "2025-05-14T17:00:00Z",
+            "status": "FINISHED",
+            "matchday": 36,
+            "stage": "REGULAR_SEASON",
+            "group": null,
+            "lastUpdated": "2025-05-15T00:20:53Z",
+            "homeTeam": {
+                "id": 263,
+                "name": "Deportivo Alav\u00e9s",
+                "shortName": "Alav\u00e9s",
+                "tla": "ALA",
+                "crest": "https:\/\/crests.football-data.org\/263.png"
+            },
+            "awayTeam": {
+                "id": 95,
+                "name": "Valencia CF",
+                "shortName": "Valencia",
+                "tla": "VAL",
+                "crest": "https:\/\/crests.football-data.org\/95.png"
+            },
+            "score": {
+                "winner": "HOME_TEAM",
+                "duration": "REGULAR",
+                "fullTime": {
+                    "home": 1,
+                    "away": 0
+                },
+                "halfTime": {
+                    "home": 0,
+                    "away": 0
+                }
+            },
+            "odds": {
+                "msg": "Activate Odds-Package in User-Panel to retrieve odds."
+            },
+            "referees": [
+                {
+                    "id": 206211,
+                    "name": "Jes\u00fas Gil Manzano",
+                    "type": "REFEREE",
+                    "nationality": "Spain"
+                }
+            ]
+        },
+        {
+            "area": {
+                "id": 2224,
+                "name": "Spain",
+                "code": "ESP",
+                "flag": "https:\/\/crests.football-data.org\/760.svg"
+            },
+            "competition": {
+                "id": 2014,
+                "name": "Primera Division",
+                "code": "PD",
+                "type": "LEAGUE",
+                "emblem": "https:\/\/crests.football-data.org\/laliga.png"
+            },
+            "season": {
+                "id": 2292,
+                "startDate": "2024-08-18",
+                "endDate": "2025-05-25",
+                "currentMatchday": 36,
+                "winner": null
+            },
+            "id": 498967,
+            "utcDate": "2025-05-14T17:00:00Z",
+            "status": "FINISHED",
+            "matchday": 36,
+            "stage": "REGULAR_SEASON",
+            "group": null,
+            "lastUpdated": "2025-05-15T00:20:53Z",
+            "homeTeam": {
+                "id": 94,
+                "name": "Villarreal CF",
+                "shortName": "Villarreal",
+                "tla": "VIL",
+                "crest": "https:\/\/crests.football-data.org\/94.png"
+            },
+            "awayTeam": {
+                "id": 745,
+                "name": "CD Legan\u00e9s",
+                "shortName": "Legan\u00e9s",
+                "tla": "LEG",
+                "crest": "https:\/\/crests.football-data.org\/745.png"
+            },
+            "score": {
+                "winner": "HOME_TEAM",
+                "duration": "REGULAR",
+                "fullTime": {
+                    "home": 3,
+                    "away": 0
+                },
+                "halfTime": {
+                    "home": 3,
+                    "away": 0
+                }
+            },
+            "odds": {
+                "msg": "Activate Odds-Package in User-Panel to retrieve odds."
+            },
+            "referees": [
+                {
+                    "id": 15628,
+                    "name": "Ricardo de Burgos",
+                    "type": "REFEREE",
+                    "nationality": "Spain"
+                }
+            ]
+        },
+        {
+            "area": {
+                "id": 2224,
+                "name": "Spain",
+                "code": "ESP",
+                "flag": "https:\/\/crests.football-data.org\/760.svg"
+            },
+            "competition": {
+                "id": 2014,
+                "name": "Primera Division",
+                "code": "PD",
+                "type": "LEAGUE",
+                "emblem": "https:\/\/crests.football-data.org\/laliga.png"
+            },
+            "season": {
+                "id": 2292,
+                "startDate": "2024-08-18",
+                "endDate": "2025-05-25",
+                "currentMatchday": 36,
+                "winner": null
+            },
+            "id": 498969,
+            "utcDate": "2025-05-14T19:30:00Z",
+            "status": "FINISHED",
+            "matchday": 36,
+            "stage": "REGULAR_SEASON",
+            "group": null,
+            "lastUpdated": "2025-05-15T00:20:53Z",
+            "homeTeam": {
+                "id": 86,
+                "name": "Real Madrid CF",
+                "shortName": "Real Madrid",
+                "tla": "RMA",
+                "crest": "https:\/\/crests.football-data.org\/86.png"
+            },
+            "awayTeam": {
+                "id": 89,
+                "name": "RCD Mallorca",
+                "shortName": "Mallorca",
+                "tla": "MAL",
+                "crest": "https:\/\/crests.football-data.org\/89.png"
+            },
+            "score": {
+                "winner": "HOME_TEAM",
+                "duration": "REGULAR",
+                "fullTime": {
+                    "home": 2,
+                    "away": 1
+                },
+                "halfTime": {
+                    "home": 0,
+                    "away": 1
+                }
+            },
+            "odds": {
+                "msg": "Activate Odds-Package in User-Panel to retrieve odds."
+            },
+            "referees": [
+                {
+                    "id": 80747,
+                    "name": "Javier Alberola Rojas",
+                    "type": "REFEREE",
+                    "nationality": null
+                }
+            ]
+        }
+    ]
+}

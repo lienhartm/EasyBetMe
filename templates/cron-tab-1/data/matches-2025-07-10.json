@@ -1,0 +1,11 @@
+{
+    "filters": {
+        "dateFrom": "2025-07-10",
+        "dateTo": "2025-07-11",
+        "permission": "TIER_ONE"
+    },
+    "resultSet": {
+        "count": 0
+    },
+    "matches": []
+}

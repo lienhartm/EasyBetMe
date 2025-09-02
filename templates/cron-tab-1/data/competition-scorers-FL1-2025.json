@@ -1,0 +1,22 @@
+{
+    "count": 0,
+    "filters": {
+        "season": "2025",
+        "limit": 10
+    },
+    "competition": {
+        "id": 2015,
+        "name": "Ligue 1",
+        "code": "FL1",
+        "type": "LEAGUE",
+        "emblem": "https:\/\/crests.football-data.org\/FL1.png"
+    },
+    "season": {
+        "id": 2420,
+        "startDate": "2025-08-17",
+        "endDate": "2026-05-16",
+        "currentMatchday": 1,
+        "winner": null
+    },
+    "scorers": []
+}

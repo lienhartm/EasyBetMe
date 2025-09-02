@@ -1,0 +1,207 @@
+{
+    "filters": {
+        "dateFrom": "2025-03-03",
+        "dateTo": "2025-03-04",
+        "permission": "TIER_ONE"
+    },
+    "resultSet": {
+        "count": 3,
+        "competitions": "SA,PD,PPL",
+        "first": "2025-03-03",
+        "last": "2025-03-03",
+        "played": 2
+    },
+    "matches": [
+        {
+            "area": {
+                "id": 2114,
+                "name": "Italy",
+                "code": "ITA",
+                "flag": "https:\/\/crests.football-data.org\/784.svg"
+            },
+            "competition": {
+                "id": 2019,
+                "name": "Serie A",
+                "code": "SA",
+                "type": "LEAGUE",
+                "emblem": "https:\/\/crests.football-data.org\/SA.png"
+            },
+            "season": {
+                "id": 2310,
+                "startDate": "2024-08-18",
+                "endDate": "2025-05-25",
+                "currentMatchday": 27,
+                "winner": null
+            },
+            "id": 503307,
+            "utcDate": "2025-03-03T19:45:00Z",
+            "status": "FINISHED",
+            "matchday": 27,
+            "stage": "REGULAR_SEASON",
+            "group": null,
+            "lastUpdated": "2025-03-03T21:45:17Z",
+            "homeTeam": {
+                "id": 109,
+                "name": "Juventus FC",
+                "shortName": "Juventus",
+                "tla": "JUV",
+                "crest": "https:\/\/crests.football-data.org\/109.png"
+            },
+            "awayTeam": {
+                "id": 450,
+                "name": "Hellas Verona FC",
+                "shortName": "Verona",
+                "tla": "HVE",
+                "crest": "https:\/\/crests.football-data.org\/450.png"
+            },
+            "score": {
+                "winner": "HOME_TEAM",
+                "duration": "REGULAR",
+                "fullTime": {
+                    "home": 2,
+                    "away": 0
+                },
+                "halfTime": {
+                    "home": 0,
+                    "away": 0
+                }
+            },
+            "odds": {
+                "msg": "Activate Odds-Package in User-Panel to retrieve odds."
+            },
+            "referees": [
+                {
+                    "id": 57762,
+                    "name": "Matteo Marchetti",
+                    "type": "REFEREE",
+                    "nationality": "Italy"
+                }
+            ]
+        },
+        {
+            "area": {
+                "id": 2224,
+                "name": "Spain",
+                "code": "ESP",
+                "flag": "https:\/\/crests.football-data.org\/760.svg"
+            },
+            "competition": {
+                "id": 2014,
+                "name": "Primera Division",
+                "code": "PD",
+                "type": "LEAGUE",
+                "emblem": "https:\/\/crests.football-data.org\/laliga.png"
+            },
+            "season": {
+                "id": 2292,
+                "startDate": "2024-08-18",
+                "endDate": "2025-05-25",
+                "currentMatchday": 26,
+                "winner": null
+            },
+            "id": 498872,
+            "utcDate": "2025-03-03T20:00:00Z",
+            "status": "POSTPONED",
+            "matchday": 26,
+            "stage": "REGULAR_SEASON",
+            "group": null,
+            "lastUpdated": "2025-03-03T20:28:08Z",
+            "homeTeam": {
+                "id": 94,
+                "name": "Villarreal CF",
+                "shortName": "Villarreal",
+                "tla": "VIL",
+                "crest": "https:\/\/crests.football-data.org\/94.png"
+            },
+            "awayTeam": {
+                "id": 80,
+                "name": "RCD Espanyol de Barcelona",
+                "shortName": "Espanyol",
+                "tla": "ESP",
+                "crest": "https:\/\/crests.football-data.org\/80.png"
+            },
+            "score": {
+                "winner": "DRAW",
+                "duration": "REGULAR",
+                "fullTime": {
+                    "home": 0,
+                    "away": 0
+                },
+                "halfTime": {
+                    "home": null,
+                    "away": null
+                }
+            },
+            "odds": {
+                "msg": "Activate Odds-Package in User-Panel to retrieve odds."
+            },
+            "referees": [
+                {
+                    "id": 206223,
+                    "name": "Jos\u00e9 Munuera Montero",
+                    "type": "REFEREE",
+                    "nationality": "Spain"
+                }
+            ]
+        },
+        {
+            "area": {
+                "id": 2187,
+                "name": "Portugal",
+                "code": "POR",
+                "flag": "https:\/\/crests.football-data.org\/765.svg"
+            },
+            "competition": {
+                "id": 2017,
+                "name": "Primeira Liga",
+                "code": "PPL",
+                "type": "LEAGUE",
+                "emblem": "https:\/\/crests.football-data.org\/PPL.png"
+            },
+            "season": {
+                "id": 2312,
+                "startDate": "2024-08-11",
+                "endDate": "2025-05-17",
+                "currentMatchday": 24,
+                "winner": null
+            },
+            "id": 503813,
+            "utcDate": "2025-03-03T20:15:00Z",
+            "status": "FINISHED",
+            "matchday": 24,
+            "stage": "REGULAR_SEASON",
+            "group": null,
+            "lastUpdated": "2025-03-03T22:24:32Z",
+            "homeTeam": {
+                "id": 498,
+                "name": "Sporting Clube de Portugal",
+                "shortName": "Sporting CP",
+                "tla": "SPO",
+                "crest": "https:\/\/crests.football-data.org\/498.png"
+            },
+            "awayTeam": {
+                "id": 582,
+                "name": "GD Estoril Praia",
+                "shortName": "Estoril Praia",
+                "tla": "EST",
+                "crest": "https:\/\/crests.football-data.org\/582.png"
+            },
+            "score": {
+                "winner": "HOME_TEAM",
+                "duration": "REGULAR",
+                "fullTime": {
+                    "home": 3,
+                    "away": 1
+                },
+                "halfTime": {
+                    "home": 2,
+                    "away": 0
+                }
+            },
+            "odds": {
+                "msg": "Activate Odds-Package in User-Panel to retrieve odds."
+            },
+            "referees": []
+        }
+    ]
+}

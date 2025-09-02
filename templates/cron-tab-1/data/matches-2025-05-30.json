@@ -1,0 +1,15 @@
+{
+    "filters": {
+        "dateFrom": "2025-05-30",
+        "dateTo": "2025-05-31",
+        "permission": "TIER_ONE"
+    },
+    "resultSet": {
+        "count": 2,
+        "competitions": "CLI",
+        "first": "2025-05-30",
+        "last": "2025-05-30",
+        "played": 2
+    },
+    "matches": []
+}

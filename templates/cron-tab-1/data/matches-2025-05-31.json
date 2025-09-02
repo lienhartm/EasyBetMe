@@ -1,0 +1,94 @@
+{
+    "filters": {
+        "dateFrom": "2025-05-31",
+        "dateTo": "2025-06-01",
+        "permission": "TIER_ONE"
+    },
+    "resultSet": {
+        "count": 3,
+        "competitions": "CL,BSA",
+        "first": "2025-05-31",
+        "last": "2025-06-01",
+        "played": 3
+    },
+    "matches": [
+        {
+            "area": {
+                "id": 2077,
+                "name": "Europe",
+                "code": "EUR",
+                "flag": "https:\/\/crests.football-data.org\/EUR.svg"
+            },
+            "competition": {
+                "id": 2001,
+                "name": "UEFA Champions League",
+                "code": "CL",
+                "type": "CUP",
+                "emblem": "https:\/\/crests.football-data.org\/CL.png"
+            },
+            "season": {
+                "id": 2350,
+                "startDate": "2024-09-17",
+                "endDate": "2025-05-31",
+                "currentMatchday": 8,
+                "winner": null
+            },
+            "id": 524120,
+            "utcDate": "2025-05-31T19:00:00Z",
+            "status": "FINISHED",
+            "matchday": 0,
+            "stage": "FINAL",
+            "group": null,
+            "lastUpdated": "2025-05-31T20:55:46Z",
+            "homeTeam": {
+                "id": 524,
+                "name": "Paris Saint-Germain FC",
+                "shortName": "PSG",
+                "tla": "PSG",
+                "crest": "https:\/\/crests.football-data.org\/524.png"
+            },
+            "awayTeam": {
+                "id": 108,
+                "name": "FC Internazionale Milano",
+                "shortName": "Inter",
+                "tla": "INT",
+                "crest": "https:\/\/crests.football-data.org\/108.png"
+            },
+            "score": {
+                "winner": "HOME_TEAM",
+                "duration": "REGULAR",
+                "fullTime": {
+                    "home": 5,
+                    "away": 0
+                },
+                "halfTime": {
+                    "home": 2,
+                    "away": 0
+                },
+                "regularTime": {
+                    "home": 0,
+                    "away": 0
+                },
+                "extraTime": {
+                    "home": 0,
+                    "away": 0
+                },
+                "penalties": {
+                    "home": 0,
+                    "away": 0
+                }
+            },
+            "odds": {
+                "msg": "Activate Odds-Package in User-Panel to retrieve odds."
+            },
+            "referees": [
+                {
+                    "id": 37278,
+                    "name": "Istv\u00e1n Kov\u00e1cs",
+                    "type": "REFEREE",
+                    "nationality": "Romania"
+                }
+            ]
+        }
+    ]
+}

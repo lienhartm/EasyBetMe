@@ -1,0 +1,68 @@
+{
+    "2": {
+        "area": {
+            "id": 2077,
+            "name": "Europe",
+            "code": "EUR",
+            "flag": "https:\/\/crests.football-data.org\/EUR.svg"
+        },
+        "competition": {
+            "id": 2001,
+            "name": "UEFA Champions League",
+            "code": "CL",
+            "type": "CUP",
+            "emblem": "https:\/\/crests.football-data.org\/CL.png"
+        },
+        "season": {
+            "id": 2350,
+            "startDate": "2024-09-17",
+            "endDate": "2025-05-31",
+            "currentMatchday": 8,
+            "winner": null
+        },
+        "id": 524118,
+        "utcDate": "2025-05-07T19:00:00Z",
+        "status": "FINISHED",
+        "matchday": 2,
+        "stage": "SEMI_FINALS",
+        "group": null,
+        "lastUpdated": "2025-05-08T00:20:59Z",
+        "homeTeam": {
+            "id": 524,
+            "name": "Paris Saint-Germain FC",
+            "shortName": "PSG",
+            "tla": "PSG",
+            "crest": "https:\/\/crests.football-data.org\/524.png"
+        },
+        "awayTeam": {
+            "id": 57,
+            "name": "Arsenal FC",
+            "shortName": "Arsenal",
+            "tla": "ARS",
+            "crest": "https:\/\/crests.football-data.org\/57.png"
+        },
+        "score": {
+            "winner": "HOME_TEAM",
+            "duration": "REGULAR",
+            "fullTime": {
+                "home": 2,
+                "away": 1
+            },
+            "halfTime": {
+                "home": 1,
+                "away": 0
+            }
+        },
+        "odds": {
+            "msg": "Activate Odds-Package in User-Panel to retrieve odds."
+        },
+        "referees": [
+            {
+                "id": 43878,
+                "name": "Felix Zwayer",
+                "type": "REFEREE",
+                "nationality": "Germany"
+            }
+        ]
+    }
+}
