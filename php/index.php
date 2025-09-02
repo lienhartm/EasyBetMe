@@ -1,4 +1,5 @@
 <?php
+
 ini_set('display_errors', 1);
 ini_set('display_startup_errors', 1);
 error_reporting(E_ALL);
@@ -17,7 +18,6 @@ require_once "controleur/ProfilControlleur.php";
 
 $ctrlHome = new HomeControlleur();
 
-    
 if(isset($_GET['action'])){
     $action = $_GET['action'];
     $id=(isset($_GET['id']))?$_GET['id']: "";
@@ -64,6 +64,7 @@ if(isset($_GET['action'])){
 } else {	
     $ctrlHome->homePage();
 }
+
 /*
 $pdo = new BD();
 

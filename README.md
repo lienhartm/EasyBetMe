@@ -326,7 +326,7 @@ Fichier émis
 La commande suivante permet d'insérer la tâche *cron* dans le fichier *crontab* en la recopiant directement dans le terminal de votre ordinateur hébergeant localement l'environnement docker propre au site **EasyBetMe**.
 
 ```bash
-(crontab -l; echo "# Récupération des données depuis les API's";echo "0 4 * * * docker exec php73 php /var/www/html/crontab.php") | crontab -
+(crontab -l; echo "# Récupération des données depuis les API's";echo "0 4 * * * docker exec php73 php /var/www/html/cron/crontab.php") | crontab -
 ```
 
 ----

@@ -1,111 +1,184 @@
 <?php
 
 ini_set('log_errors', 1);
-ini_set('error_log', '/var/www/html/logfile/error_log.txt');
+ini_set('error_log', '/var/www/html/logfile/error.log');
 ini_set('error_reporting', E_ALL);
 
 $time = date("d-m-Y H:i");
 
 // journalisation des processus
 function logMessage($message) {
-    $logfile = '/var/www/html/logfile/cron_log.txt';
+    $logfile = '/var/www/html/logfile/cron.log';
     file_put_contents($logfile, date('Y-m-d H:i:s') . " - " . $message . "\n", FILE_APPEND);
 }
 
 // enregistrement
 logMessage(str_repeat("=", 49));
 logMessage("Démarrage de la tâche cron - EasyBet Cron tab 1 - " . $time);
-logMessage("| " . str_pad("Nb", 4) . " | " . str_pad("Url", 80) . " | " . str_pad("Filename", 40) . " | " . str_pad("Filesize", 10) . " | " . str_pad('Status', 8) . " |");
+logMessage(str_repeat("=", 49));
 
-$a = 0;
-date_default_timezone_set('Europe/Paris');
-$year = date('Y');
-$directory = "/var/www/html/data/";
-$dateFrom = date('Y-m-d', strtotime('-1 day'));
-$dateTo = date('Y-m-d');
+$logDir = '/var/www/html/logfile/';
+$maxSize = 109400; // 100 Ko
 
-// existence du répertoire
-if (!is_dir($directory)) {
-    $errorMessage = "Le répertoire $directory n'existe pas !";
-    logMessage($errorMessage);
-    die($errorMessage);
-}
+try {
 
-// fonction pour supprimer les fichiers plus vieux que 10 jours
-$currentTime = time();
-$files = scandir($directory);
-
-foreach ($files as $file) {
-    // Ignorer les dossiers '.' et '..'
-    if ($file === '.' || $file === '..') {
-        continue;
+    // Vérifier si le répertoire existe
+    if (!is_dir($logDir)) {
+        throw new Exception("Le répertoire " . $logDir . " spécifié n'existe pas.\n");
     }
 
-    // Récupérer le chemin complet du fichier
-    $filePath = $directory . DIRECTORY_SEPARATOR . $file;
+    // Ouvrir le répertoire
+    $dir = opendir($logDir);
+    if (!$dir) {
+        throw new Exception("Impossible d'ouvrir le répertoire " . $logDir);
+    }
 
+    while (($file = readdir($dir)) !== false) {
+        // Ignorer les répertoires "." et ".."
+        if ($file == '.' || $file == '..') {
+            continue;
+        }
 
-    // Vérifier si c'est un fichier
-    if (is_file($filePath)) {
-        // Obtenir la date de la dernière modification du fichier
-        $fileModificationTime = filemtime($filePath);
+        $filePath = $logDir . '/' . $file;
 
-        // Vérifier si le fichier a été modifié il y a plus de 10 jours
-        if ($currentTime - $fileModificationTime > 10 * 24 * 60 * 60) {
-            // Supprimer le fichier
-            if (unlink($filePath)) {
-                logMessage("Le fichier $file a été supprimé.\n");
-            } else {
-                logMessae("Erreur lors de la suppression du fichier $file.\n");
+        // Vérifier si c'est un fichier .log
+        if (is_file($filePath) && pathinfo($file, PATHINFO_EXTENSION) == 'log') {
+            $fileSize = filesize($filePath);
+
+            // Si le fichier dépasse 100 Ko
+            if ($fileSize + 7000 > $maxSize) {
+                // Extraire le nom de base du fichier sans l'extension
+                $baseName = pathinfo($file, PATHINFO_FILENAME);
+
+                // Compter le nombre de fichiers sauvegardés existants
+                $count = count(glob($logDir . '/' . $baseName . '*.log.save'));
+
+                // Nouveau nom avec suffixe numérique
+                $newName = $logDir . '/' . $baseName . '_' . $count . '.log.save';
+
+                // Renommer le fichier
+                if (!rename($filePath, $newName)) {
+                    throw new Exception("Impossible de renommer le fichier '$file'.");
+                }
+
+                logMessage("Le fichier '$file' a été renommé en '$newName'\n");
             }
         }
     }
+
+    // Fermer le répertoire
+    closedir($dir);
+
+} catch (Exception $e) {
+    logMessage('Erreur : ' . $e->getMessage());
+} finally {
+    logMessage(" - ##### Fin de la gestion des fichiers de logs ##### - ");
 }
+
+    logMessage(str_repeat("=", 49));
+
+    $a = 0;
+    date_default_timezone_set('Europe/Paris');
+    $year = date('Y');
+    $directory = "/var/www/html/data/";
+    $dateFrom = date('Y-m-d', strtotime('-1 day'));
+    $dateTo = date('Y-m-d');
+
+try {
+    // existence du répertoire
+    if (!is_dir($directory)) {
+        throw new Execption("Le répertoire $directory n'existe pas !");
+    }
+
+    // fonction pour supprimer les fichiers plus vieux que 10 jours
+    $currentTime = time();
+    $files = scandir($directory);
+
+    foreach ($files as $file) {
+        // Ignorer les dossiers '.' et '..'
+        if ($file === '.' || $file === '..') {
+            continue;
+        }
+
+        // Récupérer le chemin complet du fichier
+        $filePath = $directory . DIRECTORY_SEPARATOR . $file;
+
+        // Vérifier si c'est un fichier
+        if (is_file($filePath)) {
+            // Obtenir la date de la dernière modification du fichier
+            $fileModificationTime = filemtime($filePath);
+
+            // Vérifier si le fichier a été modifié il y a plus de 10 jours
+            if ($currentTime - $fileModificationTime > 10 * 24 * 60 * 60) {
+                // Supprimer le fichier
+                if (unlink($filePath)) {
+                    logMessage("Le fichier $file a été supprimé.");
+                } else {
+                    throw new Exception("Erreur lors de la suppression du fichier $file.");
+                }
+            }
+        }
+    }
+
+} catch (Exception $e) {
+    logMessage('Erreur : ' . $e->getMessage());
+} finally {
+    logMessage(" - ##### Fin de la gestion des fichiers datas ##### - ");
+}
+
+logMessage(str_repeat("=", 49));
+
+logMessage("| " . str_pad("Nb", 4) . " | " . str_pad("Url", 80) . " | " . str_pad("Filename", 40) . " | " . str_pad("Filesize", 10) . " | " . str_pad('Status', 8) . " |");
 
 // fonction pour les requêtes
 function matches(&$a, $token, $url, $filename, $directory) {
 
-    $response = @file_get_contents($url, false, stream_context_create([
-        'http' => ['method' => 'GET','header' => 'X-Auth-Token: ' .$token, 'timeout' => 10]
-    ]));
+    try {
+        $response = @file_get_contents($url, false, stream_context_create([
+            'http' => ['method' => 'GET','header' => 'X-Auth-Token: ' .$token, 'timeout' => 10]
+        ]));
 
-    if ($response === FALSE) {
-        logMessage("Erreur lors de l'accès à l'URL: $url");
-        return;
+        if ($response === FALSE) {
+            throw new Exception("Erreur lors de l'accès à l'URL: $url");
+        }
+
+        ++$a;
+        $data = json_decode($response, true);
+
+        if (json_last_error() !== JSON_ERROR_NONE) {
+            throw new Exception('Erreur lors du décodage du JSON : ' . json_last_error_msg());
+        }
+
+        $name = str_replace(".json", "", $filename); 
+        // Commenter le 'SWITCH' pour récupérer la totalitée des données
+        
+        switch ($name) {
+            case 'competitions':
+                $filtered = array_filter($data['competitions'], function($comp) {
+                    return in_array($comp['code'], ['PL', 'CL', 'FL1', 'BL1', 'SA', 'PD', 'WC']);
+                });
+                $data['filters']['client'] = 'MonWebPro - EasyBet';
+                $data['count']  = count($filtered);
+                $data['competitions'] = array_values($filtered);
+                break;
+            default:
+                $filtered = array_filter($data['matches'], function($match) {
+                    return in_array($match['competition']['code'], ['PL', 'CL', 'FL1', 'BL1', 'SA', 'PD', 'WC']);
+                });
+                $data['matches'] = array_values($filtered);
+                break;
+        }
+        
+        if(!file_put_contents($directory . $filename, json_encode($data, JSON_PRETTY_PRINT))) {
+            throw new Exception("Erreur lors de l'écriture dans le fichier $filename");
+        }
+
+        logMessage("| " . str_pad($a, 4) . " | " . str_pad($url, 80) . " | " . str_pad($filename, 40) . " | " . str_pad(filesize($directory . $filename), 10) . " | " . str_pad("ok", 8) . " |");
+
+        sleep(10);
+    } catch (Exception $e) {
+        logMessage('Erreur : ' . $e->getMessage());
     }
-
-    ++$a;
-    $data = json_decode($response, true);
-
-    if (json_last_error() !== JSON_ERROR_NONE) {
-        logMessage('Erreur lors du décodage du JSON : ' . json_last_error_msg());
-        return;
-    }
-
-    $name = str_replace(".json", "", $filename); 
-    // Commenter le 'SWITCH' pour récupérer la totalitée des données
-    
-    switch ($name) {
-        case 'competitions':
-            $filtered = array_filter($data['competitions'], function($comp) {
-                return in_array($comp['code'], ['PL', 'CL', 'FL1', 'BL1', 'SA', 'PD', 'WC']);
-            });
-            $data['filters']['client'] = 'MonWebPro - EasyBet';
-            $data['count']  = count($filtered);
-            $data['competitions'] = array_values($filtered);
-            break;
-        default:
-            $filtered = array_filter($data['matches'], function($match) {
-                return in_array($match['competition']['code'], ['PL', 'CL', 'FL1', 'BL1', 'SA', 'PD', 'WC']);
-            });
-            $data['matches'] = array_values($filtered);
-            break;
-    }
-    
-    file_put_contents($directory . $filename, json_encode($data, JSON_PRETTY_PRINT));
-    logMessage("| " . str_pad($a, 4) . " | " . str_pad($url, 80) . " | " . str_pad($filename, 40) . " | " . str_pad(filesize($directory . $filename), 10) . " | " . str_pad("ok", 8) . " |");
-
-    sleep(10);
     
 }
 // URL
@@ -117,29 +190,31 @@ matches($a, $token, "https://api.football-data.org/v4/matches?dateFrom=" . $date
 matches($a, $token, "https://api.football-data.org/v4/competitions", "competitions.json", $directory);
 
 function fetchData(&$a, $token, $url, $filename, $directory) {
-    $reqPrefs = ['http' => ['method' => 'GET','header' => 'X-Auth-Token: ' . $token, 'timeout' => 10]];
-    $response = @file_get_contents($url, false, stream_context_create($reqPrefs));
+    try {
+        $reqPrefs = ['http' => ['method' => 'GET','header' => 'X-Auth-Token: ' . $token, 'timeout' => 10]];
+        $response = @file_get_contents($url, false, stream_context_create($reqPrefs));
 
-    if ($response === FALSE) {
-        logMessage("Erreur lors de l'accès à l'URL: $url");
-        return;
+        if ($response === FALSE) {
+            throw new Exception("Erreur lors de l'accès à l'URL: $url");
+        }
+
+        ++$a;
+        $data = json_decode($response, true);
+
+        if (json_last_error() !== JSON_ERROR_NONE) {
+            throw new Exception('Erreur lors du décodage du JSON : ' . json_last_error_msg());
+        }
+
+        if(!file_put_contents($directory . $filename, json_encode($data, JSON_PRETTY_PRINT))) {
+            throw new Exception("Erreur lors de l'écriture dans le fichier $filename");
+        }
+
+        logMessage("| " . str_pad($a, 4) . " | " . str_pad($url, 80) . " | " . str_pad($filename, 40) . " | " . str_pad(filesize($directory . $filename), 10) . " | " . str_pad("ok", 8) . " |");
+        sleep(10);
+    } catch (Exception $e) {
+        logMessage('Erreur : ' . $e->getMessage());
     }
-
-    ++$a;
-    $data = json_decode($response, true);
-
-    if (json_last_error() !== JSON_ERROR_NONE) {
-        logMessage('Erreur lors du décodage du JSON : ' . json_last_error_msg());
-        return;
-    }
-
-    file_put_contents($directory . $filename, json_encode($data, JSON_PRETTY_PRINT));
-
-    logMessage("| " . str_pad($a, 4) . " | " . str_pad($url, 80) . " | " . str_pad($filename, 40) . " | " . str_pad(filesize($directory . $filename), 10) . " | " . str_pad("ok", 8) . " |");
-    sleep(10);
 }
-
-//sleep(10);
 
 $competitions = ['PL', 'CL', 'FL1', 'BL1', 'SA', 'PD', 'WC'];
 
@@ -152,8 +227,6 @@ foreach ($competitions as $code) {
 }
 
 //// récupération des dernières nouvelles de football !
-
-
 $date = date('Y-m-d', strtotime('-1 day'));
 $dateTo = date('Y-m-d'); // Correction du format de date
 $apiKey = 'dcd3126ac90f4aab9585afd4b50c8703';
@@ -173,46 +246,53 @@ $queryParams = [
 // Construction de l'URL avec les paramètres de requête
 $url = $baseUrl . '?' . http_build_query($queryParams);
 
-// Initialisation de cURL
-$ch = curl_init();
+try {
 
-// Définir les options de cURL
-curl_setopt($ch, CURLOPT_URL, $url);             // L'URL de l'API
-curl_setopt($ch, CURLOPT_RETURNTRANSFER, true);  // Retourner le résultat sous forme de chaîne
-curl_setopt($ch, CURLOPT_TIMEOUT, 30);           // Temps d'attente pour la requête (en secondes)
-curl_setopt($ch, CURLOPT_USERAGENT, 'EasyBetMe - MonWebPro'); // Ajouter un User-Agent personnalisé
+    // Initialisation de cURL
+    $ch = curl_init();
+    // Définir les options de cURL
+    curl_setopt($ch, CURLOPT_URL, $url);             // L'URL de l'API
+    curl_setopt($ch, CURLOPT_RETURNTRANSFER, true);  // Retourner le résultat sous forme de chaîne
+    curl_setopt($ch, CURLOPT_TIMEOUT, 30);           // Temps d'attente pour la requête (en secondes)
+    curl_setopt($ch, CURLOPT_USERAGENT, 'EasyBetMe - MonWebPro'); // Ajouter un User-Agent personnalisé
 
-// Exécuter la requête cURL
-$response = curl_exec($ch);
+    // Exécuter la requête cURL
+    $response = curl_exec($ch);
 
-// Vérifier si une erreur s'est produite
-if (curl_errno($ch)) {
-    logMessage('Erreur cURL : ' . curl_error($ch));
-    exit;
-}
-
-// Fermer la session cURL
-curl_close($ch);
-
-// Décoder la réponse JSON
-$data = json_decode($response, true);
-
-// Vérifier si la requête a réussi
-if ($data['status'] === 'ok' && !empty($data['articles'])) {
-    // Nom du fichier avec la date actuelle
-    $filename = "footnews.json";
-
-    // Enregistrer les articles dans un fichier JSON
-    $jsonData = json_encode($data, JSON_PRETTY_PRINT);
-    
-    // Sauvegarder les données dans le fichier
-    if (file_put_contents($directory . $filename, $jsonData)) {
-        logMessage("| " . str_pad($a, 4) . " | " . str_pad($url, 86) . " |  \n". str_pad(" ", 112) . "| " . str_pad($filename, 40) . " | " . str_pad(filesize($directory . $filename), 10) . " | " . str_pad("ok", 8) . " |");
-    } else {
-        logMessage( "Erreur lors de l'enregistrement des données dans le fichier.");
+    // Vérifier si une erreur s'est produite
+    if (curl_errno($ch)) {
+        throw new Exception('Erreur cURL : ' . curl_error($ch));
     }
-} else {
-    logMessage( "Aucune actualité trouvée ou erreur de l'API.");
+
+    // Fermer la session cURL
+    curl_close($ch);
+
+    // Décoder la réponse JSON
+    if(!$data = json_decode($response, true)) {
+        throw new Exception('Erreur lors du décodage du JSON : ' . json_last_error_msg());
+    };
+
+    // Vérifier si la requête a réussi
+    if ($data['status'] === 'ok' && !empty($data['articles'])) {
+        // Nom du fichier avec la date actuelle
+        $filename = "footnews.json";
+
+        // Enregistrer les articles dans un fichier JSON
+        $jsonData = json_encode($data, JSON_PRETTY_PRINT);
+        
+        // Sauvegarder les données dans le fichier
+        if (!file_put_contents($directory . $filename, $jsonData)) {
+            throw new Execption("Erreur lors de l'enregistrement des données dans le fichier $filename.");
+        }
+
+        logMessage("| " . str_pad($a, 4) . " | " . str_pad($url, 86) . "   |\n...". str_pad(" ", 109) . "| " . str_pad($filename, 40) . " | " . str_pad(filesize($directory . $filename), 10) . " | " . str_pad("ok", 8) . " |");
+
+    } else {
+        throw new Exception( "Aucune actualité trouvée ou erreur de l'API.");
+    }
+
+} catch (Exception $e) {
+    logMessage('Erreur : ' . $e->getMessage());
 }
 
 /*
@@ -224,30 +304,34 @@ sleep(60);
 
 $url = "http://localhost/";
 
-$ch = curl_init();
+try {
+    $ch = curl_init();
 
-// Configurer les options
-curl_setopt($ch, CURLOPT_URL, $url);                 // Méthode POST
-curl_setopt($ch, CURLOPT_RETURNTRANSFER, true);       // Retourner le résultat dans une variable
+    // Configurer les options
+    curl_setopt($ch, CURLOPT_URL, $url);                 // Méthode POST
+    curl_setopt($ch, CURLOPT_RETURNTRANSFER, true);       // Retourner le résultat dans une variable
 
-// Exécuter la requête
-$response = curl_exec($ch);
+    // Exécuter la requête
+    $response = curl_exec($ch);
 
-// Vérifier s'il y a eu une erreur
-if (curl_errno($ch)) {
-    logMessage('Erreur cURL : ' . curl_error($ch));
-} else {
-    logMessage("Réponse du serveur : Mise à jour ok !");
+    // Vérifier s'il y a eu une erreur
+    if (curl_errno($ch)) {
+        throw new Exception('Erreur cURL : ' . curl_error($ch));
+    } else {
+        logMessage("Réponse du serveur : Mise à jour ok !");
+    }
+
+    // Fermer la session cURL
+    curl_close($ch);
+} catch (Exception $e) {
+    logMessage('Erreur : ' . $e->getMessage());
 }
 
-// Fermer la session cURL
-curl_close($ch);
 $response = null;
 $url = null;
 
 logMessage(" ## Fin récupération des données ## ");
 
-print_r($data);
 
 ?>
 
