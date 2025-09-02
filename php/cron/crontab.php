@@ -1,3 +1,4 @@
+<!-- DEBUT DU SCRIPT PHP * crontab.php * -->
 <?php
 
 ini_set('log_errors', 1);
@@ -16,7 +17,7 @@ function logMessage($message) {
 logMessage(str_repeat("=", 49));
 logMessage("Démarrage de la tâche cron - EasyBet Cron tab 1 - " . $time);
 logMessage(str_repeat("=", 49));
-
+logMessage(" - ##### Gestion des fichiers de logs ##### - ");
 $logDir = '/var/www/html/logfile/';
 $maxSize = 109400; // 100 Ko
 
@@ -76,6 +77,7 @@ try {
 }
 
     logMessage(str_repeat("=", 49));
+    logMessage(" - ##### Gestion des fichiers datas ##### - ");
 
     $a = 0;
     date_default_timezone_set('Europe/Paris');
@@ -127,7 +129,7 @@ try {
 }
 
 logMessage(str_repeat("=", 49));
-
+logMessage(" - ##### Récupération des données API ##### - ");
 logMessage("| " . str_pad("Nb", 4) . " | " . str_pad("Url", 80) . " | " . str_pad("Filename", 40) . " | " . str_pad("Filesize", 10) . " | " . str_pad('Status', 8) . " |");
 
 // fonction pour les requêtes
@@ -285,6 +287,7 @@ try {
             throw new Execption("Erreur lors de l'enregistrement des données dans le fichier $filename.");
         }
 
+        ++$a;
         logMessage("| " . str_pad($a, 4) . " | " . str_pad($url, 86) . "   |\n...". str_pad(" ", 109) . "| " . str_pad($filename, 40) . " | " . str_pad(filesize($directory . $filename), 10) . " | " . str_pad("ok", 8) . " |");
 
     } else {
@@ -293,13 +296,217 @@ try {
 
 } catch (Exception $e) {
     logMessage('Erreur : ' . $e->getMessage());
+} finally {
+    logMessage(" - ##### Fin récupération des données API ##### - ");
 }
+
+logMessage(str_repeat("=", 49));
+logMessage(' - ##### Mise à jour de la base de données ##### - ');
 
 /*
 Mettre à jour les données dans la base de données
 curl -X POST http://localhost:8080/index.php?action=home
 */
 
+// Nouvelle configuration de connexion
+$db_server = 'db';  // Hôte de la base de données
+$db_name = 'easybet';  // Nom de la base de données
+$db_login = 'monwebpro';  // Identifiant utilisateur
+$db_password = 'toor';  // Mot de passe8';
+
+try {
+	$db = new PDO('mysql:host='.$db_server.';dbname='.$db_name.';charset=utf8', $db_login, $db_password);
+	$db->setAttribute(PDO::ATTR_ERRMODE, PDO::ERRMODE_EXCEPTION);
+}
+catch (PDOException $e) {
+    $errorMessage = "Erreur de connexion à la base de données : " . $e->getMessage();
+    logMessage($errorMessage);
+    die($errorMessage);
+}
+
+$total = 0;
+
+try {
+    $Paris = $db->query('SELECT * FROM easybet_bets WHERE result IS NULL AND DATE(date) != CURDATE()');
+    $Paris = $Paris->fetchAll(PDO::FETCH_ASSOC);
+} catch (Exception $e) {
+    $errorMessage = "Erreur lors de la requête : " . $e->getMessage();
+    logMessage($errorMessage);
+    die($errorMessage);
+}
+
+try {
+    $currentDate = date('Y-m-d');
+    $Events = $db->query('SELECT * FROM easybet_events ORDER BY datedebut ASC LIMIT 1');
+    $Events = $Events->fetch(PDO::FETCH_ASSOC);
+} catch (Exception $e) {
+    $errorMessage = "Erreur lors de la requête : " . $e->getMessage();
+    logMessage($errorMessage);
+    die($errorMessage);
+}
+
+try {    
+    $Gamers = $db->query('SELECT * FROM easybet_gamers ORDER BY event_points DESC');
+    $Gamers = $Gamers->fetchAll(PDO::FETCH_ASSOC);
+    if (isset($Gamers) && !empty($Gamers)) {
+    $rank = 1;
+    foreach ($Gamers as $key => &$gamer) {
+
+        $gamer['rank'] = $rank;
+
+        if (isset($Gamers[$key + 1]) && $Gamers[$key + 1]['event_points'] == $gamer['event_points']) {
+            continue;
+        }
+
+        $rank++;
+    }
+}
+} catch (Exception $e) {
+    $errorMessage = "Erreur lors de la requête : " . $e->getMessage();
+    logMessage($errorMessage);
+    die($errorMessage);
+}
+
+try {
+
+    if ($Paris) {
+
+        foreach($Paris as $Pari) {
+
+            $date = date("Y-m-d", strtotime($Pari['date']));
+
+            $path = "/var/www/html/data/matches-" . date("Y-m-d", strtotime($Pari['date'])) . ".json";
+        
+            if (!file_exists($path)) {
+                throw new Exception("Le fichier n'existe pas : " . $path);
+            }
+            
+            $myfile = fopen($path, "r");
+
+            if (!$myfile) {
+                throw new Exception("Impossible d'ouvrir le fichier $path !");
+            }
+
+            $file = fread($myfile, filesize($path));
+            fclose($myfile);
+            $data = json_decode($file, true);
+
+            $data = $data['matches'];
+            
+            if (json_last_error() !== JSON_ERROR_NONE) {
+                throw new Exception('Erreur lors du décodage du JSON : ' . json_last_error_msg());
+            }
+
+            if ($Pari['result'] == null) {
+                $points = '';
+
+                foreach($data as $a) {
+
+                    if (($a['score']['winner'] == null)) {
+                        continue;
+                    }
+
+                    if ($a['id'] != $Pari['id_game']) {
+                        continue;
+                    }
+
+                    switch ($a['score']['winner']) {
+                        case 'HOME_TEAM': $PariBet = '1'; break;
+                        case 'AWAY_TEAM': $PariBet = '2'; break;
+                        case 'DRAW': $PariBet = 'N'; break;
+                        default: $PariBet = null; break;
+                    }
+
+                    $update = $db->prepare('UPDATE easybet_bets SET result = :result WHERE id_game = :idGame');
+                    $update->execute([':idGame' => $Pari['id_game'], ':result' => $PariBet]);
+
+                    if ($Pari['bet'] === $PariBet) {
+                        $points = 1;
+                    }
+                    elseif (($Pari['score_d'] === $a['score']['fullTime']['home']) && ($Pari['score_v'] === $a['score']['fullTime']['away'])) {
+                        $points = 3;
+                    }
+                    else {
+                        $points = 0;
+                    }
+
+                    $update = $db->prepare('UPDATE easybet_users SET points = points + :points, coins = coins + :points WHERE id = :userId');
+                    $update->execute([
+                        ':points' => $points,
+                        ':userId' => $Pari['id_user'],
+                    ]);
+
+                    if($Events) {
+                        if (date('Y-m-d') >= $Events['datedebut'] && date('Y-m-d') <= $Events['datefin'] && $Pari['date'] >= $Events['datedebut'] && $Pari['date'] <= $Events['datefin']) { // Si la date du pari est dans l'intervalle de l'événement date("Y-m-d", strtotime($Pari['date'])
+                            
+                            $updateGamer = $db->prepare('UPDATE easybet_gamers SET event_points = event_points + :coins WHERE id_user = :idUser');
+                            $updateGamer->execute([
+                                ':coins' => $points,
+                                ':idUser' => $Pari['id_user'],
+                            ]);
+                        }
+                    }
+
+                    $PariBet = null;
+                    $points = null;
+
+                }
+            }
+        }
+    }
+
+} catch (Exception $e) {
+    $errorMessage = "Erreur : " . $e->getMessage();
+    logMessage($errorMessage);
+    die($errorMessage);
+}
+
+if (isset($Events) && !empty($Events)) {
+    if(date('Y-m-d') > $Events['datedebut']) {
+        $gains = [ 1000, 500, 250, 100 ];
+        foreach($gains as $gain) {
+                
+            for($i = 0; $i < 4; ++$i) {
+                foreach($Gamers as $Gamer) {
+                    if($Gamer['rank'] == $i) {
+                        $update = $db->prepare('UPDATE easybet_gamers SET event_points = event_points + :coins WHERE id_user = :idUser');
+                        $update->execute([
+                            ':coins' => $gains[$i],
+                            ':idUser' => $Gamer['id_user'],
+                        ]);
+                    }
+                }
+            }
+        }
+
+        try {
+            // Supprimer les GAMERS
+            $delete = $db->prepare('DELETE FROM easybet_gamers');
+            if($delete->execute()) {
+                throw new Exception("Erreur lors de la suppression des gamers !");
+            }
+            // Supprimer l' event
+            $deleteEvent = $db->prepare('DELETE FROM easybet_events WHERE datefin < :datefin');
+            if($deleteEvent->execute([':datefin' => date('Y-m-d')])) {
+                throw new Exception("Erreur lors de la suppression de l'event !");
+            }
+            // Supprimer les paris < 15 jours
+            $deletePari = $db->prepare('DELETE FROM easybet_bets WHERE date < :date');
+            if($deletePari->execute([':date' => date('Y-m-d', strtotime('-15 days'))])) {
+                throw new Exception("Erreur lors de la suppression des paris !");
+            }
+        } catch (Exception $e) {
+            $errorMessage = "Erreur lors de la requête : " . $e->getMessage();
+            logMessage($errorMessage);
+            die($errorMessage);
+        }
+    }
+}
+
+logMessage(" - ##### Fin mise à jour de la base de données ##### - ");
+logMessage(str_repeat("=", 49));
+/* test response page */
+logMessage(' - ##### Test de la page d\'accueil ##### - ');
 sleep(60);
 
 $url = "http://localhost/";
@@ -310,6 +517,10 @@ try {
     // Configurer les options
     curl_setopt($ch, CURLOPT_URL, $url);                 // Méthode POST
     curl_setopt($ch, CURLOPT_RETURNTRANSFER, true);       // Retourner le résultat dans une variable
+    curl_setopt($ch, CURLOPT_FOLLOWLOCATION, true);               // Suivre les redirections (si applicable)
+    curl_setopt($ch, CURLOPT_HEADER, true);                       // Inclure les en-têtes de réponse
+    curl_setopt($ch, CURLOPT_NOBODY, false);                      // Télécharger le corps de la réponse (par défaut false)
+    curl_setopt($ch, CURLOPT_TIMEOUT, 30);                         // Délai d'attente maximal (en secondes)
 
     // Exécuter la requête
     $response = curl_exec($ch);
@@ -318,71 +529,48 @@ try {
     if (curl_errno($ch)) {
         throw new Exception('Erreur cURL : ' . curl_error($ch));
     } else {
-        logMessage("Réponse du serveur : Mise à jour ok !");
+        // Récupérer le code HTTP de la réponse
+        $httpCode = curl_getinfo($ch, CURLINFO_HTTP_CODE);
+        $totalTime = curl_getinfo($ch, CURLINFO_TOTAL_TIME);  // Temps total pour la requête
+        $connectTime = curl_getinfo($ch, CURLINFO_CONNECT_TIME);  // Temps pour établir la connexion
+        $sizeDownload = curl_getinfo($ch, CURLINFO_SIZE_DOWNLOAD); // Taille des données téléchargées
+        $headerSize = curl_getinfo($ch, CURLINFO_HEADER_SIZE);  // Taille des en-têtes
+
+        // Séparer les en-têtes et le corps de la réponse
+        $headers = substr($response, 0, $headerSize);
+        $body = substr($response, $headerSize);
+
+        // Affichage des informations collectées
+        logMessage("Réponse du serveur : Code HTTP = $httpCode");
+        logMessage("Temps de réponse total : $totalTime secondes");
+        logMessage("Temps de connexion : $connectTime secondes");
+        logMessage("Taille des données téléchargées : $sizeDownload octets");
+
+        // Afficher les en-têtes de la réponse (si nécessaire)
+        logMessage("En-têtes de la réponse :\n$headers");
+        logMessage("Corps de la réponse :\n$body");
+
+        if ($httpCode >= 200 && $httpCode < 300) {
+            logMessage("La page d'accueil est accessible et a répondu avec succès.");
+        } else {
+            throw new Exception("La page d'accueil n'est pas accessible. Code HTTP : $httpCode");
+        }
     }
 
     // Fermer la session cURL
     curl_close($ch);
 } catch (Exception $e) {
     logMessage('Erreur : ' . $e->getMessage());
+} finally {
+    logMessage(" - ##### Fin test de la page d'accueil ##### - ");
 }
 
 $response = null;
 $url = null;
 
-logMessage(" ## Fin récupération des données ## ");
-
+logMessage(str_repeat("=", 49));
+logMessage("Fin de la tâche cron - EasyBet Cron tab 1 - " . date("d-m-Y H:i"));
+logMessage(str_repeat("=", 49));
 
 ?>
-
-<!-- 
-
-    FIN DE LA CRONTAB 
- 
-    exemple de logs du fichier cron_log.php :
-
-2025-06-17 09:23:59 - =================================================
-2025-06-17 09:23:59 - Démarrage de la tâche cron - EasyBet Cron tab 1 - 17-06-2025 09:23
-2025-06-17 09:23:59 - | Nb   | Url                                                                              | Filename                                 | Filesize   | Status   |
-2025-06-17 09:24:00 - | 1    | https://api.football-data.org/v4/matches                                         | matches-2025-06-17.json                  | 189        | ok       |
-2025-06-17 09:24:11 - | 2    | https://api.football-data.org/v4/matches?dateFrom=2025-06-16&dateTo=2025-06-17   | matches-2025-06-16.json                  | 189        | ok       |
-2025-06-17 09:24:21 - | 3    | https://api.football-data.org/v4/competitions                                    | competitions.json                        | 11164      | ok       |
-2025-06-17 09:24:31 - | 4    | https://api.football-data.org/v4/competitions/PL                                 | competition-info-PL.json                 | 40868      | ok       |
-2025-06-17 09:24:42 - | 5    | https://api.football-data.org/v4/competitions/PL/matches?year=2025               | competition-matches-PL-2025.json         | 814819     | ok       |
-2025-06-17 09:24:52 - | 6    | https://api.football-data.org/v4/competitions/PL/standings?year=2025             | competition-standings-PL-2025.json       | 14696      | ok       |
-2025-06-17 09:25:02 - | 7    | https://api.football-data.org/v4/competitions/PL/scorers?year=2025               | competition-scorers-PL-2025.json         | 11770      | ok       |
-2025-06-17 09:25:12 - | 8    | https://api.football-data.org/v4/competitions/CL                                 | competition-info-CL.json                 | 10975      | ok       |
-2025-06-17 09:25:23 - | 9    | https://api.football-data.org/v4/competitions/CL/matches?year=2025               | competition-matches-CL-2025.json         | 405999     | ok       |
-2025-06-17 09:25:33 - | 10   | https://api.football-data.org/v4/competitions/CL/standings?year=2025             | competition-standings-CL-2025.json       | 25665      | ok       |
-2025-06-17 09:25:44 - | 11   | https://api.football-data.org/v4/competitions/CL/scorers?year=2025               | competition-scorers-CL-2025.json         | 11887      | ok       |
-2025-06-17 09:25:54 - | 12   | https://api.football-data.org/v4/competitions/FL1                                | competition-info-FL1.json                | 15978      | ok       |
-2025-06-17 09:26:04 - | 13   | https://api.football-data.org/v4/competitions/FL1/matches?year=2025              | competition-matches-FL1-2025.json        | 654380     | ok       |
-2025-06-17 09:26:14 - | 14   | https://api.football-data.org/v4/competitions/FL1/standings?year=2025            | competition-standings-FL1-2025.json      | 13259      | ok       |
-2025-06-17 09:26:25 - | 15   | https://api.football-data.org/v4/competitions/FL1/scorers?year=2025              | competition-scorers-FL1-2025.json        | 11960      | ok       |
-2025-06-17 09:26:35 - | 16   | https://api.football-data.org/v4/competitions/BL1                                | competition-info-BL1.json                | 26773      | ok       |
-2025-06-17 09:26:46 - | 17   | https://api.football-data.org/v4/competitions/BL1/matches?year=2025              | competition-matches-BL1-2025.json        | 654622     | ok       |
-2025-06-17 09:26:56 - | 18   | https://api.football-data.org/v4/competitions/BL1/standings?year=2025            | competition-standings-BL1-2025.json      | 13261      | ok       |
-2025-06-17 09:27:07 - | 19   | https://api.football-data.org/v4/competitions/BL1/scorers?year=2025              | competition-scorers-BL1-2025.json        | 11890      | ok       |
-2025-06-17 09:27:17 - | 20   | https://api.football-data.org/v4/competitions/SA                                 | competition-info-SA.json                 | 19998      | ok       |
-2025-06-17 09:27:28 - | 21   | https://api.football-data.org/v4/competitions/SA/matches?year=2025               | competition-matches-SA-2025.json         | 729519     | ok       |
-2025-06-17 09:27:38 - | 22   | https://api.football-data.org/v4/competitions/SA/standings?year=2025             | competition-standings-SA-2025.json       | 14412      | ok       |
-2025-06-17 09:27:48 - | 23   | https://api.football-data.org/v4/competitions/SA/scorers?year=2025               | competition-scorers-SA-2025.json         | 460        | ok       |
-2025-06-17 09:27:58 - | 24   | https://api.football-data.org/v4/competitions/PD                                 | competition-info-PD.json                 | 20094      | ok       |
-2025-06-17 09:28:09 - | 25   | https://api.football-data.org/v4/competitions/PD/matches?year=2025               | competition-matches-PD-2025.json         | 818886     | ok       |
-2025-06-17 09:28:19 - | 26   | https://api.football-data.org/v4/competitions/PD/standings?year=2025             | competition-standings-PD-2025.json       | 14686      | ok       |
-2025-06-17 09:28:31 - | 27   | https://api.football-data.org/v4/competitions/PD/scorers?year=2025               | competition-scorers-PD-2025.json         | 12014      | ok       |
-2025-06-17 09:28:41 - | 28   | https://api.football-data.org/v4/competitions/WC                                 | competition-info-WC.json                 | 16741      | ok       |
-2025-06-17 09:28:51 - | 29   | https://api.football-data.org/v4/competitions/WC/matches?year=2025               | competition-matches-WC-2025.json         | 172438     | ok       |
-2025-06-17 09:29:01 - | 30   | https://api.football-data.org/v4/competitions/WC/standings?year=2025             | competition-standings-WC-2025.json       | 24061      | ok       |
-2025-06-17 09:29:11 - | 31   | https://api.football-data.org/v4/competitions/WC/scorers?year=2025               | competition-scorers-WC-2025.json         | 12298      | ok       |
-2025-06-17 09:29:21 - | 32   | https://newsapi.org/v2/everything?q=football&language=fr&from=2025-06-17&to=2025-06-17&sortBy=publishedAt&apiKey=dcd3126ac90f4aab9585afd4b50c8703 | newsapi-football-2025-06-17.json         | 65         | ok       |
-2025-06-17 09:29:21 -  ## Fin récupération des données ## 
-2025-06-17 09:29:21 -  - ##### Fin de la tâche cron tab 1 ##### - 
-2025-06-17 10:06:10 - =================================================
-
-    exmple de logs du fichier error_log.php :
-
-[14-May-2025 11:30:52 Europe/Berlin] PHP Warning:  Undefined variable $a in /homepages/18/d864215150/htdocs/monwebpro.com/sites/easybet/templates/cron-tab-1/index.php on line 81
-[14-May-2025 11:36:04 Europe/Berlin] PHP Warning:  Undefined array key "alert_cookie" in /homepages/18/d864215150/htdocs/monwebpro.com/tools/cookies.php on line 2
-
--->
+<!-- FIN DU SCRIPT PHP * crontab.php * -->
