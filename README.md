@@ -125,9 +125,9 @@ Dans le cas d'*EasyBetMe*, la gamification sert à motiver les utilisateurs à i
 | **Mini-jeu (pénalty)** | Jeu complémentaire pour gagner des crédits | Ludification directe, micro-engagement |
 | **Boutique virtuelle** | Achat de cadeaux via crédits accumulés | Objectif, progression, sens du but |
 | **Progression & récompense différée** | Contribution partielle jusqu'à l'obtention du cadeau | Accumulation, anticipation, gratification différée |
-| **Opt-in pour les classements** | L'utilisateur choisit de participer à l'événement | Volontariat, autonomie (cf. SDT*)
+| **Opt-in pour les classements** | L'utilisateur choisit de participer à l'événement | Volontariat, autonomie (cf. SDT[*])
 
-*SDT : **Self-Determination Theory (Deci & Ryan, 2000) - Théorie de la motivation qui souligne le rôle de l'autonomie, la compétence et la raison sociale.
+[*]SDT : **Self-Determination Theory (Deci & Ryan, 2000) - Théorie de la motivation qui souligne le rôle de l'autonomie, la compétence et la raison sociale.
 
 #### 2.3. Analyse selon le modèle Octalysis (Yu-kay Chou)
 
