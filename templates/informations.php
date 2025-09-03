@@ -1,6 +1,5 @@
 <?
 if ($data) {
-    echo 'ok';
     include 'templates/informations/'.$data.'.php';
 
 }
