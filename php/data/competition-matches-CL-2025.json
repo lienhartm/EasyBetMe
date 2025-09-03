@@ -338,7 +338,7 @@
             "matchday": 1,
             "stage": "LEAGUE_STAGE",
             "group": null,
-            "lastUpdated": "2025-09-02T00:21:00Z",
+            "lastUpdated": "2025-09-03T00:21:01Z",
             "homeTeam": {
                 "id": 86,
                 "name": "Real Madrid CF",
@@ -928,7 +928,7 @@
             "matchday": 1,
             "stage": "LEAGUE_STAGE",
             "group": null,
-            "lastUpdated": "2025-09-02T00:21:00Z",
+            "lastUpdated": "2025-09-03T00:21:01Z",
             "homeTeam": {
                 "id": 65,
                 "name": "Manchester City FC",
@@ -1164,7 +1164,7 @@
             "matchday": 2,
             "stage": "LEAGUE_STAGE",
             "group": null,
-            "lastUpdated": "2025-09-02T00:21:00Z",
+            "lastUpdated": "2025-09-03T00:21:01Z",
             "homeTeam": {
                 "id": 10601,
                 "name": "FK Kairat",
@@ -1872,7 +1872,7 @@
             "matchday": 2,
             "stage": "LEAGUE_STAGE",
             "group": null,
-            "lastUpdated": "2025-09-02T00:21:00Z",
+            "lastUpdated": "2025-09-03T00:21:01Z",
             "homeTeam": {
                 "id": 548,
                 "name": "AS Monaco FC",
@@ -2462,7 +2462,7 @@
             "matchday": 3,
             "stage": "LEAGUE_STAGE",
             "group": null,
-            "lastUpdated": "2025-09-02T00:21:00Z",
+            "lastUpdated": "2025-09-03T00:21:01Z",
             "homeTeam": {
                 "id": 94,
                 "name": "Villarreal CF",
@@ -3170,7 +3170,7 @@
             "matchday": 3,
             "stage": "LEAGUE_STAGE",
             "group": null,
-            "lastUpdated": "2025-09-02T00:21:00Z",
+            "lastUpdated": "2025-09-03T00:21:01Z",
             "homeTeam": {
                 "id": 86,
                 "name": "Real Madrid CF",
@@ -3701,7 +3701,7 @@
             "matchday": 4,
             "stage": "LEAGUE_STAGE",
             "group": null,
-            "lastUpdated": "2025-09-02T00:21:00Z",
+            "lastUpdated": "2025-09-03T00:21:01Z",
             "homeTeam": {
                 "id": 64,
                 "name": "Liverpool FC",
@@ -3937,7 +3937,7 @@
             "matchday": 4,
             "stage": "LEAGUE_STAGE",
             "group": null,
-            "lastUpdated": "2025-09-02T00:21:00Z",
+            "lastUpdated": "2025-09-03T00:21:01Z",
             "homeTeam": {
                 "id": 65,
                 "name": "Manchester City FC",
@@ -4468,7 +4468,7 @@
             "matchday": 5,
             "stage": "LEAGUE_STAGE",
             "group": null,
-            "lastUpdated": "2025-09-02T00:21:00Z",
+            "lastUpdated": "2025-09-03T00:21:01Z",
             "homeTeam": {
                 "id": 65,
                 "name": "Manchester City FC",
@@ -5235,7 +5235,7 @@
             "matchday": 5,
             "stage": "LEAGUE_STAGE",
             "group": null,
-            "lastUpdated": "2025-09-02T00:21:00Z",
+            "lastUpdated": "2025-09-03T00:21:01Z",
             "homeTeam": {
                 "id": 654,
                 "name": "PAE Olympiakos SFP",
@@ -6356,7 +6356,7 @@
             "matchday": 6,
             "stage": "LEAGUE_STAGE",
             "group": null,
-            "lastUpdated": "2025-09-02T00:21:00Z",
+            "lastUpdated": "2025-09-03T00:21:01Z",
             "homeTeam": {
                 "id": 86,
                 "name": "Real Madrid CF",
@@ -6474,7 +6474,7 @@
             "matchday": 7,
             "stage": "LEAGUE_STAGE",
             "group": null,
-            "lastUpdated": "2025-09-02T00:21:00Z",
+            "lastUpdated": "2025-09-03T00:21:01Z",
             "homeTeam": {
                 "id": 5721,
                 "name": "FK Bod\u00f8\/Glimt",
@@ -6828,7 +6828,7 @@
             "matchday": 7,
             "stage": "LEAGUE_STAGE",
             "group": null,
-            "lastUpdated": "2025-09-02T00:21:00Z",
+            "lastUpdated": "2025-09-03T00:21:01Z",
             "homeTeam": {
                 "id": 86,
                 "name": "Real Madrid CF",
@@ -7595,7 +7595,7 @@
             "matchday": 8,
             "stage": "LEAGUE_STAGE",
             "group": null,
-            "lastUpdated": "2025-09-02T00:21:00Z",
+            "lastUpdated": "2025-09-03T00:21:01Z",
             "homeTeam": {
                 "id": 65,
                 "name": "Manchester City FC",
@@ -8421,7 +8421,7 @@
             "matchday": 8,
             "stage": "LEAGUE_STAGE",
             "group": null,
-            "lastUpdated": "2025-09-02T00:21:00Z",
+            "lastUpdated": "2025-09-03T00:21:01Z",
             "homeTeam": {
                 "id": 1903,
                 "name": "Sport Lisboa e Benfica",
@@ -11135,7 +11135,7 @@
             "matchday": null,
             "stage": "FINAL",
             "group": null,
-            "lastUpdated": "2025-09-02T00:21:00Z",
+            "lastUpdated": "2025-09-03T00:21:01Z",
             "homeTeam": {
                 "id": null,
                 "name": null,

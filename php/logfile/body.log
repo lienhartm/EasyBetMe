@@ -1,16 +1,10 @@
-<?php 
 
-    $_SESSION['login']=0; 
 
-    $Site = ['nom' => 'EasyBet.me', 'url'=>'127.0.0.1'];
-    //$User = ['id' => 31];
-    $Url = $Site['url'];
 
-?>
 <!doctype html>
 <html>
 <head>
-	<title><?php echo $Site['nom']; ?></title>
+	<title>EasyBet.me</title>
 
     <link rel="canonical" href="" />
     <link rel="icon" href="/images/favicon.ico" />
@@ -54,8 +48,10 @@
         {
         "@context": "https://schema.org",
         "@type": "Game",
-        "@name": "<?=$Site['name'];?>",
-        "@url": "<?=$Url;?>",
+        "@name": "<br />
+<b>Notice</b>:  Undefined index: name in <b>/var/www/html/template.php</b> on line <b>57</b><br />
+",
+        "@url": "127.0.0.1",
         "@logo": "/images/logo-easybet.png",
         "description": "Jouez gratuitement chaque jour, faites votre pronostic et gagnez des cadeaux !"
         }
@@ -69,20 +65,10 @@
 
         <a href="index.php?action=home"><span class="fa icon">&#xf1e3;</span></a>
 
-        <a href="index.php?action=infos" class="icon">INFOS</a>
+        <a href="index.php?action=informations" class="icon">INFOS</a>
         <a href="index.php?action=news" class="icon">ACTUS</a>
 
-    <? if($_SESSION['login']==1 && ($User['id']==1 || $User['id']==2  || $User['id']==31)):?>
-	    <a href="index.php?action=admin"><span class="icon">&#xe994;</span></a>
-	<? endif; ?>
-	<? if($_SESSION['login']==1):?>
-	    <a href="index.php?action=gift"><span class="icon">&#xe99f;</span><label><?=$User['gift'];?></label></a>
-	<? endif; ?>
-	<? if($_SESSION['login']==1):?>
-	    <a href="index.php?action=penalty"><span class="icon">&#xe915;</span></a>
-	<? endif; ?>
-	<? $nav_link = ($_SESSION['login']==1) ? $Url.'/profile' : $Url.'/login'; ?>
-
+    			
     	<a href="index.php?action=profile"><span  class="fa icon">&#xf007;</span></a>
 
         <a href="index.php?action=aide"><span class="fa icon">&#xf059;</span></a>
@@ -91,7 +77,7 @@
 </header>
 <!--<div class="gradient"></div> ? MESSAGE ?-->
 <main>
-	<?= $contenu ?>
+	
 </main>
 	<footer>
 		<div class="footer">
@@ -110,7 +96,7 @@
 			</div>
 		</div>
 
-		<h6><?=date("Y",time())?> Copyright © EasyBet.me</h6>
+		<h6>2025 Copyright © EasyBet.me</h6>
 	</footer>
 </body>
 </html>
@@ -119,3 +105,5 @@
 
 
 </style>
+
+

@@ -1,8 +1,8 @@
 <?php
 
-class GiftControlleur {
+class GamerControlleur {
     
-    public function giftPage() {
+    public function gamerPage() {
 
         require "view/index.php";
 

@@ -1,4 +1,6 @@
-<!-- DEBUT DU SCRIPT PHP * crontab.php * -->
+<!--
+    DEBUT DU SCRIPT PHP * crontab.php *
+-->
 <?php
 
 ini_set('log_errors', 1);
@@ -15,7 +17,7 @@ function logMessage($message) {
 
 // enregistrement
 logMessage(str_repeat("=", 49));
-logMessage("Démarrage de la tâche cron - EasyBet Cron tab 1 - " . $time);
+logMessage(" - ##### Démarrage de la tâche cron - EasyBet Crontab ##### - ");
 logMessage(str_repeat("=", 49));
 logMessage(" - ##### Gestion des fichiers de logs ##### - ");
 $logDir = '/var/www/html/logfile/';
@@ -291,7 +293,7 @@ try {
         logMessage("| " . str_pad($a, 4) . " | " . str_pad($url, 86) . "   |\n...". str_pad(" ", 109) . "| " . str_pad($filename, 40) . " | " . str_pad(filesize($directory . $filename), 10) . " | " . str_pad("ok", 8) . " |");
 
     } else {
-        throw new Exception( "Aucune actualité trouvée ou erreur de l'API.");
+        throw new Exception( "Erreur : " . $data['status'] . " - " . $data['message'] );
     }
 
 } catch (Exception $e) {
@@ -541,14 +543,14 @@ try {
         $body = substr($response, $headerSize);
 
         // Affichage des informations collectées
-        logMessage("Réponse du serveur : Code HTTP = $httpCode");
-        logMessage("Temps de réponse total : $totalTime secondes");
-        logMessage("Temps de connexion : $connectTime secondes");
-        logMessage("Taille des données téléchargées : $sizeDownload octets");
+        logMessage(str_pad("Réponse du serveur :", 27) . "Code HTTP = " . $httpCode);
+        logMessage(str_pad("Temps de réponse total :", 27) . $totalTime. " secondes");
+        logMessage(str_pad("Temps de connexion :", 27) . $connectTime . " secondes");
+        logMessage(str_pad("Taille des données :",27) . $sizeDownload . " octets téléchargés");
 
         // Afficher les en-têtes de la réponse (si nécessaire)
-        logMessage("En-têtes de la réponse :\n$headers");
-        logMessage("Corps de la réponse :\n$body");
+        file_put_contents("/var/www/html/logfile/header.log", $headers);
+        file_put_contents("/var/www/html/logfile/body.log", $body);
 
         if ($httpCode >= 200 && $httpCode < 300) {
             logMessage("La page d'accueil est accessible et a répondu avec succès.");
@@ -569,8 +571,10 @@ $response = null;
 $url = null;
 
 logMessage(str_repeat("=", 49));
-logMessage("Fin de la tâche cron - EasyBet Cron tab 1 - " . date("d-m-Y H:i"));
+logMessage(" - ##### Fin de la tâche cron - EasyBet Crontab ##### - ");
 logMessage(str_repeat("=", 49));
 
 ?>
-<!-- FIN DU SCRIPT PHP * crontab.php * -->
+<!--
+    FIN DU SCRIPT PHP * crontab.php *
+-->

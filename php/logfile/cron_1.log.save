@@ -1,0 +1,842 @@
+2025-09-02 12:40:21 - Le fichier 'cron.log' a été renommé en '/var/www/html/logfile//cron_0.log.save'
+
+2025-09-02 12:40:21 -  - ##### Fin de la gestion des fichiers de logs ##### - 
+2025-09-02 12:40:21 - =================================================
+2025-09-02 14:40:21 -  - ##### Fin de la gestion des fichiers datas ##### - 
+2025-09-02 14:40:21 - =================================================
+2025-09-02 14:40:21 - | Nb   | Url                                                                              | Filename                                 | Filesize   | Status   |
+2025-09-02 14:40:23 - | 1    | https://api.football-data.org/v4/matches                                         | matches-2025-09-02.json                  | 189        | ok       |
+2025-09-02 14:40:35 - | 2    | https://api.football-data.org/v4/matches?dateFrom=2025-09-01&dateTo=2025-09-02   | matches-2025-09-01.json                  | 189        | ok       |
+2025-09-02 14:40:45 - | 3    | https://api.football-data.org/v4/competitions                                    | competitions.json                        | 5385       | ok       |
+2025-09-02 14:40:55 - | 4    | https://api.football-data.org/v4/competitions/PL                                 | competition-info-PL.json                 | 41049      | ok       |
+2025-09-02 14:41:05 - | 5    | https://api.football-data.org/v4/competitions/PL/matches?year=2025               | competition-matches-PL-2025.json         | 741843     | ok       |
+2025-09-02 14:41:16 - | 6    | https://api.football-data.org/v4/competitions/PL/standings?year=2025             | competition-standings-PL-2025.json       | 14548      | ok       |
+2025-09-02 14:41:26 - | 7    | https://api.football-data.org/v4/competitions/PL/scorers?year=2025               | competition-scorers-PL-2025.json         | 11874      | ok       |
+2025-09-02 14:41:36 - | 8    | https://api.football-data.org/v4/competitions/CL                                 | competition-info-CL.json                 | 11157      | ok       |
+2025-09-02 14:41:47 - | 9    | https://api.football-data.org/v4/competitions/CL/matches?year=2025               | competition-matches-CL-2025.json         | 360093     | ok       |
+2025-09-02 14:41:57 - | 10   | https://api.football-data.org/v4/competitions/CL/standings?year=2025             | competition-standings-CL-2025.json       | 25572      | ok       |
+2025-09-02 14:42:07 - | 11   | https://api.football-data.org/v4/competitions/CL/scorers?year=2025               | competition-scorers-CL-2025.json         | 468        | ok       |
+2025-09-02 14:42:17 - | 12   | https://api.football-data.org/v4/competitions/FL1                                | competition-info-FL1.json                | 16159      | ok       |
+2025-09-02 14:42:28 - | 13   | https://api.football-data.org/v4/competitions/FL1/matches?year=2025              | competition-matches-FL1-2025.json        | 594533     | ok       |
+2025-09-02 14:42:38 - | 14   | https://api.football-data.org/v4/competitions/FL1/standings?year=2025            | competition-standings-FL1-2025.json      | 13104      | ok       |
+2025-09-02 14:42:48 - | 15   | https://api.football-data.org/v4/competitions/FL1/scorers?year=2025              | competition-scorers-FL1-2025.json        | 11980      | ok       |
+2025-09-02 14:42:59 - | 16   | https://api.football-data.org/v4/competitions/BL1                                | competition-info-BL1.json                | 27486      | ok       |
+2025-09-02 14:43:09 - | 17   | https://api.football-data.org/v4/competitions/BL1/matches?year=2025              | competition-matches-BL1-2025.json        | 594556     | ok       |
+2025-09-02 14:43:19 - | 18   | https://api.football-data.org/v4/competitions/BL1/standings?year=2025            | competition-standings-BL1-2025.json      | 13133      | ok       |
+2025-09-02 14:43:30 - | 19   | https://api.football-data.org/v4/competitions/BL1/scorers?year=2025              | competition-scorers-BL1-2025.json        | 11860      | ok       |
+2025-09-02 14:43:40 - | 20   | https://api.football-data.org/v4/competitions/SA                                 | competition-info-SA.json                 | 19992      | ok       |
+2025-09-02 14:43:50 - | 21   | https://api.football-data.org/v4/competitions/SA/matches?year=2025               | competition-matches-SA-2025.json         | 732406     | ok       |
+2025-09-02 14:44:01 - | 22   | https://api.football-data.org/v4/competitions/SA/standings?year=2025             | competition-standings-SA-2025.json       | 14428      | ok       |
+2025-09-02 14:44:11 - | 23   | https://api.football-data.org/v4/competitions/SA/scorers?year=2025               | competition-scorers-SA-2025.json         | 11927      | ok       |
+2025-09-02 14:44:21 - | 24   | https://api.football-data.org/v4/competitions/PD                                 | competition-info-PD.json                 | 20275      | ok       |
+2025-09-02 14:44:32 - | 25   | https://api.football-data.org/v4/competitions/PD/matches?year=2025               | competition-matches-PD-2025.json         | 739959     | ok       |
+2025-09-02 14:44:42 - | 26   | https://api.football-data.org/v4/competitions/PD/standings?year=2025             | competition-standings-PD-2025.json       | 14518      | ok       |
+2025-09-02 14:44:53 - | 27   | https://api.football-data.org/v4/competitions/PD/scorers?year=2025               | competition-scorers-PD-2025.json         | 11972      | ok       |
+2025-09-02 14:45:03 - | 28   | https://api.football-data.org/v4/competitions/WC                                 | competition-info-WC.json                 | 16440      | ok       |
+2025-09-02 14:45:13 - | 29   | https://api.football-data.org/v4/competitions/WC/matches?year=2025               | competition-matches-WC-2025.json         | 184906     | ok       |
+2025-09-02 14:45:23 - | 30   | https://api.football-data.org/v4/competitions/WC/standings?year=2025             | competition-standings-WC-2025.json       | 32593      | ok       |
+2025-09-02 14:45:33 - | 31   | https://api.football-data.org/v4/competitions/WC/scorers?year=2025               | competition-scorers-WC-2025.json         | 464        | ok       |
+2025-09-02 14:45:44 - | 31   | https://newsapi.org/v2/everything?q=football&from=2025-09-01&to=2025-09-01&language=fr&sortBy=publishedAt&apiKey=dcd3126ac90f4aab9585afd4b50c8703   |
+...                                                                                                             | footnews.json                            | 97613      | ok       |
+2025-09-02 14:46:44 - Réponse du serveur : Mise à jour ok !
+2025-09-02 14:46:44 -  ## Fin récupération des données ## 
+2025-09-02 13:00:01 - =================================================
+2025-09-02 13:00:01 - Démarrage de la tâche cron - EasyBet Cron tab 1 - 02-09-2025 13:00
+2025-09-02 13:00:01 - =================================================
+2025-09-02 13:00:01 -  - ##### Fin de la gestion des fichiers de logs ##### - 
+2025-09-02 13:00:01 - =================================================
+2025-09-02 15:00:01 -  - ##### Fin de la gestion des fichiers datas ##### - 
+2025-09-02 15:00:01 - =================================================
+2025-09-02 15:00:01 - | Nb   | Url                                                                              | Filename                                 | Filesize   | Status   |
+2025-09-02 15:00:12 - Erreur : Erreur lors de l'accès à l'URL: https://api.football-data.org/v4/matches
+2025-09-02 15:00:15 - | 1    | https://api.football-data.org/v4/matches?dateFrom=2025-09-01&dateTo=2025-09-02   | matches-2025-09-01.json                  | 189        | ok       |
+2025-09-02 15:00:25 - | 2    | https://api.football-data.org/v4/competitions                                    | competitions.json                        | 5385       | ok       |
+2025-09-02 15:00:35 - | 3    | https://api.football-data.org/v4/competitions/PL                                 | competition-info-PL.json                 | 41049      | ok       |
+2025-09-02 15:00:46 - | 4    | https://api.football-data.org/v4/competitions/PL/matches?year=2025               | competition-matches-PL-2025.json         | 741843     | ok       |
+2025-09-02 15:00:56 - | 5    | https://api.football-data.org/v4/competitions/PL/standings?year=2025             | competition-standings-PL-2025.json       | 14548      | ok       |
+2025-09-02 15:01:07 - | 6    | https://api.football-data.org/v4/competitions/PL/scorers?year=2025               | competition-scorers-PL-2025.json         | 11874      | ok       |
+2025-09-02 15:01:17 - | 7    | https://api.football-data.org/v4/competitions/CL                                 | competition-info-CL.json                 | 11157      | ok       |
+2025-09-02 15:01:27 - | 8    | https://api.football-data.org/v4/competitions/CL/matches?year=2025               | competition-matches-CL-2025.json         | 360093     | ok       |
+2025-09-02 15:01:37 - | 9    | https://api.football-data.org/v4/competitions/CL/standings?year=2025             | competition-standings-CL-2025.json       | 25572      | ok       |
+2025-09-02 15:01:48 - | 10   | https://api.football-data.org/v4/competitions/CL/scorers?year=2025               | competition-scorers-CL-2025.json         | 468        | ok       |
+2025-09-02 15:01:58 - | 11   | https://api.football-data.org/v4/competitions/FL1                                | competition-info-FL1.json                | 16159      | ok       |
+2025-09-02 15:02:08 - | 12   | https://api.football-data.org/v4/competitions/FL1/matches?year=2025              | competition-matches-FL1-2025.json        | 594533     | ok       |
+2025-09-02 15:02:19 - | 13   | https://api.football-data.org/v4/competitions/FL1/standings?year=2025            | competition-standings-FL1-2025.json      | 13104      | ok       |
+2025-09-02 15:02:29 - | 14   | https://api.football-data.org/v4/competitions/FL1/scorers?year=2025              | competition-scorers-FL1-2025.json        | 11980      | ok       |
+2025-09-02 15:02:39 - | 15   | https://api.football-data.org/v4/competitions/BL1                                | competition-info-BL1.json                | 27486      | ok       |
+2025-09-02 15:02:50 - | 16   | https://api.football-data.org/v4/competitions/BL1/matches?year=2025              | competition-matches-BL1-2025.json        | 594556     | ok       |
+2025-09-02 15:03:00 - | 17   | https://api.football-data.org/v4/competitions/BL1/standings?year=2025            | competition-standings-BL1-2025.json      | 13133      | ok       |
+2025-09-02 15:03:10 - | 18   | https://api.football-data.org/v4/competitions/BL1/scorers?year=2025              | competition-scorers-BL1-2025.json        | 11860      | ok       |
+2025-09-02 15:03:21 - | 19   | https://api.football-data.org/v4/competitions/SA                                 | competition-info-SA.json                 | 19992      | ok       |
+2025-09-02 15:03:31 - | 20   | https://api.football-data.org/v4/competitions/SA/matches?year=2025               | competition-matches-SA-2025.json         | 732406     | ok       |
+2025-09-02 15:03:41 - | 21   | https://api.football-data.org/v4/competitions/SA/standings?year=2025             | competition-standings-SA-2025.json       | 14428      | ok       |
+2025-09-02 15:03:52 - | 22   | https://api.football-data.org/v4/competitions/SA/scorers?year=2025               | competition-scorers-SA-2025.json         | 11927      | ok       |
+2025-09-02 15:04:02 - | 23   | https://api.football-data.org/v4/competitions/PD                                 | competition-info-PD.json                 | 20275      | ok       |
+2025-09-02 15:04:12 - | 24   | https://api.football-data.org/v4/competitions/PD/matches?year=2025               | competition-matches-PD-2025.json         | 739959     | ok       |
+2025-09-02 15:04:23 - | 25   | https://api.football-data.org/v4/competitions/PD/standings?year=2025             | competition-standings-PD-2025.json       | 14518      | ok       |
+2025-09-02 15:04:33 - | 26   | https://api.football-data.org/v4/competitions/PD/scorers?year=2025               | competition-scorers-PD-2025.json         | 11972      | ok       |
+2025-09-02 15:04:43 - | 27   | https://api.football-data.org/v4/competitions/WC                                 | competition-info-WC.json                 | 16440      | ok       |
+2025-09-02 15:04:54 - | 28   | https://api.football-data.org/v4/competitions/WC/matches?year=2025               | competition-matches-WC-2025.json         | 184906     | ok       |
+2025-09-02 15:05:04 - | 29   | https://api.football-data.org/v4/competitions/WC/standings?year=2025             | competition-standings-WC-2025.json       | 32593      | ok       |
+2025-09-02 15:05:14 - | 30   | https://api.football-data.org/v4/competitions/WC/scorers?year=2025               | competition-scorers-WC-2025.json         | 464        | ok       |
+2025-09-02 15:05:24 - | 30   | https://newsapi.org/v2/everything?q=football&from=2025-09-01&to=2025-09-01&language=fr&sortBy=publishedAt&apiKey=dcd3126ac90f4aab9585afd4b50c8703   |
+...                                                                                                             | footnews.json                            | 97613      | ok       |
+2025-09-02 15:06:24 - Réponse du serveur : Mise à jour ok !
+2025-09-02 15:06:24 -  ## Fin récupération des données ## 
+2025-09-02 13:16:23 - =================================================
+2025-09-02 13:16:23 - Démarrage de la tâche cron - EasyBet Cron tab 1 - 02-09-2025 13:16
+2025-09-02 13:16:23 - =================================================
+2025-09-02 13:16:23 -  - ##### Fin de la gestion des fichiers de logs ##### - 
+2025-09-02 13:16:23 - =================================================
+2025-09-02 15:16:23 -  - ##### Fin de la gestion des fichiers datas ##### - 
+2025-09-02 15:16:23 - =================================================
+2025-09-02 15:16:23 - | Nb   | Url                                                                              | Filename                                 | Filesize   | Status   |
+2025-09-02 15:16:25 - | 1    | https://api.football-data.org/v4/matches                                         | matches-2025-09-02.json                  | 189        | ok       |
+2025-09-02 15:16:37 - | 2    | https://api.football-data.org/v4/matches?dateFrom=2025-09-01&dateTo=2025-09-02   | matches-2025-09-01.json                  | 189        | ok       |
+2025-09-02 15:16:47 - | 3    | https://api.football-data.org/v4/competitions                                    | competitions.json                        | 5385       | ok       |
+2025-09-02 15:16:57 - | 4    | https://api.football-data.org/v4/competitions/PL                                 | competition-info-PL.json                 | 41049      | ok       |
+2025-09-02 15:17:08 - | 5    | https://api.football-data.org/v4/competitions/PL/matches?year=2025               | competition-matches-PL-2025.json         | 741843     | ok       |
+2025-09-02 15:17:18 - | 6    | https://api.football-data.org/v4/competitions/PL/standings?year=2025             | competition-standings-PL-2025.json       | 14548      | ok       |
+2025-09-02 15:17:29 - | 7    | https://api.football-data.org/v4/competitions/PL/scorers?year=2025               | competition-scorers-PL-2025.json         | 11874      | ok       |
+2025-09-02 15:17:39 - | 8    | https://api.football-data.org/v4/competitions/CL                                 | competition-info-CL.json                 | 11157      | ok       |
+2025-09-02 15:17:49 - | 9    | https://api.football-data.org/v4/competitions/CL/matches?year=2025               | competition-matches-CL-2025.json         | 360093     | ok       |
+2025-09-02 15:17:59 - | 10   | https://api.football-data.org/v4/competitions/CL/standings?year=2025             | competition-standings-CL-2025.json       | 25572      | ok       |
+2025-09-02 15:18:10 - | 11   | https://api.football-data.org/v4/competitions/CL/scorers?year=2025               | competition-scorers-CL-2025.json         | 468        | ok       |
+2025-09-02 15:18:20 - | 12   | https://api.football-data.org/v4/competitions/FL1                                | competition-info-FL1.json                | 16159      | ok       |
+2025-09-02 15:18:30 - | 13   | https://api.football-data.org/v4/competitions/FL1/matches?year=2025              | competition-matches-FL1-2025.json        | 594533     | ok       |
+2025-09-02 15:18:40 - | 14   | https://api.football-data.org/v4/competitions/FL1/standings?year=2025            | competition-standings-FL1-2025.json      | 13104      | ok       |
+2025-09-02 15:18:51 - | 15   | https://api.football-data.org/v4/competitions/FL1/scorers?year=2025              | competition-scorers-FL1-2025.json        | 11980      | ok       |
+2025-09-02 15:19:01 - | 16   | https://api.football-data.org/v4/competitions/BL1                                | competition-info-BL1.json                | 27486      | ok       |
+2025-09-02 15:19:12 - | 17   | https://api.football-data.org/v4/competitions/BL1/matches?year=2025              | competition-matches-BL1-2025.json        | 594556     | ok       |
+2025-09-02 15:19:22 - | 18   | https://api.football-data.org/v4/competitions/BL1/standings?year=2025            | competition-standings-BL1-2025.json      | 13133      | ok       |
+2025-09-02 15:19:32 - | 19   | https://api.football-data.org/v4/competitions/BL1/scorers?year=2025              | competition-scorers-BL1-2025.json        | 11860      | ok       |
+2025-09-02 15:19:42 - | 20   | https://api.football-data.org/v4/competitions/SA                                 | competition-info-SA.json                 | 19992      | ok       |
+2025-09-02 15:19:53 - | 21   | https://api.football-data.org/v4/competitions/SA/matches?year=2025               | competition-matches-SA-2025.json         | 732406     | ok       |
+2025-09-02 15:20:03 - | 22   | https://api.football-data.org/v4/competitions/SA/standings?year=2025             | competition-standings-SA-2025.json       | 14428      | ok       |
+2025-09-02 15:20:14 - | 23   | https://api.football-data.org/v4/competitions/SA/scorers?year=2025               | competition-scorers-SA-2025.json         | 11927      | ok       |
+2025-09-02 15:20:24 - | 24   | https://api.football-data.org/v4/competitions/PD                                 | competition-info-PD.json                 | 20275      | ok       |
+2025-09-02 15:20:34 - | 25   | https://api.football-data.org/v4/competitions/PD/matches?year=2025               | competition-matches-PD-2025.json         | 739959     | ok       |
+2025-09-02 15:20:44 - | 26   | https://api.football-data.org/v4/competitions/PD/standings?year=2025             | competition-standings-PD-2025.json       | 14518      | ok       |
+2025-09-02 15:20:55 - | 27   | https://api.football-data.org/v4/competitions/PD/scorers?year=2025               | competition-scorers-PD-2025.json         | 11972      | ok       |
+2025-09-02 15:21:05 - | 28   | https://api.football-data.org/v4/competitions/WC                                 | competition-info-WC.json                 | 16440      | ok       |
+2025-09-02 15:21:15 - | 29   | https://api.football-data.org/v4/competitions/WC/matches?year=2025               | competition-matches-WC-2025.json         | 184906     | ok       |
+2025-09-02 15:21:25 - | 30   | https://api.football-data.org/v4/competitions/WC/standings?year=2025             | competition-standings-WC-2025.json       | 32593      | ok       |
+2025-09-02 15:21:36 - | 31   | https://api.football-data.org/v4/competitions/WC/scorers?year=2025               | competition-scorers-WC-2025.json         | 464        | ok       |
+2025-09-02 15:21:46 - | 31   | https://newsapi.org/v2/everything?q=football&from=2025-09-01&to=2025-09-01&language=fr&sortBy=publishedAt&apiKey=dcd3126ac90f4aab9585afd4b50c8703   |
+...                                                                                                             | footnews.json                            | 97613      | ok       |
+2025-09-02 15:22:46 - Réponse du serveur : ok !
+2025-09-02 15:22:46 -  ## Fin récupération des données ## 
+2025-09-02 13:41:39 - =================================================
+2025-09-02 13:41:39 - Démarrage de la tâche cron - EasyBet Cron tab 1 - 02-09-2025 13:41
+2025-09-02 13:41:39 - =================================================
+2025-09-02 13:41:39 -  - ##### Gestion des fichiers de logs ##### - 
+2025-09-02 13:41:39 -  - ##### Fin de la gestion des fichiers de logs ##### - 
+2025-09-02 13:41:39 - =================================================
+2025-09-02 13:41:39 -  - ##### Gestion des fichiers datas ##### - 
+2025-09-02 15:41:39 -  - ##### Fin de la gestion des fichiers datas ##### - 
+2025-09-02 15:41:39 -  ## - Récupération des données API - ## 
+2025-09-02 15:41:39 - =================================================
+2025-09-02 15:41:39 - | Nb   | Url                                                                              | Filename                                 | Filesize   | Status   |
+2025-09-02 15:41:40 - | 1    | https://api.football-data.org/v4/matches                                         | matches-2025-09-02.json                  | 189        | ok       |
+2025-09-02 15:41:52 - | 2    | https://api.football-data.org/v4/matches?dateFrom=2025-09-01&dateTo=2025-09-02   | matches-2025-09-01.json                  | 189        | ok       |
+2025-09-02 15:42:02 - | 3    | https://api.football-data.org/v4/competitions                                    | competitions.json                        | 5385       | ok       |
+2025-09-02 15:42:12 - | 4    | https://api.football-data.org/v4/competitions/PL                                 | competition-info-PL.json                 | 41049      | ok       |
+2025-09-02 15:42:23 - | 5    | https://api.football-data.org/v4/competitions/PL/matches?year=2025               | competition-matches-PL-2025.json         | 741843     | ok       |
+2025-09-02 15:42:33 - | 6    | https://api.football-data.org/v4/competitions/PL/standings?year=2025             | competition-standings-PL-2025.json       | 14548      | ok       |
+2025-09-02 15:42:44 - | 7    | https://api.football-data.org/v4/competitions/PL/scorers?year=2025               | competition-scorers-PL-2025.json         | 11874      | ok       |
+2025-09-02 15:42:54 - | 8    | https://api.football-data.org/v4/competitions/CL                                 | competition-info-CL.json                 | 11157      | ok       |
+2025-09-02 15:43:04 - | 9    | https://api.football-data.org/v4/competitions/CL/matches?year=2025               | competition-matches-CL-2025.json         | 360093     | ok       |
+2025-09-02 15:43:14 - | 10   | https://api.football-data.org/v4/competitions/CL/standings?year=2025             | competition-standings-CL-2025.json       | 25572      | ok       |
+2025-09-02 15:43:25 - | 11   | https://api.football-data.org/v4/competitions/CL/scorers?year=2025               | competition-scorers-CL-2025.json         | 468        | ok       |
+2025-09-02 15:43:35 - | 12   | https://api.football-data.org/v4/competitions/FL1                                | competition-info-FL1.json                | 16159      | ok       |
+2025-09-02 15:43:46 - | 13   | https://api.football-data.org/v4/competitions/FL1/matches?year=2025              | competition-matches-FL1-2025.json        | 594533     | ok       |
+2025-09-02 15:43:56 - | 14   | https://api.football-data.org/v4/competitions/FL1/standings?year=2025            | competition-standings-FL1-2025.json      | 13104      | ok       |
+2025-09-02 15:44:06 - | 15   | https://api.football-data.org/v4/competitions/FL1/scorers?year=2025              | competition-scorers-FL1-2025.json        | 11980      | ok       |
+2025-09-02 15:44:17 - | 16   | https://api.football-data.org/v4/competitions/BL1                                | competition-info-BL1.json                | 27486      | ok       |
+2025-09-02 15:44:27 - | 17   | https://api.football-data.org/v4/competitions/BL1/matches?year=2025              | competition-matches-BL1-2025.json        | 594556     | ok       |
+2025-09-02 15:44:37 - | 18   | https://api.football-data.org/v4/competitions/BL1/standings?year=2025            | competition-standings-BL1-2025.json      | 13133      | ok       |
+2025-09-02 15:44:47 - | 19   | https://api.football-data.org/v4/competitions/BL1/scorers?year=2025              | competition-scorers-BL1-2025.json        | 11860      | ok       |
+2025-09-02 15:44:58 - | 20   | https://api.football-data.org/v4/competitions/SA                                 | competition-info-SA.json                 | 19992      | ok       |
+2025-09-02 15:45:08 - | 21   | https://api.football-data.org/v4/competitions/SA/matches?year=2025               | competition-matches-SA-2025.json         | 732406     | ok       |
+2025-09-02 15:45:18 - | 22   | https://api.football-data.org/v4/competitions/SA/standings?year=2025             | competition-standings-SA-2025.json       | 14428      | ok       |
+2025-09-02 15:45:29 - | 23   | https://api.football-data.org/v4/competitions/SA/scorers?year=2025               | competition-scorers-SA-2025.json         | 11927      | ok       |
+2025-09-02 15:45:39 - | 24   | https://api.football-data.org/v4/competitions/PD                                 | competition-info-PD.json                 | 20275      | ok       |
+2025-09-02 15:45:50 - | 25   | https://api.football-data.org/v4/competitions/PD/matches?year=2025               | competition-matches-PD-2025.json         | 739959     | ok       |
+2025-09-02 15:46:00 - | 26   | https://api.football-data.org/v4/competitions/PD/standings?year=2025             | competition-standings-PD-2025.json       | 14518      | ok       |
+2025-09-02 15:46:10 - | 27   | https://api.football-data.org/v4/competitions/PD/scorers?year=2025               | competition-scorers-PD-2025.json         | 11972      | ok       |
+2025-09-02 15:46:20 - | 28   | https://api.football-data.org/v4/competitions/WC                                 | competition-info-WC.json                 | 16440      | ok       |
+2025-09-02 15:46:31 - | 29   | https://api.football-data.org/v4/competitions/WC/matches?year=2025               | competition-matches-WC-2025.json         | 184906     | ok       |
+2025-09-02 15:46:41 - | 30   | https://api.football-data.org/v4/competitions/WC/standings?year=2025             | competition-standings-WC-2025.json       | 32593      | ok       |
+2025-09-02 15:46:51 - | 31   | https://api.football-data.org/v4/competitions/WC/scorers?year=2025               | competition-scorers-WC-2025.json         | 464        | ok       |
+2025-09-02 15:47:01 - | 32   | https://newsapi.org/v2/everything?q=football&from=2025-09-01&to=2025-09-01&language=fr&sortBy=publishedAt&apiKey=dcd3126ac90f4aab9585afd4b50c8703   |
+...                                                                                                             | footnews.json                            | 97613      | ok       |
+2025-09-02 15:47:01 -  ## Fin récupération des données API ## 
+2025-09-02 15:47:01 - =================================================
+2025-09-02 15:47:01 -  ## - Mise à jour de la base de données - ## 
+2025-09-02 15:47:01 - =================================================
+2025-09-02 15:47:01 -  ## - Test de la page d'accueil - ## 
+2025-09-02 15:48:01 - Réponse du serveur : ok !
+2025-09-02 15:48:01 -  ## Fin test de la page d'accueil ## 
+2025-09-02 15:48:01 - =================================================
+2025-09-02 13:55:20 - =================================================
+2025-09-02 13:55:20 - Démarrage de la tâche cron - EasyBet Cron tab 1 - 02-09-2025 13:55
+2025-09-02 13:55:20 - =================================================
+2025-09-02 13:55:20 -  - ##### Gestion des fichiers de logs ##### - 
+2025-09-02 13:55:20 -  - ##### Fin de la gestion des fichiers de logs ##### - 
+2025-09-02 13:55:20 - =================================================
+2025-09-02 13:55:20 -  - ##### Gestion des fichiers datas ##### - 
+2025-09-02 15:55:20 -  - ##### Fin de la gestion des fichiers datas ##### - 
+2025-09-02 15:55:20 - =================================================
+2025-09-02 15:55:20 -  - ##### Récupération des données API ##### - 
+2025-09-02 15:55:20 - | Nb   | Url                                                                              | Filename                                 | Filesize   | Status   |
+2025-09-02 15:55:22 - | 1    | https://api.football-data.org/v4/matches                                         | matches-2025-09-02.json                  | 189        | ok       |
+2025-09-02 15:55:33 - | 2    | https://api.football-data.org/v4/matches?dateFrom=2025-09-01&dateTo=2025-09-02   | matches-2025-09-01.json                  | 189        | ok       |
+2025-09-02 15:55:43 - | 3    | https://api.football-data.org/v4/competitions                                    | competitions.json                        | 5385       | ok       |
+2025-09-02 15:55:53 - | 4    | https://api.football-data.org/v4/competitions/PL                                 | competition-info-PL.json                 | 41049      | ok       |
+2025-09-02 15:56:04 - | 5    | https://api.football-data.org/v4/competitions/PL/matches?year=2025               | competition-matches-PL-2025.json         | 741843     | ok       |
+2025-09-02 15:56:14 - | 6    | https://api.football-data.org/v4/competitions/PL/standings?year=2025             | competition-standings-PL-2025.json       | 14548      | ok       |
+2025-09-02 15:56:24 - | 7    | https://api.football-data.org/v4/competitions/PL/scorers?year=2025               | competition-scorers-PL-2025.json         | 11874      | ok       |
+2025-09-02 15:56:34 - | 8    | https://api.football-data.org/v4/competitions/CL                                 | competition-info-CL.json                 | 11157      | ok       |
+2025-09-02 15:56:45 - | 9    | https://api.football-data.org/v4/competitions/CL/matches?year=2025               | competition-matches-CL-2025.json         | 360093     | ok       |
+2025-09-02 15:56:55 - | 10   | https://api.football-data.org/v4/competitions/CL/standings?year=2025             | competition-standings-CL-2025.json       | 25572      | ok       |
+2025-09-02 15:57:05 - | 11   | https://api.football-data.org/v4/competitions/CL/scorers?year=2025               | competition-scorers-CL-2025.json         | 468        | ok       |
+2025-09-02 15:57:15 - | 12   | https://api.football-data.org/v4/competitions/FL1                                | competition-info-FL1.json                | 16159      | ok       |
+2025-09-02 15:57:26 - | 13   | https://api.football-data.org/v4/competitions/FL1/matches?year=2025              | competition-matches-FL1-2025.json        | 594533     | ok       |
+2025-09-02 15:57:36 - | 14   | https://api.football-data.org/v4/competitions/FL1/standings?year=2025            | competition-standings-FL1-2025.json      | 13104      | ok       |
+2025-09-02 15:57:47 - | 15   | https://api.football-data.org/v4/competitions/FL1/scorers?year=2025              | competition-scorers-FL1-2025.json        | 11980      | ok       |
+2025-09-02 15:57:57 - | 16   | https://api.football-data.org/v4/competitions/BL1                                | competition-info-BL1.json                | 27486      | ok       |
+2025-09-02 15:58:07 - | 17   | https://api.football-data.org/v4/competitions/BL1/matches?year=2025              | competition-matches-BL1-2025.json        | 594556     | ok       |
+2025-09-02 15:58:17 - | 18   | https://api.football-data.org/v4/competitions/BL1/standings?year=2025            | competition-standings-BL1-2025.json      | 13133      | ok       |
+2025-09-02 15:58:28 - | 19   | https://api.football-data.org/v4/competitions/BL1/scorers?year=2025              | competition-scorers-BL1-2025.json        | 11860      | ok       |
+2025-09-02 15:58:38 - | 20   | https://api.football-data.org/v4/competitions/SA                                 | competition-info-SA.json                 | 19992      | ok       |
+2025-09-02 15:58:48 - | 21   | https://api.football-data.org/v4/competitions/SA/matches?year=2025               | competition-matches-SA-2025.json         | 732406     | ok       |
+2025-09-02 15:58:59 - | 22   | https://api.football-data.org/v4/competitions/SA/standings?year=2025             | competition-standings-SA-2025.json       | 14428      | ok       |
+2025-09-02 15:59:09 - | 23   | https://api.football-data.org/v4/competitions/SA/scorers?year=2025               | competition-scorers-SA-2025.json         | 11927      | ok       |
+2025-09-02 15:59:19 - | 24   | https://api.football-data.org/v4/competitions/PD                                 | competition-info-PD.json                 | 20275      | ok       |
+2025-09-02 15:59:30 - | 25   | https://api.football-data.org/v4/competitions/PD/matches?year=2025               | competition-matches-PD-2025.json         | 739959     | ok       |
+2025-09-02 15:59:40 - | 26   | https://api.football-data.org/v4/competitions/PD/standings?year=2025             | competition-standings-PD-2025.json       | 14518      | ok       |
+2025-09-02 15:59:51 - | 27   | https://api.football-data.org/v4/competitions/PD/scorers?year=2025               | competition-scorers-PD-2025.json         | 11972      | ok       |
+2025-09-02 16:00:01 - | 28   | https://api.football-data.org/v4/competitions/WC                                 | competition-info-WC.json                 | 16440      | ok       |
+2025-09-02 14:00:01 - =================================================
+2025-09-02 14:00:01 - Démarrage de la tâche cron - EasyBet Cron tab 1 - 02-09-2025 14:00
+2025-09-02 14:00:01 - =================================================
+2025-09-02 14:00:01 -  - ##### Gestion des fichiers de logs ##### - 
+2025-09-02 14:00:01 -  - ##### Fin de la gestion des fichiers de logs ##### - 
+2025-09-02 14:00:01 - =================================================
+2025-09-02 14:00:01 -  - ##### Gestion des fichiers datas ##### - 
+2025-09-02 16:00:01 -  - ##### Fin de la gestion des fichiers datas ##### - 
+2025-09-02 16:00:01 - =================================================
+2025-09-02 16:00:01 -  - ##### Récupération des données API ##### - 
+2025-09-02 16:00:01 - | Nb   | Url                                                                              | Filename                                 | Filesize   | Status   |
+2025-09-02 16:00:11 - Erreur : Erreur lors de l'accès à l'URL: https://api.football-data.org/v4/matches
+2025-09-02 16:00:11 - | 29   | https://api.football-data.org/v4/competitions/WC/matches?year=2025               | competition-matches-WC-2025.json         | 184906     | ok       |
+2025-09-02 16:00:16 - | 1    | https://api.football-data.org/v4/matches?dateFrom=2025-09-01&dateTo=2025-09-02   | matches-2025-09-01.json                  | 189        | ok       |
+2025-09-02 16:00:21 - | 30   | https://api.football-data.org/v4/competitions/WC/standings?year=2025             | competition-standings-WC-2025.json       | 32593      | ok       |
+2025-09-02 16:00:26 - | 2    | https://api.football-data.org/v4/competitions                                    | competitions.json                        | 5385       | ok       |
+2025-09-02 16:00:31 - | 31   | https://api.football-data.org/v4/competitions/WC/scorers?year=2025               | competition-scorers-WC-2025.json         | 464        | ok       |
+2025-09-02 16:00:36 - | 3    | https://api.football-data.org/v4/competitions/PL                                 | competition-info-PL.json                 | 41049      | ok       |
+2025-09-02 16:00:42 - | 32   | https://newsapi.org/v2/everything?q=football&from=2025-09-01&to=2025-09-01&language=fr&sortBy=publishedAt&apiKey=dcd3126ac90f4aab9585afd4b50c8703   |
+...                                                                                                             | footnews.json                            | 97613      | ok       |
+2025-09-02 16:00:42 -  - ##### Fin récupération des données API ##### - 
+2025-09-02 16:00:42 - =================================================
+2025-09-02 16:00:42 -  - ##### Mise à jour de la base de données ##### - 
+2025-09-02 16:00:42 -  - ##### Fin mise à jour de la base de données ##### - 
+2025-09-02 16:00:42 - =================================================
+2025-09-02 16:00:42 -  - ##### Test de la page d'accueil ##### - 
+2025-09-02 16:00:47 - | 4    | https://api.football-data.org/v4/competitions/PL/matches?year=2025               | competition-matches-PL-2025.json         | 741843     | ok       |
+2025-09-02 16:00:57 - | 5    | https://api.football-data.org/v4/competitions/PL/standings?year=2025             | competition-standings-PL-2025.json       | 14548      | ok       |
+2025-09-02 16:01:07 - | 6    | https://api.football-data.org/v4/competitions/PL/scorers?year=2025               | competition-scorers-PL-2025.json         | 11874      | ok       |
+2025-09-02 16:01:18 - | 7    | https://api.football-data.org/v4/competitions/CL                                 | competition-info-CL.json                 | 11157      | ok       |
+2025-09-02 16:01:28 - | 8    | https://api.football-data.org/v4/competitions/CL/matches?year=2025               | competition-matches-CL-2025.json         | 360093     | ok       |
+2025-09-02 16:01:38 - | 9    | https://api.football-data.org/v4/competitions/CL/standings?year=2025             | competition-standings-CL-2025.json       | 25572      | ok       |
+2025-09-02 16:01:42 - Réponse du serveur : ok !
+2025-09-02 16:01:42 -  - ##### Fin test de la page d'accueil ##### - 
+2025-09-02 16:01:42 - =================================================
+2025-09-02 16:01:42 - Fin de la tâche cron - EasyBet Cron tab 1 - 02-09-2025 16:01
+2025-09-02 16:01:42 - =================================================
+2025-09-02 16:01:49 - | 10   | https://api.football-data.org/v4/competitions/CL/scorers?year=2025               | competition-scorers-CL-2025.json         | 468        | ok       |
+2025-09-02 16:01:59 - | 11   | https://api.football-data.org/v4/competitions/FL1                                | competition-info-FL1.json                | 16159      | ok       |
+2025-09-02 16:02:09 - | 12   | https://api.football-data.org/v4/competitions/FL1/matches?year=2025              | competition-matches-FL1-2025.json        | 594533     | ok       |
+2025-09-02 16:02:19 - | 13   | https://api.football-data.org/v4/competitions/FL1/standings?year=2025            | competition-standings-FL1-2025.json      | 13104      | ok       |
+2025-09-02 16:02:30 - | 14   | https://api.football-data.org/v4/competitions/FL1/scorers?year=2025              | competition-scorers-FL1-2025.json        | 11980      | ok       |
+2025-09-02 16:02:40 - | 15   | https://api.football-data.org/v4/competitions/BL1                                | competition-info-BL1.json                | 27486      | ok       |
+2025-09-02 16:02:50 - | 16   | https://api.football-data.org/v4/competitions/BL1/matches?year=2025              | competition-matches-BL1-2025.json        | 594556     | ok       |
+2025-09-02 16:03:01 - | 17   | https://api.football-data.org/v4/competitions/BL1/standings?year=2025            | competition-standings-BL1-2025.json      | 13133      | ok       |
+2025-09-02 16:03:11 - | 18   | https://api.football-data.org/v4/competitions/BL1/scorers?year=2025              | competition-scorers-BL1-2025.json        | 11860      | ok       |
+2025-09-02 16:03:21 - | 19   | https://api.football-data.org/v4/competitions/SA                                 | competition-info-SA.json                 | 19992      | ok       |
+2025-09-02 16:03:32 - | 20   | https://api.football-data.org/v4/competitions/SA/matches?year=2025               | competition-matches-SA-2025.json         | 732406     | ok       |
+2025-09-02 16:03:42 - | 21   | https://api.football-data.org/v4/competitions/SA/standings?year=2025             | competition-standings-SA-2025.json       | 14428      | ok       |
+2025-09-02 16:03:52 - | 22   | https://api.football-data.org/v4/competitions/SA/scorers?year=2025               | competition-scorers-SA-2025.json         | 11927      | ok       |
+2025-09-02 16:04:02 - | 23   | https://api.football-data.org/v4/competitions/PD                                 | competition-info-PD.json                 | 20275      | ok       |
+2025-09-02 16:04:13 - | 24   | https://api.football-data.org/v4/competitions/PD/matches?year=2025               | competition-matches-PD-2025.json         | 739959     | ok       |
+2025-09-02 16:04:23 - | 25   | https://api.football-data.org/v4/competitions/PD/standings?year=2025             | competition-standings-PD-2025.json       | 14518      | ok       |
+2025-09-02 16:04:34 - | 26   | https://api.football-data.org/v4/competitions/PD/scorers?year=2025               | competition-scorers-PD-2025.json         | 11972      | ok       |
+2025-09-02 16:04:44 - | 27   | https://api.football-data.org/v4/competitions/WC                                 | competition-info-WC.json                 | 16440      | ok       |
+2025-09-02 16:04:55 - | 28   | https://api.football-data.org/v4/competitions/WC/matches?year=2025               | competition-matches-WC-2025.json         | 184906     | ok       |
+2025-09-02 16:05:05 - | 29   | https://api.football-data.org/v4/competitions/WC/standings?year=2025             | competition-standings-WC-2025.json       | 32593      | ok       |
+2025-09-02 16:05:15 - | 30   | https://api.football-data.org/v4/competitions/WC/scorers?year=2025               | competition-scorers-WC-2025.json         | 464        | ok       |
+2025-09-02 16:05:25 - | 31   | https://newsapi.org/v2/everything?q=football&from=2025-09-01&to=2025-09-01&language=fr&sortBy=publishedAt&apiKey=dcd3126ac90f4aab9585afd4b50c8703   |
+...                                                                                                             | footnews.json                            | 97613      | ok       |
+2025-09-02 16:05:25 -  - ##### Fin récupération des données API ##### - 
+2025-09-02 16:05:25 - =================================================
+2025-09-02 16:05:25 -  - ##### Mise à jour de la base de données ##### - 
+2025-09-02 16:05:25 -  - ##### Fin mise à jour de la base de données ##### - 
+2025-09-02 16:05:25 - =================================================
+2025-09-02 16:05:25 -  - ##### Test de la page d'accueil ##### - 
+2025-09-02 16:06:25 - Réponse du serveur : ok !
+2025-09-02 16:06:25 -  - ##### Fin test de la page d'accueil ##### - 
+2025-09-02 16:06:25 - =================================================
+2025-09-02 16:06:25 - Fin de la tâche cron - EasyBet Cron tab 1 - 02-09-2025 16:06
+2025-09-02 16:06:25 - =================================================
+2025-09-02 14:08:46 - =================================================
+2025-09-02 14:08:46 - Démarrage de la tâche cron - EasyBet Cron tab 1 - 02-09-2025 14:08
+2025-09-02 14:08:46 - =================================================
+2025-09-02 14:08:46 -  - ##### Gestion des fichiers de logs ##### - 
+2025-09-02 14:08:46 -  - ##### Fin de la gestion des fichiers de logs ##### - 
+2025-09-02 14:08:46 - =================================================
+2025-09-02 14:08:46 -  - ##### Gestion des fichiers datas ##### - 
+2025-09-02 16:08:46 -  - ##### Fin de la gestion des fichiers datas ##### - 
+2025-09-02 16:08:46 - =================================================
+2025-09-02 16:08:46 -  - ##### Récupération des données API ##### - 
+2025-09-02 16:08:46 - | Nb   | Url                                                                              | Filename                                 | Filesize   | Status   |
+2025-09-02 16:08:47 - | 1    | https://api.football-data.org/v4/matches                                         | matches-2025-09-02.json                  | 189        | ok       |
+2025-09-02 16:08:59 - | 2    | https://api.football-data.org/v4/matches?dateFrom=2025-09-01&dateTo=2025-09-02   | matches-2025-09-01.json                  | 189        | ok       |
+2025-09-02 16:09:09 - | 3    | https://api.football-data.org/v4/competitions                                    | competitions.json                        | 5385       | ok       |
+2025-09-02 16:09:19 - | 4    | https://api.football-data.org/v4/competitions/PL                                 | competition-info-PL.json                 | 41049      | ok       |
+2025-09-02 16:09:30 - | 5    | https://api.football-data.org/v4/competitions/PL/matches?year=2025               | competition-matches-PL-2025.json         | 741843     | ok       |
+2025-09-02 16:09:40 - | 6    | https://api.football-data.org/v4/competitions/PL/standings?year=2025             | competition-standings-PL-2025.json       | 14548      | ok       |
+2025-09-02 16:09:51 - | 7    | https://api.football-data.org/v4/competitions/PL/scorers?year=2025               | competition-scorers-PL-2025.json         | 11874      | ok       |
+2025-09-02 16:10:01 - | 8    | https://api.football-data.org/v4/competitions/CL                                 | competition-info-CL.json                 | 11157      | ok       |
+2025-09-02 16:10:11 - | 9    | https://api.football-data.org/v4/competitions/CL/matches?year=2025               | competition-matches-CL-2025.json         | 360093     | ok       |
+2025-09-02 16:10:21 - | 10   | https://api.football-data.org/v4/competitions/CL/standings?year=2025             | competition-standings-CL-2025.json       | 25572      | ok       |
+2025-09-02 16:10:31 - | 11   | https://api.football-data.org/v4/competitions/CL/scorers?year=2025               | competition-scorers-CL-2025.json         | 468        | ok       |
+2025-09-02 16:10:42 - | 12   | https://api.football-data.org/v4/competitions/FL1                                | competition-info-FL1.json                | 16159      | ok       |
+2025-09-02 16:10:52 - | 13   | https://api.football-data.org/v4/competitions/FL1/matches?year=2025              | competition-matches-FL1-2025.json        | 594533     | ok       |
+2025-09-02 16:11:02 - | 14   | https://api.football-data.org/v4/competitions/FL1/standings?year=2025            | competition-standings-FL1-2025.json      | 13104      | ok       |
+2025-09-02 16:11:13 - | 15   | https://api.football-data.org/v4/competitions/FL1/scorers?year=2025              | competition-scorers-FL1-2025.json        | 11980      | ok       |
+2025-09-02 16:11:23 - | 16   | https://api.football-data.org/v4/competitions/BL1                                | competition-info-BL1.json                | 27486      | ok       |
+2025-09-02 16:11:33 - | 17   | https://api.football-data.org/v4/competitions/BL1/matches?year=2025              | competition-matches-BL1-2025.json        | 594556     | ok       |
+2025-09-02 16:11:44 - | 18   | https://api.football-data.org/v4/competitions/BL1/standings?year=2025            | competition-standings-BL1-2025.json      | 13133      | ok       |
+2025-09-02 16:11:54 - | 19   | https://api.football-data.org/v4/competitions/BL1/scorers?year=2025              | competition-scorers-BL1-2025.json        | 11860      | ok       |
+2025-09-02 16:12:04 - | 20   | https://api.football-data.org/v4/competitions/SA                                 | competition-info-SA.json                 | 19992      | ok       |
+2025-09-02 16:12:15 - | 21   | https://api.football-data.org/v4/competitions/SA/matches?year=2025               | competition-matches-SA-2025.json         | 732406     | ok       |
+2025-09-02 16:12:25 - | 22   | https://api.football-data.org/v4/competitions/SA/standings?year=2025             | competition-standings-SA-2025.json       | 14428      | ok       |
+2025-09-02 16:12:36 - | 23   | https://api.football-data.org/v4/competitions/SA/scorers?year=2025               | competition-scorers-SA-2025.json         | 11927      | ok       |
+2025-09-02 16:12:46 - | 24   | https://api.football-data.org/v4/competitions/PD                                 | competition-info-PD.json                 | 20275      | ok       |
+2025-09-02 16:12:57 - | 25   | https://api.football-data.org/v4/competitions/PD/matches?year=2025               | competition-matches-PD-2025.json         | 739959     | ok       |
+2025-09-02 16:13:07 - | 26   | https://api.football-data.org/v4/competitions/PD/standings?year=2025             | competition-standings-PD-2025.json       | 14518      | ok       |
+2025-09-02 16:13:18 - | 27   | https://api.football-data.org/v4/competitions/PD/scorers?year=2025               | competition-scorers-PD-2025.json         | 11972      | ok       |
+2025-09-02 16:13:28 - | 28   | https://api.football-data.org/v4/competitions/WC                                 | competition-info-WC.json                 | 16440      | ok       |
+2025-09-02 16:13:38 - | 29   | https://api.football-data.org/v4/competitions/WC/matches?year=2025               | competition-matches-WC-2025.json         | 184906     | ok       |
+2025-09-02 16:13:48 - | 30   | https://api.football-data.org/v4/competitions/WC/standings?year=2025             | competition-standings-WC-2025.json       | 32593      | ok       |
+2025-09-02 16:13:59 - | 31   | https://api.football-data.org/v4/competitions/WC/scorers?year=2025               | competition-scorers-WC-2025.json         | 464        | ok       |
+2025-09-02 16:14:10 - | 32   | https://newsapi.org/v2/everything?q=football&from=2025-09-01&to=2025-09-01&language=fr&sortBy=publishedAt&apiKey=dcd3126ac90f4aab9585afd4b50c8703   |
+...                                                                                                             | footnews.json                            | 97613      | ok       |
+2025-09-02 16:14:10 -  - ##### Fin récupération des données API ##### - 
+2025-09-02 16:14:10 - =================================================
+2025-09-02 16:14:10 -  - ##### Mise à jour de la base de données ##### - 
+2025-09-02 16:14:10 -  - ##### Fin mise à jour de la base de données ##### - 
+2025-09-02 16:14:10 - =================================================
+2025-09-02 16:14:10 -  - ##### Test de la page d'accueil ##### - 
+2025-09-02 16:15:10 - Réponse du serveur : Code HTTP = 200
+2025-09-02 16:15:10 - Temps de réponse total : 0.004389 secondes
+2025-09-02 16:15:10 - Temps de connexion : 0.001079 secondes
+2025-09-02 16:15:10 - Taille des données téléchargées : 4027 octets
+2025-09-02 16:15:10 - En-têtes de la réponse :
+HTTP/1.1 200 OK
+Date: Tue, 02 Sep 2025 14:15:10 GMT
+Server: Apache/2.4.65 (Debian)
+X-Powered-By: PHP/7.3.33
+Vary: Accept-Encoding
+Content-Length: 4027
+Content-Type: text/html; charset=UTF-8
+
+
+2025-09-02 16:15:10 - Corps de la réponse :
+
+
+
+<!doctype html>
+<html>
+<head>
+	<title>EasyBet.me</title>
+
+    <link rel="canonical" href="" />
+    <link rel="icon" href="/images/favicon.ico" />
+    <link rel="shortcut icon" sizes="192x192" href="/images/favicon192.png" />
+    <link rel="apple-touch-icon" href="/images/favicon192.png" />
+
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link href="https://fonts.googleapis.com/icon?family=Material+Icons" rel="stylesheet">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Caprasimo&family=Orbitron:wght@400;500;600;700;800;900&display=swap" rel="stylesheet">
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
+
+    <!--<link href="/styles/knacss.css" rel="stylesheet" type="text/css" />-->
+    <link href="/styles/style.css" rel="stylesheet" type="text/css" />
+
+    <meta charset="utf-8" />
+    <meta http-equiv="content-language" content="fr" />
+    <meta name="description" content="Jouez gratuitement chaque jour, faites votre pronostic et gagnez des cadeaux ! " />
+    <meta name="keywords" content="" />
+    <meta name="copyright" content="" />
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+
+    <meta property="og:url"           content="" />
+    <meta property="og:type"          content="website" />
+    <meta property="og:title"         content="" />
+    <meta property="og:description"   content="" />
+    <meta property="og:description"   content="Jouez gratuitement chaque jour, faites votre pronostic et gagnez des cadeaux !" />
+    <meta property="og:image"         content="/images/images/about.jpg" />    
+
+    <!-- Google tag (gtag.js) -->
+    <script async src="https://www.googletagmanager.com/gtag/js?id=G-NSD9NVD7WK"></script>
+    <script>
+        window.dataLayer = window.dataLayer || [];
+        function gtag(){dataLayer.push(arguments);}
+        gtag('js', new Date());
+
+        gtag('config', 'G-NSD9NVD7WK');
+    </script>
+
+    <script type="application/ld+json">
+        {
+        "@context": "https://schema.org",
+        "@type": "Game",
+        "@name": "<br />
+<b>Notice</b>:  Undefined index: name in <b>/var/www/html/template.php</b> on line <b>57</b><br />
+",
+        "@url": "127.0.0.1",
+        "@logo": "/images/logo-easybet.png",
+        "description": "Jouez gratuitement chaque jour, faites votre pronostic et gagnez des cadeaux !"
+        }
+    </script>
+</head>
+<body class="football">
+<header>
+	<h1 onclick="document.location.href='/'"><img src="/images/logo-easybet.png" alt="esayBet - Welcome" /></h1>
+
+	<nav>
+
+        <a href="#"><span class="fa icon">&#xf1e3;</span></a>
+
+        <a href="index.php?action=informations" class="icon">INFOS</a>
+        <a href="index.php?action=news" class="icon">ACTUS</a>
+
+    			
+    	<a href="index.php?action=profile"><span  class="fa icon">&#xf007;</span></a>
+
+        <a href="index.php?action=aide"><span class="fa icon">&#xf059;</span></a>
+</nav>
+
+</header>
+<!--<div class="gradient"></div> ? MESSAGE ?-->
+<main>
+	</main>
+	<footer>
+		<div class="footer">
+			<div class="column">
+				<a href="/" ><img src="https://www.easybet.me/images/logo-easybet.png" alt="esayBet - Welcome">
+				<a href="index.php?action=mentions-legales">Mentions légales</a>
+				<a href="index.php?action=cgv">Conditions générales de ventes</a>
+				<a href="index.php?action=contact">Contactez-nous</a>
+			</div>
+
+			<div class="column">
+				<a href="index.php?action=competitions">Competitions</a>
+				<a href="index.php?action=inscription">Incriptions</a>
+				<a href="index.php?action=credits">Crédits</a>
+				<a href="index.php?action=aide">Aide</a>
+			</div>
+		</div>
+
+		<h6>2025 Copyright © EasyBet.me</h6>
+	</footer>
+</body>
+</html>
+
+<style>
+
+	.footer {
+		display:flex;
+		justify-content:space-around;
+	}
+
+	.column {
+		display:flex;
+		flex-direction:column;
+		color:black;
+	}
+	h6 {
+		text-align:center;
+		color:black;
+		font-size:10px;
+	}
+
+</style>
+
+
+2025-09-02 16:15:10 - La page d'accueil est accessible et a répondu avec succès.
+2025-09-02 16:15:10 -  - ##### Fin test de la page d'accueil ##### - 
+2025-09-02 16:15:10 - =================================================
+2025-09-02 16:15:10 - Fin de la tâche cron - EasyBet Cron tab 1 - 02-09-2025 16:15
+2025-09-02 16:15:10 - =================================================
+
+2025-09-02 14:43:58 - =================================================
+2025-09-02 14:43:58 - Démarrage de la tâche cron - EasyBet Crontab
+2025-09-02 14:43:58 - =================================================
+2025-09-02 14:43:58 -  - ##### Gestion des fichiers de logs ##### - 
+2025-09-02 14:43:58 -  - ##### Fin de la gestion des fichiers de logs ##### - 
+2025-09-02 14:43:58 - =================================================
+2025-09-02 14:43:58 -  - ##### Gestion des fichiers datas ##### - 
+2025-09-02 16:43:58 -  - ##### Fin de la gestion des fichiers datas ##### - 
+2025-09-02 16:43:58 - =================================================
+2025-09-02 16:43:58 -  - ##### Récupération des données API ##### - 
+2025-09-02 16:43:58 - | Nb   | Url                                                                              | Filename                                 | Filesize   | Status   |
+2025-09-02 16:44:00 - | 1    | https://api.football-data.org/v4/matches                                         | matches-2025-09-02.json                  | 189        | ok       |
+2025-09-02 16:44:16 - | 2    | https://api.football-data.org/v4/matches?dateFrom=2025-09-01&dateTo=2025-09-02   | matches-2025-09-01.json                  | 189        | ok       |
+2025-09-02 16:44:26 - | 3    | https://api.football-data.org/v4/competitions                                    | competitions.json                        | 5385       | ok       |
+2025-09-02 16:44:36 - | 4    | https://api.football-data.org/v4/competitions/PL                                 | competition-info-PL.json                 | 41049      | ok       |
+2025-09-02 16:44:46 - | 5    | https://api.football-data.org/v4/competitions/PL/matches?year=2025               | competition-matches-PL-2025.json         | 741843     | ok       |
+2025-09-02 16:44:57 - | 6    | https://api.football-data.org/v4/competitions/PL/standings?year=2025             | competition-standings-PL-2025.json       | 14548      | ok       |
+2025-09-02 16:45:07 - | 7    | https://api.football-data.org/v4/competitions/PL/scorers?year=2025               | competition-scorers-PL-2025.json         | 11874      | ok       |
+2025-09-02 16:45:28 - | 9    | https://api.football-data.org/v4/competitions/CL/matches?year=2025               | competition-matches-CL-2025.json         | 360093     | ok       |
+2025-09-02 16:45:38 - | 10   | https://api.football-data.org/v4/competitions/CL/standings?year=2025             | competition-standings-CL-2025.json       | 25572      | ok       |
+2025-09-02 16:45:48 - | 11   | https://api.football-data.org/v4/competitions/CL/scorers?year=2025               | competition-scorers-CL-2025.json         | 468        | ok       |
+2025-09-02 16:45:58 - | 12   | https://api.football-data.org/v4/competitions/FL1                                | competition-info-FL1.json                | 16159      | ok       |
+2025-09-02 16:46:09 - | 13   | https://api.football-data.org/v4/competitions/FL1/matches?year=2025              | competition-matches-FL1-2025.json        | 594533     | ok       |
+2025-09-02 16:46:19 - | 14   | https://api.football-data.org/v4/competitions/FL1/standings?year=2025            | competition-standings-FL1-2025.json      | 13104      | ok       |
+2025-09-02 16:46:29 - | 15   | https://api.football-data.org/v4/competitions/FL1/scorers?year=2025              | competition-scorers-FL1-2025.json        | 11980      | ok       |
+2025-09-02 16:46:39 - | 16   | https://api.football-data.org/v4/competitions/BL1                                | competition-info-BL1.json                | 27486      | ok       |
+2025-09-02 16:46:50 - | 17   | https://api.football-data.org/v4/competitions/BL1/matches?year=2025              | competition-matches-BL1-2025.json        | 594556     | ok       |
+2025-09-02 16:47:00 - | 18   | https://api.football-data.org/v4/competitions/BL1/standings?year=2025            | competition-standings-BL1-2025.json      | 13133      | ok       |
+2025-09-02 16:47:10 - | 19   | https://api.football-data.org/v4/competitions/BL1/scorers?year=2025              | competition-scorers-BL1-2025.json        | 11860      | ok       |
+2025-09-02 16:47:20 - | 20   | https://api.football-data.org/v4/competitions/SA                                 | competition-info-SA.json                 | 19992      | ok       |
+2025-09-02 16:47:31 - | 21   | https://api.football-data.org/v4/competitions/SA/matches?year=2025               | competition-matches-SA-2025.json         | 732406     | ok       |
+2025-09-02 16:47:41 - | 22   | https://api.football-data.org/v4/competitions/SA/standings?year=2025             | competition-standings-SA-2025.json       | 14428      | ok       |
+2025-09-02 16:47:52 - | 23   | https://api.football-data.org/v4/competitions/SA/scorers?year=2025               | competition-scorers-SA-2025.json         | 11927      | ok       |
+2025-09-02 16:48:02 - | 24   | https://api.football-data.org/v4/competitions/PD                                 | competition-info-PD.json                 | 20275      | ok       |
+2025-09-02 16:48:12 - | 25   | https://api.football-data.org/v4/competitions/PD/matches?year=2025               | competition-matches-PD-2025.json         | 739959     | ok       |
+2025-09-02 16:48:23 - | 26   | https://api.football-data.org/v4/competitions/PD/standings?year=2025             | competition-standings-PD-2025.json       | 14518      | ok       |
+2025-09-02 16:48:33 - | 27   | https://api.football-data.org/v4/competitions/PD/scorers?year=2025               | competition-scorers-PD-2025.json         | 11972      | ok       |
+2025-09-02 16:48:43 - | 28   | https://api.football-data.org/v4/competitions/WC                                 | competition-info-WC.json                 | 16440      | ok       |
+2025-09-02 16:48:54 - | 29   | https://api.football-data.org/v4/competitions/WC/matches?year=2025               | competition-matches-WC-2025.json         | 184906     | ok       |
+2025-09-02 16:49:04 - | 30   | https://api.football-data.org/v4/competitions/WC/standings?year=2025             | competition-standings-WC-2025.json       | 32593      | ok       |
+2025-09-02 16:49:14 - | 31   | https://api.football-data.org/v4/competitions/WC/scorers?year=2025               | competition-scorers-WC-2025.json         | 464        | ok       |
+2025-09-02 16:49:24 - | 32   | https://newsapi.org/v2/everything?q=football&from=2025-09-01&to=2025-09-01&language=fr&sortBy=publishedAt&apiKey=dcd3126ac90f4aab9585afd4b50c8703   |
+...                                                                                                             | footnews.json                            | 97613      | ok       |
+2025-09-02 16:49:24 -  - ##### Fin récupération des données API ##### - 
+2025-09-02 16:49:24 - =================================================
+2025-09-02 16:49:24 -  - ##### Mise à jour de la base de données ##### - 
+2025-09-02 16:49:24 -  - ##### Fin mise à jour de la base de données ##### - 
+2025-09-02 16:49:24 - =================================================
+2025-09-02 16:49:24 -  - ##### Test de la page d'accueil ##### - 
+2025-09-02 16:50:24 - Réponse du serveur :              Code HTTP = 200
+2025-09-02 16:50:24 - Temps de réponse total :          0.004651 secondes
+2025-09-02 16:50:24 - Temps de connexion :               0.001235 secondes
+2025-09-02 16:50:24 - Taille des données téléchargées : 3831 octets
+2025-09-02 16:50:24 - La page d'accueil est accessible et a répondu avec succès.
+2025-09-02 16:50:24 -  - ##### Fin test de la page d'accueil ##### - 
+2025-09-02 16:50:24 - =================================================
+2025-09-02 16:50:24 - Fin de la tâche cron - EasyBet Cron tab 1 - 02-09-2025 16:50
+2025-09-02 16:50:24 - =================================================
+
+2025-09-02 14:55:51 - =================================================
+2025-09-02 14:55:51 -  - ##### Démarrage de la tâche cron - EasyBet Crontab ##### - 
+2025-09-02 14:55:51 - =================================================
+2025-09-02 14:55:51 -  - ##### Gestion des fichiers de logs ##### - 
+2025-09-02 14:55:51 -  - ##### Fin de la gestion des fichiers de logs ##### - 
+2025-09-02 14:55:51 - =================================================
+2025-09-02 14:55:51 -  - ##### Gestion des fichiers datas ##### - 
+2025-09-02 16:55:51 -  - ##### Fin de la gestion des fichiers datas ##### - 
+2025-09-02 16:55:51 - =================================================
+2025-09-02 16:55:51 -  - ##### Récupération des données API ##### - 
+2025-09-02 16:55:51 - | Nb   | Url                                                                              | Filename                                 | Filesize   | Status   |
+2025-09-02 16:55:53 - | 1    | https://api.football-data.org/v4/matches                                         | matches-2025-09-02.json                  | 189        | ok       |
+2025-09-02 16:56:06 - | 2    | https://api.football-data.org/v4/matches?dateFrom=2025-09-01&dateTo=2025-09-02   | matches-2025-09-01.json                  | 189        | ok       |
+2025-09-02 16:56:16 - | 3    | https://api.football-data.org/v4/competitions                                    | competitions.json                        | 5385       | ok       |
+2025-09-02 16:56:26 - | 4    | https://api.football-data.org/v4/competitions/PL                                 | competition-info-PL.json                 | 41049      | ok       |
+2025-09-02 16:56:36 - | 5    | https://api.football-data.org/v4/competitions/PL/matches?year=2025               | competition-matches-PL-2025.json         | 741843     | ok       |
+2025-09-02 16:56:47 - | 6    | https://api.football-data.org/v4/competitions/PL/standings?year=2025             | competition-standings-PL-2025.json       | 14548      | ok       |
+2025-09-02 16:56:57 - | 7    | https://api.football-data.org/v4/competitions/PL/scorers?year=2025               | competition-scorers-PL-2025.json         | 11874      | ok       |
+2025-09-02 16:57:07 - | 8    | https://api.football-data.org/v4/competitions/CL                                 | competition-info-CL.json                 | 11157      | ok       |
+2025-09-02 16:57:18 - | 9    | https://api.football-data.org/v4/competitions/CL/matches?year=2025               | competition-matches-CL-2025.json         | 360093     | ok       |
+2025-09-02 16:57:28 - | 10   | https://api.football-data.org/v4/competitions/CL/standings?year=2025             | competition-standings-CL-2025.json       | 25572      | ok       |
+2025-09-02 16:57:38 - | 11   | https://api.football-data.org/v4/competitions/CL/scorers?year=2025               | competition-scorers-CL-2025.json         | 468        | ok       |
+2025-09-02 16:57:48 - | 12   | https://api.football-data.org/v4/competitions/FL1                                | competition-info-FL1.json                | 16159      | ok       |
+2025-09-02 16:57:59 - | 13   | https://api.football-data.org/v4/competitions/FL1/matches?year=2025              | competition-matches-FL1-2025.json        | 594533     | ok       |
+2025-09-02 16:58:09 - | 14   | https://api.football-data.org/v4/competitions/FL1/standings?year=2025            | competition-standings-FL1-2025.json      | 13104      | ok       |
+2025-09-02 16:58:19 - | 15   | https://api.football-data.org/v4/competitions/FL1/scorers?year=2025              | competition-scorers-FL1-2025.json        | 11980      | ok       |
+2025-09-02 16:58:30 - | 16   | https://api.football-data.org/v4/competitions/BL1                                | competition-info-BL1.json                | 27486      | ok       |
+2025-09-02 16:58:40 - | 17   | https://api.football-data.org/v4/competitions/BL1/matches?year=2025              | competition-matches-BL1-2025.json        | 594556     | ok       |
+2025-09-02 16:58:50 - | 18   | https://api.football-data.org/v4/competitions/BL1/standings?year=2025            | competition-standings-BL1-2025.json      | 13133      | ok       |
+2025-09-02 16:59:01 - | 19   | https://api.football-data.org/v4/competitions/BL1/scorers?year=2025              | competition-scorers-BL1-2025.json        | 11860      | ok       |
+2025-09-02 16:59:11 - | 20   | https://api.football-data.org/v4/competitions/SA                                 | competition-info-SA.json                 | 19992      | ok       |
+2025-09-02 16:59:21 - | 21   | https://api.football-data.org/v4/competitions/SA/matches?year=2025               | competition-matches-SA-2025.json         | 732406     | ok       |
+2025-09-02 16:59:31 - | 22   | https://api.football-data.org/v4/competitions/SA/standings?year=2025             | competition-standings-SA-2025.json       | 14428      | ok       |
+2025-09-02 16:59:42 - | 23   | https://api.football-data.org/v4/competitions/SA/scorers?year=2025               | competition-scorers-SA-2025.json         | 11927      | ok       |
+2025-09-02 16:59:52 - | 24   | https://api.football-data.org/v4/competitions/PD                                 | competition-info-PD.json                 | 20275      | ok       |
+2025-09-02 15:00:02 - =================================================
+2025-09-02 15:00:02 -  - ##### Démarrage de la tâche cron - EasyBet Crontab ##### - 
+2025-09-02 15:00:02 - =================================================
+2025-09-02 15:00:02 -  - ##### Gestion des fichiers de logs ##### - 
+2025-09-02 15:00:02 -  - ##### Fin de la gestion des fichiers de logs ##### - 
+2025-09-02 15:00:02 - =================================================
+2025-09-02 15:00:02 -  - ##### Gestion des fichiers datas ##### - 
+2025-09-02 17:00:02 -  - ##### Fin de la gestion des fichiers datas ##### - 
+2025-09-02 17:00:02 - =================================================
+2025-09-02 17:00:02 -  - ##### Récupération des données API ##### - 
+2025-09-02 17:00:02 - | Nb   | Url                                                                              | Filename                                 | Filesize   | Status   |
+2025-09-02 17:00:04 - | 25   | https://api.football-data.org/v4/competitions/PD/matches?year=2025               | competition-matches-PD-2025.json         | 739959     | ok       |
+2025-09-02 17:00:12 - Erreur : Erreur lors de l'accès à l'URL: https://api.football-data.org/v4/matches
+2025-09-02 17:00:13 - | 1    | https://api.football-data.org/v4/matches?dateFrom=2025-09-01&dateTo=2025-09-02   | matches-2025-09-01.json                  | 189        | ok       |
+2025-09-02 17:00:14 - | 26   | https://api.football-data.org/v4/competitions/PD/standings?year=2025             | competition-standings-PD-2025.json       | 14518      | ok       |
+2025-09-02 17:00:23 - | 2    | https://api.football-data.org/v4/competitions                                    | competitions.json                        | 5385       | ok       |
+2025-09-02 17:00:24 - | 27   | https://api.football-data.org/v4/competitions/PD/scorers?year=2025               | competition-scorers-PD-2025.json         | 11972      | ok       |
+2025-09-02 17:00:33 - | 3    | https://api.football-data.org/v4/competitions/PL                                 | competition-info-PL.json                 | 41049      | ok       |
+2025-09-02 17:00:34 - | 28   | https://api.football-data.org/v4/competitions/WC                                 | competition-info-WC.json                 | 16440      | ok       |
+2025-09-02 17:00:44 - | 4    | https://api.football-data.org/v4/competitions/PL/matches?year=2025               | competition-matches-PL-2025.json         | 741843     | ok       |
+2025-09-02 17:00:45 - | 29   | https://api.football-data.org/v4/competitions/WC/matches?year=2025               | competition-matches-WC-2025.json         | 184906     | ok       |
+2025-09-02 17:00:54 - | 5    | https://api.football-data.org/v4/competitions/PL/standings?year=2025             | competition-standings-PL-2025.json       | 14548      | ok       |
+2025-09-02 17:00:55 - Erreur : Erreur lors de l'accès à l'URL: https://api.football-data.org/v4/competitions/WC/standings?year=2025
+2025-09-02 17:00:55 - Erreur : Erreur lors de l'accès à l'URL: https://api.football-data.org/v4/competitions/WC/scorers?year=2025
+2025-09-02 17:00:56 - | 30   | https://newsapi.org/v2/everything?q=football&from=2025-09-01&to=2025-09-01&language=fr&sortBy=publishedAt&apiKey=dcd3126ac90f4aab9585afd4b50c8703   |
+...                                                                                                             | footnews.json                            | 97613      | ok       |
+2025-09-02 17:00:56 -  - ##### Fin récupération des données API ##### - 
+2025-09-02 17:00:56 - =================================================
+2025-09-02 17:00:56 -  - ##### Mise à jour de la base de données ##### - 
+2025-09-02 17:00:56 -  - ##### Fin mise à jour de la base de données ##### - 
+2025-09-02 17:00:56 - =================================================
+2025-09-02 17:00:56 -  - ##### Test de la page d'accueil ##### - 
+2025-09-02 17:01:04 - | 6    | https://api.football-data.org/v4/competitions/PL/scorers?year=2025               | competition-scorers-PL-2025.json         | 11874      | ok       |
+2025-09-02 17:01:14 - | 7    | https://api.football-data.org/v4/competitions/CL                                 | competition-info-CL.json                 | 11157      | ok       |
+2025-09-02 17:01:25 - | 8    | https://api.football-data.org/v4/competitions/CL/matches?year=2025               | competition-matches-CL-2025.json         | 360093     | ok       |
+2025-09-02 17:01:35 - | 9    | https://api.football-data.org/v4/competitions/CL/standings?year=2025             | competition-standings-CL-2025.json       | 25572      | ok       |
+2025-09-02 17:01:45 - | 10   | https://api.football-data.org/v4/competitions/CL/scorers?year=2025               | competition-scorers-CL-2025.json         | 468        | ok       |
+2025-09-02 17:01:55 - | 11   | https://api.football-data.org/v4/competitions/FL1                                | competition-info-FL1.json                | 16159      | ok       |
+2025-09-02 17:01:56 - Réponse du serveur :      Code HTTP = 200
+2025-09-02 17:01:56 - Temps de réponse total :  0.00444 secondes
+2025-09-02 17:01:56 - Temps de connexion :       0.001099 secondes
+2025-09-02 17:01:56 - Taille des données :      3831 octets téléchargés
+2025-09-02 17:01:56 - La page d'accueil est accessible et a répondu avec succès.
+2025-09-02 17:01:56 -  - ##### Fin test de la page d'accueil ##### - 
+2025-09-02 17:01:56 - =================================================
+2025-09-02 17:01:56 -  - ##### Fin de la tâche cron - EasyBet Crontab ##### - 
+2025-09-02 17:01:56 - =================================================
+2025-09-02 17:02:06 - | 12   | https://api.football-data.org/v4/competitions/FL1/matches?year=2025              | competition-matches-FL1-2025.json        | 594533     | ok       |
+2025-09-02 17:02:16 - | 13   | https://api.football-data.org/v4/competitions/FL1/standings?year=2025            | competition-standings-FL1-2025.json      | 13104      | ok       |
+2025-09-02 17:02:27 - | 14   | https://api.football-data.org/v4/competitions/FL1/scorers?year=2025              | competition-scorers-FL1-2025.json        | 11980      | ok       |
+2025-09-02 17:02:37 - | 15   | https://api.football-data.org/v4/competitions/BL1                                | competition-info-BL1.json                | 27486      | ok       |
+2025-09-02 17:02:47 - | 16   | https://api.football-data.org/v4/competitions/BL1/matches?year=2025              | competition-matches-BL1-2025.json        | 594556     | ok       |
+2025-09-02 17:02:58 - | 17   | https://api.football-data.org/v4/competitions/BL1/standings?year=2025            | competition-standings-BL1-2025.json      | 13133      | ok       |
+2025-09-02 17:03:08 - | 18   | https://api.football-data.org/v4/competitions/BL1/scorers?year=2025              | competition-scorers-BL1-2025.json        | 11860      | ok       |
+2025-09-02 17:03:18 - | 19   | https://api.football-data.org/v4/competitions/SA                                 | competition-info-SA.json                 | 19992      | ok       |
+2025-09-02 17:03:28 - | 20   | https://api.football-data.org/v4/competitions/SA/matches?year=2025               | competition-matches-SA-2025.json         | 732406     | ok       |
+2025-09-02 17:03:39 - | 21   | https://api.football-data.org/v4/competitions/SA/standings?year=2025             | competition-standings-SA-2025.json       | 14428      | ok       |
+2025-09-02 17:03:49 - | 22   | https://api.football-data.org/v4/competitions/SA/scorers?year=2025               | competition-scorers-SA-2025.json         | 11927      | ok       |
+2025-09-02 17:03:59 - | 23   | https://api.football-data.org/v4/competitions/PD                                 | competition-info-PD.json                 | 20275      | ok       |
+2025-09-02 17:04:10 - | 24   | https://api.football-data.org/v4/competitions/PD/matches?year=2025               | competition-matches-PD-2025.json         | 739959     | ok       |
+2025-09-02 17:04:20 - | 25   | https://api.football-data.org/v4/competitions/PD/standings?year=2025             | competition-standings-PD-2025.json       | 14518      | ok       |
+2025-09-02 17:04:31 - | 26   | https://api.football-data.org/v4/competitions/PD/scorers?year=2025               | competition-scorers-PD-2025.json         | 11972      | ok       |
+2025-09-02 17:04:41 - | 27   | https://api.football-data.org/v4/competitions/WC                                 | competition-info-WC.json                 | 16440      | ok       |
+2025-09-02 17:04:51 - | 28   | https://api.football-data.org/v4/competitions/WC/matches?year=2025               | competition-matches-WC-2025.json         | 184906     | ok       |
+2025-09-02 17:05:01 - | 29   | https://api.football-data.org/v4/competitions/WC/standings?year=2025             | competition-standings-WC-2025.json       | 32593      | ok       |
+2025-09-02 17:05:12 - | 30   | https://api.football-data.org/v4/competitions/WC/scorers?year=2025               | competition-scorers-WC-2025.json         | 464        | ok       |
+2025-09-02 17:05:22 - | 31   | https://newsapi.org/v2/everything?q=football&from=2025-09-01&to=2025-09-01&language=fr&sortBy=publishedAt&apiKey=dcd3126ac90f4aab9585afd4b50c8703   |
+...                                                                                                             | footnews.json                            | 97613      | ok       |
+2025-09-02 17:05:22 -  - ##### Fin récupération des données API ##### - 
+2025-09-02 17:05:22 - =================================================
+2025-09-02 17:05:22 -  - ##### Mise à jour de la base de données ##### - 
+2025-09-02 17:05:22 -  - ##### Fin mise à jour de la base de données ##### - 
+2025-09-02 17:05:22 - =================================================
+2025-09-02 17:05:22 -  - ##### Test de la page d'accueil ##### - 
+2025-09-02 17:06:22 - Réponse du serveur :      Code HTTP = 200
+2025-09-02 17:06:22 - Temps de réponse total :  0.004443 secondes
+2025-09-02 17:06:22 - Temps de connexion :       0.001074 secondes
+2025-09-02 17:06:22 - Taille des données :      3831 octets téléchargés
+2025-09-02 17:06:22 - La page d'accueil est accessible et a répondu avec succès.
+2025-09-02 17:06:22 -  - ##### Fin test de la page d'accueil ##### - 
+2025-09-02 17:06:22 - =================================================
+2025-09-02 17:06:22 -  - ##### Fin de la tâche cron - EasyBet Crontab ##### - 
+2025-09-02 17:06:22 - =================================================
+2025-09-02 16:00:01 - =================================================
+2025-09-02 16:00:01 -  - ##### Démarrage de la tâche cron - EasyBet Crontab ##### - 
+2025-09-02 16:00:01 - =================================================
+2025-09-02 16:00:01 -  - ##### Gestion des fichiers de logs ##### - 
+2025-09-02 16:00:01 -  - ##### Fin de la gestion des fichiers de logs ##### - 
+2025-09-02 16:00:01 - =================================================
+2025-09-02 16:00:01 -  - ##### Gestion des fichiers datas ##### - 
+2025-09-02 18:00:01 -  - ##### Fin de la gestion des fichiers datas ##### - 
+2025-09-02 18:00:01 - =================================================
+2025-09-02 18:00:01 -  - ##### Récupération des données API ##### - 
+2025-09-02 18:00:01 - | Nb   | Url                                                                              | Filename                                 | Filesize   | Status   |
+2025-09-02 18:00:11 - Erreur : Erreur lors de l'accès à l'URL: https://api.football-data.org/v4/matches
+2025-09-02 18:00:13 - | 1    | https://api.football-data.org/v4/matches?dateFrom=2025-09-01&dateTo=2025-09-02   | matches-2025-09-01.json                  | 189        | ok       |
+2025-09-02 18:00:23 - | 2    | https://api.football-data.org/v4/competitions                                    | competitions.json                        | 5385       | ok       |
+2025-09-02 18:00:33 - | 3    | https://api.football-data.org/v4/competitions/PL                                 | competition-info-PL.json                 | 41049      | ok       |
+2025-09-02 18:00:44 - | 4    | https://api.football-data.org/v4/competitions/PL/matches?year=2025               | competition-matches-PL-2025.json         | 741843     | ok       |
+2025-09-02 18:00:54 - | 5    | https://api.football-data.org/v4/competitions/PL/standings?year=2025             | competition-standings-PL-2025.json       | 14548      | ok       |
+2025-09-02 18:01:04 - | 6    | https://api.football-data.org/v4/competitions/PL/scorers?year=2025               | competition-scorers-PL-2025.json         | 11874      | ok       |
+2025-09-02 18:01:14 - | 7    | https://api.football-data.org/v4/competitions/CL                                 | competition-info-CL.json                 | 11157      | ok       |
+2025-09-02 18:01:25 - | 8    | https://api.football-data.org/v4/competitions/CL/matches?year=2025               | competition-matches-CL-2025.json         | 360093     | ok       |
+2025-09-02 18:01:35 - | 9    | https://api.football-data.org/v4/competitions/CL/standings?year=2025             | competition-standings-CL-2025.json       | 25572      | ok       |
+2025-09-02 18:01:45 - | 10   | https://api.football-data.org/v4/competitions/CL/scorers?year=2025               | competition-scorers-CL-2025.json         | 468        | ok       |
+2025-09-02 18:01:55 - | 11   | https://api.football-data.org/v4/competitions/FL1                                | competition-info-FL1.json                | 16159      | ok       |
+2025-09-02 18:02:06 - | 12   | https://api.football-data.org/v4/competitions/FL1/matches?year=2025              | competition-matches-FL1-2025.json        | 594533     | ok       |
+2025-09-02 18:02:16 - | 13   | https://api.football-data.org/v4/competitions/FL1/standings?year=2025            | competition-standings-FL1-2025.json      | 13104      | ok       |
+2025-09-02 18:02:27 - | 14   | https://api.football-data.org/v4/competitions/FL1/scorers?year=2025              | competition-scorers-FL1-2025.json        | 11980      | ok       |
+2025-09-02 18:02:37 - | 15   | https://api.football-data.org/v4/competitions/BL1                                | competition-info-BL1.json                | 27486      | ok       |
+2025-09-02 18:02:47 - | 16   | https://api.football-data.org/v4/competitions/BL1/matches?year=2025              | competition-matches-BL1-2025.json        | 594556     | ok       |
+2025-09-02 18:02:57 - | 17   | https://api.football-data.org/v4/competitions/BL1/standings?year=2025            | competition-standings-BL1-2025.json      | 13133      | ok       |
+2025-09-02 18:03:08 - | 18   | https://api.football-data.org/v4/competitions/BL1/scorers?year=2025              | competition-scorers-BL1-2025.json        | 11860      | ok       |
+2025-09-02 18:03:18 - | 19   | https://api.football-data.org/v4/competitions/SA                                 | competition-info-SA.json                 | 19992      | ok       |
+2025-09-02 18:03:29 - | 20   | https://api.football-data.org/v4/competitions/SA/matches?year=2025               | competition-matches-SA-2025.json         | 732406     | ok       |
+2025-09-02 18:03:39 - | 21   | https://api.football-data.org/v4/competitions/SA/standings?year=2025             | competition-standings-SA-2025.json       | 14428      | ok       |
+2025-09-02 18:03:50 - | 22   | https://api.football-data.org/v4/competitions/SA/scorers?year=2025               | competition-scorers-SA-2025.json         | 11927      | ok       |
+2025-09-02 18:04:00 - | 23   | https://api.football-data.org/v4/competitions/PD                                 | competition-info-PD.json                 | 20275      | ok       |
+2025-09-02 18:04:11 - | 24   | https://api.football-data.org/v4/competitions/PD/matches?year=2025               | competition-matches-PD-2025.json         | 739959     | ok       |
+2025-09-02 18:04:21 - | 25   | https://api.football-data.org/v4/competitions/PD/standings?year=2025             | competition-standings-PD-2025.json       | 14518      | ok       |
+2025-09-02 18:04:31 - | 26   | https://api.football-data.org/v4/competitions/PD/scorers?year=2025               | competition-scorers-PD-2025.json         | 11972      | ok       |
+2025-09-02 18:04:41 - | 27   | https://api.football-data.org/v4/competitions/WC                                 | competition-info-WC.json                 | 16440      | ok       |
+2025-09-02 18:04:52 - | 28   | https://api.football-data.org/v4/competitions/WC/matches?year=2025               | competition-matches-WC-2025.json         | 184906     | ok       |
+2025-09-02 18:05:02 - | 29   | https://api.football-data.org/v4/competitions/WC/standings?year=2025             | competition-standings-WC-2025.json       | 32593      | ok       |
+2025-09-02 18:05:12 - | 30   | https://api.football-data.org/v4/competitions/WC/scorers?year=2025               | competition-scorers-WC-2025.json         | 464        | ok       |
+2025-09-02 18:05:22 - | 31   | https://newsapi.org/v2/everything?q=football&from=2025-09-01&to=2025-09-01&language=fr&sortBy=publishedAt&apiKey=dcd3126ac90f4aab9585afd4b50c8703   |
+...                                                                                                             | footnews.json                            | 97613      | ok       |
+2025-09-02 18:05:22 -  - ##### Fin récupération des données API ##### - 
+2025-09-02 18:05:22 - =================================================
+2025-09-02 18:05:22 -  - ##### Mise à jour de la base de données ##### - 
+2025-09-02 18:05:22 -  - ##### Fin mise à jour de la base de données ##### - 
+2025-09-02 18:05:22 - =================================================
+2025-09-02 18:05:22 -  - ##### Test de la page d'accueil ##### - 
+2025-09-02 18:06:22 - Réponse du serveur :      Code HTTP = 200
+2025-09-02 18:06:22 - Temps de réponse total :  0.003039 secondes
+2025-09-02 18:06:22 - Temps de connexion :       0.00076 secondes
+2025-09-02 18:06:22 - Taille des données :      3901 octets téléchargés
+2025-09-02 18:06:22 - La page d'accueil est accessible et a répondu avec succès.
+2025-09-02 18:06:22 -  - ##### Fin test de la page d'accueil ##### - 
+2025-09-02 18:06:22 - =================================================
+2025-09-02 18:06:22 -  - ##### Fin de la tâche cron - EasyBet Crontab ##### - 
+2025-09-02 18:06:22 - =================================================
+2025-09-03 07:00:01 - =================================================
+2025-09-03 07:00:01 -  - ##### Démarrage de la tâche cron - EasyBet Crontab ##### - 
+2025-09-03 07:00:01 - =================================================
+2025-09-03 07:00:01 -  - ##### Gestion des fichiers de logs ##### - 
+2025-09-03 07:00:01 -  - ##### Fin de la gestion des fichiers de logs ##### - 
+2025-09-03 07:00:01 - =================================================
+2025-09-03 07:00:01 -  - ##### Gestion des fichiers datas ##### - 
+2025-09-03 09:00:01 -  - ##### Fin de la gestion des fichiers datas ##### - 
+2025-09-03 09:00:01 - =================================================
+2025-09-03 09:00:01 -  - ##### Récupération des données API ##### - 
+2025-09-03 09:00:01 - | Nb   | Url                                                                              | Filename                                 | Filesize   | Status   |
+2025-09-03 09:00:11 - Erreur : Erreur lors de l'accès à l'URL: https://api.football-data.org/v4/matches
+2025-09-03 09:00:12 - | 1    | https://api.football-data.org/v4/matches?dateFrom=2025-09-02&dateTo=2025-09-03   | matches-2025-09-02.json                  | 189        | ok       |
+2025-09-03 09:00:22 - | 2    | https://api.football-data.org/v4/competitions                                    | competitions.json                        | 5385       | ok       |
+2025-09-03 09:00:32 - | 3    | https://api.football-data.org/v4/competitions/PL                                 | competition-info-PL.json                 | 41049      | ok       |
+2025-09-03 09:00:43 - | 4    | https://api.football-data.org/v4/competitions/PL/matches?year=2025               | competition-matches-PL-2025.json         | 741843     | ok       |
+2025-09-03 09:00:53 - | 5    | https://api.football-data.org/v4/competitions/PL/standings?year=2025             | competition-standings-PL-2025.json       | 14548      | ok       |
+2025-09-03 09:01:03 - | 6    | https://api.football-data.org/v4/competitions/PL/scorers?year=2025               | competition-scorers-PL-2025.json         | 11874      | ok       |
+2025-09-03 09:01:13 - | 7    | https://api.football-data.org/v4/competitions/CL                                 | competition-info-CL.json                 | 11157      | ok       |
+2025-09-03 09:01:24 - | 8    | https://api.football-data.org/v4/competitions/CL/matches?year=2025               | competition-matches-CL-2025.json         | 360093     | ok       |
+2025-09-03 09:01:34 - | 9    | https://api.football-data.org/v4/competitions/CL/standings?year=2025             | competition-standings-CL-2025.json       | 25572      | ok       |
+2025-09-03 09:01:44 - | 10   | https://api.football-data.org/v4/competitions/CL/scorers?year=2025               | competition-scorers-CL-2025.json         | 468        | ok       |
+2025-09-03 09:01:54 - | 11   | https://api.football-data.org/v4/competitions/FL1                                | competition-info-FL1.json                | 16159      | ok       |
+2025-09-03 09:02:05 - | 12   | https://api.football-data.org/v4/competitions/FL1/matches?year=2025              | competition-matches-FL1-2025.json        | 594481     | ok       |
+2025-09-03 09:02:15 - | 13   | https://api.football-data.org/v4/competitions/FL1/standings?year=2025            | competition-standings-FL1-2025.json      | 13104      | ok       |
+2025-09-03 09:02:25 - | 14   | https://api.football-data.org/v4/competitions/FL1/scorers?year=2025              | competition-scorers-FL1-2025.json        | 11980      | ok       |
+2025-09-03 09:02:36 - | 15   | https://api.football-data.org/v4/competitions/BL1                                | competition-info-BL1.json                | 27486      | ok       |
+2025-09-03 09:02:46 - | 16   | https://api.football-data.org/v4/competitions/BL1/matches?year=2025              | competition-matches-BL1-2025.json        | 594556     | ok       |
+2025-09-03 09:02:56 - | 17   | https://api.football-data.org/v4/competitions/BL1/standings?year=2025            | competition-standings-BL1-2025.json      | 13133      | ok       |
+2025-09-03 09:03:06 - | 18   | https://api.football-data.org/v4/competitions/BL1/scorers?year=2025              | competition-scorers-BL1-2025.json        | 11860      | ok       |
+2025-09-03 09:03:17 - | 19   | https://api.football-data.org/v4/competitions/SA                                 | competition-info-SA.json                 | 19992      | ok       |
+2025-09-03 09:03:27 - | 20   | https://api.football-data.org/v4/competitions/SA/matches?year=2025               | competition-matches-SA-2025.json         | 732406     | ok       |
+2025-09-03 09:03:37 - | 21   | https://api.football-data.org/v4/competitions/SA/standings?year=2025             | competition-standings-SA-2025.json       | 14428      | ok       |
+2025-09-03 09:03:48 - | 22   | https://api.football-data.org/v4/competitions/SA/scorers?year=2025               | competition-scorers-SA-2025.json         | 11927      | ok       |
+2025-09-03 09:03:58 - | 23   | https://api.football-data.org/v4/competitions/PD                                 | competition-info-PD.json                 | 20275      | ok       |
+2025-09-03 09:04:08 - | 24   | https://api.football-data.org/v4/competitions/PD/matches?year=2025               | competition-matches-PD-2025.json         | 739959     | ok       |
+2025-09-03 09:04:19 - | 25   | https://api.football-data.org/v4/competitions/PD/standings?year=2025             | competition-standings-PD-2025.json       | 14518      | ok       |
+2025-09-03 09:04:29 - | 26   | https://api.football-data.org/v4/competitions/PD/scorers?year=2025               | competition-scorers-PD-2025.json         | 11972      | ok       |
+2025-09-03 09:04:39 - | 27   | https://api.football-data.org/v4/competitions/WC                                 | competition-info-WC.json                 | 16440      | ok       |
+2025-09-03 09:04:49 - | 28   | https://api.football-data.org/v4/competitions/WC/matches?year=2025               | competition-matches-WC-2025.json         | 184906     | ok       |
+2025-09-03 09:05:00 - | 29   | https://api.football-data.org/v4/competitions/WC/standings?year=2025             | competition-standings-WC-2025.json       | 32593      | ok       |
+2025-09-03 09:05:10 - | 30   | https://api.football-data.org/v4/competitions/WC/scorers?year=2025               | competition-scorers-WC-2025.json         | 464        | ok       |
+2025-09-03 09:05:21 - | 31   | https://newsapi.org/v2/everything?q=football&from=2025-09-02&to=2025-09-02&language=fr&sortBy=publishedAt&apiKey=dcd3126ac90f4aab9585afd4b50c8703   |
+...                                                                                                             | footnews.json                            | 87869      | ok       |
+2025-09-03 09:05:21 -  - ##### Fin récupération des données API ##### - 
+2025-09-03 09:05:21 - =================================================
+2025-09-03 09:05:21 -  - ##### Mise à jour de la base de données ##### - 
+2025-09-03 09:05:21 -  - ##### Fin mise à jour de la base de données ##### - 
+2025-09-03 09:05:21 - =================================================
+2025-09-03 09:05:21 -  - ##### Test de la page d'accueil ##### - 
+2025-09-03 09:06:21 - Réponse du serveur :      Code HTTP = 200
+2025-09-03 09:06:21 - Temps de réponse total :  0.001634 secondes
+2025-09-03 09:06:21 - Temps de connexion :       0.000471 secondes
+2025-09-03 09:06:21 - Taille des données :      3901 octets téléchargés
+2025-09-03 09:06:21 - La page d'accueil est accessible et a répondu avec succès.
+2025-09-03 09:06:21 -  - ##### Fin test de la page d'accueil ##### - 
+2025-09-03 09:06:21 - =================================================
+2025-09-03 09:06:21 -  - ##### Fin de la tâche cron - EasyBet Crontab ##### - 
+2025-09-03 09:06:21 - =================================================
+2025-09-03 08:00:01 - =================================================
+2025-09-03 08:00:01 -  - ##### Démarrage de la tâche cron - EasyBet Crontab ##### - 
+2025-09-03 08:00:01 - =================================================
+2025-09-03 08:00:01 -  - ##### Gestion des fichiers de logs ##### - 
+2025-09-03 08:00:01 -  - ##### Fin de la gestion des fichiers de logs ##### - 
+2025-09-03 08:00:01 - =================================================
+2025-09-03 08:00:01 -  - ##### Gestion des fichiers datas ##### - 
+2025-09-03 10:00:01 -  - ##### Fin de la gestion des fichiers datas ##### - 
+2025-09-03 10:00:01 - =================================================
+2025-09-03 10:00:01 -  - ##### Récupération des données API ##### - 
+2025-09-03 10:00:01 - | Nb   | Url                                                                              | Filename                                 | Filesize   | Status   |
+2025-09-03 10:00:03 - | 1    | https://api.football-data.org/v4/matches                                         | matches-2025-09-03.json                  | 189        | ok       |
+2025-09-03 10:00:15 - | 2    | https://api.football-data.org/v4/matches?dateFrom=2025-09-02&dateTo=2025-09-03   | matches-2025-09-02.json                  | 189        | ok       |
+2025-09-03 10:00:25 - | 3    | https://api.football-data.org/v4/competitions                                    | competitions.json                        | 5385       | ok       |
+2025-09-03 10:00:35 - | 4    | https://api.football-data.org/v4/competitions/PL                                 | competition-info-PL.json                 | 41049      | ok       |
+2025-09-03 10:00:46 - | 5    | https://api.football-data.org/v4/competitions/PL/matches?year=2025               | competition-matches-PL-2025.json         | 741843     | ok       |
+2025-09-03 10:00:56 - | 6    | https://api.football-data.org/v4/competitions/PL/standings?year=2025             | competition-standings-PL-2025.json       | 14548      | ok       |
+2025-09-03 10:01:07 - | 7    | https://api.football-data.org/v4/competitions/PL/scorers?year=2025               | competition-scorers-PL-2025.json         | 11874      | ok       |
+2025-09-03 10:01:17 - | 8    | https://api.football-data.org/v4/competitions/CL                                 | competition-info-CL.json                 | 11157      | ok       |
+2025-09-03 10:01:27 - | 9    | https://api.football-data.org/v4/competitions/CL/matches?year=2025               | competition-matches-CL-2025.json         | 360093     | ok       |
+2025-09-03 10:01:37 - | 10   | https://api.football-data.org/v4/competitions/CL/standings?year=2025             | competition-standings-CL-2025.json       | 25572      | ok       |
+2025-09-03 10:01:48 - | 11   | https://api.football-data.org/v4/competitions/CL/scorers?year=2025               | competition-scorers-CL-2025.json         | 468        | ok       |
+2025-09-03 10:01:58 - | 12   | https://api.football-data.org/v4/competitions/FL1                                | competition-info-FL1.json                | 16159      | ok       |
+2025-09-03 10:02:08 - | 13   | https://api.football-data.org/v4/competitions/FL1/matches?year=2025              | competition-matches-FL1-2025.json        | 594481     | ok       |
+2025-09-03 10:02:18 - | 14   | https://api.football-data.org/v4/competitions/FL1/standings?year=2025            | competition-standings-FL1-2025.json      | 13104      | ok       |
+2025-09-03 10:02:29 - | 15   | https://api.football-data.org/v4/competitions/FL1/scorers?year=2025              | competition-scorers-FL1-2025.json        | 11980      | ok       |
+2025-09-03 10:02:39 - | 16   | https://api.football-data.org/v4/competitions/BL1                                | competition-info-BL1.json                | 27486      | ok       |
+2025-09-03 10:02:50 - | 17   | https://api.football-data.org/v4/competitions/BL1/matches?year=2025              | competition-matches-BL1-2025.json        | 594556     | ok       |
+2025-09-03 10:03:00 - | 18   | https://api.football-data.org/v4/competitions/BL1/standings?year=2025            | competition-standings-BL1-2025.json      | 13133      | ok       |
+2025-09-03 10:03:10 - | 19   | https://api.football-data.org/v4/competitions/BL1/scorers?year=2025              | competition-scorers-BL1-2025.json        | 11860      | ok       |
+2025-09-03 10:03:20 - | 20   | https://api.football-data.org/v4/competitions/SA                                 | competition-info-SA.json                 | 19992      | ok       |
+2025-09-03 10:03:31 - | 21   | https://api.football-data.org/v4/competitions/SA/matches?year=2025               | competition-matches-SA-2025.json         | 732406     | ok       |
+2025-09-03 10:03:41 - | 22   | https://api.football-data.org/v4/competitions/SA/standings?year=2025             | competition-standings-SA-2025.json       | 14428      | ok       |
+2025-09-03 10:03:52 - | 23   | https://api.football-data.org/v4/competitions/SA/scorers?year=2025               | competition-scorers-SA-2025.json         | 11927      | ok       |
+2025-09-03 10:04:02 - | 24   | https://api.football-data.org/v4/competitions/PD                                 | competition-info-PD.json                 | 20275      | ok       |
+2025-09-03 10:04:12 - | 25   | https://api.football-data.org/v4/competitions/PD/matches?year=2025               | competition-matches-PD-2025.json         | 739959     | ok       |
+2025-09-03 10:04:23 - | 26   | https://api.football-data.org/v4/competitions/PD/standings?year=2025             | competition-standings-PD-2025.json       | 14518      | ok       |
+2025-09-03 10:04:33 - | 27   | https://api.football-data.org/v4/competitions/PD/scorers?year=2025               | competition-scorers-PD-2025.json         | 11972      | ok       |
+2025-09-03 10:04:43 - | 28   | https://api.football-data.org/v4/competitions/WC                                 | competition-info-WC.json                 | 16440      | ok       |
+2025-09-03 10:04:54 - | 29   | https://api.football-data.org/v4/competitions/WC/matches?year=2025               | competition-matches-WC-2025.json         | 184906     | ok       |
+2025-09-03 10:05:04 - | 30   | https://api.football-data.org/v4/competitions/WC/standings?year=2025             | competition-standings-WC-2025.json       | 32593      | ok       |
+2025-09-03 10:05:14 - | 31   | https://api.football-data.org/v4/competitions/WC/scorers?year=2025               | competition-scorers-WC-2025.json         | 464        | ok       |
+2025-09-03 10:05:25 - | 32   | https://newsapi.org/v2/everything?q=football&from=2025-09-02&to=2025-09-02&language=fr&sortBy=publishedAt&apiKey=dcd3126ac90f4aab9585afd4b50c8703   |
+...                                                                                                             | footnews.json                            | 88804      | ok       |
+2025-09-03 10:05:25 -  - ##### Fin récupération des données API ##### - 
+2025-09-03 10:05:25 - =================================================
+2025-09-03 10:05:25 -  - ##### Mise à jour de la base de données ##### - 
+2025-09-03 10:05:25 -  - ##### Fin mise à jour de la base de données ##### - 
+2025-09-03 10:05:25 - =================================================
+2025-09-03 10:05:25 -  - ##### Test de la page d'accueil ##### - 
+2025-09-03 10:06:25 - Réponse du serveur :      Code HTTP = 200
+2025-09-03 10:06:25 - Temps de réponse total :  0.001517 secondes
+2025-09-03 10:06:25 - Temps de connexion :       0.000381 secondes
+2025-09-03 10:06:25 - Taille des données :      3901 octets téléchargés
+2025-09-03 10:06:25 - La page d'accueil est accessible et a répondu avec succès.
+2025-09-03 10:06:25 -  - ##### Fin test de la page d'accueil ##### - 
+2025-09-03 10:06:25 - =================================================
+2025-09-03 10:06:25 -  - ##### Fin de la tâche cron - EasyBet Crontab ##### - 
+2025-09-03 10:06:25 - =================================================
+2025-09-03 09:00:01 - =================================================
+2025-09-03 09:00:01 -  - ##### Démarrage de la tâche cron - EasyBet Crontab ##### - 
+2025-09-03 09:00:01 - =================================================
+2025-09-03 09:00:01 -  - ##### Gestion des fichiers de logs ##### - 

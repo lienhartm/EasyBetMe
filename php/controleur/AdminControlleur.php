@@ -4,7 +4,7 @@ class AdminControlleur {
     
     public function adminPage() {
 
-        require "view/admin/admin.php";
+        require "view/index.php";
 
     }
 }

@@ -1,8 +1,8 @@
 <?php
 
-class GiftControlleur {
+class UserControlleur {
     
-    public function giftPage() {
+    public function userPage() {
 
         require "view/index.php";
 
