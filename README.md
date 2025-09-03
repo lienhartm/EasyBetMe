@@ -125,9 +125,9 @@ Dans le cas d'*EasyBetMe*, la gamification sert à motiver les utilisateurs à i
 | **Mini-jeu (pénalty)** | Jeu complémentaire pour gagner des crédits | Ludification directe, micro-engagement |
 | **Boutique virtuelle** | Achat de cadeaux via crédits accumulés | Objectif, progression, sens du but |
 | **Progression & récompense différée** | Contribution partielle jusqu'à l'obtention du cadeau | Accumulation, anticipation, gratification différée |
-| **Opt-in pour les classements** | L'utilisateur choisit de participer à l'événement | Volontariat, autonomie (cf. SDT*)
+| **Opt-in pour les classements** | L'utilisateur choisit de participer à l'événement | Volontariat, autonomie (cf. SDT [^1])
 
-*SDT : **Self-Determination Theory (Deci & Ryan, 2000) - Théorie de la motivation qui souligne le rôle de l'autonomie, la compétence et la raison sociale.
+[^1]: SDT : **Self-Determination Theory (Deci & Ryan, 2000) - Théorie de la motivation qui souligne le rôle de l'autonomie, la compétence et la raison sociale.
 
 #### 2.3. Analyse selon le modèle Octalysis (Yu-kay Chou)
 
@@ -358,7 +358,7 @@ L'analyse de cette plateforme met en lumière l'intérêt et la puissance des st
 - UHA4.0, *L'école du Numérique, une formation universitaire en développement informatique 100% projet à Mulhouse, en Alsace !*, UHA4.0, 2025. [website](http://www.uha4point0.fr)
 - 4.0, *Formations innovantes 4.0*, UAH, 2025. [website](https://www.uha.fr/fr/formation-1/accompagnement-a-la-reussite-1/formations-innovantes-4-0.htmls)
 - MonWebPro, *Votre site internet professionnel*, MonWebPro, 2025. [website](https://www.monwebpro.com/)
-- EasyBet, *Bienvenue sur le site EasyBetMe !*, EasyBetMe, 2025. [website](monwebprohttps://www.easybet.me/)
+- EasyBet, *Bienvenue sur le site EasyBetMe !*, EasyBetMe, 2025. [website](https://www.easybet.me/)
 
 #### API
 - News API, *Search News and Blog Articles on the Web*, News API, [website](https://newsapi.org)
