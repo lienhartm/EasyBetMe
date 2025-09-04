@@ -34,6 +34,9 @@ $ctrlPenalty = new PenaltyControlleur();
 $ctrlProfil = new ProfilControlleur();
 //$ctrlUser = new UserControlleur();
 
+if(isset($_GET['competition'])){
+    $competition = $_GET['competition'];
+}
 if(isset($_GET['action'])){
     $action = $_GET['action'];
     $id=(isset($_GET['id']))?$_GET['id']: "";
@@ -60,7 +63,7 @@ if(isset($_GET['action'])){
             $ctrlNews->newsPage();
             break;
         case "infos":
-            $ctrlInfo->infoPage();
+            $ctrlInfo->infoPage($competition);
             break;
         case "aide":
             $ctrlHome->aidePage();

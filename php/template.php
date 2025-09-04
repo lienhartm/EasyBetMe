@@ -72,16 +72,19 @@
         <a href="index.php?action=infos" class="icon">INFOS</a>
         <a href="index.php?action=news" class="icon">ACTUS</a>
 
-    <? if($_SESSION['login']==1 && ($User['id']==1 || $User['id']==2  || $User['id']==31)):?>
-	    <a href="index.php?action=admin"><span class="icon">&#xe994;</span></a>
-	<? endif; ?>
-	<? if($_SESSION['login']==1):?>
-	    <a href="index.php?action=gift"><span class="icon">&#xe99f;</span><label><?=$User['gift'];?></label></a>
-	<? endif; ?>
-	<? if($_SESSION['login']==1):?>
-	    <a href="index.php?action=penalty"><span class="icon">&#xe915;</span></a>
-	<? endif; ?>
-	<? $nav_link = ($_SESSION['login']==1) ? $Url.'/profile' : $Url.'/login'; ?>
+        <? if($_SESSION['login']==1 && ($User['id']==1 || $User['id']==2  || $User['id']==31)):?>
+            <a href="index.php?action=admin"><span class="icon">&#xe994;</span></a>
+        <? endif; ?>
+
+        <? if($_SESSION['login']==1):?>
+            <a href="index.php?action=gift"><span class="icon">&#xe99f;</span><label><?=$User['gift'];?></label></a>
+        <? endif; ?>
+
+        <? if($_SESSION['login']==1):?>
+            <a href="index.php?action=penalty"><span class="icon">&#xe915;</span></a>
+        <? endif; ?>
+        
+        <? $nav_link = ($_SESSION['login']==1) ? $Url.'/profile' : $Url.'/login'; ?>
 
     	<a href="index.php?action=profile"><span  class="fa icon">&#xf007;</span></a>
 

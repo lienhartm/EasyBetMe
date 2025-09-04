@@ -1,17 +1,12 @@
-
 <link href="../styles/_infos.css" rel="stylesheet" type="text/css" />
 <?php
 
 // temporisation de sortie
-ob_start();
+    ob_start();
 
-require_once "controleur/DataControlleur.php";
-
-$ctrl = new DataControlleur();
-$data = $ctrl->dataCompetitions();
+    if(isset($data['competitions'])) { $data = $data['competitions']; }
 
 ?>
-
 
 <div class="competitions">
     <h3>Des informations sur les ligues et les coupes qui t'intéressent !</h3>
@@ -20,7 +15,7 @@ $data = $ctrl->dataCompetitions();
         <?php
             foreach($data as $competition) {
                 //echo "<a href='".$Url."/informations/info/".$competition['code']."' >
-                echo "<a href='#' >
+                echo "<a href='index.php?action=infos&competition=".$competition["code"]."' >
                         <div class='competition'>
                             <figure>
                                 <img class='emblem' src='".$competition['emblem']."' alt='competition flag' />
@@ -37,8 +32,9 @@ $data = $ctrl->dataCompetitions();
 </div>
 
 <?php
-$contenu = ob_get_clean();
 
-require_once "template.php";
+    $contenu = ob_get_clean();
+
+    require_once "template.php";
 
 ?>

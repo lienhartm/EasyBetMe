@@ -2,8 +2,8 @@
 
 <?php
 
-$contenu = ob_get_clean();
+    $contenu = ob_get_clean();
 
-require_once "template.php";
+    require_once "template.php";
 
 ?>

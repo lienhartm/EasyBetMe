@@ -5,10 +5,7 @@
 
     ob_start(); 
 
-    require_once "controleur/DataControlleur.php";
-
-    $ctrl = new DataControlleur();
-    $data = $ctrl->dataMatches();
+    if(isset($ata['matches'])) { $data = $ata['matches']; }
     //var_dump($data);
 
     $_SESSION['login']=0; 

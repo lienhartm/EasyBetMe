@@ -1,6 +1,9 @@
 
 
 
+
+<link href="../styles/_home.css" rel="stylesheet" type="text/css" />
+
 <!doctype html>
 <html>
 <head>
@@ -65,7 +68,7 @@
 
         <a href="index.php?action=home"><span class="fa icon">&#xf1e3;</span></a>
 
-        <a href="index.php?action=informations" class="icon">INFOS</a>
+        <a href="index.php?action=infos" class="icon">INFOS</a>
         <a href="index.php?action=news" class="icon">ACTUS</a>
 
     			
@@ -78,6 +81,34 @@
 <!--<div class="gradient"></div> ? MESSAGE ?-->
 <main>
 	
+<div class="home">
+
+    <!-- afficher les messages -->
+    <div id="message-container">
+            </div>
+
+    <div id="message-evenement">
+        </div>
+        
+    <div id='message-evenement'>
+    <!-- Afficher l'événement dans les 7 jours -->
+        </div>
+
+    <div class="games">
+        <div class="head">
+            <h2><strong>MATCHS DU JOUR</strong></h2>
+        </div>
+        <br />
+        <div style="display:flex;">
+            <div style="display:flex;margin:auto;" id="competition-container"></div>
+        </div>
+        <div id="matches-container" >
+                        <h3 style='text-align:center'>Bienvenue sur le site EasyBet !</h3>
+                    </div>
+    </div>
+
+</div>
+
 </main>
 	<footer>
 		<div class="footer">
@@ -107,3 +138,248 @@
 </style>
 
 
+<script>
+        
+    document.addEventListener('DOMContentLoaded', function() {        
+        createCompetitionSearch();
+        fetchMatches();
+    });
+
+    var messageContainer = document.getElementById('message-container');
+    
+    // Si un message existe
+    if (messageContainer && messageContainer.innerHTML.trim() !== "") {
+        // Masquer le message après 5 secondes
+        setTimeout(function() {
+            messageContainer.style.display = 'none';
+        }, 5000); // 5000 millisecondes = 5 secondes
+    }
+
+    function fetchMatches() {
+
+        const data = [];
+
+
+    
+        const session = 0;
+
+        console.log(session);
+
+
+        if (!data || data.length === 0) {
+            document.getElementById('competition-container').innerHTML = `<h2>Aucun matches aujourd\'hui !<br />Mais vous pouvez toujours jouez au ${session ? '<a href="/penalty">mini-jeu de penalty !</a>' : 'mini-jeu de penalty !'}<br /><br />${!session ? '<a href="/login">Inscrivez-vous/Connectez-vous</a>' : ''}</h2>`;
+            document.getElementById('matches-container').innerHTML = ``;
+            return;
+        }
+
+        displayCompetitions(data);
+
+        let competition = document.getElementById('competition').value ? document.getElementById('competition').value : '';
+        let filteredMatches;
+
+        if (competition != 'all') {
+            filteredMatches = Object.values(data).filter(match => match.competition.code === competition);
+        } else {
+            filteredMatches = Object.values(data);
+        }
+
+        displayMatches(filteredMatches);
+    }
+
+    function createCompetitionSearch() {
+    
+        const container = document.getElementById('competition-container');
+
+        const boldText = document.createElement('b');
+        boldText.textContent = "Recherche par compétition";
+        boldText.style.marginRight = "20px";
+
+        const form = document.createElement('form');
+        form.method = "GET";
+        form.action = "";
+
+        const select = document.createElement('select');
+        select.name = "competition";
+        select.id = "competition";
+        select.onchange = fetchMatches;
+
+        const defaultOption = document.createElement('option');
+        defaultOption.value = "all";
+        defaultOption.textContent = " --- Compétitions --- ";
+        select.appendChild(defaultOption);
+    
+        form.appendChild(select);
+        container.appendChild(boldText);
+        container.appendChild(form);
+
+    }
+
+    function displayCompetitions(matches) {
+
+        let competitionSelect = document.getElementById('competition');
+        let selectedValue = competitionSelect.value || '';  // Sauvegarde de la sélection actuelle
+        let displayedCompetitions = new Set();
+        
+        // Créer l'option par défaut
+        const defaultOption = document.createElement('option');
+        defaultOption.value = "all";
+        defaultOption.textContent = " --- Compétitions --- ";
+        
+        // Vider le select sans supprimer l'option par défaut
+        competitionSelect.innerHTML = '';
+        competitionSelect.appendChild(defaultOption);
+
+        // Afficher les compétitions disponibles sans duplicata
+        for (let match in matches) {
+            let competitionName = matches[match].competition.code;
+
+            if (!displayedCompetitions.has(competitionName)) {
+                let option = document.createElement('option');
+                option.value = competitionName;
+                option.textContent = matches[match].competition.name + ' - ' + matches[match].area.code;
+                competitionSelect.appendChild(option);
+                displayedCompetitions.add(competitionName);
+            }
+        };
+
+        // Rétablir la sélection précédente
+        if (selectedValue && competitionSelect.querySelector(`option[value="${selectedValue}"]`)) {
+            competitionSelect.value = selectedValue;
+        }
+    }
+
+
+    // Fonction pour afficher les matchs
+    function displayMatches(matches) {
+        
+        const container = document.getElementById('matches-container');
+        container.innerHTML = '';
+        if (!matches || Object.keys(matches).length === 0) {
+            container.innerHTML = '<div class="nogame">Pas de match aujourd\'hui !</div>';
+        } else {         
+            for (let match in matches) {
+                container.innerHTML += generateMatchHTML(matches[match]);
+            };
+        }
+    }
+
+    // Fonction pour générer le HTML pour chaque match
+    function generateMatchHTML(match) {
+        const homeTeam = match.homeTeam;
+        const awayTeam = match.awayTeam;
+        const competition = match.competition;
+
+        return `
+            <div class="game">
+                <p class="date"><span class="icon">&#xe94e;</span>${new Date(match.utcDate).toLocaleTimeString([], { hour: '2-digit', minute: '2-digit' })}</p>
+                <p class="competition">
+                    <img src="${competition.emblem}" />
+                    <strong>${competition.name}</strong>
+                </p>
+                <div class="teams">
+                    <div class="inline team">
+                        <div class="logo">
+                            <img src="${homeTeam.crest}" alt="${homeTeam.name}" />
+                        </div>
+                        <p><strong>${homeTeam.name}</strong></p>
+                    </div>
+                    <div class="inline form">
+                        ${generateBetForm(match)}
+                    </div>
+                    <div class="inline team">
+                        <div class="logo">
+                            <img src="${awayTeam.crest}" alt="${awayTeam.name}" />
+                        </div>
+                        <p><strong>${awayTeam.name}</strong></p>
+                    </div>
+                </div>
+                ${logged(match)}
+            </div>
+        `;
+    }
+
+    let userIsLoggedIn = false;
+    let Check_idGame = [];
+    let CheckParty = [];
+
+    function generateBetForm(match) {
+        let pari ='';
+        if(Check_idGame && CheckParty) {
+            if (Check_idGame.includes(match.id)) {
+                CheckParty.forEach(Check => {
+                    if (Check.id_game === match.id) {
+                        pari =`
+                            <div class="team">
+                                <p class="intro">Votre pronostic :</p>
+                                <p class="score <br />
+<b>Notice</b>:  Undefined variable: class in <b>/var/www/html/view/home/home.php</b> on line <b>249</b><br />
+">${Check.score_d} - ${Check.score_v}</p>
+                            </div>
+                        `;
+                    }
+                });
+                return pari;
+            }
+            else if (!Check_idGame.includes(match.id)) {
+                if (userIsLoggedIn && new Date(match.utcDate) > new Date()) {
+                    return `
+                        <form class="bet" method="POST" action="/bet">
+                            <input type="hidden" name="id_game" value="${match.id}" />
+                            <input type="hidden" name="id_domicile" value="${match.homeTeam.id}" />
+                            <input type="hidden" name="id_visiteur" value="${match.awayTeam.id}" />
+                            <div class="team">
+                                <input type="number" name="sd" min="0" value="0" />
+                            </div>
+                            <div class="team">
+                                <input type="number" name="sv" min="0" value="0" />
+                            </div>
+                            <div class="submit">
+                                <input type="submit" value="Valider" />
+                            </div>
+                        </form>
+                    `;
+                }            
+                else {
+                    return '<p class="empty">0</p>';
+                }
+            }
+        }
+    }
+
+    
+
+    function logged(match) {
+        if(!userIsLoggedIn) {
+            return `
+                <div class='closed'>
+                    <div class='picto'>
+                        <span class='icon'>&#xea0c;</span>
+                    </div>
+                    <div class='msg'>
+                        <p>Vous devez être connecté pour jouer.<br /><a href=''>Se connecter / Créer un compte</a>.</p>
+                    </div>
+                </div>
+            `;
+        }
+        else if (userIsLoggedIn && new Date(match.utcDate) < new Date()) {
+            return `
+                <div class='closed'>
+                    <div class='picto'>
+                        <span class='icon'>&#xea0c;</span>
+                    </div>
+                    <div class='msg'>
+                        <p>Le match a commencé.<br />Vous ne pouvez plus faire de pronostic sur ce match</p>
+                    </div>
+                </div>
+            `;
+        }
+        else {
+            return `<div></div>`;
+        }
+    }
+
+    setTimeout(function() {
+        document.getElementById('message-evenement').style.display = 'none';
+    }, 20000);
+    
+</script>
