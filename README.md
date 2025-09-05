@@ -252,7 +252,15 @@ Comme annoncé plus haut dans le *'cahiers des charges V1'* la refonte du site *
 ##### Description
 
 Crontab
-: L'utilisation de la tâche *CRON* se fera hors du conteneur depuis l'hôte. Tous les jours à 4h00 du matin celle ci sera exécutée récupérant ainsi les données footbalistiques (sportives et articles de presse) et mets également à jour les paris effectuer par les joureurs pour l'obtention des points et crédits.
+: L'utilisation de la tâche *CRON* se fera hors du conteneur depuis l'hôte. Tous les jours à 4h00 du matin celle ci sera exécutée récupérant ainsi les données footbalistiques (sportives et articles de presse) et mets à jour la base de donnée ainsi qu'une maintenance de fichiers :
+- Les fichiers JSON ont ét retravaillé pour ne grader que le strict essentiel.
+- Les fichiers log sont archivés tous les quinzes jours (~100ko).
+- Les fichiers contenant les matches sont supprimés au bout de 10 jours.
+- Des manipulations sur la base de donnée permettent également de:
+    - De Mettre à jour le résultat des matches
+    - De l'obtention des gains des joueurs
+    - Du traitement des événements (gain de points, gestions des participants)
+- Un test pour obtenir les résultats pour atteindre la pag d'acceuil
 
 ### 5. Aspect Technique
 
