@@ -196,7 +196,7 @@
         </div>
     </div>
     <div class="retour">
-        <a href='#' >Retour</a>
+        <a href='index.php?action=infos' >Retour</a>
     </div>
 </div>
 

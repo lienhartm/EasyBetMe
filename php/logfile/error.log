@@ -16,3 +16,4 @@ Stack trace:
 [05-Sep-2025 19:14:54 Europe/Paris] PHP Notice:  Undefined variable: data in /var/www/html/cron/crontab.php on line 329
 [05-Sep-2025 19:19:42 Europe/Paris] PHP Notice:  Undefined variable: data in /var/www/html/cron/crontab.php on line 331
 [05-Sep-2025 19:23:09 Europe/Paris] PHP Notice:  Undefined variable: data in /var/www/html/cron/crontab.php on line 331
+[05-Sep-2025 20:01:46 Europe/Paris] PHP Notice:  Undefined variable: data in /var/www/html/cron/crontab.php on line 331
