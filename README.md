@@ -190,9 +190,9 @@ RAZ Docker:
 |----------|----------|
 | Mars 2025 |- Mise en place de l'environnement logiciel Docker (dévelopement de la version V2) |
 | Avril 2025 | - Mise en place de la base de donnée MySQL (insertion des exports bd existante) |
-| Juillet 2025 | - Mise en place de l'architecture de type MVC <br> - Mise en place du CSS de la version V1 |
-| Août 2025 | - Correction CSS <br> - Tâche cron de récupération des données API et de mise à jour BD |
-| Septembre 2025 | - Développement du site ( pages : home, news, actus, aide) |
+| Juillet 2025 | - Mise en place de l'architecture de type MVC |
+| Août 2025 | - Corrections CSS <br> - Tâche cron de récupération des données API et de mise à jour BD |
+| Septembre 2025 | - Développement du site ( pages : home, news, actus, aide)<br>- Amélioration de la tâche cron (espace de stockage) |
 
 ### 4. Projet
 
@@ -252,8 +252,28 @@ Comme annoncé plus haut dans le *'cahiers des charges V1'* la refonte du site *
 ##### Description
 
 Crontab
-: L'utilisation de la tâche *CRON* se fera hors du conteneur depuis l'hôte. Tous les jours à 4h00 du matin celle ci sera exécutée récupérant ainsi les données footbalistiques (sportives et articles de presse) et mets également à jour les paris effectuer par les joureurs pour l'obtention des points et crédits.
+: L'utilisation de la tâche *CRON* se fera hors du conteneur depuis l'hôte. Tous les jours à 4h00 du matin celle ci sera exécutée récupérant ainsi les données footbalistiques (sportives et articles de presse) et mets à jour la base de donnée ainsi qu'une maintenance de fichiers :
+- Les fichiers JSON ont ét retravaillé pour ne grader que le strict essentiel.
+- Les fichiers log sont archivés tous les quinzes jours (~100ko).
+- Les fichiers contenant les matches sont supprimés au bout de 10 jours.
+- Des manipulations sur la base de donnée permettent également de:
+    - De Mettre à jour le résultat des matches
+    - De l'obtention des gains des joueurs
+    - Du traitement des événements (gain de points, gestions des participants)
+- Un test pour obtenir les résultats pour atteindre la pag d'acceuil
 
+Feuilles de styles
+: Les feuilles de styles sont totalement réécritent.
+
+Actus & Infos
+: Les pages *Actus & Infos* ont également subis des modifications :
+- Actus :
+    - Il est possible de faire une recherche par l'éditeur de l'article (ex: 20Minutes, LeMonde, etc...).
+    - La recherche par mot clé qui est contenu dans le titre et dans contenu de l'article.
+    - Il est possible de modifier l'apparence de l'affichage (grid, column).
+- Infos :
+    - Il est possible d'interagir avec les différents tableaux diponible (gagnants, matches récent et à venir, classement équipes et meilleurs joueurs), ce qui évite de scroller sur la page.
+  
 ### 5. Aspect Technique
 
 #### 5.1. Architecture
