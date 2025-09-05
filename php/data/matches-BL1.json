@@ -1,0 +1,3064 @@
+{
+    "matches": {
+        "540406": {
+            "utcDate": "2025-08-22T18:30:00Z",
+            "homeTeamName": "FC Bayern M\u00fcnchen",
+            "awayTeamName": "FC Bayern M\u00fcnchen",
+            "homeTeamCrest": "https:\/\/crests.football-data.org\/5.png",
+            "awayTeamCrest": "https:\/\/crests.football-data.org\/721.png",
+            "scoreWinner": "HOME_TEAM",
+            "scoreFullTimeHome": 6,
+            "scoreFullTimeAway": 0
+        },
+        "540407": {
+            "utcDate": "2025-08-23T13:30:00Z",
+            "homeTeamName": "Eintracht Frankfurt",
+            "awayTeamName": "Eintracht Frankfurt",
+            "homeTeamCrest": "https:\/\/crests.football-data.org\/19.png",
+            "awayTeamCrest": "https:\/\/crests.football-data.org\/12.png",
+            "scoreWinner": "HOME_TEAM",
+            "scoreFullTimeHome": 4,
+            "scoreFullTimeAway": 1
+        },
+        "540408": {
+            "utcDate": "2025-08-23T13:30:00Z",
+            "homeTeamName": "Bayer 04 Leverkusen",
+            "awayTeamName": "Bayer 04 Leverkusen",
+            "homeTeamCrest": "https:\/\/crests.football-data.org\/3.png",
+            "awayTeamCrest": "https:\/\/crests.football-data.org\/2.png",
+            "scoreWinner": "AWAY_TEAM",
+            "scoreFullTimeHome": 1,
+            "scoreFullTimeAway": 2
+        },
+        "540409": {
+            "utcDate": "2025-08-23T13:30:00Z",
+            "homeTeamName": "SC Freiburg",
+            "awayTeamName": "SC Freiburg",
+            "homeTeamCrest": "https:\/\/crests.football-data.org\/17.png",
+            "awayTeamCrest": "https:\/\/crests.football-data.org\/16.png",
+            "scoreWinner": "AWAY_TEAM",
+            "scoreFullTimeHome": 1,
+            "scoreFullTimeAway": 3
+        },
+        "540412": {
+            "utcDate": "2025-08-23T13:30:00Z",
+            "homeTeamName": "1. FC Union Berlin",
+            "awayTeamName": "1. FC Union Berlin",
+            "homeTeamCrest": "https:\/\/crests.football-data.org\/28.png",
+            "awayTeamCrest": "https:\/\/crests.football-data.org\/10.png",
+            "scoreWinner": "HOME_TEAM",
+            "scoreFullTimeHome": 2,
+            "scoreFullTimeAway": 1
+        },
+        "540414": {
+            "utcDate": "2025-08-23T13:30:00Z",
+            "homeTeamName": "1. FC Heidenheim 1846",
+            "awayTeamName": "1. FC Heidenheim 1846",
+            "homeTeamCrest": "https:\/\/crests.football-data.org\/44.png",
+            "awayTeamCrest": "https:\/\/crests.football-data.org\/11.png",
+            "scoreWinner": "AWAY_TEAM",
+            "scoreFullTimeHome": 1,
+            "scoreFullTimeAway": 3
+        },
+        "540413": {
+            "utcDate": "2025-08-23T16:30:00Z",
+            "homeTeamName": "FC St. Pauli 1910",
+            "awayTeamName": "FC St. Pauli 1910",
+            "homeTeamCrest": "https:\/\/crests.football-data.org\/20.png",
+            "awayTeamCrest": "https:\/\/crests.football-data.org\/4.png",
+            "scoreWinner": "DRAW",
+            "scoreFullTimeHome": 3,
+            "scoreFullTimeAway": 3
+        },
+        "540410": {
+            "utcDate": "2025-08-24T13:30:00Z",
+            "homeTeamName": "1. FSV Mainz 05",
+            "awayTeamName": "1. FSV Mainz 05",
+            "homeTeamCrest": "https:\/\/crests.football-data.org\/15.png",
+            "awayTeamCrest": "https:\/\/crests.football-data.org\/1.png",
+            "scoreWinner": "AWAY_TEAM",
+            "scoreFullTimeHome": 0,
+            "scoreFullTimeAway": 1
+        },
+        "540411": {
+            "utcDate": "2025-08-24T15:30:00Z",
+            "homeTeamName": "Borussia M\u00f6nchengladbach",
+            "awayTeamName": "Borussia M\u00f6nchengladbach",
+            "homeTeamCrest": "https:\/\/crests.football-data.org\/18.png",
+            "awayTeamCrest": "https:\/\/crests.football-data.org\/7.png",
+            "scoreWinner": "DRAW",
+            "scoreFullTimeHome": 0,
+            "scoreFullTimeAway": 0
+        },
+        "540423": {
+            "utcDate": "2025-08-29T18:30:00Z",
+            "homeTeamName": "Hamburger SV",
+            "awayTeamName": "Hamburger SV",
+            "homeTeamCrest": "https:\/\/crests.football-data.org\/7.png",
+            "awayTeamCrest": "https:\/\/crests.football-data.org\/20.png",
+            "scoreWinner": "AWAY_TEAM",
+            "scoreFullTimeHome": 0,
+            "scoreFullTimeAway": 2
+        },
+        "540416": {
+            "utcDate": "2025-08-30T13:30:00Z",
+            "homeTeamName": "RB Leipzig",
+            "awayTeamName": "RB Leipzig",
+            "homeTeamCrest": "https:\/\/crests.football-data.org\/721.png",
+            "awayTeamCrest": "https:\/\/crests.football-data.org\/44.png",
+            "scoreWinner": "HOME_TEAM",
+            "scoreFullTimeHome": 2,
+            "scoreFullTimeAway": 0
+        },
+        "540417": {
+            "utcDate": "2025-08-30T13:30:00Z",
+            "homeTeamName": "SV Werder Bremen",
+            "awayTeamName": "SV Werder Bremen",
+            "homeTeamCrest": "https:\/\/crests.football-data.org\/12.png",
+            "awayTeamCrest": "https:\/\/crests.football-data.org\/3.png",
+            "scoreWinner": "DRAW",
+            "scoreFullTimeHome": 3,
+            "scoreFullTimeAway": 3
+        },
+        "540418": {
+            "utcDate": "2025-08-30T13:30:00Z",
+            "homeTeamName": "VfB Stuttgart",
+            "awayTeamName": "VfB Stuttgart",
+            "homeTeamCrest": "https:\/\/crests.football-data.org\/10.png",
+            "awayTeamCrest": "https:\/\/crests.football-data.org\/18.png",
+            "scoreWinner": "HOME_TEAM",
+            "scoreFullTimeHome": 1,
+            "scoreFullTimeAway": 0
+        },
+        "540421": {
+            "utcDate": "2025-08-30T13:30:00Z",
+            "homeTeamName": "TSG 1899 Hoffenheim",
+            "awayTeamName": "TSG 1899 Hoffenheim",
+            "homeTeamCrest": "https:\/\/crests.football-data.org\/2.png",
+            "awayTeamCrest": "https:\/\/crests.football-data.org\/19.png",
+            "scoreWinner": "AWAY_TEAM",
+            "scoreFullTimeHome": 1,
+            "scoreFullTimeAway": 3
+        },
+        "540420": {
+            "utcDate": "2025-08-30T16:30:00Z",
+            "homeTeamName": "FC Augsburg",
+            "awayTeamName": "FC Augsburg",
+            "homeTeamCrest": "https:\/\/crests.football-data.org\/16.png",
+            "awayTeamCrest": "https:\/\/crests.football-data.org\/5.png",
+            "scoreWinner": "AWAY_TEAM",
+            "scoreFullTimeHome": 2,
+            "scoreFullTimeAway": 3
+        },
+        "540419": {
+            "utcDate": "2025-08-31T13:30:00Z",
+            "homeTeamName": "VfL Wolfsburg",
+            "awayTeamName": "VfL Wolfsburg",
+            "homeTeamCrest": "https:\/\/crests.football-data.org\/11.png",
+            "awayTeamCrest": "https:\/\/crests.football-data.org\/15.png",
+            "scoreWinner": "DRAW",
+            "scoreFullTimeHome": 1,
+            "scoreFullTimeAway": 1
+        },
+        "540415": {
+            "utcDate": "2025-08-31T15:30:00Z",
+            "homeTeamName": "Borussia Dortmund",
+            "awayTeamName": "Borussia Dortmund",
+            "homeTeamCrest": "https:\/\/crests.football-data.org\/4.png",
+            "awayTeamCrest": "https:\/\/crests.football-data.org\/28.png",
+            "scoreWinner": "HOME_TEAM",
+            "scoreFullTimeHome": 3,
+            "scoreFullTimeAway": 0
+        },
+        "540422": {
+            "utcDate": "2025-08-31T17:30:00Z",
+            "homeTeamName": "1. FC K\u00f6ln",
+            "awayTeamName": "1. FC K\u00f6ln",
+            "homeTeamCrest": "https:\/\/crests.football-data.org\/1.png",
+            "awayTeamCrest": "https:\/\/crests.football-data.org\/17.png",
+            "scoreWinner": "HOME_TEAM",
+            "scoreFullTimeHome": 4,
+            "scoreFullTimeAway": 1
+        },
+        "540425": {
+            "utcDate": "2025-09-12T18:30:00Z",
+            "homeTeamName": "Bayer 04 Leverkusen",
+            "awayTeamName": "Bayer 04 Leverkusen",
+            "homeTeamCrest": "https:\/\/crests.football-data.org\/3.png",
+            "awayTeamCrest": "https:\/\/crests.football-data.org\/19.png",
+            "scoreWinner": null,
+            "scoreFullTimeHome": null,
+            "scoreFullTimeAway": null
+        },
+        "540426": {
+            "utcDate": "2025-09-13T13:30:00Z",
+            "homeTeamName": "SC Freiburg",
+            "awayTeamName": "SC Freiburg",
+            "homeTeamCrest": "https:\/\/crests.football-data.org\/17.png",
+            "awayTeamCrest": "https:\/\/crests.football-data.org\/10.png",
+            "scoreWinner": null,
+            "scoreFullTimeHome": null,
+            "scoreFullTimeAway": null
+        },
+        "540427": {
+            "utcDate": "2025-09-13T13:30:00Z",
+            "homeTeamName": "1. FSV Mainz 05",
+            "awayTeamName": "1. FSV Mainz 05",
+            "homeTeamCrest": "https:\/\/crests.football-data.org\/15.png",
+            "awayTeamCrest": "https:\/\/crests.football-data.org\/721.png",
+            "scoreWinner": null,
+            "scoreFullTimeHome": null,
+            "scoreFullTimeAway": null
+        },
+        "540429": {
+            "utcDate": "2025-09-13T13:30:00Z",
+            "homeTeamName": "VfL Wolfsburg",
+            "awayTeamName": "VfL Wolfsburg",
+            "homeTeamCrest": "https:\/\/crests.football-data.org\/11.png",
+            "awayTeamCrest": "https:\/\/crests.football-data.org\/1.png",
+            "scoreWinner": null,
+            "scoreFullTimeHome": null,
+            "scoreFullTimeAway": null
+        },
+        "540430": {
+            "utcDate": "2025-09-13T13:30:00Z",
+            "homeTeamName": "1. FC Union Berlin",
+            "awayTeamName": "1. FC Union Berlin",
+            "homeTeamCrest": "https:\/\/crests.football-data.org\/28.png",
+            "awayTeamCrest": "https:\/\/crests.football-data.org\/2.png",
+            "scoreWinner": null,
+            "scoreFullTimeHome": null,
+            "scoreFullTimeAway": null
+        },
+        "540432": {
+            "utcDate": "2025-09-13T13:30:00Z",
+            "homeTeamName": "1. FC Heidenheim 1846",
+            "awayTeamName": "1. FC Heidenheim 1846",
+            "homeTeamCrest": "https:\/\/crests.football-data.org\/44.png",
+            "awayTeamCrest": "https:\/\/crests.football-data.org\/4.png",
+            "scoreWinner": null,
+            "scoreFullTimeHome": null,
+            "scoreFullTimeAway": null
+        },
+        "540424": {
+            "utcDate": "2025-09-13T16:30:00Z",
+            "homeTeamName": "FC Bayern M\u00fcnchen",
+            "awayTeamName": "FC Bayern M\u00fcnchen",
+            "homeTeamCrest": "https:\/\/crests.football-data.org\/5.png",
+            "awayTeamCrest": "https:\/\/crests.football-data.org\/7.png",
+            "scoreWinner": null,
+            "scoreFullTimeHome": null,
+            "scoreFullTimeAway": null
+        },
+        "540431": {
+            "utcDate": "2025-09-14T13:30:00Z",
+            "homeTeamName": "FC St. Pauli 1910",
+            "awayTeamName": "FC St. Pauli 1910",
+            "homeTeamCrest": "https:\/\/crests.football-data.org\/20.png",
+            "awayTeamCrest": "https:\/\/crests.football-data.org\/16.png",
+            "scoreWinner": null,
+            "scoreFullTimeHome": null,
+            "scoreFullTimeAway": null
+        },
+        "540428": {
+            "utcDate": "2025-09-14T15:30:00Z",
+            "homeTeamName": "Borussia M\u00f6nchengladbach",
+            "awayTeamName": "Borussia M\u00f6nchengladbach",
+            "homeTeamCrest": "https:\/\/crests.football-data.org\/18.png",
+            "awayTeamCrest": "https:\/\/crests.football-data.org\/12.png",
+            "scoreWinner": null,
+            "scoreFullTimeHome": null,
+            "scoreFullTimeAway": null
+        },
+        "540438": {
+            "utcDate": "2025-09-19T18:30:00Z",
+            "homeTeamName": "VfB Stuttgart",
+            "awayTeamName": "VfB Stuttgart",
+            "homeTeamCrest": "https:\/\/crests.football-data.org\/10.png",
+            "awayTeamCrest": "https:\/\/crests.football-data.org\/20.png",
+            "scoreWinner": null,
+            "scoreFullTimeHome": null,
+            "scoreFullTimeAway": null
+        },
+        "540437": {
+            "utcDate": "2025-09-20T13:30:00Z",
+            "homeTeamName": "SV Werder Bremen",
+            "awayTeamName": "SV Werder Bremen",
+            "homeTeamCrest": "https:\/\/crests.football-data.org\/12.png",
+            "awayTeamCrest": "https:\/\/crests.football-data.org\/17.png",
+            "scoreWinner": null,
+            "scoreFullTimeHome": null,
+            "scoreFullTimeAway": null
+        },
+        "540439": {
+            "utcDate": "2025-09-20T13:30:00Z",
+            "homeTeamName": "FC Augsburg",
+            "awayTeamName": "FC Augsburg",
+            "homeTeamCrest": "https:\/\/crests.football-data.org\/16.png",
+            "awayTeamCrest": "https:\/\/crests.football-data.org\/15.png",
+            "scoreWinner": null,
+            "scoreFullTimeHome": null,
+            "scoreFullTimeAway": null
+        },
+        "540440": {
+            "utcDate": "2025-09-20T13:30:00Z",
+            "homeTeamName": "TSG 1899 Hoffenheim",
+            "awayTeamName": "TSG 1899 Hoffenheim",
+            "homeTeamCrest": "https:\/\/crests.football-data.org\/2.png",
+            "awayTeamCrest": "https:\/\/crests.football-data.org\/5.png",
+            "scoreWinner": null,
+            "scoreFullTimeHome": null,
+            "scoreFullTimeAway": null
+        },
+        "540441": {
+            "utcDate": "2025-09-20T13:30:00Z",
+            "homeTeamName": "Hamburger SV",
+            "awayTeamName": "Hamburger SV",
+            "homeTeamCrest": "https:\/\/crests.football-data.org\/7.png",
+            "awayTeamCrest": "https:\/\/crests.football-data.org\/44.png",
+            "scoreWinner": null,
+            "scoreFullTimeHome": null,
+            "scoreFullTimeAway": null
+        },
+        "540436": {
+            "utcDate": "2025-09-20T16:30:00Z",
+            "homeTeamName": "RB Leipzig",
+            "awayTeamName": "RB Leipzig",
+            "homeTeamCrest": "https:\/\/crests.football-data.org\/721.png",
+            "awayTeamCrest": "https:\/\/crests.football-data.org\/1.png",
+            "scoreWinner": null,
+            "scoreFullTimeHome": null,
+            "scoreFullTimeAway": null
+        },
+        "540434": {
+            "utcDate": "2025-09-21T13:30:00Z",
+            "homeTeamName": "Eintracht Frankfurt",
+            "awayTeamName": "Eintracht Frankfurt",
+            "homeTeamCrest": "https:\/\/crests.football-data.org\/19.png",
+            "awayTeamCrest": "https:\/\/crests.football-data.org\/28.png",
+            "scoreWinner": null,
+            "scoreFullTimeHome": null,
+            "scoreFullTimeAway": null
+        },
+        "540433": {
+            "utcDate": "2025-09-21T15:30:00Z",
+            "homeTeamName": "Bayer 04 Leverkusen",
+            "awayTeamName": "Bayer 04 Leverkusen",
+            "homeTeamCrest": "https:\/\/crests.football-data.org\/3.png",
+            "awayTeamCrest": "https:\/\/crests.football-data.org\/18.png",
+            "scoreWinner": null,
+            "scoreFullTimeHome": null,
+            "scoreFullTimeAway": null
+        },
+        "540435": {
+            "utcDate": "2025-09-21T17:30:00Z",
+            "homeTeamName": "Borussia Dortmund",
+            "awayTeamName": "Borussia Dortmund",
+            "homeTeamCrest": "https:\/\/crests.football-data.org\/4.png",
+            "awayTeamCrest": "https:\/\/crests.football-data.org\/11.png",
+            "scoreWinner": null,
+            "scoreFullTimeHome": null,
+            "scoreFullTimeAway": null
+        },
+        "540442": {
+            "utcDate": "2025-09-26T18:30:00Z",
+            "homeTeamName": "FC Bayern M\u00fcnchen",
+            "awayTeamName": "FC Bayern M\u00fcnchen",
+            "homeTeamCrest": "https:\/\/crests.football-data.org\/5.png",
+            "awayTeamCrest": "https:\/\/crests.football-data.org\/12.png",
+            "scoreWinner": null,
+            "scoreFullTimeHome": null,
+            "scoreFullTimeAway": null
+        },
+        "540444": {
+            "utcDate": "2025-09-27T13:30:00Z",
+            "homeTeamName": "1. FSV Mainz 05",
+            "awayTeamName": "1. FSV Mainz 05",
+            "homeTeamCrest": "https:\/\/crests.football-data.org\/15.png",
+            "awayTeamCrest": "https:\/\/crests.football-data.org\/4.png",
+            "scoreWinner": null,
+            "scoreFullTimeHome": null,
+            "scoreFullTimeAway": null
+        },
+        "540446": {
+            "utcDate": "2025-09-27T13:30:00Z",
+            "homeTeamName": "VfL Wolfsburg",
+            "awayTeamName": "VfL Wolfsburg",
+            "homeTeamCrest": "https:\/\/crests.football-data.org\/11.png",
+            "awayTeamCrest": "https:\/\/crests.football-data.org\/721.png",
+            "scoreWinner": null,
+            "scoreFullTimeHome": null,
+            "scoreFullTimeAway": null
+        },
+        "540448": {
+            "utcDate": "2025-09-27T13:30:00Z",
+            "homeTeamName": "FC St. Pauli 1910",
+            "awayTeamName": "FC St. Pauli 1910",
+            "homeTeamCrest": "https:\/\/crests.football-data.org\/20.png",
+            "awayTeamCrest": "https:\/\/crests.football-data.org\/3.png",
+            "scoreWinner": null,
+            "scoreFullTimeHome": null,
+            "scoreFullTimeAway": null
+        },
+        "540449": {
+            "utcDate": "2025-09-27T13:30:00Z",
+            "homeTeamName": "1. FC Heidenheim 1846",
+            "awayTeamName": "1. FC Heidenheim 1846",
+            "homeTeamCrest": "https:\/\/crests.football-data.org\/44.png",
+            "awayTeamCrest": "https:\/\/crests.football-data.org\/16.png",
+            "scoreWinner": null,
+            "scoreFullTimeHome": null,
+            "scoreFullTimeAway": null
+        },
+        "540445": {
+            "utcDate": "2025-09-27T16:30:00Z",
+            "homeTeamName": "Borussia M\u00f6nchengladbach",
+            "awayTeamName": "Borussia M\u00f6nchengladbach",
+            "homeTeamCrest": "https:\/\/crests.football-data.org\/18.png",
+            "awayTeamCrest": "https:\/\/crests.football-data.org\/19.png",
+            "scoreWinner": null,
+            "scoreFullTimeHome": null,
+            "scoreFullTimeAway": null
+        },
+        "540443": {
+            "utcDate": "2025-09-28T13:30:00Z",
+            "homeTeamName": "SC Freiburg",
+            "awayTeamName": "SC Freiburg",
+            "homeTeamCrest": "https:\/\/crests.football-data.org\/17.png",
+            "awayTeamCrest": "https:\/\/crests.football-data.org\/2.png",
+            "scoreWinner": null,
+            "scoreFullTimeHome": null,
+            "scoreFullTimeAway": null
+        },
+        "540450": {
+            "utcDate": "2025-09-28T15:30:00Z",
+            "homeTeamName": "1. FC K\u00f6ln",
+            "awayTeamName": "1. FC K\u00f6ln",
+            "homeTeamCrest": "https:\/\/crests.football-data.org\/1.png",
+            "awayTeamCrest": "https:\/\/crests.football-data.org\/10.png",
+            "scoreWinner": null,
+            "scoreFullTimeHome": null,
+            "scoreFullTimeAway": null
+        },
+        "540447": {
+            "utcDate": "2025-09-28T17:30:00Z",
+            "homeTeamName": "1. FC Union Berlin",
+            "awayTeamName": "1. FC Union Berlin",
+            "homeTeamCrest": "https:\/\/crests.football-data.org\/28.png",
+            "awayTeamCrest": "https:\/\/crests.football-data.org\/7.png",
+            "scoreWinner": null,
+            "scoreFullTimeHome": null,
+            "scoreFullTimeAway": null
+        },
+        "540458": {
+            "utcDate": "2025-10-03T18:30:00Z",
+            "homeTeamName": "TSG 1899 Hoffenheim",
+            "awayTeamName": "TSG 1899 Hoffenheim",
+            "homeTeamCrest": "https:\/\/crests.football-data.org\/2.png",
+            "awayTeamCrest": "https:\/\/crests.football-data.org\/1.png",
+            "scoreWinner": null,
+            "scoreFullTimeHome": null,
+            "scoreFullTimeAway": null
+        },
+        "540451": {
+            "utcDate": "2025-10-04T13:30:00Z",
+            "homeTeamName": "Bayer 04 Leverkusen",
+            "awayTeamName": "Bayer 04 Leverkusen",
+            "homeTeamCrest": "https:\/\/crests.football-data.org\/3.png",
+            "awayTeamCrest": "https:\/\/crests.football-data.org\/28.png",
+            "scoreWinner": null,
+            "scoreFullTimeHome": null,
+            "scoreFullTimeAway": null
+        },
+        "540453": {
+            "utcDate": "2025-10-04T13:30:00Z",
+            "homeTeamName": "Borussia Dortmund",
+            "awayTeamName": "Borussia Dortmund",
+            "homeTeamCrest": "https:\/\/crests.football-data.org\/4.png",
+            "awayTeamCrest": "https:\/\/crests.football-data.org\/721.png",
+            "scoreWinner": null,
+            "scoreFullTimeHome": null,
+            "scoreFullTimeAway": null
+        },
+        "540454": {
+            "utcDate": "2025-10-04T13:30:00Z",
+            "homeTeamName": "SV Werder Bremen",
+            "awayTeamName": "SV Werder Bremen",
+            "homeTeamCrest": "https:\/\/crests.football-data.org\/12.png",
+            "awayTeamCrest": "https:\/\/crests.football-data.org\/20.png",
+            "scoreWinner": null,
+            "scoreFullTimeHome": null,
+            "scoreFullTimeAway": null
+        },
+        "540457": {
+            "utcDate": "2025-10-04T13:30:00Z",
+            "homeTeamName": "FC Augsburg",
+            "awayTeamName": "FC Augsburg",
+            "homeTeamCrest": "https:\/\/crests.football-data.org\/16.png",
+            "awayTeamCrest": "https:\/\/crests.football-data.org\/11.png",
+            "scoreWinner": null,
+            "scoreFullTimeHome": null,
+            "scoreFullTimeAway": null
+        },
+        "540452": {
+            "utcDate": "2025-10-04T16:30:00Z",
+            "homeTeamName": "Eintracht Frankfurt",
+            "awayTeamName": "Eintracht Frankfurt",
+            "homeTeamCrest": "https:\/\/crests.football-data.org\/19.png",
+            "awayTeamCrest": "https:\/\/crests.football-data.org\/5.png",
+            "scoreWinner": null,
+            "scoreFullTimeHome": null,
+            "scoreFullTimeAway": null
+        },
+        "540455": {
+            "utcDate": "2025-10-05T13:30:00Z",
+            "homeTeamName": "VfB Stuttgart",
+            "awayTeamName": "VfB Stuttgart",
+            "homeTeamCrest": "https:\/\/crests.football-data.org\/10.png",
+            "awayTeamCrest": "https:\/\/crests.football-data.org\/44.png",
+            "scoreWinner": null,
+            "scoreFullTimeHome": null,
+            "scoreFullTimeAway": null
+        },
+        "540459": {
+            "utcDate": "2025-10-05T15:30:00Z",
+            "homeTeamName": "Hamburger SV",
+            "awayTeamName": "Hamburger SV",
+            "homeTeamCrest": "https:\/\/crests.football-data.org\/7.png",
+            "awayTeamCrest": "https:\/\/crests.football-data.org\/15.png",
+            "scoreWinner": null,
+            "scoreFullTimeHome": null,
+            "scoreFullTimeAway": null
+        },
+        "540456": {
+            "utcDate": "2025-10-05T17:30:00Z",
+            "homeTeamName": "Borussia M\u00f6nchengladbach",
+            "awayTeamName": "Borussia M\u00f6nchengladbach",
+            "homeTeamCrest": "https:\/\/crests.football-data.org\/18.png",
+            "awayTeamCrest": "https:\/\/crests.football-data.org\/17.png",
+            "scoreWinner": null,
+            "scoreFullTimeHome": null,
+            "scoreFullTimeAway": null
+        },
+        "540465": {
+            "utcDate": "2025-10-17T18:30:00Z",
+            "homeTeamName": "1. FC Union Berlin",
+            "awayTeamName": "1. FC Union Berlin",
+            "homeTeamCrest": "https:\/\/crests.football-data.org\/28.png",
+            "awayTeamCrest": "https:\/\/crests.football-data.org\/18.png",
+            "scoreWinner": null,
+            "scoreFullTimeHome": null,
+            "scoreFullTimeAway": null
+        },
+        "540462": {
+            "utcDate": "2025-10-18T13:30:00Z",
+            "homeTeamName": "1. FSV Mainz 05",
+            "awayTeamName": "1. FSV Mainz 05",
+            "homeTeamCrest": "https:\/\/crests.football-data.org\/15.png",
+            "awayTeamCrest": "https:\/\/crests.football-data.org\/3.png",
+            "scoreWinner": null,
+            "scoreFullTimeHome": null,
+            "scoreFullTimeAway": null
+        },
+        "540463": {
+            "utcDate": "2025-10-18T13:30:00Z",
+            "homeTeamName": "RB Leipzig",
+            "awayTeamName": "RB Leipzig",
+            "homeTeamCrest": "https:\/\/crests.football-data.org\/721.png",
+            "awayTeamCrest": "https:\/\/crests.football-data.org\/7.png",
+            "scoreWinner": null,
+            "scoreFullTimeHome": null,
+            "scoreFullTimeAway": null
+        },
+        "540464": {
+            "utcDate": "2025-10-18T13:30:00Z",
+            "homeTeamName": "VfL Wolfsburg",
+            "awayTeamName": "VfL Wolfsburg",
+            "homeTeamCrest": "https:\/\/crests.football-data.org\/11.png",
+            "awayTeamCrest": "https:\/\/crests.football-data.org\/10.png",
+            "scoreWinner": null,
+            "scoreFullTimeHome": null,
+            "scoreFullTimeAway": null
+        },
+        "540467": {
+            "utcDate": "2025-10-18T13:30:00Z",
+            "homeTeamName": "1. FC Heidenheim 1846",
+            "awayTeamName": "1. FC Heidenheim 1846",
+            "homeTeamCrest": "https:\/\/crests.football-data.org\/44.png",
+            "awayTeamCrest": "https:\/\/crests.football-data.org\/12.png",
+            "scoreWinner": null,
+            "scoreFullTimeHome": null,
+            "scoreFullTimeAway": null
+        },
+        "540468": {
+            "utcDate": "2025-10-18T13:30:00Z",
+            "homeTeamName": "1. FC K\u00f6ln",
+            "awayTeamName": "1. FC K\u00f6ln",
+            "homeTeamCrest": "https:\/\/crests.football-data.org\/1.png",
+            "awayTeamCrest": "https:\/\/crests.football-data.org\/16.png",
+            "scoreWinner": null,
+            "scoreFullTimeHome": null,
+            "scoreFullTimeAway": null
+        },
+        "540460": {
+            "utcDate": "2025-10-18T16:30:00Z",
+            "homeTeamName": "FC Bayern M\u00fcnchen",
+            "awayTeamName": "FC Bayern M\u00fcnchen",
+            "homeTeamCrest": "https:\/\/crests.football-data.org\/5.png",
+            "awayTeamCrest": "https:\/\/crests.football-data.org\/4.png",
+            "scoreWinner": null,
+            "scoreFullTimeHome": null,
+            "scoreFullTimeAway": null
+        },
+        "540461": {
+            "utcDate": "2025-10-19T13:30:00Z",
+            "homeTeamName": "SC Freiburg",
+            "awayTeamName": "SC Freiburg",
+            "homeTeamCrest": "https:\/\/crests.football-data.org\/17.png",
+            "awayTeamCrest": "https:\/\/crests.football-data.org\/19.png",
+            "scoreWinner": null,
+            "scoreFullTimeHome": null,
+            "scoreFullTimeAway": null
+        },
+        "540466": {
+            "utcDate": "2025-10-19T15:30:00Z",
+            "homeTeamName": "FC St. Pauli 1910",
+            "awayTeamName": "FC St. Pauli 1910",
+            "homeTeamCrest": "https:\/\/crests.football-data.org\/20.png",
+            "awayTeamCrest": "https:\/\/crests.football-data.org\/2.png",
+            "scoreWinner": null,
+            "scoreFullTimeHome": null,
+            "scoreFullTimeAway": null
+        },
+        "540472": {
+            "utcDate": "2025-10-24T18:30:00Z",
+            "homeTeamName": "SV Werder Bremen",
+            "awayTeamName": "SV Werder Bremen",
+            "homeTeamCrest": "https:\/\/crests.football-data.org\/12.png",
+            "awayTeamCrest": "https:\/\/crests.football-data.org\/28.png",
+            "scoreWinner": null,
+            "scoreFullTimeHome": null,
+            "scoreFullTimeAway": null
+        },
+        "540470": {
+            "utcDate": "2025-10-25T13:30:00Z",
+            "homeTeamName": "Eintracht Frankfurt",
+            "awayTeamName": "Eintracht Frankfurt",
+            "homeTeamCrest": "https:\/\/crests.football-data.org\/19.png",
+            "awayTeamCrest": "https:\/\/crests.football-data.org\/20.png",
+            "scoreWinner": null,
+            "scoreFullTimeHome": null,
+            "scoreFullTimeAway": null
+        },
+        "540474": {
+            "utcDate": "2025-10-25T13:30:00Z",
+            "homeTeamName": "Borussia M\u00f6nchengladbach",
+            "awayTeamName": "Borussia M\u00f6nchengladbach",
+            "homeTeamCrest": "https:\/\/crests.football-data.org\/18.png",
+            "awayTeamCrest": "https:\/\/crests.football-data.org\/5.png",
+            "scoreWinner": null,
+            "scoreFullTimeHome": null,
+            "scoreFullTimeAway": null
+        },
+        "540475": {
+            "utcDate": "2025-10-25T13:30:00Z",
+            "homeTeamName": "FC Augsburg",
+            "awayTeamName": "FC Augsburg",
+            "homeTeamCrest": "https:\/\/crests.football-data.org\/16.png",
+            "awayTeamCrest": "https:\/\/crests.football-data.org\/721.png",
+            "scoreWinner": null,
+            "scoreFullTimeHome": null,
+            "scoreFullTimeAway": null
+        },
+        "540476": {
+            "utcDate": "2025-10-25T13:30:00Z",
+            "homeTeamName": "TSG 1899 Hoffenheim",
+            "awayTeamName": "TSG 1899 Hoffenheim",
+            "homeTeamCrest": "https:\/\/crests.football-data.org\/2.png",
+            "awayTeamCrest": "https:\/\/crests.football-data.org\/44.png",
+            "scoreWinner": null,
+            "scoreFullTimeHome": null,
+            "scoreFullTimeAway": null
+        },
+        "540477": {
+            "utcDate": "2025-10-25T13:30:00Z",
+            "homeTeamName": "Hamburger SV",
+            "awayTeamName": "Hamburger SV",
+            "homeTeamCrest": "https:\/\/crests.football-data.org\/7.png",
+            "awayTeamCrest": "https:\/\/crests.football-data.org\/11.png",
+            "scoreWinner": null,
+            "scoreFullTimeHome": null,
+            "scoreFullTimeAway": null
+        },
+        "540471": {
+            "utcDate": "2025-10-25T16:30:00Z",
+            "homeTeamName": "Borussia Dortmund",
+            "awayTeamName": "Borussia Dortmund",
+            "homeTeamCrest": "https:\/\/crests.football-data.org\/4.png",
+            "awayTeamCrest": "https:\/\/crests.football-data.org\/1.png",
+            "scoreWinner": null,
+            "scoreFullTimeHome": null,
+            "scoreFullTimeAway": null
+        },
+        "540469": {
+            "utcDate": "2025-10-26T14:30:00Z",
+            "homeTeamName": "Bayer 04 Leverkusen",
+            "awayTeamName": "Bayer 04 Leverkusen",
+            "homeTeamCrest": "https:\/\/crests.football-data.org\/3.png",
+            "awayTeamCrest": "https:\/\/crests.football-data.org\/17.png",
+            "scoreWinner": null,
+            "scoreFullTimeHome": null,
+            "scoreFullTimeAway": null
+        },
+        "540473": {
+            "utcDate": "2025-10-26T16:30:00Z",
+            "homeTeamName": "VfB Stuttgart",
+            "awayTeamName": "VfB Stuttgart",
+            "homeTeamCrest": "https:\/\/crests.football-data.org\/10.png",
+            "awayTeamCrest": "https:\/\/crests.football-data.org\/15.png",
+            "scoreWinner": null,
+            "scoreFullTimeHome": null,
+            "scoreFullTimeAway": null
+        },
+        "540482": {
+            "utcDate": "2025-10-31T19:30:00Z",
+            "homeTeamName": "FC Augsburg",
+            "awayTeamName": "FC Augsburg",
+            "homeTeamCrest": "https:\/\/crests.football-data.org\/16.png",
+            "awayTeamCrest": "https:\/\/crests.football-data.org\/4.png",
+            "scoreWinner": null,
+            "scoreFullTimeHome": null,
+            "scoreFullTimeAway": null
+        },
+        "540479": {
+            "utcDate": "2025-11-01T14:30:00Z",
+            "homeTeamName": "1. FSV Mainz 05",
+            "awayTeamName": "1. FSV Mainz 05",
+            "homeTeamCrest": "https:\/\/crests.football-data.org\/15.png",
+            "awayTeamCrest": "https:\/\/crests.football-data.org\/12.png",
+            "scoreWinner": null,
+            "scoreFullTimeHome": null,
+            "scoreFullTimeAway": null
+        },
+        "540480": {
+            "utcDate": "2025-11-01T14:30:00Z",
+            "homeTeamName": "RB Leipzig",
+            "awayTeamName": "RB Leipzig",
+            "homeTeamCrest": "https:\/\/crests.football-data.org\/721.png",
+            "awayTeamCrest": "https:\/\/crests.football-data.org\/10.png",
+            "scoreWinner": null,
+            "scoreFullTimeHome": null,
+            "scoreFullTimeAway": null
+        },
+        "540483": {
+            "utcDate": "2025-11-01T14:30:00Z",
+            "homeTeamName": "1. FC Union Berlin",
+            "awayTeamName": "1. FC Union Berlin",
+            "homeTeamCrest": "https:\/\/crests.football-data.org\/28.png",
+            "awayTeamCrest": "https:\/\/crests.football-data.org\/17.png",
+            "scoreWinner": null,
+            "scoreFullTimeHome": null,
+            "scoreFullTimeAway": null
+        },
+        "540484": {
+            "utcDate": "2025-11-01T14:30:00Z",
+            "homeTeamName": "FC St. Pauli 1910",
+            "awayTeamName": "FC St. Pauli 1910",
+            "homeTeamCrest": "https:\/\/crests.football-data.org\/20.png",
+            "awayTeamCrest": "https:\/\/crests.football-data.org\/18.png",
+            "scoreWinner": null,
+            "scoreFullTimeHome": null,
+            "scoreFullTimeAway": null
+        },
+        "540485": {
+            "utcDate": "2025-11-01T14:30:00Z",
+            "homeTeamName": "1. FC Heidenheim 1846",
+            "awayTeamName": "1. FC Heidenheim 1846",
+            "homeTeamCrest": "https:\/\/crests.football-data.org\/44.png",
+            "awayTeamCrest": "https:\/\/crests.football-data.org\/19.png",
+            "scoreWinner": null,
+            "scoreFullTimeHome": null,
+            "scoreFullTimeAway": null
+        },
+        "540478": {
+            "utcDate": "2025-11-01T17:30:00Z",
+            "homeTeamName": "FC Bayern M\u00fcnchen",
+            "awayTeamName": "FC Bayern M\u00fcnchen",
+            "homeTeamCrest": "https:\/\/crests.football-data.org\/5.png",
+            "awayTeamCrest": "https:\/\/crests.football-data.org\/3.png",
+            "scoreWinner": null,
+            "scoreFullTimeHome": null,
+            "scoreFullTimeAway": null
+        },
+        "540486": {
+            "utcDate": "2025-11-02T14:30:00Z",
+            "homeTeamName": "1. FC K\u00f6ln",
+            "awayTeamName": "1. FC K\u00f6ln",
+            "homeTeamCrest": "https:\/\/crests.football-data.org\/1.png",
+            "awayTeamCrest": "https:\/\/crests.football-data.org\/7.png",
+            "scoreWinner": null,
+            "scoreFullTimeHome": null,
+            "scoreFullTimeAway": null
+        },
+        "540481": {
+            "utcDate": "2025-11-02T16:30:00Z",
+            "homeTeamName": "VfL Wolfsburg",
+            "awayTeamName": "VfL Wolfsburg",
+            "homeTeamCrest": "https:\/\/crests.football-data.org\/11.png",
+            "awayTeamCrest": "https:\/\/crests.football-data.org\/2.png",
+            "scoreWinner": null,
+            "scoreFullTimeHome": null,
+            "scoreFullTimeAway": null
+        },
+        "540490": {
+            "utcDate": "2025-11-07T19:30:00Z",
+            "homeTeamName": "SV Werder Bremen",
+            "awayTeamName": "SV Werder Bremen",
+            "homeTeamCrest": "https:\/\/crests.football-data.org\/12.png",
+            "awayTeamCrest": "https:\/\/crests.football-data.org\/11.png",
+            "scoreWinner": null,
+            "scoreFullTimeHome": null,
+            "scoreFullTimeAway": null
+        },
+        "540487": {
+            "utcDate": "2025-11-08T14:30:00Z",
+            "homeTeamName": "Bayer 04 Leverkusen",
+            "awayTeamName": "Bayer 04 Leverkusen",
+            "homeTeamCrest": "https:\/\/crests.football-data.org\/3.png",
+            "awayTeamCrest": "https:\/\/crests.football-data.org\/44.png",
+            "scoreWinner": null,
+            "scoreFullTimeHome": null,
+            "scoreFullTimeAway": null
+        },
+        "540493": {
+            "utcDate": "2025-11-08T14:30:00Z",
+            "homeTeamName": "1. FC Union Berlin",
+            "awayTeamName": "1. FC Union Berlin",
+            "homeTeamCrest": "https:\/\/crests.football-data.org\/28.png",
+            "awayTeamCrest": "https:\/\/crests.football-data.org\/5.png",
+            "scoreWinner": null,
+            "scoreFullTimeHome": null,
+            "scoreFullTimeAway": null
+        },
+        "540494": {
+            "utcDate": "2025-11-08T14:30:00Z",
+            "homeTeamName": "TSG 1899 Hoffenheim",
+            "awayTeamName": "TSG 1899 Hoffenheim",
+            "homeTeamCrest": "https:\/\/crests.football-data.org\/2.png",
+            "awayTeamCrest": "https:\/\/crests.football-data.org\/721.png",
+            "scoreWinner": null,
+            "scoreFullTimeHome": null,
+            "scoreFullTimeAway": null
+        },
+        "540495": {
+            "utcDate": "2025-11-08T14:30:00Z",
+            "homeTeamName": "Hamburger SV",
+            "awayTeamName": "Hamburger SV",
+            "homeTeamCrest": "https:\/\/crests.football-data.org\/7.png",
+            "awayTeamCrest": "https:\/\/crests.football-data.org\/4.png",
+            "scoreWinner": null,
+            "scoreFullTimeHome": null,
+            "scoreFullTimeAway": null
+        },
+        "540492": {
+            "utcDate": "2025-11-08T17:30:00Z",
+            "homeTeamName": "Borussia M\u00f6nchengladbach",
+            "awayTeamName": "Borussia M\u00f6nchengladbach",
+            "homeTeamCrest": "https:\/\/crests.football-data.org\/18.png",
+            "awayTeamCrest": "https:\/\/crests.football-data.org\/1.png",
+            "scoreWinner": null,
+            "scoreFullTimeHome": null,
+            "scoreFullTimeAway": null
+        },
+        "540489": {
+            "utcDate": "2025-11-09T14:30:00Z",
+            "homeTeamName": "SC Freiburg",
+            "awayTeamName": "SC Freiburg",
+            "homeTeamCrest": "https:\/\/crests.football-data.org\/17.png",
+            "awayTeamCrest": "https:\/\/crests.football-data.org\/20.png",
+            "scoreWinner": null,
+            "scoreFullTimeHome": null,
+            "scoreFullTimeAway": null
+        },
+        "540491": {
+            "utcDate": "2025-11-09T16:30:00Z",
+            "homeTeamName": "VfB Stuttgart",
+            "awayTeamName": "VfB Stuttgart",
+            "homeTeamCrest": "https:\/\/crests.football-data.org\/10.png",
+            "awayTeamCrest": "https:\/\/crests.football-data.org\/16.png",
+            "scoreWinner": null,
+            "scoreFullTimeHome": null,
+            "scoreFullTimeAway": null
+        },
+        "540488": {
+            "utcDate": "2025-11-09T18:30:00Z",
+            "homeTeamName": "Eintracht Frankfurt",
+            "awayTeamName": "Eintracht Frankfurt",
+            "homeTeamCrest": "https:\/\/crests.football-data.org\/19.png",
+            "awayTeamCrest": "https:\/\/crests.football-data.org\/15.png",
+            "scoreWinner": null,
+            "scoreFullTimeHome": null,
+            "scoreFullTimeAway": null
+        },
+        "540498": {
+            "utcDate": "2025-11-21T19:30:00Z",
+            "homeTeamName": "1. FSV Mainz 05",
+            "awayTeamName": "1. FSV Mainz 05",
+            "homeTeamCrest": "https:\/\/crests.football-data.org\/15.png",
+            "awayTeamCrest": "https:\/\/crests.football-data.org\/2.png",
+            "scoreWinner": null,
+            "scoreFullTimeHome": null,
+            "scoreFullTimeAway": null
+        },
+        "540496": {
+            "utcDate": "2025-11-22T14:30:00Z",
+            "homeTeamName": "FC Bayern M\u00fcnchen",
+            "awayTeamName": "FC Bayern M\u00fcnchen",
+            "homeTeamCrest": "https:\/\/crests.football-data.org\/5.png",
+            "awayTeamCrest": "https:\/\/crests.football-data.org\/17.png",
+            "scoreWinner": null,
+            "scoreFullTimeHome": null,
+            "scoreFullTimeAway": null
+        },
+        "540497": {
+            "utcDate": "2025-11-22T14:30:00Z",
+            "homeTeamName": "Borussia Dortmund",
+            "awayTeamName": "Borussia Dortmund",
+            "homeTeamCrest": "https:\/\/crests.football-data.org\/4.png",
+            "awayTeamCrest": "https:\/\/crests.football-data.org\/10.png",
+            "scoreWinner": null,
+            "scoreFullTimeHome": null,
+            "scoreFullTimeAway": null
+        },
+        "540500": {
+            "utcDate": "2025-11-22T14:30:00Z",
+            "homeTeamName": "VfL Wolfsburg",
+            "awayTeamName": "VfL Wolfsburg",
+            "homeTeamCrest": "https:\/\/crests.football-data.org\/11.png",
+            "awayTeamCrest": "https:\/\/crests.football-data.org\/3.png",
+            "scoreWinner": null,
+            "scoreFullTimeHome": null,
+            "scoreFullTimeAway": null
+        },
+        "540501": {
+            "utcDate": "2025-11-22T14:30:00Z",
+            "homeTeamName": "FC Augsburg",
+            "awayTeamName": "FC Augsburg",
+            "homeTeamCrest": "https:\/\/crests.football-data.org\/16.png",
+            "awayTeamCrest": "https:\/\/crests.football-data.org\/7.png",
+            "scoreWinner": null,
+            "scoreFullTimeHome": null,
+            "scoreFullTimeAway": null
+        },
+        "540503": {
+            "utcDate": "2025-11-22T14:30:00Z",
+            "homeTeamName": "1. FC Heidenheim 1846",
+            "awayTeamName": "1. FC Heidenheim 1846",
+            "homeTeamCrest": "https:\/\/crests.football-data.org\/44.png",
+            "awayTeamCrest": "https:\/\/crests.football-data.org\/18.png",
+            "scoreWinner": null,
+            "scoreFullTimeHome": null,
+            "scoreFullTimeAway": null
+        },
+        "540504": {
+            "utcDate": "2025-11-22T17:30:00Z",
+            "homeTeamName": "1. FC K\u00f6ln",
+            "awayTeamName": "1. FC K\u00f6ln",
+            "homeTeamCrest": "https:\/\/crests.football-data.org\/1.png",
+            "awayTeamCrest": "https:\/\/crests.football-data.org\/19.png",
+            "scoreWinner": null,
+            "scoreFullTimeHome": null,
+            "scoreFullTimeAway": null
+        },
+        "540499": {
+            "utcDate": "2025-11-23T14:30:00Z",
+            "homeTeamName": "RB Leipzig",
+            "awayTeamName": "RB Leipzig",
+            "homeTeamCrest": "https:\/\/crests.football-data.org\/721.png",
+            "awayTeamCrest": "https:\/\/crests.football-data.org\/12.png",
+            "scoreWinner": null,
+            "scoreFullTimeHome": null,
+            "scoreFullTimeAway": null
+        },
+        "540502": {
+            "utcDate": "2025-11-23T16:30:00Z",
+            "homeTeamName": "FC St. Pauli 1910",
+            "awayTeamName": "FC St. Pauli 1910",
+            "homeTeamCrest": "https:\/\/crests.football-data.org\/20.png",
+            "awayTeamCrest": "https:\/\/crests.football-data.org\/28.png",
+            "scoreWinner": null,
+            "scoreFullTimeHome": null,
+            "scoreFullTimeAway": null
+        },
+        "540510": {
+            "utcDate": "2025-11-28T19:30:00Z",
+            "homeTeamName": "Borussia M\u00f6nchengladbach",
+            "awayTeamName": "Borussia M\u00f6nchengladbach",
+            "homeTeamCrest": "https:\/\/crests.football-data.org\/18.png",
+            "awayTeamCrest": "https:\/\/crests.football-data.org\/721.png",
+            "scoreWinner": null,
+            "scoreFullTimeHome": null,
+            "scoreFullTimeAway": null
+        },
+        "540505": {
+            "utcDate": "2025-11-29T14:30:00Z",
+            "homeTeamName": "FC Bayern M\u00fcnchen",
+            "awayTeamName": "FC Bayern M\u00fcnchen",
+            "homeTeamCrest": "https:\/\/crests.football-data.org\/5.png",
+            "awayTeamCrest": "https:\/\/crests.football-data.org\/20.png",
+            "scoreWinner": null,
+            "scoreFullTimeHome": null,
+            "scoreFullTimeAway": null
+        },
+        "540509": {
+            "utcDate": "2025-11-29T14:30:00Z",
+            "homeTeamName": "SV Werder Bremen",
+            "awayTeamName": "SV Werder Bremen",
+            "homeTeamCrest": "https:\/\/crests.football-data.org\/12.png",
+            "awayTeamCrest": "https:\/\/crests.football-data.org\/1.png",
+            "scoreWinner": null,
+            "scoreFullTimeHome": null,
+            "scoreFullTimeAway": null
+        },
+        "540511": {
+            "utcDate": "2025-11-29T14:30:00Z",
+            "homeTeamName": "1. FC Union Berlin",
+            "awayTeamName": "1. FC Union Berlin",
+            "homeTeamCrest": "https:\/\/crests.football-data.org\/28.png",
+            "awayTeamCrest": "https:\/\/crests.football-data.org\/44.png",
+            "scoreWinner": null,
+            "scoreFullTimeHome": null,
+            "scoreFullTimeAway": null
+        },
+        "540512": {
+            "utcDate": "2025-11-29T14:30:00Z",
+            "homeTeamName": "TSG 1899 Hoffenheim",
+            "awayTeamName": "TSG 1899 Hoffenheim",
+            "homeTeamCrest": "https:\/\/crests.football-data.org\/2.png",
+            "awayTeamCrest": "https:\/\/crests.football-data.org\/16.png",
+            "scoreWinner": null,
+            "scoreFullTimeHome": null,
+            "scoreFullTimeAway": null
+        },
+        "540506": {
+            "utcDate": "2025-11-29T17:30:00Z",
+            "homeTeamName": "Bayer 04 Leverkusen",
+            "awayTeamName": "Bayer 04 Leverkusen",
+            "homeTeamCrest": "https:\/\/crests.football-data.org\/3.png",
+            "awayTeamCrest": "https:\/\/crests.football-data.org\/4.png",
+            "scoreWinner": null,
+            "scoreFullTimeHome": null,
+            "scoreFullTimeAway": null
+        },
+        "540513": {
+            "utcDate": "2025-11-30T14:30:00Z",
+            "homeTeamName": "Hamburger SV",
+            "awayTeamName": "Hamburger SV",
+            "homeTeamCrest": "https:\/\/crests.football-data.org\/7.png",
+            "awayTeamCrest": "https:\/\/crests.football-data.org\/10.png",
+            "scoreWinner": null,
+            "scoreFullTimeHome": null,
+            "scoreFullTimeAway": null
+        },
+        "540507": {
+            "utcDate": "2025-11-30T16:30:00Z",
+            "homeTeamName": "Eintracht Frankfurt",
+            "awayTeamName": "Eintracht Frankfurt",
+            "homeTeamCrest": "https:\/\/crests.football-data.org\/19.png",
+            "awayTeamCrest": "https:\/\/crests.football-data.org\/11.png",
+            "scoreWinner": null,
+            "scoreFullTimeHome": null,
+            "scoreFullTimeAway": null
+        },
+        "540508": {
+            "utcDate": "2025-11-30T18:30:00Z",
+            "homeTeamName": "SC Freiburg",
+            "awayTeamName": "SC Freiburg",
+            "homeTeamCrest": "https:\/\/crests.football-data.org\/17.png",
+            "awayTeamCrest": "https:\/\/crests.football-data.org\/15.png",
+            "scoreWinner": null,
+            "scoreFullTimeHome": null,
+            "scoreFullTimeAway": null
+        },
+        "540514": {
+            "utcDate": "2025-12-06T00:00:00Z",
+            "homeTeamName": "Borussia Dortmund",
+            "awayTeamName": "Borussia Dortmund",
+            "homeTeamCrest": "https:\/\/crests.football-data.org\/4.png",
+            "awayTeamCrest": "https:\/\/crests.football-data.org\/2.png",
+            "scoreWinner": null,
+            "scoreFullTimeHome": null,
+            "scoreFullTimeAway": null
+        },
+        "540515": {
+            "utcDate": "2025-12-06T00:00:00Z",
+            "homeTeamName": "1. FSV Mainz 05",
+            "awayTeamName": "1. FSV Mainz 05",
+            "homeTeamCrest": "https:\/\/crests.football-data.org\/15.png",
+            "awayTeamCrest": "https:\/\/crests.football-data.org\/18.png",
+            "scoreWinner": null,
+            "scoreFullTimeHome": null,
+            "scoreFullTimeAway": null
+        },
+        "540516": {
+            "utcDate": "2025-12-06T00:00:00Z",
+            "homeTeamName": "RB Leipzig",
+            "awayTeamName": "RB Leipzig",
+            "homeTeamCrest": "https:\/\/crests.football-data.org\/721.png",
+            "awayTeamCrest": "https:\/\/crests.football-data.org\/19.png",
+            "scoreWinner": null,
+            "scoreFullTimeHome": null,
+            "scoreFullTimeAway": null
+        },
+        "540517": {
+            "utcDate": "2025-12-06T00:00:00Z",
+            "homeTeamName": "VfB Stuttgart",
+            "awayTeamName": "VfB Stuttgart",
+            "homeTeamCrest": "https:\/\/crests.football-data.org\/10.png",
+            "awayTeamCrest": "https:\/\/crests.football-data.org\/5.png",
+            "scoreWinner": null,
+            "scoreFullTimeHome": null,
+            "scoreFullTimeAway": null
+        },
+        "540518": {
+            "utcDate": "2025-12-06T00:00:00Z",
+            "homeTeamName": "VfL Wolfsburg",
+            "awayTeamName": "VfL Wolfsburg",
+            "homeTeamCrest": "https:\/\/crests.football-data.org\/11.png",
+            "awayTeamCrest": "https:\/\/crests.football-data.org\/28.png",
+            "scoreWinner": null,
+            "scoreFullTimeHome": null,
+            "scoreFullTimeAway": null
+        },
+        "540519": {
+            "utcDate": "2025-12-06T00:00:00Z",
+            "homeTeamName": "1. FC Heidenheim 1846",
+            "awayTeamName": "1. FC Heidenheim 1846",
+            "homeTeamCrest": "https:\/\/crests.football-data.org\/44.png",
+            "awayTeamCrest": "https:\/\/crests.football-data.org\/17.png",
+            "scoreWinner": null,
+            "scoreFullTimeHome": null,
+            "scoreFullTimeAway": null
+        },
+        "540520": {
+            "utcDate": "2025-12-06T00:00:00Z",
+            "homeTeamName": "1. FC K\u00f6ln",
+            "awayTeamName": "1. FC K\u00f6ln",
+            "homeTeamCrest": "https:\/\/crests.football-data.org\/1.png",
+            "awayTeamCrest": "https:\/\/crests.football-data.org\/20.png",
+            "scoreWinner": null,
+            "scoreFullTimeHome": null,
+            "scoreFullTimeAway": null
+        },
+        "540521": {
+            "utcDate": "2025-12-06T00:00:00Z",
+            "homeTeamName": "Hamburger SV",
+            "awayTeamName": "Hamburger SV",
+            "homeTeamCrest": "https:\/\/crests.football-data.org\/7.png",
+            "awayTeamCrest": "https:\/\/crests.football-data.org\/12.png",
+            "scoreWinner": null,
+            "scoreFullTimeHome": null,
+            "scoreFullTimeAway": null
+        },
+        "540522": {
+            "utcDate": "2025-12-06T00:00:00Z",
+            "homeTeamName": "FC Augsburg",
+            "awayTeamName": "FC Augsburg",
+            "homeTeamCrest": "https:\/\/crests.football-data.org\/16.png",
+            "awayTeamCrest": "https:\/\/crests.football-data.org\/3.png",
+            "scoreWinner": null,
+            "scoreFullTimeHome": null,
+            "scoreFullTimeAway": null
+        },
+        "540523": {
+            "utcDate": "2025-12-13T00:00:00Z",
+            "homeTeamName": "FC Bayern M\u00fcnchen",
+            "awayTeamName": "FC Bayern M\u00fcnchen",
+            "homeTeamCrest": "https:\/\/crests.football-data.org\/5.png",
+            "awayTeamCrest": "https:\/\/crests.football-data.org\/15.png",
+            "scoreWinner": null,
+            "scoreFullTimeHome": null,
+            "scoreFullTimeAway": null
+        },
+        "540524": {
+            "utcDate": "2025-12-13T00:00:00Z",
+            "homeTeamName": "Bayer 04 Leverkusen",
+            "awayTeamName": "Bayer 04 Leverkusen",
+            "homeTeamCrest": "https:\/\/crests.football-data.org\/3.png",
+            "awayTeamCrest": "https:\/\/crests.football-data.org\/1.png",
+            "scoreWinner": null,
+            "scoreFullTimeHome": null,
+            "scoreFullTimeAway": null
+        },
+        "540525": {
+            "utcDate": "2025-12-13T00:00:00Z",
+            "homeTeamName": "Eintracht Frankfurt",
+            "awayTeamName": "Eintracht Frankfurt",
+            "homeTeamCrest": "https:\/\/crests.football-data.org\/19.png",
+            "awayTeamCrest": "https:\/\/crests.football-data.org\/16.png",
+            "scoreWinner": null,
+            "scoreFullTimeHome": null,
+            "scoreFullTimeAway": null
+        },
+        "540526": {
+            "utcDate": "2025-12-13T00:00:00Z",
+            "homeTeamName": "SC Freiburg",
+            "awayTeamName": "SC Freiburg",
+            "homeTeamCrest": "https:\/\/crests.football-data.org\/17.png",
+            "awayTeamCrest": "https:\/\/crests.football-data.org\/4.png",
+            "scoreWinner": null,
+            "scoreFullTimeHome": null,
+            "scoreFullTimeAway": null
+        },
+        "540527": {
+            "utcDate": "2025-12-13T00:00:00Z",
+            "homeTeamName": "SV Werder Bremen",
+            "awayTeamName": "SV Werder Bremen",
+            "homeTeamCrest": "https:\/\/crests.football-data.org\/12.png",
+            "awayTeamCrest": "https:\/\/crests.football-data.org\/10.png",
+            "scoreWinner": null,
+            "scoreFullTimeHome": null,
+            "scoreFullTimeAway": null
+        },
+        "540528": {
+            "utcDate": "2025-12-13T00:00:00Z",
+            "homeTeamName": "Borussia M\u00f6nchengladbach",
+            "awayTeamName": "Borussia M\u00f6nchengladbach",
+            "homeTeamCrest": "https:\/\/crests.football-data.org\/18.png",
+            "awayTeamCrest": "https:\/\/crests.football-data.org\/11.png",
+            "scoreWinner": null,
+            "scoreFullTimeHome": null,
+            "scoreFullTimeAway": null
+        },
+        "540529": {
+            "utcDate": "2025-12-13T00:00:00Z",
+            "homeTeamName": "1. FC Union Berlin",
+            "awayTeamName": "1. FC Union Berlin",
+            "homeTeamCrest": "https:\/\/crests.football-data.org\/28.png",
+            "awayTeamCrest": "https:\/\/crests.football-data.org\/721.png",
+            "scoreWinner": null,
+            "scoreFullTimeHome": null,
+            "scoreFullTimeAway": null
+        },
+        "540530": {
+            "utcDate": "2025-12-13T00:00:00Z",
+            "homeTeamName": "FC St. Pauli 1910",
+            "awayTeamName": "FC St. Pauli 1910",
+            "homeTeamCrest": "https:\/\/crests.football-data.org\/20.png",
+            "awayTeamCrest": "https:\/\/crests.football-data.org\/44.png",
+            "scoreWinner": null,
+            "scoreFullTimeHome": null,
+            "scoreFullTimeAway": null
+        },
+        "540531": {
+            "utcDate": "2025-12-13T00:00:00Z",
+            "homeTeamName": "TSG 1899 Hoffenheim",
+            "awayTeamName": "TSG 1899 Hoffenheim",
+            "homeTeamCrest": "https:\/\/crests.football-data.org\/2.png",
+            "awayTeamCrest": "https:\/\/crests.football-data.org\/7.png",
+            "scoreWinner": null,
+            "scoreFullTimeHome": null,
+            "scoreFullTimeAway": null
+        },
+        "540532": {
+            "utcDate": "2025-12-20T00:00:00Z",
+            "homeTeamName": "Borussia Dortmund",
+            "awayTeamName": "Borussia Dortmund",
+            "homeTeamCrest": "https:\/\/crests.football-data.org\/4.png",
+            "awayTeamCrest": "https:\/\/crests.football-data.org\/18.png",
+            "scoreWinner": null,
+            "scoreFullTimeHome": null,
+            "scoreFullTimeAway": null
+        },
+        "540533": {
+            "utcDate": "2025-12-20T00:00:00Z",
+            "homeTeamName": "1. FSV Mainz 05",
+            "awayTeamName": "1. FSV Mainz 05",
+            "homeTeamCrest": "https:\/\/crests.football-data.org\/15.png",
+            "awayTeamCrest": "https:\/\/crests.football-data.org\/20.png",
+            "scoreWinner": null,
+            "scoreFullTimeHome": null,
+            "scoreFullTimeAway": null
+        },
+        "540534": {
+            "utcDate": "2025-12-20T00:00:00Z",
+            "homeTeamName": "RB Leipzig",
+            "awayTeamName": "RB Leipzig",
+            "homeTeamCrest": "https:\/\/crests.football-data.org\/721.png",
+            "awayTeamCrest": "https:\/\/crests.football-data.org\/3.png",
+            "scoreWinner": null,
+            "scoreFullTimeHome": null,
+            "scoreFullTimeAway": null
+        },
+        "540535": {
+            "utcDate": "2025-12-20T00:00:00Z",
+            "homeTeamName": "VfB Stuttgart",
+            "awayTeamName": "VfB Stuttgart",
+            "homeTeamCrest": "https:\/\/crests.football-data.org\/10.png",
+            "awayTeamCrest": "https:\/\/crests.football-data.org\/2.png",
+            "scoreWinner": null,
+            "scoreFullTimeHome": null,
+            "scoreFullTimeAway": null
+        },
+        "540536": {
+            "utcDate": "2025-12-20T00:00:00Z",
+            "homeTeamName": "VfL Wolfsburg",
+            "awayTeamName": "VfL Wolfsburg",
+            "homeTeamCrest": "https:\/\/crests.football-data.org\/11.png",
+            "awayTeamCrest": "https:\/\/crests.football-data.org\/17.png",
+            "scoreWinner": null,
+            "scoreFullTimeHome": null,
+            "scoreFullTimeAway": null
+        },
+        "540537": {
+            "utcDate": "2025-12-20T00:00:00Z",
+            "homeTeamName": "FC Augsburg",
+            "awayTeamName": "FC Augsburg",
+            "homeTeamCrest": "https:\/\/crests.football-data.org\/16.png",
+            "awayTeamCrest": "https:\/\/crests.football-data.org\/12.png",
+            "scoreWinner": null,
+            "scoreFullTimeHome": null,
+            "scoreFullTimeAway": null
+        },
+        "540538": {
+            "utcDate": "2025-12-20T00:00:00Z",
+            "homeTeamName": "1. FC Heidenheim 1846",
+            "awayTeamName": "1. FC Heidenheim 1846",
+            "homeTeamCrest": "https:\/\/crests.football-data.org\/44.png",
+            "awayTeamCrest": "https:\/\/crests.football-data.org\/5.png",
+            "scoreWinner": null,
+            "scoreFullTimeHome": null,
+            "scoreFullTimeAway": null
+        },
+        "540539": {
+            "utcDate": "2025-12-20T00:00:00Z",
+            "homeTeamName": "1. FC K\u00f6ln",
+            "awayTeamName": "1. FC K\u00f6ln",
+            "homeTeamCrest": "https:\/\/crests.football-data.org\/1.png",
+            "awayTeamCrest": "https:\/\/crests.football-data.org\/28.png",
+            "scoreWinner": null,
+            "scoreFullTimeHome": null,
+            "scoreFullTimeAway": null
+        },
+        "540540": {
+            "utcDate": "2025-12-20T00:00:00Z",
+            "homeTeamName": "Hamburger SV",
+            "awayTeamName": "Hamburger SV",
+            "homeTeamCrest": "https:\/\/crests.football-data.org\/7.png",
+            "awayTeamCrest": "https:\/\/crests.football-data.org\/19.png",
+            "scoreWinner": null,
+            "scoreFullTimeHome": null,
+            "scoreFullTimeAway": null
+        },
+        "540541": {
+            "utcDate": "2026-01-10T00:00:00Z",
+            "homeTeamName": "FC Bayern M\u00fcnchen",
+            "awayTeamName": "FC Bayern M\u00fcnchen",
+            "homeTeamCrest": "https:\/\/crests.football-data.org\/5.png",
+            "awayTeamCrest": "https:\/\/crests.football-data.org\/11.png",
+            "scoreWinner": null,
+            "scoreFullTimeHome": null,
+            "scoreFullTimeAway": null
+        },
+        "540542": {
+            "utcDate": "2026-01-10T00:00:00Z",
+            "homeTeamName": "Bayer 04 Leverkusen",
+            "awayTeamName": "Bayer 04 Leverkusen",
+            "homeTeamCrest": "https:\/\/crests.football-data.org\/3.png",
+            "awayTeamCrest": "https:\/\/crests.football-data.org\/10.png",
+            "scoreWinner": null,
+            "scoreFullTimeHome": null,
+            "scoreFullTimeAway": null
+        },
+        "540543": {
+            "utcDate": "2026-01-10T00:00:00Z",
+            "homeTeamName": "Eintracht Frankfurt",
+            "awayTeamName": "Eintracht Frankfurt",
+            "homeTeamCrest": "https:\/\/crests.football-data.org\/19.png",
+            "awayTeamCrest": "https:\/\/crests.football-data.org\/4.png",
+            "scoreWinner": null,
+            "scoreFullTimeHome": null,
+            "scoreFullTimeAway": null
+        },
+        "540544": {
+            "utcDate": "2026-01-10T00:00:00Z",
+            "homeTeamName": "SC Freiburg",
+            "awayTeamName": "SC Freiburg",
+            "homeTeamCrest": "https:\/\/crests.football-data.org\/17.png",
+            "awayTeamCrest": "https:\/\/crests.football-data.org\/7.png",
+            "scoreWinner": null,
+            "scoreFullTimeHome": null,
+            "scoreFullTimeAway": null
+        },
+        "540545": {
+            "utcDate": "2026-01-10T00:00:00Z",
+            "homeTeamName": "SV Werder Bremen",
+            "awayTeamName": "SV Werder Bremen",
+            "homeTeamCrest": "https:\/\/crests.football-data.org\/12.png",
+            "awayTeamCrest": "https:\/\/crests.football-data.org\/2.png",
+            "scoreWinner": null,
+            "scoreFullTimeHome": null,
+            "scoreFullTimeAway": null
+        },
+        "540546": {
+            "utcDate": "2026-01-10T00:00:00Z",
+            "homeTeamName": "Borussia M\u00f6nchengladbach",
+            "awayTeamName": "Borussia M\u00f6nchengladbach",
+            "homeTeamCrest": "https:\/\/crests.football-data.org\/18.png",
+            "awayTeamCrest": "https:\/\/crests.football-data.org\/16.png",
+            "scoreWinner": null,
+            "scoreFullTimeHome": null,
+            "scoreFullTimeAway": null
+        },
+        "540547": {
+            "utcDate": "2026-01-10T00:00:00Z",
+            "homeTeamName": "1. FC Union Berlin",
+            "awayTeamName": "1. FC Union Berlin",
+            "homeTeamCrest": "https:\/\/crests.football-data.org\/28.png",
+            "awayTeamCrest": "https:\/\/crests.football-data.org\/15.png",
+            "scoreWinner": null,
+            "scoreFullTimeHome": null,
+            "scoreFullTimeAway": null
+        },
+        "540548": {
+            "utcDate": "2026-01-10T00:00:00Z",
+            "homeTeamName": "FC St. Pauli 1910",
+            "awayTeamName": "FC St. Pauli 1910",
+            "homeTeamCrest": "https:\/\/crests.football-data.org\/20.png",
+            "awayTeamCrest": "https:\/\/crests.football-data.org\/721.png",
+            "scoreWinner": null,
+            "scoreFullTimeHome": null,
+            "scoreFullTimeAway": null
+        },
+        "540549": {
+            "utcDate": "2026-01-10T00:00:00Z",
+            "homeTeamName": "1. FC Heidenheim 1846",
+            "awayTeamName": "1. FC Heidenheim 1846",
+            "homeTeamCrest": "https:\/\/crests.football-data.org\/44.png",
+            "awayTeamCrest": "https:\/\/crests.football-data.org\/1.png",
+            "scoreWinner": null,
+            "scoreFullTimeHome": null,
+            "scoreFullTimeAway": null
+        },
+        "540550": {
+            "utcDate": "2026-01-13T00:00:00Z",
+            "homeTeamName": "Borussia Dortmund",
+            "awayTeamName": "Borussia Dortmund",
+            "homeTeamCrest": "https:\/\/crests.football-data.org\/4.png",
+            "awayTeamCrest": "https:\/\/crests.football-data.org\/12.png",
+            "scoreWinner": null,
+            "scoreFullTimeHome": null,
+            "scoreFullTimeAway": null
+        },
+        "540551": {
+            "utcDate": "2026-01-13T00:00:00Z",
+            "homeTeamName": "1. FSV Mainz 05",
+            "awayTeamName": "1. FSV Mainz 05",
+            "homeTeamCrest": "https:\/\/crests.football-data.org\/15.png",
+            "awayTeamCrest": "https:\/\/crests.football-data.org\/44.png",
+            "scoreWinner": null,
+            "scoreFullTimeHome": null,
+            "scoreFullTimeAway": null
+        },
+        "540552": {
+            "utcDate": "2026-01-13T00:00:00Z",
+            "homeTeamName": "RB Leipzig",
+            "awayTeamName": "RB Leipzig",
+            "homeTeamCrest": "https:\/\/crests.football-data.org\/721.png",
+            "awayTeamCrest": "https:\/\/crests.football-data.org\/17.png",
+            "scoreWinner": null,
+            "scoreFullTimeHome": null,
+            "scoreFullTimeAway": null
+        },
+        "540553": {
+            "utcDate": "2026-01-13T00:00:00Z",
+            "homeTeamName": "VfB Stuttgart",
+            "awayTeamName": "VfB Stuttgart",
+            "homeTeamCrest": "https:\/\/crests.football-data.org\/10.png",
+            "awayTeamCrest": "https:\/\/crests.football-data.org\/19.png",
+            "scoreWinner": null,
+            "scoreFullTimeHome": null,
+            "scoreFullTimeAway": null
+        },
+        "540554": {
+            "utcDate": "2026-01-13T00:00:00Z",
+            "homeTeamName": "VfL Wolfsburg",
+            "awayTeamName": "VfL Wolfsburg",
+            "homeTeamCrest": "https:\/\/crests.football-data.org\/11.png",
+            "awayTeamCrest": "https:\/\/crests.football-data.org\/20.png",
+            "scoreWinner": null,
+            "scoreFullTimeHome": null,
+            "scoreFullTimeAway": null
+        },
+        "540555": {
+            "utcDate": "2026-01-13T00:00:00Z",
+            "homeTeamName": "FC Augsburg",
+            "awayTeamName": "FC Augsburg",
+            "homeTeamCrest": "https:\/\/crests.football-data.org\/16.png",
+            "awayTeamCrest": "https:\/\/crests.football-data.org\/28.png",
+            "scoreWinner": null,
+            "scoreFullTimeHome": null,
+            "scoreFullTimeAway": null
+        },
+        "540556": {
+            "utcDate": "2026-01-13T00:00:00Z",
+            "homeTeamName": "TSG 1899 Hoffenheim",
+            "awayTeamName": "TSG 1899 Hoffenheim",
+            "homeTeamCrest": "https:\/\/crests.football-data.org\/2.png",
+            "awayTeamCrest": "https:\/\/crests.football-data.org\/18.png",
+            "scoreWinner": null,
+            "scoreFullTimeHome": null,
+            "scoreFullTimeAway": null
+        },
+        "540557": {
+            "utcDate": "2026-01-13T00:00:00Z",
+            "homeTeamName": "1. FC K\u00f6ln",
+            "awayTeamName": "1. FC K\u00f6ln",
+            "homeTeamCrest": "https:\/\/crests.football-data.org\/1.png",
+            "awayTeamCrest": "https:\/\/crests.football-data.org\/5.png",
+            "scoreWinner": null,
+            "scoreFullTimeHome": null,
+            "scoreFullTimeAway": null
+        },
+        "540558": {
+            "utcDate": "2026-01-13T00:00:00Z",
+            "homeTeamName": "Hamburger SV",
+            "awayTeamName": "Hamburger SV",
+            "homeTeamCrest": "https:\/\/crests.football-data.org\/7.png",
+            "awayTeamCrest": "https:\/\/crests.football-data.org\/3.png",
+            "scoreWinner": null,
+            "scoreFullTimeHome": null,
+            "scoreFullTimeAway": null
+        },
+        "540559": {
+            "utcDate": "2026-01-17T00:00:00Z",
+            "homeTeamName": "RB Leipzig",
+            "awayTeamName": "RB Leipzig",
+            "homeTeamCrest": "https:\/\/crests.football-data.org\/721.png",
+            "awayTeamCrest": "https:\/\/crests.football-data.org\/5.png",
+            "scoreWinner": null,
+            "scoreFullTimeHome": null,
+            "scoreFullTimeAway": null
+        },
+        "540560": {
+            "utcDate": "2026-01-17T00:00:00Z",
+            "homeTeamName": "SV Werder Bremen",
+            "awayTeamName": "SV Werder Bremen",
+            "homeTeamCrest": "https:\/\/crests.football-data.org\/12.png",
+            "awayTeamCrest": "https:\/\/crests.football-data.org\/19.png",
+            "scoreWinner": null,
+            "scoreFullTimeHome": null,
+            "scoreFullTimeAway": null
+        },
+        "540561": {
+            "utcDate": "2026-01-17T00:00:00Z",
+            "homeTeamName": "TSG 1899 Hoffenheim",
+            "awayTeamName": "TSG 1899 Hoffenheim",
+            "homeTeamCrest": "https:\/\/crests.football-data.org\/2.png",
+            "awayTeamCrest": "https:\/\/crests.football-data.org\/3.png",
+            "scoreWinner": null,
+            "scoreFullTimeHome": null,
+            "scoreFullTimeAway": null
+        },
+        "540562": {
+            "utcDate": "2026-01-17T00:00:00Z",
+            "homeTeamName": "FC Augsburg",
+            "awayTeamName": "FC Augsburg",
+            "homeTeamCrest": "https:\/\/crests.football-data.org\/16.png",
+            "awayTeamCrest": "https:\/\/crests.football-data.org\/17.png",
+            "scoreWinner": null,
+            "scoreFullTimeHome": null,
+            "scoreFullTimeAway": null
+        },
+        "540563": {
+            "utcDate": "2026-01-17T00:00:00Z",
+            "homeTeamName": "1. FC K\u00f6ln",
+            "awayTeamName": "1. FC K\u00f6ln",
+            "homeTeamCrest": "https:\/\/crests.football-data.org\/1.png",
+            "awayTeamCrest": "https:\/\/crests.football-data.org\/15.png",
+            "scoreWinner": null,
+            "scoreFullTimeHome": null,
+            "scoreFullTimeAway": null
+        },
+        "540564": {
+            "utcDate": "2026-01-17T00:00:00Z",
+            "homeTeamName": "Hamburger SV",
+            "awayTeamName": "Hamburger SV",
+            "homeTeamCrest": "https:\/\/crests.football-data.org\/7.png",
+            "awayTeamCrest": "https:\/\/crests.football-data.org\/18.png",
+            "scoreWinner": null,
+            "scoreFullTimeHome": null,
+            "scoreFullTimeAway": null
+        },
+        "540565": {
+            "utcDate": "2026-01-17T00:00:00Z",
+            "homeTeamName": "VfB Stuttgart",
+            "awayTeamName": "VfB Stuttgart",
+            "homeTeamCrest": "https:\/\/crests.football-data.org\/10.png",
+            "awayTeamCrest": "https:\/\/crests.football-data.org\/28.png",
+            "scoreWinner": null,
+            "scoreFullTimeHome": null,
+            "scoreFullTimeAway": null
+        },
+        "540566": {
+            "utcDate": "2026-01-17T00:00:00Z",
+            "homeTeamName": "Borussia Dortmund",
+            "awayTeamName": "Borussia Dortmund",
+            "homeTeamCrest": "https:\/\/crests.football-data.org\/4.png",
+            "awayTeamCrest": "https:\/\/crests.football-data.org\/20.png",
+            "scoreWinner": null,
+            "scoreFullTimeHome": null,
+            "scoreFullTimeAway": null
+        },
+        "540567": {
+            "utcDate": "2026-01-17T00:00:00Z",
+            "homeTeamName": "VfL Wolfsburg",
+            "awayTeamName": "VfL Wolfsburg",
+            "homeTeamCrest": "https:\/\/crests.football-data.org\/11.png",
+            "awayTeamCrest": "https:\/\/crests.football-data.org\/44.png",
+            "scoreWinner": null,
+            "scoreFullTimeHome": null,
+            "scoreFullTimeAway": null
+        },
+        "540568": {
+            "utcDate": "2026-01-24T00:00:00Z",
+            "homeTeamName": "1. FC Union Berlin",
+            "awayTeamName": "1. FC Union Berlin",
+            "homeTeamCrest": "https:\/\/crests.football-data.org\/28.png",
+            "awayTeamCrest": "https:\/\/crests.football-data.org\/4.png",
+            "scoreWinner": null,
+            "scoreFullTimeHome": null,
+            "scoreFullTimeAway": null
+        },
+        "540569": {
+            "utcDate": "2026-01-24T00:00:00Z",
+            "homeTeamName": "1. FC Heidenheim 1846",
+            "awayTeamName": "1. FC Heidenheim 1846",
+            "homeTeamCrest": "https:\/\/crests.football-data.org\/44.png",
+            "awayTeamCrest": "https:\/\/crests.football-data.org\/721.png",
+            "scoreWinner": null,
+            "scoreFullTimeHome": null,
+            "scoreFullTimeAway": null
+        },
+        "540570": {
+            "utcDate": "2026-01-24T00:00:00Z",
+            "homeTeamName": "Bayer 04 Leverkusen",
+            "awayTeamName": "Bayer 04 Leverkusen",
+            "homeTeamCrest": "https:\/\/crests.football-data.org\/3.png",
+            "awayTeamCrest": "https:\/\/crests.football-data.org\/12.png",
+            "scoreWinner": null,
+            "scoreFullTimeHome": null,
+            "scoreFullTimeAway": null
+        },
+        "540571": {
+            "utcDate": "2026-01-24T00:00:00Z",
+            "homeTeamName": "Borussia M\u00f6nchengladbach",
+            "awayTeamName": "Borussia M\u00f6nchengladbach",
+            "homeTeamCrest": "https:\/\/crests.football-data.org\/18.png",
+            "awayTeamCrest": "https:\/\/crests.football-data.org\/10.png",
+            "scoreWinner": null,
+            "scoreFullTimeHome": null,
+            "scoreFullTimeAway": null
+        },
+        "540572": {
+            "utcDate": "2026-01-24T00:00:00Z",
+            "homeTeamName": "1. FSV Mainz 05",
+            "awayTeamName": "1. FSV Mainz 05",
+            "homeTeamCrest": "https:\/\/crests.football-data.org\/15.png",
+            "awayTeamCrest": "https:\/\/crests.football-data.org\/11.png",
+            "scoreWinner": null,
+            "scoreFullTimeHome": null,
+            "scoreFullTimeAway": null
+        },
+        "540573": {
+            "utcDate": "2026-01-24T00:00:00Z",
+            "homeTeamName": "FC Bayern M\u00fcnchen",
+            "awayTeamName": "FC Bayern M\u00fcnchen",
+            "homeTeamCrest": "https:\/\/crests.football-data.org\/5.png",
+            "awayTeamCrest": "https:\/\/crests.football-data.org\/16.png",
+            "scoreWinner": null,
+            "scoreFullTimeHome": null,
+            "scoreFullTimeAway": null
+        },
+        "540574": {
+            "utcDate": "2026-01-24T00:00:00Z",
+            "homeTeamName": "Eintracht Frankfurt",
+            "awayTeamName": "Eintracht Frankfurt",
+            "homeTeamCrest": "https:\/\/crests.football-data.org\/19.png",
+            "awayTeamCrest": "https:\/\/crests.football-data.org\/2.png",
+            "scoreWinner": null,
+            "scoreFullTimeHome": null,
+            "scoreFullTimeAway": null
+        },
+        "540575": {
+            "utcDate": "2026-01-24T00:00:00Z",
+            "homeTeamName": "SC Freiburg",
+            "awayTeamName": "SC Freiburg",
+            "homeTeamCrest": "https:\/\/crests.football-data.org\/17.png",
+            "awayTeamCrest": "https:\/\/crests.football-data.org\/1.png",
+            "scoreWinner": null,
+            "scoreFullTimeHome": null,
+            "scoreFullTimeAway": null
+        },
+        "540576": {
+            "utcDate": "2026-01-24T00:00:00Z",
+            "homeTeamName": "FC St. Pauli 1910",
+            "awayTeamName": "FC St. Pauli 1910",
+            "homeTeamCrest": "https:\/\/crests.football-data.org\/20.png",
+            "awayTeamCrest": "https:\/\/crests.football-data.org\/7.png",
+            "scoreWinner": null,
+            "scoreFullTimeHome": null,
+            "scoreFullTimeAway": null
+        },
+        "540577": {
+            "utcDate": "2026-01-31T00:00:00Z",
+            "homeTeamName": "Hamburger SV",
+            "awayTeamName": "Hamburger SV",
+            "homeTeamCrest": "https:\/\/crests.football-data.org\/7.png",
+            "awayTeamCrest": "https:\/\/crests.football-data.org\/5.png",
+            "scoreWinner": null,
+            "scoreFullTimeHome": null,
+            "scoreFullTimeAway": null
+        },
+        "540578": {
+            "utcDate": "2026-01-31T00:00:00Z",
+            "homeTeamName": "Eintracht Frankfurt",
+            "awayTeamName": "Eintracht Frankfurt",
+            "homeTeamCrest": "https:\/\/crests.football-data.org\/19.png",
+            "awayTeamCrest": "https:\/\/crests.football-data.org\/3.png",
+            "scoreWinner": null,
+            "scoreFullTimeHome": null,
+            "scoreFullTimeAway": null
+        },
+        "540579": {
+            "utcDate": "2026-01-31T00:00:00Z",
+            "homeTeamName": "VfB Stuttgart",
+            "awayTeamName": "VfB Stuttgart",
+            "homeTeamCrest": "https:\/\/crests.football-data.org\/10.png",
+            "awayTeamCrest": "https:\/\/crests.football-data.org\/17.png",
+            "scoreWinner": null,
+            "scoreFullTimeHome": null,
+            "scoreFullTimeAway": null
+        },
+        "540580": {
+            "utcDate": "2026-01-31T00:00:00Z",
+            "homeTeamName": "RB Leipzig",
+            "awayTeamName": "RB Leipzig",
+            "homeTeamCrest": "https:\/\/crests.football-data.org\/721.png",
+            "awayTeamCrest": "https:\/\/crests.football-data.org\/15.png",
+            "scoreWinner": null,
+            "scoreFullTimeHome": null,
+            "scoreFullTimeAway": null
+        },
+        "540581": {
+            "utcDate": "2026-01-31T00:00:00Z",
+            "homeTeamName": "SV Werder Bremen",
+            "awayTeamName": "SV Werder Bremen",
+            "homeTeamCrest": "https:\/\/crests.football-data.org\/12.png",
+            "awayTeamCrest": "https:\/\/crests.football-data.org\/18.png",
+            "scoreWinner": null,
+            "scoreFullTimeHome": null,
+            "scoreFullTimeAway": null
+        },
+        "540582": {
+            "utcDate": "2026-01-31T00:00:00Z",
+            "homeTeamName": "1. FC K\u00f6ln",
+            "awayTeamName": "1. FC K\u00f6ln",
+            "homeTeamCrest": "https:\/\/crests.football-data.org\/1.png",
+            "awayTeamCrest": "https:\/\/crests.football-data.org\/11.png",
+            "scoreWinner": null,
+            "scoreFullTimeHome": null,
+            "scoreFullTimeAway": null
+        },
+        "540583": {
+            "utcDate": "2026-01-31T00:00:00Z",
+            "homeTeamName": "TSG 1899 Hoffenheim",
+            "awayTeamName": "TSG 1899 Hoffenheim",
+            "homeTeamCrest": "https:\/\/crests.football-data.org\/2.png",
+            "awayTeamCrest": "https:\/\/crests.football-data.org\/28.png",
+            "scoreWinner": null,
+            "scoreFullTimeHome": null,
+            "scoreFullTimeAway": null
+        },
+        "540584": {
+            "utcDate": "2026-01-31T00:00:00Z",
+            "homeTeamName": "FC Augsburg",
+            "awayTeamName": "FC Augsburg",
+            "homeTeamCrest": "https:\/\/crests.football-data.org\/16.png",
+            "awayTeamCrest": "https:\/\/crests.football-data.org\/20.png",
+            "scoreWinner": null,
+            "scoreFullTimeHome": null,
+            "scoreFullTimeAway": null
+        },
+        "540585": {
+            "utcDate": "2026-01-31T00:00:00Z",
+            "homeTeamName": "Borussia Dortmund",
+            "awayTeamName": "Borussia Dortmund",
+            "homeTeamCrest": "https:\/\/crests.football-data.org\/4.png",
+            "awayTeamCrest": "https:\/\/crests.football-data.org\/44.png",
+            "scoreWinner": null,
+            "scoreFullTimeHome": null,
+            "scoreFullTimeAway": null
+        },
+        "540586": {
+            "utcDate": "2026-02-07T00:00:00Z",
+            "homeTeamName": "Borussia M\u00f6nchengladbach",
+            "awayTeamName": "Borussia M\u00f6nchengladbach",
+            "homeTeamCrest": "https:\/\/crests.football-data.org\/18.png",
+            "awayTeamCrest": "https:\/\/crests.football-data.org\/3.png",
+            "scoreWinner": null,
+            "scoreFullTimeHome": null,
+            "scoreFullTimeAway": null
+        },
+        "540587": {
+            "utcDate": "2026-02-07T00:00:00Z",
+            "homeTeamName": "1. FC Union Berlin",
+            "awayTeamName": "1. FC Union Berlin",
+            "homeTeamCrest": "https:\/\/crests.football-data.org\/28.png",
+            "awayTeamCrest": "https:\/\/crests.football-data.org\/19.png",
+            "scoreWinner": null,
+            "scoreFullTimeHome": null,
+            "scoreFullTimeAway": null
+        },
+        "540588": {
+            "utcDate": "2026-02-07T00:00:00Z",
+            "homeTeamName": "VfL Wolfsburg",
+            "awayTeamName": "VfL Wolfsburg",
+            "homeTeamCrest": "https:\/\/crests.football-data.org\/11.png",
+            "awayTeamCrest": "https:\/\/crests.football-data.org\/4.png",
+            "scoreWinner": null,
+            "scoreFullTimeHome": null,
+            "scoreFullTimeAway": null
+        },
+        "540589": {
+            "utcDate": "2026-02-07T00:00:00Z",
+            "homeTeamName": "1. FC K\u00f6ln",
+            "awayTeamName": "1. FC K\u00f6ln",
+            "homeTeamCrest": "https:\/\/crests.football-data.org\/1.png",
+            "awayTeamCrest": "https:\/\/crests.football-data.org\/721.png",
+            "scoreWinner": null,
+            "scoreFullTimeHome": null,
+            "scoreFullTimeAway": null
+        },
+        "540590": {
+            "utcDate": "2026-02-07T00:00:00Z",
+            "homeTeamName": "SC Freiburg",
+            "awayTeamName": "SC Freiburg",
+            "homeTeamCrest": "https:\/\/crests.football-data.org\/17.png",
+            "awayTeamCrest": "https:\/\/crests.football-data.org\/12.png",
+            "scoreWinner": null,
+            "scoreFullTimeHome": null,
+            "scoreFullTimeAway": null
+        },
+        "540591": {
+            "utcDate": "2026-02-07T00:00:00Z",
+            "homeTeamName": "FC St. Pauli 1910",
+            "awayTeamName": "FC St. Pauli 1910",
+            "homeTeamCrest": "https:\/\/crests.football-data.org\/20.png",
+            "awayTeamCrest": "https:\/\/crests.football-data.org\/10.png",
+            "scoreWinner": null,
+            "scoreFullTimeHome": null,
+            "scoreFullTimeAway": null
+        },
+        "540592": {
+            "utcDate": "2026-02-07T00:00:00Z",
+            "homeTeamName": "1. FSV Mainz 05",
+            "awayTeamName": "1. FSV Mainz 05",
+            "homeTeamCrest": "https:\/\/crests.football-data.org\/15.png",
+            "awayTeamCrest": "https:\/\/crests.football-data.org\/16.png",
+            "scoreWinner": null,
+            "scoreFullTimeHome": null,
+            "scoreFullTimeAway": null
+        },
+        "540593": {
+            "utcDate": "2026-02-07T00:00:00Z",
+            "homeTeamName": "FC Bayern M\u00fcnchen",
+            "awayTeamName": "FC Bayern M\u00fcnchen",
+            "homeTeamCrest": "https:\/\/crests.football-data.org\/5.png",
+            "awayTeamCrest": "https:\/\/crests.football-data.org\/2.png",
+            "scoreWinner": null,
+            "scoreFullTimeHome": null,
+            "scoreFullTimeAway": null
+        },
+        "540594": {
+            "utcDate": "2026-02-07T00:00:00Z",
+            "homeTeamName": "1. FC Heidenheim 1846",
+            "awayTeamName": "1. FC Heidenheim 1846",
+            "homeTeamCrest": "https:\/\/crests.football-data.org\/44.png",
+            "awayTeamCrest": "https:\/\/crests.football-data.org\/7.png",
+            "scoreWinner": null,
+            "scoreFullTimeHome": null,
+            "scoreFullTimeAway": null
+        },
+        "540595": {
+            "utcDate": "2026-02-14T00:00:00Z",
+            "homeTeamName": "SV Werder Bremen",
+            "awayTeamName": "SV Werder Bremen",
+            "homeTeamCrest": "https:\/\/crests.football-data.org\/12.png",
+            "awayTeamCrest": "https:\/\/crests.football-data.org\/5.png",
+            "scoreWinner": null,
+            "scoreFullTimeHome": null,
+            "scoreFullTimeAway": null
+        },
+        "540596": {
+            "utcDate": "2026-02-14T00:00:00Z",
+            "homeTeamName": "TSG 1899 Hoffenheim",
+            "awayTeamName": "TSG 1899 Hoffenheim",
+            "homeTeamCrest": "https:\/\/crests.football-data.org\/2.png",
+            "awayTeamCrest": "https:\/\/crests.football-data.org\/17.png",
+            "scoreWinner": null,
+            "scoreFullTimeHome": null,
+            "scoreFullTimeAway": null
+        },
+        "540597": {
+            "utcDate": "2026-02-14T00:00:00Z",
+            "homeTeamName": "Borussia Dortmund",
+            "awayTeamName": "Borussia Dortmund",
+            "homeTeamCrest": "https:\/\/crests.football-data.org\/4.png",
+            "awayTeamCrest": "https:\/\/crests.football-data.org\/15.png",
+            "scoreWinner": null,
+            "scoreFullTimeHome": null,
+            "scoreFullTimeAway": null
+        },
+        "540598": {
+            "utcDate": "2026-02-14T00:00:00Z",
+            "homeTeamName": "Eintracht Frankfurt",
+            "awayTeamName": "Eintracht Frankfurt",
+            "homeTeamCrest": "https:\/\/crests.football-data.org\/19.png",
+            "awayTeamCrest": "https:\/\/crests.football-data.org\/18.png",
+            "scoreWinner": null,
+            "scoreFullTimeHome": null,
+            "scoreFullTimeAway": null
+        },
+        "540599": {
+            "utcDate": "2026-02-14T00:00:00Z",
+            "homeTeamName": "RB Leipzig",
+            "awayTeamName": "RB Leipzig",
+            "homeTeamCrest": "https:\/\/crests.football-data.org\/721.png",
+            "awayTeamCrest": "https:\/\/crests.football-data.org\/11.png",
+            "scoreWinner": null,
+            "scoreFullTimeHome": null,
+            "scoreFullTimeAway": null
+        },
+        "540600": {
+            "utcDate": "2026-02-14T00:00:00Z",
+            "homeTeamName": "Hamburger SV",
+            "awayTeamName": "Hamburger SV",
+            "homeTeamCrest": "https:\/\/crests.football-data.org\/7.png",
+            "awayTeamCrest": "https:\/\/crests.football-data.org\/28.png",
+            "scoreWinner": null,
+            "scoreFullTimeHome": null,
+            "scoreFullTimeAway": null
+        },
+        "540601": {
+            "utcDate": "2026-02-14T00:00:00Z",
+            "homeTeamName": "Bayer 04 Leverkusen",
+            "awayTeamName": "Bayer 04 Leverkusen",
+            "homeTeamCrest": "https:\/\/crests.football-data.org\/3.png",
+            "awayTeamCrest": "https:\/\/crests.football-data.org\/20.png",
+            "scoreWinner": null,
+            "scoreFullTimeHome": null,
+            "scoreFullTimeAway": null
+        },
+        "540602": {
+            "utcDate": "2026-02-14T00:00:00Z",
+            "homeTeamName": "FC Augsburg",
+            "awayTeamName": "FC Augsburg",
+            "homeTeamCrest": "https:\/\/crests.football-data.org\/16.png",
+            "awayTeamCrest": "https:\/\/crests.football-data.org\/44.png",
+            "scoreWinner": null,
+            "scoreFullTimeHome": null,
+            "scoreFullTimeAway": null
+        },
+        "540603": {
+            "utcDate": "2026-02-14T00:00:00Z",
+            "homeTeamName": "VfB Stuttgart",
+            "awayTeamName": "VfB Stuttgart",
+            "homeTeamCrest": "https:\/\/crests.football-data.org\/10.png",
+            "awayTeamCrest": "https:\/\/crests.football-data.org\/1.png",
+            "scoreWinner": null,
+            "scoreFullTimeHome": null,
+            "scoreFullTimeAway": null
+        },
+        "540604": {
+            "utcDate": "2026-02-21T00:00:00Z",
+            "homeTeamName": "1. FC Union Berlin",
+            "awayTeamName": "1. FC Union Berlin",
+            "homeTeamCrest": "https:\/\/crests.football-data.org\/28.png",
+            "awayTeamCrest": "https:\/\/crests.football-data.org\/3.png",
+            "scoreWinner": null,
+            "scoreFullTimeHome": null,
+            "scoreFullTimeAway": null
+        },
+        "540605": {
+            "utcDate": "2026-02-21T00:00:00Z",
+            "homeTeamName": "FC Bayern M\u00fcnchen",
+            "awayTeamName": "FC Bayern M\u00fcnchen",
+            "homeTeamCrest": "https:\/\/crests.football-data.org\/5.png",
+            "awayTeamCrest": "https:\/\/crests.football-data.org\/19.png",
+            "scoreWinner": null,
+            "scoreFullTimeHome": null,
+            "scoreFullTimeAway": null
+        },
+        "540606": {
+            "utcDate": "2026-02-21T00:00:00Z",
+            "homeTeamName": "RB Leipzig",
+            "awayTeamName": "RB Leipzig",
+            "homeTeamCrest": "https:\/\/crests.football-data.org\/721.png",
+            "awayTeamCrest": "https:\/\/crests.football-data.org\/4.png",
+            "scoreWinner": null,
+            "scoreFullTimeHome": null,
+            "scoreFullTimeAway": null
+        },
+        "540607": {
+            "utcDate": "2026-02-21T00:00:00Z",
+            "homeTeamName": "FC St. Pauli 1910",
+            "awayTeamName": "FC St. Pauli 1910",
+            "homeTeamCrest": "https:\/\/crests.football-data.org\/20.png",
+            "awayTeamCrest": "https:\/\/crests.football-data.org\/12.png",
+            "scoreWinner": null,
+            "scoreFullTimeHome": null,
+            "scoreFullTimeAway": null
+        },
+        "540608": {
+            "utcDate": "2026-02-21T00:00:00Z",
+            "homeTeamName": "1. FC Heidenheim 1846",
+            "awayTeamName": "1. FC Heidenheim 1846",
+            "homeTeamCrest": "https:\/\/crests.football-data.org\/44.png",
+            "awayTeamCrest": "https:\/\/crests.football-data.org\/10.png",
+            "scoreWinner": null,
+            "scoreFullTimeHome": null,
+            "scoreFullTimeAway": null
+        },
+        "540609": {
+            "utcDate": "2026-02-21T00:00:00Z",
+            "homeTeamName": "SC Freiburg",
+            "awayTeamName": "SC Freiburg",
+            "homeTeamCrest": "https:\/\/crests.football-data.org\/17.png",
+            "awayTeamCrest": "https:\/\/crests.football-data.org\/18.png",
+            "scoreWinner": null,
+            "scoreFullTimeHome": null,
+            "scoreFullTimeAway": null
+        },
+        "540610": {
+            "utcDate": "2026-02-21T00:00:00Z",
+            "homeTeamName": "VfL Wolfsburg",
+            "awayTeamName": "VfL Wolfsburg",
+            "homeTeamCrest": "https:\/\/crests.football-data.org\/11.png",
+            "awayTeamCrest": "https:\/\/crests.football-data.org\/16.png",
+            "scoreWinner": null,
+            "scoreFullTimeHome": null,
+            "scoreFullTimeAway": null
+        },
+        "540611": {
+            "utcDate": "2026-02-21T00:00:00Z",
+            "homeTeamName": "1. FC K\u00f6ln",
+            "awayTeamName": "1. FC K\u00f6ln",
+            "homeTeamCrest": "https:\/\/crests.football-data.org\/1.png",
+            "awayTeamCrest": "https:\/\/crests.football-data.org\/2.png",
+            "scoreWinner": null,
+            "scoreFullTimeHome": null,
+            "scoreFullTimeAway": null
+        },
+        "540612": {
+            "utcDate": "2026-02-21T00:00:00Z",
+            "homeTeamName": "1. FSV Mainz 05",
+            "awayTeamName": "1. FSV Mainz 05",
+            "homeTeamCrest": "https:\/\/crests.football-data.org\/15.png",
+            "awayTeamCrest": "https:\/\/crests.football-data.org\/7.png",
+            "scoreWinner": null,
+            "scoreFullTimeHome": null,
+            "scoreFullTimeAway": null
+        },
+        "540613": {
+            "utcDate": "2026-02-28T00:00:00Z",
+            "homeTeamName": "Borussia Dortmund",
+            "awayTeamName": "Borussia Dortmund",
+            "homeTeamCrest": "https:\/\/crests.football-data.org\/4.png",
+            "awayTeamCrest": "https:\/\/crests.football-data.org\/5.png",
+            "scoreWinner": null,
+            "scoreFullTimeHome": null,
+            "scoreFullTimeAway": null
+        },
+        "540614": {
+            "utcDate": "2026-02-28T00:00:00Z",
+            "homeTeamName": "Eintracht Frankfurt",
+            "awayTeamName": "Eintracht Frankfurt",
+            "homeTeamCrest": "https:\/\/crests.football-data.org\/19.png",
+            "awayTeamCrest": "https:\/\/crests.football-data.org\/17.png",
+            "scoreWinner": null,
+            "scoreFullTimeHome": null,
+            "scoreFullTimeAway": null
+        },
+        "540615": {
+            "utcDate": "2026-02-28T00:00:00Z",
+            "homeTeamName": "Bayer 04 Leverkusen",
+            "awayTeamName": "Bayer 04 Leverkusen",
+            "homeTeamCrest": "https:\/\/crests.football-data.org\/3.png",
+            "awayTeamCrest": "https:\/\/crests.football-data.org\/15.png",
+            "scoreWinner": null,
+            "scoreFullTimeHome": null,
+            "scoreFullTimeAway": null
+        },
+        "540616": {
+            "utcDate": "2026-02-28T00:00:00Z",
+            "homeTeamName": "Hamburger SV",
+            "awayTeamName": "Hamburger SV",
+            "homeTeamCrest": "https:\/\/crests.football-data.org\/7.png",
+            "awayTeamCrest": "https:\/\/crests.football-data.org\/721.png",
+            "scoreWinner": null,
+            "scoreFullTimeHome": null,
+            "scoreFullTimeAway": null
+        },
+        "540617": {
+            "utcDate": "2026-02-28T00:00:00Z",
+            "homeTeamName": "VfB Stuttgart",
+            "awayTeamName": "VfB Stuttgart",
+            "homeTeamCrest": "https:\/\/crests.football-data.org\/10.png",
+            "awayTeamCrest": "https:\/\/crests.football-data.org\/11.png",
+            "scoreWinner": null,
+            "scoreFullTimeHome": null,
+            "scoreFullTimeAway": null
+        },
+        "540618": {
+            "utcDate": "2026-02-28T00:00:00Z",
+            "homeTeamName": "Borussia M\u00f6nchengladbach",
+            "awayTeamName": "Borussia M\u00f6nchengladbach",
+            "homeTeamCrest": "https:\/\/crests.football-data.org\/18.png",
+            "awayTeamCrest": "https:\/\/crests.football-data.org\/28.png",
+            "scoreWinner": null,
+            "scoreFullTimeHome": null,
+            "scoreFullTimeAway": null
+        },
+        "540619": {
+            "utcDate": "2026-02-28T00:00:00Z",
+            "homeTeamName": "TSG 1899 Hoffenheim",
+            "awayTeamName": "TSG 1899 Hoffenheim",
+            "homeTeamCrest": "https:\/\/crests.football-data.org\/2.png",
+            "awayTeamCrest": "https:\/\/crests.football-data.org\/20.png",
+            "scoreWinner": null,
+            "scoreFullTimeHome": null,
+            "scoreFullTimeAway": null
+        },
+        "540620": {
+            "utcDate": "2026-02-28T00:00:00Z",
+            "homeTeamName": "SV Werder Bremen",
+            "awayTeamName": "SV Werder Bremen",
+            "homeTeamCrest": "https:\/\/crests.football-data.org\/12.png",
+            "awayTeamCrest": "https:\/\/crests.football-data.org\/44.png",
+            "scoreWinner": null,
+            "scoreFullTimeHome": null,
+            "scoreFullTimeAway": null
+        },
+        "540621": {
+            "utcDate": "2026-02-28T00:00:00Z",
+            "homeTeamName": "FC Augsburg",
+            "awayTeamName": "FC Augsburg",
+            "homeTeamCrest": "https:\/\/crests.football-data.org\/16.png",
+            "awayTeamCrest": "https:\/\/crests.football-data.org\/1.png",
+            "scoreWinner": null,
+            "scoreFullTimeHome": null,
+            "scoreFullTimeAway": null
+        },
+        "540622": {
+            "utcDate": "2026-03-07T00:00:00Z",
+            "homeTeamName": "SC Freiburg",
+            "awayTeamName": "SC Freiburg",
+            "homeTeamCrest": "https:\/\/crests.football-data.org\/17.png",
+            "awayTeamCrest": "https:\/\/crests.football-data.org\/3.png",
+            "scoreWinner": null,
+            "scoreFullTimeHome": null,
+            "scoreFullTimeAway": null
+        },
+        "540623": {
+            "utcDate": "2026-03-07T00:00:00Z",
+            "homeTeamName": "FC St. Pauli 1910",
+            "awayTeamName": "FC St. Pauli 1910",
+            "homeTeamCrest": "https:\/\/crests.football-data.org\/20.png",
+            "awayTeamCrest": "https:\/\/crests.football-data.org\/19.png",
+            "scoreWinner": null,
+            "scoreFullTimeHome": null,
+            "scoreFullTimeAway": null
+        },
+        "540624": {
+            "utcDate": "2026-03-07T00:00:00Z",
+            "homeTeamName": "1. FC K\u00f6ln",
+            "awayTeamName": "1. FC K\u00f6ln",
+            "homeTeamCrest": "https:\/\/crests.football-data.org\/1.png",
+            "awayTeamCrest": "https:\/\/crests.football-data.org\/4.png",
+            "scoreWinner": null,
+            "scoreFullTimeHome": null,
+            "scoreFullTimeAway": null
+        },
+        "540625": {
+            "utcDate": "2026-03-07T00:00:00Z",
+            "homeTeamName": "1. FC Union Berlin",
+            "awayTeamName": "1. FC Union Berlin",
+            "homeTeamCrest": "https:\/\/crests.football-data.org\/28.png",
+            "awayTeamCrest": "https:\/\/crests.football-data.org\/12.png",
+            "scoreWinner": null,
+            "scoreFullTimeHome": null,
+            "scoreFullTimeAway": null
+        },
+        "540626": {
+            "utcDate": "2026-03-07T00:00:00Z",
+            "homeTeamName": "1. FSV Mainz 05",
+            "awayTeamName": "1. FSV Mainz 05",
+            "homeTeamCrest": "https:\/\/crests.football-data.org\/15.png",
+            "awayTeamCrest": "https:\/\/crests.football-data.org\/10.png",
+            "scoreWinner": null,
+            "scoreFullTimeHome": null,
+            "scoreFullTimeAway": null
+        },
+        "540627": {
+            "utcDate": "2026-03-07T00:00:00Z",
+            "homeTeamName": "FC Bayern M\u00fcnchen",
+            "awayTeamName": "FC Bayern M\u00fcnchen",
+            "homeTeamCrest": "https:\/\/crests.football-data.org\/5.png",
+            "awayTeamCrest": "https:\/\/crests.football-data.org\/18.png",
+            "scoreWinner": null,
+            "scoreFullTimeHome": null,
+            "scoreFullTimeAway": null
+        },
+        "540628": {
+            "utcDate": "2026-03-07T00:00:00Z",
+            "homeTeamName": "RB Leipzig",
+            "awayTeamName": "RB Leipzig",
+            "homeTeamCrest": "https:\/\/crests.football-data.org\/721.png",
+            "awayTeamCrest": "https:\/\/crests.football-data.org\/16.png",
+            "scoreWinner": null,
+            "scoreFullTimeHome": null,
+            "scoreFullTimeAway": null
+        },
+        "540629": {
+            "utcDate": "2026-03-07T00:00:00Z",
+            "homeTeamName": "1. FC Heidenheim 1846",
+            "awayTeamName": "1. FC Heidenheim 1846",
+            "homeTeamCrest": "https:\/\/crests.football-data.org\/44.png",
+            "awayTeamCrest": "https:\/\/crests.football-data.org\/2.png",
+            "scoreWinner": null,
+            "scoreFullTimeHome": null,
+            "scoreFullTimeAway": null
+        },
+        "540630": {
+            "utcDate": "2026-03-07T00:00:00Z",
+            "homeTeamName": "VfL Wolfsburg",
+            "awayTeamName": "VfL Wolfsburg",
+            "homeTeamCrest": "https:\/\/crests.football-data.org\/11.png",
+            "awayTeamCrest": "https:\/\/crests.football-data.org\/7.png",
+            "scoreWinner": null,
+            "scoreFullTimeHome": null,
+            "scoreFullTimeAway": null
+        },
+        "540631": {
+            "utcDate": "2026-03-14T00:00:00Z",
+            "homeTeamName": "Bayer 04 Leverkusen",
+            "awayTeamName": "Bayer 04 Leverkusen",
+            "homeTeamCrest": "https:\/\/crests.football-data.org\/3.png",
+            "awayTeamCrest": "https:\/\/crests.football-data.org\/5.png",
+            "scoreWinner": null,
+            "scoreFullTimeHome": null,
+            "scoreFullTimeAway": null
+        },
+        "540632": {
+            "utcDate": "2026-03-14T00:00:00Z",
+            "homeTeamName": "SV Werder Bremen",
+            "awayTeamName": "SV Werder Bremen",
+            "homeTeamCrest": "https:\/\/crests.football-data.org\/12.png",
+            "awayTeamCrest": "https:\/\/crests.football-data.org\/15.png",
+            "scoreWinner": null,
+            "scoreFullTimeHome": null,
+            "scoreFullTimeAway": null
+        },
+        "540633": {
+            "utcDate": "2026-03-14T00:00:00Z",
+            "homeTeamName": "VfB Stuttgart",
+            "awayTeamName": "VfB Stuttgart",
+            "homeTeamCrest": "https:\/\/crests.football-data.org\/10.png",
+            "awayTeamCrest": "https:\/\/crests.football-data.org\/721.png",
+            "scoreWinner": null,
+            "scoreFullTimeHome": null,
+            "scoreFullTimeAway": null
+        },
+        "540634": {
+            "utcDate": "2026-03-14T00:00:00Z",
+            "homeTeamName": "TSG 1899 Hoffenheim",
+            "awayTeamName": "TSG 1899 Hoffenheim",
+            "homeTeamCrest": "https:\/\/crests.football-data.org\/2.png",
+            "awayTeamCrest": "https:\/\/crests.football-data.org\/11.png",
+            "scoreWinner": null,
+            "scoreFullTimeHome": null,
+            "scoreFullTimeAway": null
+        },
+        "540635": {
+            "utcDate": "2026-03-14T00:00:00Z",
+            "homeTeamName": "Borussia Dortmund",
+            "awayTeamName": "Borussia Dortmund",
+            "homeTeamCrest": "https:\/\/crests.football-data.org\/4.png",
+            "awayTeamCrest": "https:\/\/crests.football-data.org\/16.png",
+            "scoreWinner": null,
+            "scoreFullTimeHome": null,
+            "scoreFullTimeAway": null
+        },
+        "540636": {
+            "utcDate": "2026-03-14T00:00:00Z",
+            "homeTeamName": "SC Freiburg",
+            "awayTeamName": "SC Freiburg",
+            "homeTeamCrest": "https:\/\/crests.football-data.org\/17.png",
+            "awayTeamCrest": "https:\/\/crests.football-data.org\/28.png",
+            "scoreWinner": null,
+            "scoreFullTimeHome": null,
+            "scoreFullTimeAway": null
+        },
+        "540637": {
+            "utcDate": "2026-03-14T00:00:00Z",
+            "homeTeamName": "Borussia M\u00f6nchengladbach",
+            "awayTeamName": "Borussia M\u00f6nchengladbach",
+            "homeTeamCrest": "https:\/\/crests.football-data.org\/18.png",
+            "awayTeamCrest": "https:\/\/crests.football-data.org\/20.png",
+            "scoreWinner": null,
+            "scoreFullTimeHome": null,
+            "scoreFullTimeAway": null
+        },
+        "540638": {
+            "utcDate": "2026-03-14T00:00:00Z",
+            "homeTeamName": "Eintracht Frankfurt",
+            "awayTeamName": "Eintracht Frankfurt",
+            "homeTeamCrest": "https:\/\/crests.football-data.org\/19.png",
+            "awayTeamCrest": "https:\/\/crests.football-data.org\/44.png",
+            "scoreWinner": null,
+            "scoreFullTimeHome": null,
+            "scoreFullTimeAway": null
+        },
+        "540639": {
+            "utcDate": "2026-03-14T00:00:00Z",
+            "homeTeamName": "Hamburger SV",
+            "awayTeamName": "Hamburger SV",
+            "homeTeamCrest": "https:\/\/crests.football-data.org\/7.png",
+            "awayTeamCrest": "https:\/\/crests.football-data.org\/1.png",
+            "scoreWinner": null,
+            "scoreFullTimeHome": null,
+            "scoreFullTimeAway": null
+        },
+        "540640": {
+            "utcDate": "2026-03-21T00:00:00Z",
+            "homeTeamName": "1. FC Heidenheim 1846",
+            "awayTeamName": "1. FC Heidenheim 1846",
+            "homeTeamCrest": "https:\/\/crests.football-data.org\/44.png",
+            "awayTeamCrest": "https:\/\/crests.football-data.org\/3.png",
+            "scoreWinner": null,
+            "scoreFullTimeHome": null,
+            "scoreFullTimeAway": null
+        },
+        "540641": {
+            "utcDate": "2026-03-21T00:00:00Z",
+            "homeTeamName": "1. FSV Mainz 05",
+            "awayTeamName": "1. FSV Mainz 05",
+            "homeTeamCrest": "https:\/\/crests.football-data.org\/15.png",
+            "awayTeamCrest": "https:\/\/crests.football-data.org\/19.png",
+            "scoreWinner": null,
+            "scoreFullTimeHome": null,
+            "scoreFullTimeAway": null
+        },
+        "540642": {
+            "utcDate": "2026-03-21T00:00:00Z",
+            "homeTeamName": "FC St. Pauli 1910",
+            "awayTeamName": "FC St. Pauli 1910",
+            "homeTeamCrest": "https:\/\/crests.football-data.org\/20.png",
+            "awayTeamCrest": "https:\/\/crests.football-data.org\/17.png",
+            "scoreWinner": null,
+            "scoreFullTimeHome": null,
+            "scoreFullTimeAway": null
+        },
+        "540643": {
+            "utcDate": "2026-03-21T00:00:00Z",
+            "homeTeamName": "VfL Wolfsburg",
+            "awayTeamName": "VfL Wolfsburg",
+            "homeTeamCrest": "https:\/\/crests.football-data.org\/11.png",
+            "awayTeamCrest": "https:\/\/crests.football-data.org\/12.png",
+            "scoreWinner": null,
+            "scoreFullTimeHome": null,
+            "scoreFullTimeAway": null
+        },
+        "540644": {
+            "utcDate": "2026-03-21T00:00:00Z",
+            "homeTeamName": "FC Augsburg",
+            "awayTeamName": "FC Augsburg",
+            "homeTeamCrest": "https:\/\/crests.football-data.org\/16.png",
+            "awayTeamCrest": "https:\/\/crests.football-data.org\/10.png",
+            "scoreWinner": null,
+            "scoreFullTimeHome": null,
+            "scoreFullTimeAway": null
+        },
+        "540645": {
+            "utcDate": "2026-03-21T00:00:00Z",
+            "homeTeamName": "1. FC K\u00f6ln",
+            "awayTeamName": "1. FC K\u00f6ln",
+            "homeTeamCrest": "https:\/\/crests.football-data.org\/1.png",
+            "awayTeamCrest": "https:\/\/crests.football-data.org\/18.png",
+            "scoreWinner": null,
+            "scoreFullTimeHome": null,
+            "scoreFullTimeAway": null
+        },
+        "540646": {
+            "utcDate": "2026-03-21T00:00:00Z",
+            "homeTeamName": "FC Bayern M\u00fcnchen",
+            "awayTeamName": "FC Bayern M\u00fcnchen",
+            "homeTeamCrest": "https:\/\/crests.football-data.org\/5.png",
+            "awayTeamCrest": "https:\/\/crests.football-data.org\/28.png",
+            "scoreWinner": null,
+            "scoreFullTimeHome": null,
+            "scoreFullTimeAway": null
+        },
+        "540647": {
+            "utcDate": "2026-03-21T00:00:00Z",
+            "homeTeamName": "RB Leipzig",
+            "awayTeamName": "RB Leipzig",
+            "homeTeamCrest": "https:\/\/crests.football-data.org\/721.png",
+            "awayTeamCrest": "https:\/\/crests.football-data.org\/2.png",
+            "scoreWinner": null,
+            "scoreFullTimeHome": null,
+            "scoreFullTimeAway": null
+        },
+        "540648": {
+            "utcDate": "2026-03-21T00:00:00Z",
+            "homeTeamName": "Borussia Dortmund",
+            "awayTeamName": "Borussia Dortmund",
+            "homeTeamCrest": "https:\/\/crests.football-data.org\/4.png",
+            "awayTeamCrest": "https:\/\/crests.football-data.org\/7.png",
+            "scoreWinner": null,
+            "scoreFullTimeHome": null,
+            "scoreFullTimeAway": null
+        },
+        "540649": {
+            "utcDate": "2026-04-05T00:00:00Z",
+            "homeTeamName": "SC Freiburg",
+            "awayTeamName": "SC Freiburg",
+            "homeTeamCrest": "https:\/\/crests.football-data.org\/17.png",
+            "awayTeamCrest": "https:\/\/crests.football-data.org\/5.png",
+            "scoreWinner": null,
+            "scoreFullTimeHome": null,
+            "scoreFullTimeAway": null
+        },
+        "540650": {
+            "utcDate": "2026-04-05T00:00:00Z",
+            "homeTeamName": "VfB Stuttgart",
+            "awayTeamName": "VfB Stuttgart",
+            "homeTeamCrest": "https:\/\/crests.football-data.org\/10.png",
+            "awayTeamCrest": "https:\/\/crests.football-data.org\/4.png",
+            "scoreWinner": null,
+            "scoreFullTimeHome": null,
+            "scoreFullTimeAway": null
+        },
+        "540651": {
+            "utcDate": "2026-04-05T00:00:00Z",
+            "homeTeamName": "TSG 1899 Hoffenheim",
+            "awayTeamName": "TSG 1899 Hoffenheim",
+            "homeTeamCrest": "https:\/\/crests.football-data.org\/2.png",
+            "awayTeamCrest": "https:\/\/crests.football-data.org\/15.png",
+            "scoreWinner": null,
+            "scoreFullTimeHome": null,
+            "scoreFullTimeAway": null
+        },
+        "540652": {
+            "utcDate": "2026-04-05T00:00:00Z",
+            "homeTeamName": "SV Werder Bremen",
+            "awayTeamName": "SV Werder Bremen",
+            "homeTeamCrest": "https:\/\/crests.football-data.org\/12.png",
+            "awayTeamCrest": "https:\/\/crests.football-data.org\/721.png",
+            "scoreWinner": null,
+            "scoreFullTimeHome": null,
+            "scoreFullTimeAway": null
+        },
+        "540653": {
+            "utcDate": "2026-04-05T00:00:00Z",
+            "homeTeamName": "Bayer 04 Leverkusen",
+            "awayTeamName": "Bayer 04 Leverkusen",
+            "homeTeamCrest": "https:\/\/crests.football-data.org\/3.png",
+            "awayTeamCrest": "https:\/\/crests.football-data.org\/11.png",
+            "scoreWinner": null,
+            "scoreFullTimeHome": null,
+            "scoreFullTimeAway": null
+        },
+        "540654": {
+            "utcDate": "2026-04-05T00:00:00Z",
+            "homeTeamName": "Hamburger SV",
+            "awayTeamName": "Hamburger SV",
+            "homeTeamCrest": "https:\/\/crests.football-data.org\/7.png",
+            "awayTeamCrest": "https:\/\/crests.football-data.org\/16.png",
+            "scoreWinner": null,
+            "scoreFullTimeHome": null,
+            "scoreFullTimeAway": null
+        },
+        "540655": {
+            "utcDate": "2026-04-05T00:00:00Z",
+            "homeTeamName": "1. FC Union Berlin",
+            "awayTeamName": "1. FC Union Berlin",
+            "homeTeamCrest": "https:\/\/crests.football-data.org\/28.png",
+            "awayTeamCrest": "https:\/\/crests.football-data.org\/20.png",
+            "scoreWinner": null,
+            "scoreFullTimeHome": null,
+            "scoreFullTimeAway": null
+        },
+        "540656": {
+            "utcDate": "2026-04-05T00:00:00Z",
+            "homeTeamName": "Borussia M\u00f6nchengladbach",
+            "awayTeamName": "Borussia M\u00f6nchengladbach",
+            "homeTeamCrest": "https:\/\/crests.football-data.org\/18.png",
+            "awayTeamCrest": "https:\/\/crests.football-data.org\/44.png",
+            "scoreWinner": null,
+            "scoreFullTimeHome": null,
+            "scoreFullTimeAway": null
+        },
+        "540657": {
+            "utcDate": "2026-04-05T00:00:00Z",
+            "homeTeamName": "Eintracht Frankfurt",
+            "awayTeamName": "Eintracht Frankfurt",
+            "homeTeamCrest": "https:\/\/crests.football-data.org\/19.png",
+            "awayTeamCrest": "https:\/\/crests.football-data.org\/1.png",
+            "scoreWinner": null,
+            "scoreFullTimeHome": null,
+            "scoreFullTimeAway": null
+        },
+        "540658": {
+            "utcDate": "2026-04-11T00:00:00Z",
+            "homeTeamName": "FC St. Pauli 1910",
+            "awayTeamName": "FC St. Pauli 1910",
+            "homeTeamCrest": "https:\/\/crests.football-data.org\/20.png",
+            "awayTeamCrest": "https:\/\/crests.football-data.org\/5.png",
+            "scoreWinner": null,
+            "scoreFullTimeHome": null,
+            "scoreFullTimeAway": null
+        },
+        "540659": {
+            "utcDate": "2026-04-11T00:00:00Z",
+            "homeTeamName": "Borussia Dortmund",
+            "awayTeamName": "Borussia Dortmund",
+            "homeTeamCrest": "https:\/\/crests.football-data.org\/4.png",
+            "awayTeamCrest": "https:\/\/crests.football-data.org\/3.png",
+            "scoreWinner": null,
+            "scoreFullTimeHome": null,
+            "scoreFullTimeAway": null
+        },
+        "540660": {
+            "utcDate": "2026-04-11T00:00:00Z",
+            "homeTeamName": "VfL Wolfsburg",
+            "awayTeamName": "VfL Wolfsburg",
+            "homeTeamCrest": "https:\/\/crests.football-data.org\/11.png",
+            "awayTeamCrest": "https:\/\/crests.football-data.org\/19.png",
+            "scoreWinner": null,
+            "scoreFullTimeHome": null,
+            "scoreFullTimeAway": null
+        },
+        "540661": {
+            "utcDate": "2026-04-11T00:00:00Z",
+            "homeTeamName": "1. FSV Mainz 05",
+            "awayTeamName": "1. FSV Mainz 05",
+            "homeTeamCrest": "https:\/\/crests.football-data.org\/15.png",
+            "awayTeamCrest": "https:\/\/crests.football-data.org\/17.png",
+            "scoreWinner": null,
+            "scoreFullTimeHome": null,
+            "scoreFullTimeAway": null
+        },
+        "540662": {
+            "utcDate": "2026-04-11T00:00:00Z",
+            "homeTeamName": "1. FC K\u00f6ln",
+            "awayTeamName": "1. FC K\u00f6ln",
+            "homeTeamCrest": "https:\/\/crests.football-data.org\/1.png",
+            "awayTeamCrest": "https:\/\/crests.football-data.org\/12.png",
+            "scoreWinner": null,
+            "scoreFullTimeHome": null,
+            "scoreFullTimeAway": null
+        },
+        "540663": {
+            "utcDate": "2026-04-11T00:00:00Z",
+            "homeTeamName": "RB Leipzig",
+            "awayTeamName": "RB Leipzig",
+            "homeTeamCrest": "https:\/\/crests.football-data.org\/721.png",
+            "awayTeamCrest": "https:\/\/crests.football-data.org\/18.png",
+            "scoreWinner": null,
+            "scoreFullTimeHome": null,
+            "scoreFullTimeAway": null
+        },
+        "540664": {
+            "utcDate": "2026-04-11T00:00:00Z",
+            "homeTeamName": "1. FC Heidenheim 1846",
+            "awayTeamName": "1. FC Heidenheim 1846",
+            "homeTeamCrest": "https:\/\/crests.football-data.org\/44.png",
+            "awayTeamCrest": "https:\/\/crests.football-data.org\/28.png",
+            "scoreWinner": null,
+            "scoreFullTimeHome": null,
+            "scoreFullTimeAway": null
+        },
+        "540665": {
+            "utcDate": "2026-04-11T00:00:00Z",
+            "homeTeamName": "FC Augsburg",
+            "awayTeamName": "FC Augsburg",
+            "homeTeamCrest": "https:\/\/crests.football-data.org\/16.png",
+            "awayTeamCrest": "https:\/\/crests.football-data.org\/2.png",
+            "scoreWinner": null,
+            "scoreFullTimeHome": null,
+            "scoreFullTimeAway": null
+        },
+        "540666": {
+            "utcDate": "2026-04-11T00:00:00Z",
+            "homeTeamName": "VfB Stuttgart",
+            "awayTeamName": "VfB Stuttgart",
+            "homeTeamCrest": "https:\/\/crests.football-data.org\/10.png",
+            "awayTeamCrest": "https:\/\/crests.football-data.org\/7.png",
+            "scoreWinner": null,
+            "scoreFullTimeHome": null,
+            "scoreFullTimeAway": null
+        },
+        "540672": {
+            "utcDate": "2026-04-18T00:00:00Z",
+            "homeTeamName": "SC Freiburg",
+            "awayTeamName": "SC Freiburg",
+            "homeTeamCrest": "https:\/\/crests.football-data.org\/17.png",
+            "awayTeamCrest": "https:\/\/crests.football-data.org\/44.png",
+            "scoreWinner": null,
+            "scoreFullTimeHome": null,
+            "scoreFullTimeAway": null
+        },
+        "540673": {
+            "utcDate": "2026-04-18T00:00:00Z",
+            "homeTeamName": "FC St. Pauli 1910",
+            "awayTeamName": "FC St. Pauli 1910",
+            "homeTeamCrest": "https:\/\/crests.football-data.org\/20.png",
+            "awayTeamCrest": "https:\/\/crests.football-data.org\/1.png",
+            "scoreWinner": null,
+            "scoreFullTimeHome": null,
+            "scoreFullTimeAway": null
+        },
+        "540674": {
+            "utcDate": "2026-04-18T00:00:00Z",
+            "homeTeamName": "SV Werder Bremen",
+            "awayTeamName": "SV Werder Bremen",
+            "homeTeamCrest": "https:\/\/crests.football-data.org\/12.png",
+            "awayTeamCrest": "https:\/\/crests.football-data.org\/7.png",
+            "scoreWinner": null,
+            "scoreFullTimeHome": null,
+            "scoreFullTimeAway": null
+        },
+        "540675": {
+            "utcDate": "2026-04-18T00:00:00Z",
+            "homeTeamName": "Bayer 04 Leverkusen",
+            "awayTeamName": "Bayer 04 Leverkusen",
+            "homeTeamCrest": "https:\/\/crests.football-data.org\/3.png",
+            "awayTeamCrest": "https:\/\/crests.football-data.org\/16.png",
+            "scoreWinner": null,
+            "scoreFullTimeHome": null,
+            "scoreFullTimeAway": null
+        },
+        "540667": {
+            "utcDate": "2026-04-18T00:00:00Z",
+            "homeTeamName": "TSG 1899 Hoffenheim",
+            "awayTeamName": "TSG 1899 Hoffenheim",
+            "homeTeamCrest": "https:\/\/crests.football-data.org\/2.png",
+            "awayTeamCrest": "https:\/\/crests.football-data.org\/4.png",
+            "scoreWinner": null,
+            "scoreFullTimeHome": null,
+            "scoreFullTimeAway": null
+        },
+        "540668": {
+            "utcDate": "2026-04-18T00:00:00Z",
+            "homeTeamName": "Borussia M\u00f6nchengladbach",
+            "awayTeamName": "Borussia M\u00f6nchengladbach",
+            "homeTeamCrest": "https:\/\/crests.football-data.org\/18.png",
+            "awayTeamCrest": "https:\/\/crests.football-data.org\/15.png",
+            "scoreWinner": null,
+            "scoreFullTimeHome": null,
+            "scoreFullTimeAway": null
+        },
+        "540669": {
+            "utcDate": "2026-04-18T00:00:00Z",
+            "homeTeamName": "Eintracht Frankfurt",
+            "awayTeamName": "Eintracht Frankfurt",
+            "homeTeamCrest": "https:\/\/crests.football-data.org\/19.png",
+            "awayTeamCrest": "https:\/\/crests.football-data.org\/721.png",
+            "scoreWinner": null,
+            "scoreFullTimeHome": null,
+            "scoreFullTimeAway": null
+        },
+        "540670": {
+            "utcDate": "2026-04-18T00:00:00Z",
+            "homeTeamName": "FC Bayern M\u00fcnchen",
+            "awayTeamName": "FC Bayern M\u00fcnchen",
+            "homeTeamCrest": "https:\/\/crests.football-data.org\/5.png",
+            "awayTeamCrest": "https:\/\/crests.football-data.org\/10.png",
+            "scoreWinner": null,
+            "scoreFullTimeHome": null,
+            "scoreFullTimeAway": null
+        },
+        "540671": {
+            "utcDate": "2026-04-18T00:00:00Z",
+            "homeTeamName": "1. FC Union Berlin",
+            "awayTeamName": "1. FC Union Berlin",
+            "homeTeamCrest": "https:\/\/crests.football-data.org\/28.png",
+            "awayTeamCrest": "https:\/\/crests.football-data.org\/11.png",
+            "scoreWinner": null,
+            "scoreFullTimeHome": null,
+            "scoreFullTimeAway": null
+        },
+        "540676": {
+            "utcDate": "2026-04-25T00:00:00Z",
+            "homeTeamName": "1. FSV Mainz 05",
+            "awayTeamName": "1. FSV Mainz 05",
+            "homeTeamCrest": "https:\/\/crests.football-data.org\/15.png",
+            "awayTeamCrest": "https:\/\/crests.football-data.org\/5.png",
+            "scoreWinner": null,
+            "scoreFullTimeHome": null,
+            "scoreFullTimeAway": null
+        },
+        "540677": {
+            "utcDate": "2026-04-25T00:00:00Z",
+            "homeTeamName": "1. FC K\u00f6ln",
+            "awayTeamName": "1. FC K\u00f6ln",
+            "homeTeamCrest": "https:\/\/crests.football-data.org\/1.png",
+            "awayTeamCrest": "https:\/\/crests.football-data.org\/3.png",
+            "scoreWinner": null,
+            "scoreFullTimeHome": null,
+            "scoreFullTimeAway": null
+        },
+        "540678": {
+            "utcDate": "2026-04-25T00:00:00Z",
+            "homeTeamName": "FC Augsburg",
+            "awayTeamName": "FC Augsburg",
+            "homeTeamCrest": "https:\/\/crests.football-data.org\/16.png",
+            "awayTeamCrest": "https:\/\/crests.football-data.org\/19.png",
+            "scoreWinner": null,
+            "scoreFullTimeHome": null,
+            "scoreFullTimeAway": null
+        },
+        "540679": {
+            "utcDate": "2026-04-25T00:00:00Z",
+            "homeTeamName": "Borussia Dortmund",
+            "awayTeamName": "Borussia Dortmund",
+            "homeTeamCrest": "https:\/\/crests.football-data.org\/4.png",
+            "awayTeamCrest": "https:\/\/crests.football-data.org\/17.png",
+            "scoreWinner": null,
+            "scoreFullTimeHome": null,
+            "scoreFullTimeAway": null
+        },
+        "540680": {
+            "utcDate": "2026-04-25T00:00:00Z",
+            "homeTeamName": "VfB Stuttgart",
+            "awayTeamName": "VfB Stuttgart",
+            "homeTeamCrest": "https:\/\/crests.football-data.org\/10.png",
+            "awayTeamCrest": "https:\/\/crests.football-data.org\/12.png",
+            "scoreWinner": null,
+            "scoreFullTimeHome": null,
+            "scoreFullTimeAway": null
+        },
+        "540681": {
+            "utcDate": "2026-04-25T00:00:00Z",
+            "homeTeamName": "VfL Wolfsburg",
+            "awayTeamName": "VfL Wolfsburg",
+            "homeTeamCrest": "https:\/\/crests.football-data.org\/11.png",
+            "awayTeamCrest": "https:\/\/crests.football-data.org\/18.png",
+            "scoreWinner": null,
+            "scoreFullTimeHome": null,
+            "scoreFullTimeAway": null
+        },
+        "540682": {
+            "utcDate": "2026-04-25T00:00:00Z",
+            "homeTeamName": "RB Leipzig",
+            "awayTeamName": "RB Leipzig",
+            "homeTeamCrest": "https:\/\/crests.football-data.org\/721.png",
+            "awayTeamCrest": "https:\/\/crests.football-data.org\/28.png",
+            "scoreWinner": null,
+            "scoreFullTimeHome": null,
+            "scoreFullTimeAway": null
+        },
+        "540683": {
+            "utcDate": "2026-04-25T00:00:00Z",
+            "homeTeamName": "1. FC Heidenheim 1846",
+            "awayTeamName": "1. FC Heidenheim 1846",
+            "homeTeamCrest": "https:\/\/crests.football-data.org\/44.png",
+            "awayTeamCrest": "https:\/\/crests.football-data.org\/20.png",
+            "scoreWinner": null,
+            "scoreFullTimeHome": null,
+            "scoreFullTimeAway": null
+        },
+        "540684": {
+            "utcDate": "2026-04-25T00:00:00Z",
+            "homeTeamName": "Hamburger SV",
+            "awayTeamName": "Hamburger SV",
+            "homeTeamCrest": "https:\/\/crests.football-data.org\/7.png",
+            "awayTeamCrest": "https:\/\/crests.football-data.org\/2.png",
+            "scoreWinner": null,
+            "scoreFullTimeHome": null,
+            "scoreFullTimeAway": null
+        },
+        "540685": {
+            "utcDate": "2026-05-03T00:00:00Z",
+            "homeTeamName": "Borussia M\u00f6nchengladbach",
+            "awayTeamName": "Borussia M\u00f6nchengladbach",
+            "homeTeamCrest": "https:\/\/crests.football-data.org\/18.png",
+            "awayTeamCrest": "https:\/\/crests.football-data.org\/4.png",
+            "scoreWinner": null,
+            "scoreFullTimeHome": null,
+            "scoreFullTimeAway": null
+        },
+        "540686": {
+            "utcDate": "2026-05-03T00:00:00Z",
+            "homeTeamName": "FC St. Pauli 1910",
+            "awayTeamName": "FC St. Pauli 1910",
+            "homeTeamCrest": "https:\/\/crests.football-data.org\/20.png",
+            "awayTeamCrest": "https:\/\/crests.football-data.org\/15.png",
+            "scoreWinner": null,
+            "scoreFullTimeHome": null,
+            "scoreFullTimeAway": null
+        },
+        "540687": {
+            "utcDate": "2026-05-03T00:00:00Z",
+            "homeTeamName": "Bayer 04 Leverkusen",
+            "awayTeamName": "Bayer 04 Leverkusen",
+            "homeTeamCrest": "https:\/\/crests.football-data.org\/3.png",
+            "awayTeamCrest": "https:\/\/crests.football-data.org\/721.png",
+            "scoreWinner": null,
+            "scoreFullTimeHome": null,
+            "scoreFullTimeAway": null
+        },
+        "540688": {
+            "utcDate": "2026-05-03T00:00:00Z",
+            "homeTeamName": "TSG 1899 Hoffenheim",
+            "awayTeamName": "TSG 1899 Hoffenheim",
+            "homeTeamCrest": "https:\/\/crests.football-data.org\/2.png",
+            "awayTeamCrest": "https:\/\/crests.football-data.org\/10.png",
+            "scoreWinner": null,
+            "scoreFullTimeHome": null,
+            "scoreFullTimeAway": null
+        },
+        "540689": {
+            "utcDate": "2026-05-03T00:00:00Z",
+            "homeTeamName": "SC Freiburg",
+            "awayTeamName": "SC Freiburg",
+            "homeTeamCrest": "https:\/\/crests.football-data.org\/17.png",
+            "awayTeamCrest": "https:\/\/crests.football-data.org\/11.png",
+            "scoreWinner": null,
+            "scoreFullTimeHome": null,
+            "scoreFullTimeAway": null
+        },
+        "540690": {
+            "utcDate": "2026-05-03T00:00:00Z",
+            "homeTeamName": "SV Werder Bremen",
+            "awayTeamName": "SV Werder Bremen",
+            "homeTeamCrest": "https:\/\/crests.football-data.org\/12.png",
+            "awayTeamCrest": "https:\/\/crests.football-data.org\/16.png",
+            "scoreWinner": null,
+            "scoreFullTimeHome": null,
+            "scoreFullTimeAway": null
+        },
+        "540691": {
+            "utcDate": "2026-05-03T00:00:00Z",
+            "homeTeamName": "FC Bayern M\u00fcnchen",
+            "awayTeamName": "FC Bayern M\u00fcnchen",
+            "homeTeamCrest": "https:\/\/crests.football-data.org\/5.png",
+            "awayTeamCrest": "https:\/\/crests.football-data.org\/44.png",
+            "scoreWinner": null,
+            "scoreFullTimeHome": null,
+            "scoreFullTimeAway": null
+        },
+        "540692": {
+            "utcDate": "2026-05-03T00:00:00Z",
+            "homeTeamName": "1. FC Union Berlin",
+            "awayTeamName": "1. FC Union Berlin",
+            "homeTeamCrest": "https:\/\/crests.football-data.org\/28.png",
+            "awayTeamCrest": "https:\/\/crests.football-data.org\/1.png",
+            "scoreWinner": null,
+            "scoreFullTimeHome": null,
+            "scoreFullTimeAway": null
+        },
+        "540693": {
+            "utcDate": "2026-05-03T00:00:00Z",
+            "homeTeamName": "Eintracht Frankfurt",
+            "awayTeamName": "Eintracht Frankfurt",
+            "homeTeamCrest": "https:\/\/crests.football-data.org\/19.png",
+            "awayTeamCrest": "https:\/\/crests.football-data.org\/7.png",
+            "scoreWinner": null,
+            "scoreFullTimeHome": null,
+            "scoreFullTimeAway": null
+        },
+        "540694": {
+            "utcDate": "2026-05-09T00:00:00Z",
+            "homeTeamName": "VfL Wolfsburg",
+            "awayTeamName": "VfL Wolfsburg",
+            "homeTeamCrest": "https:\/\/crests.football-data.org\/11.png",
+            "awayTeamCrest": "https:\/\/crests.football-data.org\/5.png",
+            "scoreWinner": null,
+            "scoreFullTimeHome": null,
+            "scoreFullTimeAway": null
+        },
+        "540695": {
+            "utcDate": "2026-05-09T00:00:00Z",
+            "homeTeamName": "VfB Stuttgart",
+            "awayTeamName": "VfB Stuttgart",
+            "homeTeamCrest": "https:\/\/crests.football-data.org\/10.png",
+            "awayTeamCrest": "https:\/\/crests.football-data.org\/3.png",
+            "scoreWinner": null,
+            "scoreFullTimeHome": null,
+            "scoreFullTimeAway": null
+        },
+        "540696": {
+            "utcDate": "2026-05-09T00:00:00Z",
+            "homeTeamName": "Borussia Dortmund",
+            "awayTeamName": "Borussia Dortmund",
+            "homeTeamCrest": "https:\/\/crests.football-data.org\/4.png",
+            "awayTeamCrest": "https:\/\/crests.football-data.org\/19.png",
+            "scoreWinner": null,
+            "scoreFullTimeHome": null,
+            "scoreFullTimeAway": null
+        },
+        "540697": {
+            "utcDate": "2026-05-09T00:00:00Z",
+            "homeTeamName": "Hamburger SV",
+            "awayTeamName": "Hamburger SV",
+            "homeTeamCrest": "https:\/\/crests.football-data.org\/7.png",
+            "awayTeamCrest": "https:\/\/crests.football-data.org\/17.png",
+            "scoreWinner": null,
+            "scoreFullTimeHome": null,
+            "scoreFullTimeAway": null
+        },
+        "540698": {
+            "utcDate": "2026-05-09T00:00:00Z",
+            "homeTeamName": "TSG 1899 Hoffenheim",
+            "awayTeamName": "TSG 1899 Hoffenheim",
+            "homeTeamCrest": "https:\/\/crests.football-data.org\/2.png",
+            "awayTeamCrest": "https:\/\/crests.football-data.org\/12.png",
+            "scoreWinner": null,
+            "scoreFullTimeHome": null,
+            "scoreFullTimeAway": null
+        },
+        "540699": {
+            "utcDate": "2026-05-09T00:00:00Z",
+            "homeTeamName": "FC Augsburg",
+            "awayTeamName": "FC Augsburg",
+            "homeTeamCrest": "https:\/\/crests.football-data.org\/16.png",
+            "awayTeamCrest": "https:\/\/crests.football-data.org\/18.png",
+            "scoreWinner": null,
+            "scoreFullTimeHome": null,
+            "scoreFullTimeAway": null
+        },
+        "540700": {
+            "utcDate": "2026-05-09T00:00:00Z",
+            "homeTeamName": "1. FSV Mainz 05",
+            "awayTeamName": "1. FSV Mainz 05",
+            "homeTeamCrest": "https:\/\/crests.football-data.org\/15.png",
+            "awayTeamCrest": "https:\/\/crests.football-data.org\/28.png",
+            "scoreWinner": null,
+            "scoreFullTimeHome": null,
+            "scoreFullTimeAway": null
+        },
+        "540701": {
+            "utcDate": "2026-05-09T00:00:00Z",
+            "homeTeamName": "RB Leipzig",
+            "awayTeamName": "RB Leipzig",
+            "homeTeamCrest": "https:\/\/crests.football-data.org\/721.png",
+            "awayTeamCrest": "https:\/\/crests.football-data.org\/20.png",
+            "scoreWinner": null,
+            "scoreFullTimeHome": null,
+            "scoreFullTimeAway": null
+        },
+        "540702": {
+            "utcDate": "2026-05-09T00:00:00Z",
+            "homeTeamName": "1. FC K\u00f6ln",
+            "awayTeamName": "1. FC K\u00f6ln",
+            "homeTeamCrest": "https:\/\/crests.football-data.org\/1.png",
+            "awayTeamCrest": "https:\/\/crests.football-data.org\/44.png",
+            "scoreWinner": null,
+            "scoreFullTimeHome": null,
+            "scoreFullTimeAway": null
+        },
+        "540703": {
+            "utcDate": "2026-05-16T13:30:00Z",
+            "homeTeamName": "SV Werder Bremen",
+            "awayTeamName": "SV Werder Bremen",
+            "homeTeamCrest": "https:\/\/crests.football-data.org\/12.png",
+            "awayTeamCrest": "https:\/\/crests.football-data.org\/4.png",
+            "scoreWinner": null,
+            "scoreFullTimeHome": null,
+            "scoreFullTimeAway": null
+        },
+        "540704": {
+            "utcDate": "2026-05-16T13:30:00Z",
+            "homeTeamName": "1. FC Heidenheim 1846",
+            "awayTeamName": "1. FC Heidenheim 1846",
+            "homeTeamCrest": "https:\/\/crests.football-data.org\/44.png",
+            "awayTeamCrest": "https:\/\/crests.football-data.org\/15.png",
+            "scoreWinner": null,
+            "scoreFullTimeHome": null,
+            "scoreFullTimeAway": null
+        },
+        "540705": {
+            "utcDate": "2026-05-16T13:30:00Z",
+            "homeTeamName": "SC Freiburg",
+            "awayTeamName": "SC Freiburg",
+            "homeTeamCrest": "https:\/\/crests.football-data.org\/17.png",
+            "awayTeamCrest": "https:\/\/crests.football-data.org\/721.png",
+            "scoreWinner": null,
+            "scoreFullTimeHome": null,
+            "scoreFullTimeAway": null
+        },
+        "540706": {
+            "utcDate": "2026-05-16T13:30:00Z",
+            "homeTeamName": "Eintracht Frankfurt",
+            "awayTeamName": "Eintracht Frankfurt",
+            "homeTeamCrest": "https:\/\/crests.football-data.org\/19.png",
+            "awayTeamCrest": "https:\/\/crests.football-data.org\/10.png",
+            "scoreWinner": null,
+            "scoreFullTimeHome": null,
+            "scoreFullTimeAway": null
+        },
+        "540707": {
+            "utcDate": "2026-05-16T13:30:00Z",
+            "homeTeamName": "FC St. Pauli 1910",
+            "awayTeamName": "FC St. Pauli 1910",
+            "homeTeamCrest": "https:\/\/crests.football-data.org\/20.png",
+            "awayTeamCrest": "https:\/\/crests.football-data.org\/11.png",
+            "scoreWinner": null,
+            "scoreFullTimeHome": null,
+            "scoreFullTimeAway": null
+        },
+        "540708": {
+            "utcDate": "2026-05-16T13:30:00Z",
+            "homeTeamName": "1. FC Union Berlin",
+            "awayTeamName": "1. FC Union Berlin",
+            "homeTeamCrest": "https:\/\/crests.football-data.org\/28.png",
+            "awayTeamCrest": "https:\/\/crests.football-data.org\/16.png",
+            "scoreWinner": null,
+            "scoreFullTimeHome": null,
+            "scoreFullTimeAway": null
+        },
+        "540709": {
+            "utcDate": "2026-05-16T13:30:00Z",
+            "homeTeamName": "Borussia M\u00f6nchengladbach",
+            "awayTeamName": "Borussia M\u00f6nchengladbach",
+            "homeTeamCrest": "https:\/\/crests.football-data.org\/18.png",
+            "awayTeamCrest": "https:\/\/crests.football-data.org\/2.png",
+            "scoreWinner": null,
+            "scoreFullTimeHome": null,
+            "scoreFullTimeAway": null
+        },
+        "540710": {
+            "utcDate": "2026-05-16T13:30:00Z",
+            "homeTeamName": "FC Bayern M\u00fcnchen",
+            "awayTeamName": "FC Bayern M\u00fcnchen",
+            "homeTeamCrest": "https:\/\/crests.football-data.org\/5.png",
+            "awayTeamCrest": "https:\/\/crests.football-data.org\/1.png",
+            "scoreWinner": null,
+            "scoreFullTimeHome": null,
+            "scoreFullTimeAway": null
+        },
+        "540711": {
+            "utcDate": "2026-05-16T13:30:00Z",
+            "homeTeamName": "Bayer 04 Leverkusen",
+            "awayTeamName": "Bayer 04 Leverkusen",
+            "homeTeamCrest": "https:\/\/crests.football-data.org\/3.png",
+            "awayTeamCrest": "https:\/\/crests.football-data.org\/7.png",
+            "scoreWinner": null,
+            "scoreFullTimeHome": null,
+            "scoreFullTimeAway": null
+        }
+    }
+}

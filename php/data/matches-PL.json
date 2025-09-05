@@ -1,0 +1,3804 @@
+{
+    "matches": {
+        "537785": {
+            "utcDate": "2025-08-15T19:00:00Z",
+            "homeTeamName": "Liverpool FC",
+            "awayTeamName": "Liverpool FC",
+            "homeTeamCrest": "https:\/\/crests.football-data.org\/64.png",
+            "awayTeamCrest": "https:\/\/crests.football-data.org\/bournemouth.png",
+            "scoreWinner": "HOME_TEAM",
+            "scoreFullTimeHome": 4,
+            "scoreFullTimeAway": 2
+        },
+        "537786": {
+            "utcDate": "2025-08-16T11:30:00Z",
+            "homeTeamName": "Aston Villa FC",
+            "awayTeamName": "Aston Villa FC",
+            "homeTeamCrest": "https:\/\/crests.football-data.org\/58.png",
+            "awayTeamCrest": "https:\/\/crests.football-data.org\/67.png",
+            "scoreWinner": "DRAW",
+            "scoreFullTimeHome": 0,
+            "scoreFullTimeAway": 0
+        },
+        "537787": {
+            "utcDate": "2025-08-16T14:00:00Z",
+            "homeTeamName": "Brighton & Hove Albion FC",
+            "awayTeamName": "Brighton & Hove Albion FC",
+            "homeTeamCrest": "https:\/\/crests.football-data.org\/397.png",
+            "awayTeamCrest": "https:\/\/crests.football-data.org\/63.png",
+            "scoreWinner": "DRAW",
+            "scoreFullTimeHome": 1,
+            "scoreFullTimeAway": 1
+        },
+        "537789": {
+            "utcDate": "2025-08-16T14:00:00Z",
+            "homeTeamName": "Sunderland AFC",
+            "awayTeamName": "Sunderland AFC",
+            "homeTeamCrest": "https:\/\/crests.football-data.org\/71.png",
+            "awayTeamCrest": "https:\/\/crests.football-data.org\/563.png",
+            "scoreWinner": "HOME_TEAM",
+            "scoreFullTimeHome": 3,
+            "scoreFullTimeAway": 0
+        },
+        "537790": {
+            "utcDate": "2025-08-16T14:00:00Z",
+            "homeTeamName": "Tottenham Hotspur FC",
+            "awayTeamName": "Tottenham Hotspur FC",
+            "homeTeamCrest": "https:\/\/crests.football-data.org\/73.png",
+            "awayTeamCrest": "https:\/\/crests.football-data.org\/328.png",
+            "scoreWinner": "HOME_TEAM",
+            "scoreFullTimeHome": 3,
+            "scoreFullTimeAway": 0
+        },
+        "537791": {
+            "utcDate": "2025-08-16T16:30:00Z",
+            "homeTeamName": "Wolverhampton Wanderers FC",
+            "awayTeamName": "Wolverhampton Wanderers FC",
+            "homeTeamCrest": "https:\/\/crests.football-data.org\/76.png",
+            "awayTeamCrest": "https:\/\/crests.football-data.org\/65.png",
+            "scoreWinner": "AWAY_TEAM",
+            "scoreFullTimeHome": 0,
+            "scoreFullTimeAway": 4
+        },
+        "537788": {
+            "utcDate": "2025-08-17T13:00:00Z",
+            "homeTeamName": "Nottingham Forest FC",
+            "awayTeamName": "Nottingham Forest FC",
+            "homeTeamCrest": "https:\/\/crests.football-data.org\/351.png",
+            "awayTeamCrest": "https:\/\/crests.football-data.org\/402.png",
+            "scoreWinner": "HOME_TEAM",
+            "scoreFullTimeHome": 3,
+            "scoreFullTimeAway": 1
+        },
+        "537792": {
+            "utcDate": "2025-08-17T13:00:00Z",
+            "homeTeamName": "Chelsea FC",
+            "awayTeamName": "Chelsea FC",
+            "homeTeamCrest": "https:\/\/crests.football-data.org\/61.png",
+            "awayTeamCrest": "https:\/\/crests.football-data.org\/354.png",
+            "scoreWinner": "DRAW",
+            "scoreFullTimeHome": 0,
+            "scoreFullTimeAway": 0
+        },
+        "537793": {
+            "utcDate": "2025-08-17T15:30:00Z",
+            "homeTeamName": "Manchester United FC",
+            "awayTeamName": "Manchester United FC",
+            "homeTeamCrest": "https:\/\/crests.football-data.org\/66.png",
+            "awayTeamCrest": "https:\/\/crests.football-data.org\/57.png",
+            "scoreWinner": "AWAY_TEAM",
+            "scoreFullTimeHome": 0,
+            "scoreFullTimeAway": 1
+        },
+        "537794": {
+            "utcDate": "2025-08-18T19:00:00Z",
+            "homeTeamName": "Leeds United FC",
+            "awayTeamName": "Leeds United FC",
+            "homeTeamCrest": "https:\/\/crests.football-data.org\/341.png",
+            "awayTeamCrest": "https:\/\/crests.football-data.org\/62.png",
+            "scoreWinner": "HOME_TEAM",
+            "scoreFullTimeHome": 1,
+            "scoreFullTimeAway": 0
+        },
+        "537804": {
+            "utcDate": "2025-08-22T19:00:00Z",
+            "homeTeamName": "West Ham United FC",
+            "awayTeamName": "West Ham United FC",
+            "homeTeamCrest": "https:\/\/crests.football-data.org\/563.png",
+            "awayTeamCrest": "https:\/\/crests.football-data.org\/61.png",
+            "scoreWinner": "AWAY_TEAM",
+            "scoreFullTimeHome": 1,
+            "scoreFullTimeAway": 5
+        },
+        "537802": {
+            "utcDate": "2025-08-23T11:30:00Z",
+            "homeTeamName": "Manchester City FC",
+            "awayTeamName": "Manchester City FC",
+            "homeTeamCrest": "https:\/\/crests.football-data.org\/65.png",
+            "awayTeamCrest": "https:\/\/crests.football-data.org\/73.png",
+            "scoreWinner": "AWAY_TEAM",
+            "scoreFullTimeHome": 0,
+            "scoreFullTimeAway": 2
+        },
+        "537795": {
+            "utcDate": "2025-08-23T14:00:00Z",
+            "homeTeamName": "AFC Bournemouth",
+            "awayTeamName": "AFC Bournemouth",
+            "homeTeamCrest": "https:\/\/crests.football-data.org\/bournemouth.png",
+            "awayTeamCrest": "https:\/\/crests.football-data.org\/76.png",
+            "scoreWinner": "HOME_TEAM",
+            "scoreFullTimeHome": 1,
+            "scoreFullTimeAway": 0
+        },
+        "537798": {
+            "utcDate": "2025-08-23T14:00:00Z",
+            "homeTeamName": "Brentford FC",
+            "awayTeamName": "Brentford FC",
+            "homeTeamCrest": "https:\/\/crests.football-data.org\/402.png",
+            "awayTeamCrest": "https:\/\/crests.football-data.org\/58.png",
+            "scoreWinner": "HOME_TEAM",
+            "scoreFullTimeHome": 1,
+            "scoreFullTimeAway": 0
+        },
+        "537799": {
+            "utcDate": "2025-08-23T14:00:00Z",
+            "homeTeamName": "Burnley FC",
+            "awayTeamName": "Burnley FC",
+            "homeTeamCrest": "https:\/\/crests.football-data.org\/328.png",
+            "awayTeamCrest": "https:\/\/crests.football-data.org\/71.png",
+            "scoreWinner": "HOME_TEAM",
+            "scoreFullTimeHome": 2,
+            "scoreFullTimeAway": 0
+        },
+        "537797": {
+            "utcDate": "2025-08-23T16:30:00Z",
+            "homeTeamName": "Arsenal FC",
+            "awayTeamName": "Arsenal FC",
+            "homeTeamCrest": "https:\/\/crests.football-data.org\/57.png",
+            "awayTeamCrest": "https:\/\/crests.football-data.org\/341.png",
+            "scoreWinner": "HOME_TEAM",
+            "scoreFullTimeHome": 5,
+            "scoreFullTimeAway": 0
+        },
+        "537796": {
+            "utcDate": "2025-08-24T13:00:00Z",
+            "homeTeamName": "Crystal Palace FC",
+            "awayTeamName": "Crystal Palace FC",
+            "homeTeamCrest": "https:\/\/crests.football-data.org\/354.png",
+            "awayTeamCrest": "https:\/\/crests.football-data.org\/351.png",
+            "scoreWinner": "DRAW",
+            "scoreFullTimeHome": 1,
+            "scoreFullTimeAway": 1
+        },
+        "537800": {
+            "utcDate": "2025-08-24T13:00:00Z",
+            "homeTeamName": "Everton FC",
+            "awayTeamName": "Everton FC",
+            "homeTeamCrest": "https:\/\/crests.football-data.org\/62.png",
+            "awayTeamCrest": "https:\/\/crests.football-data.org\/397.png",
+            "scoreWinner": "HOME_TEAM",
+            "scoreFullTimeHome": 2,
+            "scoreFullTimeAway": 0
+        },
+        "537801": {
+            "utcDate": "2025-08-24T15:30:00Z",
+            "homeTeamName": "Fulham FC",
+            "awayTeamName": "Fulham FC",
+            "homeTeamCrest": "https:\/\/crests.football-data.org\/63.png",
+            "awayTeamCrest": "https:\/\/crests.football-data.org\/66.png",
+            "scoreWinner": "DRAW",
+            "scoreFullTimeHome": 1,
+            "scoreFullTimeAway": 1
+        },
+        "537803": {
+            "utcDate": "2025-08-25T19:00:00Z",
+            "homeTeamName": "Newcastle United FC",
+            "awayTeamName": "Newcastle United FC",
+            "homeTeamCrest": "https:\/\/crests.football-data.org\/67.png",
+            "awayTeamCrest": "https:\/\/crests.football-data.org\/64.png",
+            "scoreWinner": "AWAY_TEAM",
+            "scoreFullTimeHome": 2,
+            "scoreFullTimeAway": 3
+        },
+        "537808": {
+            "utcDate": "2025-08-30T11:30:00Z",
+            "homeTeamName": "Chelsea FC",
+            "awayTeamName": "Chelsea FC",
+            "homeTeamCrest": "https:\/\/crests.football-data.org\/61.png",
+            "awayTeamCrest": "https:\/\/crests.football-data.org\/63.png",
+            "scoreWinner": "HOME_TEAM",
+            "scoreFullTimeHome": 2,
+            "scoreFullTimeAway": 0
+        },
+        "537805": {
+            "utcDate": "2025-08-30T14:00:00Z",
+            "homeTeamName": "Sunderland AFC",
+            "awayTeamName": "Sunderland AFC",
+            "homeTeamCrest": "https:\/\/crests.football-data.org\/71.png",
+            "awayTeamCrest": "https:\/\/crests.football-data.org\/402.png",
+            "scoreWinner": "HOME_TEAM",
+            "scoreFullTimeHome": 2,
+            "scoreFullTimeAway": 1
+        },
+        "537811": {
+            "utcDate": "2025-08-30T14:00:00Z",
+            "homeTeamName": "Manchester United FC",
+            "awayTeamName": "Manchester United FC",
+            "homeTeamCrest": "https:\/\/crests.football-data.org\/66.png",
+            "awayTeamCrest": "https:\/\/crests.football-data.org\/328.png",
+            "scoreWinner": "HOME_TEAM",
+            "scoreFullTimeHome": 3,
+            "scoreFullTimeAway": 2
+        },
+        "537813": {
+            "utcDate": "2025-08-30T14:00:00Z",
+            "homeTeamName": "Tottenham Hotspur FC",
+            "awayTeamName": "Tottenham Hotspur FC",
+            "homeTeamCrest": "https:\/\/crests.football-data.org\/73.png",
+            "awayTeamCrest": "https:\/\/crests.football-data.org\/bournemouth.png",
+            "scoreWinner": "AWAY_TEAM",
+            "scoreFullTimeHome": 0,
+            "scoreFullTimeAway": 1
+        },
+        "537814": {
+            "utcDate": "2025-08-30T14:00:00Z",
+            "homeTeamName": "Wolverhampton Wanderers FC",
+            "awayTeamName": "Wolverhampton Wanderers FC",
+            "homeTeamCrest": "https:\/\/crests.football-data.org\/76.png",
+            "awayTeamCrest": "https:\/\/crests.football-data.org\/62.png",
+            "scoreWinner": "AWAY_TEAM",
+            "scoreFullTimeHome": 2,
+            "scoreFullTimeAway": 3
+        },
+        "537810": {
+            "utcDate": "2025-08-30T16:30:00Z",
+            "homeTeamName": "Leeds United FC",
+            "awayTeamName": "Leeds United FC",
+            "homeTeamCrest": "https:\/\/crests.football-data.org\/341.png",
+            "awayTeamCrest": "https:\/\/crests.football-data.org\/67.png",
+            "scoreWinner": "DRAW",
+            "scoreFullTimeHome": 0,
+            "scoreFullTimeAway": 0
+        },
+        "537807": {
+            "utcDate": "2025-08-31T13:00:00Z",
+            "homeTeamName": "Brighton & Hove Albion FC",
+            "awayTeamName": "Brighton & Hove Albion FC",
+            "homeTeamCrest": "https:\/\/crests.football-data.org\/397.png",
+            "awayTeamCrest": "https:\/\/crests.football-data.org\/65.png",
+            "scoreWinner": "HOME_TEAM",
+            "scoreFullTimeHome": 2,
+            "scoreFullTimeAway": 1
+        },
+        "537812": {
+            "utcDate": "2025-08-31T13:00:00Z",
+            "homeTeamName": "Nottingham Forest FC",
+            "awayTeamName": "Nottingham Forest FC",
+            "homeTeamCrest": "https:\/\/crests.football-data.org\/351.png",
+            "awayTeamCrest": "https:\/\/crests.football-data.org\/563.png",
+            "scoreWinner": "AWAY_TEAM",
+            "scoreFullTimeHome": 0,
+            "scoreFullTimeAway": 3
+        },
+        "537809": {
+            "utcDate": "2025-08-31T15:30:00Z",
+            "homeTeamName": "Liverpool FC",
+            "awayTeamName": "Liverpool FC",
+            "homeTeamCrest": "https:\/\/crests.football-data.org\/64.png",
+            "awayTeamCrest": "https:\/\/crests.football-data.org\/57.png",
+            "scoreWinner": "HOME_TEAM",
+            "scoreFullTimeHome": 1,
+            "scoreFullTimeAway": 0
+        },
+        "537806": {
+            "utcDate": "2025-08-31T18:00:00Z",
+            "homeTeamName": "Aston Villa FC",
+            "awayTeamName": "Aston Villa FC",
+            "homeTeamCrest": "https:\/\/crests.football-data.org\/58.png",
+            "awayTeamCrest": "https:\/\/crests.football-data.org\/354.png",
+            "scoreWinner": "AWAY_TEAM",
+            "scoreFullTimeHome": 0,
+            "scoreFullTimeAway": 3
+        },
+        "537817": {
+            "utcDate": "2025-09-13T11:30:00Z",
+            "homeTeamName": "Arsenal FC",
+            "awayTeamName": "Arsenal FC",
+            "homeTeamCrest": "https:\/\/crests.football-data.org\/57.png",
+            "awayTeamCrest": "https:\/\/crests.football-data.org\/351.png",
+            "scoreWinner": null,
+            "scoreFullTimeHome": null,
+            "scoreFullTimeAway": null
+        },
+        "537815": {
+            "utcDate": "2025-09-13T14:00:00Z",
+            "homeTeamName": "AFC Bournemouth",
+            "awayTeamName": "AFC Bournemouth",
+            "homeTeamCrest": "https:\/\/crests.football-data.org\/bournemouth.png",
+            "awayTeamCrest": "https:\/\/crests.football-data.org\/397.png",
+            "scoreWinner": null,
+            "scoreFullTimeHome": null,
+            "scoreFullTimeAway": null
+        },
+        "537816": {
+            "utcDate": "2025-09-13T14:00:00Z",
+            "homeTeamName": "Crystal Palace FC",
+            "awayTeamName": "Crystal Palace FC",
+            "homeTeamCrest": "https:\/\/crests.football-data.org\/354.png",
+            "awayTeamCrest": "https:\/\/crests.football-data.org\/71.png",
+            "scoreWinner": null,
+            "scoreFullTimeHome": null,
+            "scoreFullTimeAway": null
+        },
+        "537820": {
+            "utcDate": "2025-09-13T14:00:00Z",
+            "homeTeamName": "Everton FC",
+            "awayTeamName": "Everton FC",
+            "homeTeamCrest": "https:\/\/crests.football-data.org\/62.png",
+            "awayTeamCrest": "https:\/\/crests.football-data.org\/58.png",
+            "scoreWinner": null,
+            "scoreFullTimeHome": null,
+            "scoreFullTimeAway": null
+        },
+        "537821": {
+            "utcDate": "2025-09-13T14:00:00Z",
+            "homeTeamName": "Fulham FC",
+            "awayTeamName": "Fulham FC",
+            "homeTeamCrest": "https:\/\/crests.football-data.org\/63.png",
+            "awayTeamCrest": "https:\/\/crests.football-data.org\/341.png",
+            "scoreWinner": null,
+            "scoreFullTimeHome": null,
+            "scoreFullTimeAway": null
+        },
+        "537823": {
+            "utcDate": "2025-09-13T14:00:00Z",
+            "homeTeamName": "Newcastle United FC",
+            "awayTeamName": "Newcastle United FC",
+            "homeTeamCrest": "https:\/\/crests.football-data.org\/67.png",
+            "awayTeamCrest": "https:\/\/crests.football-data.org\/76.png",
+            "scoreWinner": null,
+            "scoreFullTimeHome": null,
+            "scoreFullTimeAway": null
+        },
+        "537824": {
+            "utcDate": "2025-09-13T16:30:00Z",
+            "homeTeamName": "West Ham United FC",
+            "awayTeamName": "West Ham United FC",
+            "homeTeamCrest": "https:\/\/crests.football-data.org\/563.png",
+            "awayTeamCrest": "https:\/\/crests.football-data.org\/73.png",
+            "scoreWinner": null,
+            "scoreFullTimeHome": null,
+            "scoreFullTimeAway": null
+        },
+        "537818": {
+            "utcDate": "2025-09-13T19:00:00Z",
+            "homeTeamName": "Brentford FC",
+            "awayTeamName": "Brentford FC",
+            "homeTeamCrest": "https:\/\/crests.football-data.org\/402.png",
+            "awayTeamCrest": "https:\/\/crests.football-data.org\/61.png",
+            "scoreWinner": null,
+            "scoreFullTimeHome": null,
+            "scoreFullTimeAway": null
+        },
+        "537819": {
+            "utcDate": "2025-09-14T13:00:00Z",
+            "homeTeamName": "Burnley FC",
+            "awayTeamName": "Burnley FC",
+            "homeTeamCrest": "https:\/\/crests.football-data.org\/328.png",
+            "awayTeamCrest": "https:\/\/crests.football-data.org\/64.png",
+            "scoreWinner": null,
+            "scoreFullTimeHome": null,
+            "scoreFullTimeAway": null
+        },
+        "537822": {
+            "utcDate": "2025-09-14T15:30:00Z",
+            "homeTeamName": "Manchester City FC",
+            "awayTeamName": "Manchester City FC",
+            "homeTeamCrest": "https:\/\/crests.football-data.org\/65.png",
+            "awayTeamCrest": "https:\/\/crests.football-data.org\/66.png",
+            "scoreWinner": null,
+            "scoreFullTimeHome": null,
+            "scoreFullTimeAway": null
+        },
+        "537831": {
+            "utcDate": "2025-09-20T11:30:00Z",
+            "homeTeamName": "Liverpool FC",
+            "awayTeamName": "Liverpool FC",
+            "homeTeamCrest": "https:\/\/crests.football-data.org\/64.png",
+            "awayTeamCrest": "https:\/\/crests.football-data.org\/62.png",
+            "scoreWinner": null,
+            "scoreFullTimeHome": null,
+            "scoreFullTimeAway": null
+        },
+        "537827": {
+            "utcDate": "2025-09-20T14:00:00Z",
+            "homeTeamName": "Brighton & Hove Albion FC",
+            "awayTeamName": "Brighton & Hove Albion FC",
+            "homeTeamCrest": "https:\/\/crests.football-data.org\/397.png",
+            "awayTeamCrest": "https:\/\/crests.football-data.org\/73.png",
+            "scoreWinner": null,
+            "scoreFullTimeHome": null,
+            "scoreFullTimeAway": null
+        },
+        "537829": {
+            "utcDate": "2025-09-20T14:00:00Z",
+            "homeTeamName": "Burnley FC",
+            "awayTeamName": "Burnley FC",
+            "homeTeamCrest": "https:\/\/crests.football-data.org\/328.png",
+            "awayTeamCrest": "https:\/\/crests.football-data.org\/351.png",
+            "scoreWinner": null,
+            "scoreFullTimeHome": null,
+            "scoreFullTimeAway": null
+        },
+        "537833": {
+            "utcDate": "2025-09-20T14:00:00Z",
+            "homeTeamName": "West Ham United FC",
+            "awayTeamName": "West Ham United FC",
+            "homeTeamCrest": "https:\/\/crests.football-data.org\/563.png",
+            "awayTeamCrest": "https:\/\/crests.football-data.org\/354.png",
+            "scoreWinner": null,
+            "scoreFullTimeHome": null,
+            "scoreFullTimeAway": null
+        },
+        "537834": {
+            "utcDate": "2025-09-20T14:00:00Z",
+            "homeTeamName": "Wolverhampton Wanderers FC",
+            "awayTeamName": "Wolverhampton Wanderers FC",
+            "homeTeamCrest": "https:\/\/crests.football-data.org\/76.png",
+            "awayTeamCrest": "https:\/\/crests.football-data.org\/341.png",
+            "scoreWinner": null,
+            "scoreFullTimeHome": null,
+            "scoreFullTimeAway": null
+        },
+        "537832": {
+            "utcDate": "2025-09-20T16:30:00Z",
+            "homeTeamName": "Manchester United FC",
+            "awayTeamName": "Manchester United FC",
+            "homeTeamCrest": "https:\/\/crests.football-data.org\/66.png",
+            "awayTeamCrest": "https:\/\/crests.football-data.org\/61.png",
+            "scoreWinner": null,
+            "scoreFullTimeHome": null,
+            "scoreFullTimeAway": null
+        },
+        "537830": {
+            "utcDate": "2025-09-20T19:00:00Z",
+            "homeTeamName": "Fulham FC",
+            "awayTeamName": "Fulham FC",
+            "homeTeamCrest": "https:\/\/crests.football-data.org\/63.png",
+            "awayTeamCrest": "https:\/\/crests.football-data.org\/402.png",
+            "scoreWinner": null,
+            "scoreFullTimeHome": null,
+            "scoreFullTimeAway": null
+        },
+        "537825": {
+            "utcDate": "2025-09-21T13:00:00Z",
+            "homeTeamName": "AFC Bournemouth",
+            "awayTeamName": "AFC Bournemouth",
+            "homeTeamCrest": "https:\/\/crests.football-data.org\/bournemouth.png",
+            "awayTeamCrest": "https:\/\/crests.football-data.org\/67.png",
+            "scoreWinner": null,
+            "scoreFullTimeHome": null,
+            "scoreFullTimeAway": null
+        },
+        "537826": {
+            "utcDate": "2025-09-21T13:00:00Z",
+            "homeTeamName": "Sunderland AFC",
+            "awayTeamName": "Sunderland AFC",
+            "homeTeamCrest": "https:\/\/crests.football-data.org\/71.png",
+            "awayTeamCrest": "https:\/\/crests.football-data.org\/58.png",
+            "scoreWinner": null,
+            "scoreFullTimeHome": null,
+            "scoreFullTimeAway": null
+        },
+        "537828": {
+            "utcDate": "2025-09-21T15:30:00Z",
+            "homeTeamName": "Arsenal FC",
+            "awayTeamName": "Arsenal FC",
+            "homeTeamCrest": "https:\/\/crests.football-data.org\/57.png",
+            "awayTeamCrest": "https:\/\/crests.football-data.org\/65.png",
+            "scoreWinner": null,
+            "scoreFullTimeHome": null,
+            "scoreFullTimeAway": null
+        },
+        "537837": {
+            "utcDate": "2025-09-27T11:30:00Z",
+            "homeTeamName": "Brentford FC",
+            "awayTeamName": "Brentford FC",
+            "homeTeamCrest": "https:\/\/crests.football-data.org\/402.png",
+            "awayTeamCrest": "https:\/\/crests.football-data.org\/66.png",
+            "scoreWinner": null,
+            "scoreFullTimeHome": null,
+            "scoreFullTimeAway": null
+        },
+        "537836": {
+            "utcDate": "2025-09-27T14:00:00Z",
+            "homeTeamName": "Crystal Palace FC",
+            "awayTeamName": "Crystal Palace FC",
+            "homeTeamCrest": "https:\/\/crests.football-data.org\/354.png",
+            "awayTeamCrest": "https:\/\/crests.football-data.org\/64.png",
+            "scoreWinner": null,
+            "scoreFullTimeHome": null,
+            "scoreFullTimeAway": null
+        },
+        "537838": {
+            "utcDate": "2025-09-27T14:00:00Z",
+            "homeTeamName": "Chelsea FC",
+            "awayTeamName": "Chelsea FC",
+            "homeTeamCrest": "https:\/\/crests.football-data.org\/61.png",
+            "awayTeamCrest": "https:\/\/crests.football-data.org\/397.png",
+            "scoreWinner": null,
+            "scoreFullTimeHome": null,
+            "scoreFullTimeAway": null
+        },
+        "537840": {
+            "utcDate": "2025-09-27T14:00:00Z",
+            "homeTeamName": "Leeds United FC",
+            "awayTeamName": "Leeds United FC",
+            "homeTeamCrest": "https:\/\/crests.football-data.org\/341.png",
+            "awayTeamCrest": "https:\/\/crests.football-data.org\/bournemouth.png",
+            "scoreWinner": null,
+            "scoreFullTimeHome": null,
+            "scoreFullTimeAway": null
+        },
+        "537841": {
+            "utcDate": "2025-09-27T14:00:00Z",
+            "homeTeamName": "Manchester City FC",
+            "awayTeamName": "Manchester City FC",
+            "homeTeamCrest": "https:\/\/crests.football-data.org\/65.png",
+            "awayTeamCrest": "https:\/\/crests.football-data.org\/328.png",
+            "scoreWinner": null,
+            "scoreFullTimeHome": null,
+            "scoreFullTimeAway": null
+        },
+        "537843": {
+            "utcDate": "2025-09-27T16:30:00Z",
+            "homeTeamName": "Nottingham Forest FC",
+            "awayTeamName": "Nottingham Forest FC",
+            "homeTeamCrest": "https:\/\/crests.football-data.org\/351.png",
+            "awayTeamCrest": "https:\/\/crests.football-data.org\/71.png",
+            "scoreWinner": null,
+            "scoreFullTimeHome": null,
+            "scoreFullTimeAway": null
+        },
+        "537844": {
+            "utcDate": "2025-09-27T19:00:00Z",
+            "homeTeamName": "Tottenham Hotspur FC",
+            "awayTeamName": "Tottenham Hotspur FC",
+            "homeTeamCrest": "https:\/\/crests.football-data.org\/73.png",
+            "awayTeamCrest": "https:\/\/crests.football-data.org\/76.png",
+            "scoreWinner": null,
+            "scoreFullTimeHome": null,
+            "scoreFullTimeAway": null
+        },
+        "537835": {
+            "utcDate": "2025-09-28T13:00:00Z",
+            "homeTeamName": "Aston Villa FC",
+            "awayTeamName": "Aston Villa FC",
+            "homeTeamCrest": "https:\/\/crests.football-data.org\/58.png",
+            "awayTeamCrest": "https:\/\/crests.football-data.org\/63.png",
+            "scoreWinner": null,
+            "scoreFullTimeHome": null,
+            "scoreFullTimeAway": null
+        },
+        "537842": {
+            "utcDate": "2025-09-28T15:30:00Z",
+            "homeTeamName": "Newcastle United FC",
+            "awayTeamName": "Newcastle United FC",
+            "homeTeamCrest": "https:\/\/crests.football-data.org\/67.png",
+            "awayTeamCrest": "https:\/\/crests.football-data.org\/57.png",
+            "scoreWinner": null,
+            "scoreFullTimeHome": null,
+            "scoreFullTimeAway": null
+        },
+        "537839": {
+            "utcDate": "2025-09-29T19:00:00Z",
+            "homeTeamName": "Everton FC",
+            "awayTeamName": "Everton FC",
+            "homeTeamCrest": "https:\/\/crests.football-data.org\/62.png",
+            "awayTeamCrest": "https:\/\/crests.football-data.org\/563.png",
+            "scoreWinner": null,
+            "scoreFullTimeHome": null,
+            "scoreFullTimeAway": null
+        },
+        "537845": {
+            "utcDate": "2025-10-03T19:00:00Z",
+            "homeTeamName": "AFC Bournemouth",
+            "awayTeamName": "AFC Bournemouth",
+            "homeTeamCrest": "https:\/\/crests.football-data.org\/bournemouth.png",
+            "awayTeamCrest": "https:\/\/crests.football-data.org\/63.png",
+            "scoreWinner": null,
+            "scoreFullTimeHome": null,
+            "scoreFullTimeAway": null
+        },
+        "537851": {
+            "utcDate": "2025-10-04T11:30:00Z",
+            "homeTeamName": "Leeds United FC",
+            "awayTeamName": "Leeds United FC",
+            "homeTeamCrest": "https:\/\/crests.football-data.org\/341.png",
+            "awayTeamCrest": "https:\/\/crests.football-data.org\/73.png",
+            "scoreWinner": null,
+            "scoreFullTimeHome": null,
+            "scoreFullTimeAway": null
+        },
+        "537847": {
+            "utcDate": "2025-10-04T14:00:00Z",
+            "homeTeamName": "Arsenal FC",
+            "awayTeamName": "Arsenal FC",
+            "homeTeamCrest": "https:\/\/crests.football-data.org\/57.png",
+            "awayTeamCrest": "https:\/\/crests.football-data.org\/563.png",
+            "scoreWinner": null,
+            "scoreFullTimeHome": null,
+            "scoreFullTimeAway": null
+        },
+        "537850": {
+            "utcDate": "2025-10-04T14:00:00Z",
+            "homeTeamName": "Everton FC",
+            "awayTeamName": "Everton FC",
+            "homeTeamCrest": "https:\/\/crests.football-data.org\/62.png",
+            "awayTeamCrest": "https:\/\/crests.football-data.org\/354.png",
+            "scoreWinner": null,
+            "scoreFullTimeHome": null,
+            "scoreFullTimeAway": null
+        },
+        "537852": {
+            "utcDate": "2025-10-04T14:00:00Z",
+            "homeTeamName": "Manchester United FC",
+            "awayTeamName": "Manchester United FC",
+            "homeTeamCrest": "https:\/\/crests.football-data.org\/66.png",
+            "awayTeamCrest": "https:\/\/crests.football-data.org\/71.png",
+            "scoreWinner": null,
+            "scoreFullTimeHome": null,
+            "scoreFullTimeAway": null
+        },
+        "537849": {
+            "utcDate": "2025-10-04T16:30:00Z",
+            "homeTeamName": "Chelsea FC",
+            "awayTeamName": "Chelsea FC",
+            "homeTeamCrest": "https:\/\/crests.football-data.org\/61.png",
+            "awayTeamCrest": "https:\/\/crests.football-data.org\/64.png",
+            "scoreWinner": null,
+            "scoreFullTimeHome": null,
+            "scoreFullTimeAway": null
+        },
+        "537846": {
+            "utcDate": "2025-10-05T13:00:00Z",
+            "homeTeamName": "Aston Villa FC",
+            "awayTeamName": "Aston Villa FC",
+            "homeTeamCrest": "https:\/\/crests.football-data.org\/58.png",
+            "awayTeamCrest": "https:\/\/crests.football-data.org\/328.png",
+            "scoreWinner": null,
+            "scoreFullTimeHome": null,
+            "scoreFullTimeAway": null
+        },
+        "537853": {
+            "utcDate": "2025-10-05T13:00:00Z",
+            "homeTeamName": "Newcastle United FC",
+            "awayTeamName": "Newcastle United FC",
+            "homeTeamCrest": "https:\/\/crests.football-data.org\/67.png",
+            "awayTeamCrest": "https:\/\/crests.football-data.org\/351.png",
+            "scoreWinner": null,
+            "scoreFullTimeHome": null,
+            "scoreFullTimeAway": null
+        },
+        "537854": {
+            "utcDate": "2025-10-05T13:00:00Z",
+            "homeTeamName": "Wolverhampton Wanderers FC",
+            "awayTeamName": "Wolverhampton Wanderers FC",
+            "homeTeamCrest": "https:\/\/crests.football-data.org\/76.png",
+            "awayTeamCrest": "https:\/\/crests.football-data.org\/397.png",
+            "scoreWinner": null,
+            "scoreFullTimeHome": null,
+            "scoreFullTimeAway": null
+        },
+        "537848": {
+            "utcDate": "2025-10-05T15:30:00Z",
+            "homeTeamName": "Brentford FC",
+            "awayTeamName": "Brentford FC",
+            "homeTeamCrest": "https:\/\/crests.football-data.org\/402.png",
+            "awayTeamCrest": "https:\/\/crests.football-data.org\/65.png",
+            "scoreWinner": null,
+            "scoreFullTimeHome": null,
+            "scoreFullTimeAway": null
+        },
+        "537862": {
+            "utcDate": "2025-10-18T11:30:00Z",
+            "homeTeamName": "Nottingham Forest FC",
+            "awayTeamName": "Nottingham Forest FC",
+            "homeTeamCrest": "https:\/\/crests.football-data.org\/351.png",
+            "awayTeamCrest": "https:\/\/crests.football-data.org\/61.png",
+            "scoreWinner": null,
+            "scoreFullTimeHome": null,
+            "scoreFullTimeAway": null
+        },
+        "537856": {
+            "utcDate": "2025-10-18T14:00:00Z",
+            "homeTeamName": "Brighton & Hove Albion FC",
+            "awayTeamName": "Brighton & Hove Albion FC",
+            "homeTeamCrest": "https:\/\/crests.football-data.org\/397.png",
+            "awayTeamCrest": "https:\/\/crests.football-data.org\/67.png",
+            "scoreWinner": null,
+            "scoreFullTimeHome": null,
+            "scoreFullTimeAway": null
+        },
+        "537857": {
+            "utcDate": "2025-10-18T14:00:00Z",
+            "homeTeamName": "Crystal Palace FC",
+            "awayTeamName": "Crystal Palace FC",
+            "homeTeamCrest": "https:\/\/crests.football-data.org\/354.png",
+            "awayTeamCrest": "https:\/\/crests.football-data.org\/bournemouth.png",
+            "scoreWinner": null,
+            "scoreFullTimeHome": null,
+            "scoreFullTimeAway": null
+        },
+        "537858": {
+            "utcDate": "2025-10-18T14:00:00Z",
+            "homeTeamName": "Burnley FC",
+            "awayTeamName": "Burnley FC",
+            "homeTeamCrest": "https:\/\/crests.football-data.org\/328.png",
+            "awayTeamCrest": "https:\/\/crests.football-data.org\/341.png",
+            "scoreWinner": null,
+            "scoreFullTimeHome": null,
+            "scoreFullTimeAway": null
+        },
+        "537861": {
+            "utcDate": "2025-10-18T14:00:00Z",
+            "homeTeamName": "Manchester City FC",
+            "awayTeamName": "Manchester City FC",
+            "homeTeamCrest": "https:\/\/crests.football-data.org\/65.png",
+            "awayTeamCrest": "https:\/\/crests.football-data.org\/62.png",
+            "scoreWinner": null,
+            "scoreFullTimeHome": null,
+            "scoreFullTimeAway": null
+        },
+        "537855": {
+            "utcDate": "2025-10-18T14:00:00Z",
+            "homeTeamName": "Sunderland AFC",
+            "awayTeamName": "Sunderland AFC",
+            "homeTeamCrest": "https:\/\/crests.football-data.org\/71.png",
+            "awayTeamCrest": "https:\/\/crests.football-data.org\/76.png",
+            "scoreWinner": null,
+            "scoreFullTimeHome": null,
+            "scoreFullTimeAway": null
+        },
+        "537859": {
+            "utcDate": "2025-10-18T16:30:00Z",
+            "homeTeamName": "Fulham FC",
+            "awayTeamName": "Fulham FC",
+            "homeTeamCrest": "https:\/\/crests.football-data.org\/63.png",
+            "awayTeamCrest": "https:\/\/crests.football-data.org\/57.png",
+            "scoreWinner": null,
+            "scoreFullTimeHome": null,
+            "scoreFullTimeAway": null
+        },
+        "537863": {
+            "utcDate": "2025-10-19T13:00:00Z",
+            "homeTeamName": "Tottenham Hotspur FC",
+            "awayTeamName": "Tottenham Hotspur FC",
+            "homeTeamCrest": "https:\/\/crests.football-data.org\/73.png",
+            "awayTeamCrest": "https:\/\/crests.football-data.org\/58.png",
+            "scoreWinner": null,
+            "scoreFullTimeHome": null,
+            "scoreFullTimeAway": null
+        },
+        "537860": {
+            "utcDate": "2025-10-19T15:30:00Z",
+            "homeTeamName": "Liverpool FC",
+            "awayTeamName": "Liverpool FC",
+            "homeTeamCrest": "https:\/\/crests.football-data.org\/64.png",
+            "awayTeamCrest": "https:\/\/crests.football-data.org\/66.png",
+            "scoreWinner": null,
+            "scoreFullTimeHome": null,
+            "scoreFullTimeAway": null
+        },
+        "537864": {
+            "utcDate": "2025-10-20T19:00:00Z",
+            "homeTeamName": "West Ham United FC",
+            "awayTeamName": "West Ham United FC",
+            "homeTeamCrest": "https:\/\/crests.football-data.org\/563.png",
+            "awayTeamCrest": "https:\/\/crests.football-data.org\/402.png",
+            "scoreWinner": null,
+            "scoreFullTimeHome": null,
+            "scoreFullTimeAway": null
+        },
+        "537871": {
+            "utcDate": "2025-10-24T19:00:00Z",
+            "homeTeamName": "Leeds United FC",
+            "awayTeamName": "Leeds United FC",
+            "homeTeamCrest": "https:\/\/crests.football-data.org\/341.png",
+            "awayTeamCrest": "https:\/\/crests.football-data.org\/563.png",
+            "scoreWinner": null,
+            "scoreFullTimeHome": null,
+            "scoreFullTimeAway": null
+        },
+        "537869": {
+            "utcDate": "2025-10-25T14:00:00Z",
+            "homeTeamName": "Chelsea FC",
+            "awayTeamName": "Chelsea FC",
+            "homeTeamCrest": "https:\/\/crests.football-data.org\/61.png",
+            "awayTeamCrest": "https:\/\/crests.football-data.org\/71.png",
+            "scoreWinner": null,
+            "scoreFullTimeHome": null,
+            "scoreFullTimeAway": null
+        },
+        "537873": {
+            "utcDate": "2025-10-25T14:00:00Z",
+            "homeTeamName": "Newcastle United FC",
+            "awayTeamName": "Newcastle United FC",
+            "homeTeamCrest": "https:\/\/crests.football-data.org\/67.png",
+            "awayTeamCrest": "https:\/\/crests.football-data.org\/63.png",
+            "scoreWinner": null,
+            "scoreFullTimeHome": null,
+            "scoreFullTimeAway": null
+        },
+        "537872": {
+            "utcDate": "2025-10-25T16:30:00Z",
+            "homeTeamName": "Manchester United FC",
+            "awayTeamName": "Manchester United FC",
+            "homeTeamCrest": "https:\/\/crests.football-data.org\/66.png",
+            "awayTeamCrest": "https:\/\/crests.football-data.org\/397.png",
+            "scoreWinner": null,
+            "scoreFullTimeHome": null,
+            "scoreFullTimeAway": null
+        },
+        "537868": {
+            "utcDate": "2025-10-25T19:00:00Z",
+            "homeTeamName": "Brentford FC",
+            "awayTeamName": "Brentford FC",
+            "homeTeamCrest": "https:\/\/crests.football-data.org\/402.png",
+            "awayTeamCrest": "https:\/\/crests.football-data.org\/64.png",
+            "scoreWinner": null,
+            "scoreFullTimeHome": null,
+            "scoreFullTimeAway": null
+        },
+        "537865": {
+            "utcDate": "2025-10-26T14:00:00Z",
+            "homeTeamName": "AFC Bournemouth",
+            "awayTeamName": "AFC Bournemouth",
+            "homeTeamCrest": "https:\/\/crests.football-data.org\/bournemouth.png",
+            "awayTeamCrest": "https:\/\/crests.football-data.org\/351.png",
+            "scoreWinner": null,
+            "scoreFullTimeHome": null,
+            "scoreFullTimeAway": null
+        },
+        "537866": {
+            "utcDate": "2025-10-26T14:00:00Z",
+            "homeTeamName": "Aston Villa FC",
+            "awayTeamName": "Aston Villa FC",
+            "homeTeamCrest": "https:\/\/crests.football-data.org\/58.png",
+            "awayTeamCrest": "https:\/\/crests.football-data.org\/65.png",
+            "scoreWinner": null,
+            "scoreFullTimeHome": null,
+            "scoreFullTimeAway": null
+        },
+        "537867": {
+            "utcDate": "2025-10-26T14:00:00Z",
+            "homeTeamName": "Arsenal FC",
+            "awayTeamName": "Arsenal FC",
+            "homeTeamCrest": "https:\/\/crests.football-data.org\/57.png",
+            "awayTeamCrest": "https:\/\/crests.football-data.org\/354.png",
+            "scoreWinner": null,
+            "scoreFullTimeHome": null,
+            "scoreFullTimeAway": null
+        },
+        "537874": {
+            "utcDate": "2025-10-26T14:00:00Z",
+            "homeTeamName": "Wolverhampton Wanderers FC",
+            "awayTeamName": "Wolverhampton Wanderers FC",
+            "homeTeamCrest": "https:\/\/crests.football-data.org\/76.png",
+            "awayTeamCrest": "https:\/\/crests.football-data.org\/328.png",
+            "scoreWinner": null,
+            "scoreFullTimeHome": null,
+            "scoreFullTimeAway": null
+        },
+        "537870": {
+            "utcDate": "2025-10-26T16:30:00Z",
+            "homeTeamName": "Everton FC",
+            "awayTeamName": "Everton FC",
+            "homeTeamCrest": "https:\/\/crests.football-data.org\/62.png",
+            "awayTeamCrest": "https:\/\/crests.football-data.org\/73.png",
+            "scoreWinner": null,
+            "scoreFullTimeHome": null,
+            "scoreFullTimeAway": null
+        },
+        "537875": {
+            "utcDate": "2025-11-01T00:00:00Z",
+            "homeTeamName": "Sunderland AFC",
+            "awayTeamName": "Sunderland AFC",
+            "homeTeamCrest": "https:\/\/crests.football-data.org\/71.png",
+            "awayTeamCrest": "https:\/\/crests.football-data.org\/62.png",
+            "scoreWinner": null,
+            "scoreFullTimeHome": null,
+            "scoreFullTimeAway": null
+        },
+        "537876": {
+            "utcDate": "2025-11-01T00:00:00Z",
+            "homeTeamName": "Brighton & Hove Albion FC",
+            "awayTeamName": "Brighton & Hove Albion FC",
+            "homeTeamCrest": "https:\/\/crests.football-data.org\/397.png",
+            "awayTeamCrest": "https:\/\/crests.football-data.org\/341.png",
+            "scoreWinner": null,
+            "scoreFullTimeHome": null,
+            "scoreFullTimeAway": null
+        },
+        "537877": {
+            "utcDate": "2025-11-01T00:00:00Z",
+            "homeTeamName": "Crystal Palace FC",
+            "awayTeamName": "Crystal Palace FC",
+            "homeTeamCrest": "https:\/\/crests.football-data.org\/354.png",
+            "awayTeamCrest": "https:\/\/crests.football-data.org\/402.png",
+            "scoreWinner": null,
+            "scoreFullTimeHome": null,
+            "scoreFullTimeAway": null
+        },
+        "537878": {
+            "utcDate": "2025-11-01T00:00:00Z",
+            "homeTeamName": "Burnley FC",
+            "awayTeamName": "Burnley FC",
+            "homeTeamCrest": "https:\/\/crests.football-data.org\/328.png",
+            "awayTeamCrest": "https:\/\/crests.football-data.org\/57.png",
+            "scoreWinner": null,
+            "scoreFullTimeHome": null,
+            "scoreFullTimeAway": null
+        },
+        "537879": {
+            "utcDate": "2025-11-01T00:00:00Z",
+            "homeTeamName": "Fulham FC",
+            "awayTeamName": "Fulham FC",
+            "homeTeamCrest": "https:\/\/crests.football-data.org\/63.png",
+            "awayTeamCrest": "https:\/\/crests.football-data.org\/76.png",
+            "scoreWinner": null,
+            "scoreFullTimeHome": null,
+            "scoreFullTimeAway": null
+        },
+        "537880": {
+            "utcDate": "2025-11-01T00:00:00Z",
+            "homeTeamName": "Liverpool FC",
+            "awayTeamName": "Liverpool FC",
+            "homeTeamCrest": "https:\/\/crests.football-data.org\/64.png",
+            "awayTeamCrest": "https:\/\/crests.football-data.org\/58.png",
+            "scoreWinner": null,
+            "scoreFullTimeHome": null,
+            "scoreFullTimeAway": null
+        },
+        "537881": {
+            "utcDate": "2025-11-01T00:00:00Z",
+            "homeTeamName": "Manchester City FC",
+            "awayTeamName": "Manchester City FC",
+            "homeTeamCrest": "https:\/\/crests.football-data.org\/65.png",
+            "awayTeamCrest": "https:\/\/crests.football-data.org\/bournemouth.png",
+            "scoreWinner": null,
+            "scoreFullTimeHome": null,
+            "scoreFullTimeAway": null
+        },
+        "537882": {
+            "utcDate": "2025-11-01T00:00:00Z",
+            "homeTeamName": "Nottingham Forest FC",
+            "awayTeamName": "Nottingham Forest FC",
+            "homeTeamCrest": "https:\/\/crests.football-data.org\/351.png",
+            "awayTeamCrest": "https:\/\/crests.football-data.org\/66.png",
+            "scoreWinner": null,
+            "scoreFullTimeHome": null,
+            "scoreFullTimeAway": null
+        },
+        "537883": {
+            "utcDate": "2025-11-01T00:00:00Z",
+            "homeTeamName": "Tottenham Hotspur FC",
+            "awayTeamName": "Tottenham Hotspur FC",
+            "homeTeamCrest": "https:\/\/crests.football-data.org\/73.png",
+            "awayTeamCrest": "https:\/\/crests.football-data.org\/61.png",
+            "scoreWinner": null,
+            "scoreFullTimeHome": null,
+            "scoreFullTimeAway": null
+        },
+        "537884": {
+            "utcDate": "2025-11-01T00:00:00Z",
+            "homeTeamName": "West Ham United FC",
+            "awayTeamName": "West Ham United FC",
+            "homeTeamCrest": "https:\/\/crests.football-data.org\/563.png",
+            "awayTeamCrest": "https:\/\/crests.football-data.org\/67.png",
+            "scoreWinner": null,
+            "scoreFullTimeHome": null,
+            "scoreFullTimeAway": null
+        },
+        "537885": {
+            "utcDate": "2025-11-08T00:00:00Z",
+            "homeTeamName": "Sunderland AFC",
+            "awayTeamName": "Sunderland AFC",
+            "homeTeamCrest": "https:\/\/crests.football-data.org\/71.png",
+            "awayTeamCrest": "https:\/\/crests.football-data.org\/57.png",
+            "scoreWinner": null,
+            "scoreFullTimeHome": null,
+            "scoreFullTimeAway": null
+        },
+        "537886": {
+            "utcDate": "2025-11-08T00:00:00Z",
+            "homeTeamName": "Aston Villa FC",
+            "awayTeamName": "Aston Villa FC",
+            "homeTeamCrest": "https:\/\/crests.football-data.org\/58.png",
+            "awayTeamCrest": "https:\/\/crests.football-data.org\/bournemouth.png",
+            "scoreWinner": null,
+            "scoreFullTimeHome": null,
+            "scoreFullTimeAway": null
+        },
+        "537887": {
+            "utcDate": "2025-11-08T00:00:00Z",
+            "homeTeamName": "Crystal Palace FC",
+            "awayTeamName": "Crystal Palace FC",
+            "homeTeamCrest": "https:\/\/crests.football-data.org\/354.png",
+            "awayTeamCrest": "https:\/\/crests.football-data.org\/397.png",
+            "scoreWinner": null,
+            "scoreFullTimeHome": null,
+            "scoreFullTimeAway": null
+        },
+        "537888": {
+            "utcDate": "2025-11-08T00:00:00Z",
+            "homeTeamName": "Brentford FC",
+            "awayTeamName": "Brentford FC",
+            "homeTeamCrest": "https:\/\/crests.football-data.org\/402.png",
+            "awayTeamCrest": "https:\/\/crests.football-data.org\/67.png",
+            "scoreWinner": null,
+            "scoreFullTimeHome": null,
+            "scoreFullTimeAway": null
+        },
+        "537889": {
+            "utcDate": "2025-11-08T00:00:00Z",
+            "homeTeamName": "Chelsea FC",
+            "awayTeamName": "Chelsea FC",
+            "homeTeamCrest": "https:\/\/crests.football-data.org\/61.png",
+            "awayTeamCrest": "https:\/\/crests.football-data.org\/76.png",
+            "scoreWinner": null,
+            "scoreFullTimeHome": null,
+            "scoreFullTimeAway": null
+        },
+        "537890": {
+            "utcDate": "2025-11-08T00:00:00Z",
+            "homeTeamName": "Everton FC",
+            "awayTeamName": "Everton FC",
+            "homeTeamCrest": "https:\/\/crests.football-data.org\/62.png",
+            "awayTeamCrest": "https:\/\/crests.football-data.org\/63.png",
+            "scoreWinner": null,
+            "scoreFullTimeHome": null,
+            "scoreFullTimeAway": null
+        },
+        "537891": {
+            "utcDate": "2025-11-08T00:00:00Z",
+            "homeTeamName": "Manchester City FC",
+            "awayTeamName": "Manchester City FC",
+            "homeTeamCrest": "https:\/\/crests.football-data.org\/65.png",
+            "awayTeamCrest": "https:\/\/crests.football-data.org\/64.png",
+            "scoreWinner": null,
+            "scoreFullTimeHome": null,
+            "scoreFullTimeAway": null
+        },
+        "537892": {
+            "utcDate": "2025-11-08T00:00:00Z",
+            "homeTeamName": "Nottingham Forest FC",
+            "awayTeamName": "Nottingham Forest FC",
+            "homeTeamCrest": "https:\/\/crests.football-data.org\/351.png",
+            "awayTeamCrest": "https:\/\/crests.football-data.org\/341.png",
+            "scoreWinner": null,
+            "scoreFullTimeHome": null,
+            "scoreFullTimeAway": null
+        },
+        "537893": {
+            "utcDate": "2025-11-08T00:00:00Z",
+            "homeTeamName": "Tottenham Hotspur FC",
+            "awayTeamName": "Tottenham Hotspur FC",
+            "homeTeamCrest": "https:\/\/crests.football-data.org\/73.png",
+            "awayTeamCrest": "https:\/\/crests.football-data.org\/66.png",
+            "scoreWinner": null,
+            "scoreFullTimeHome": null,
+            "scoreFullTimeAway": null
+        },
+        "537894": {
+            "utcDate": "2025-11-08T00:00:00Z",
+            "homeTeamName": "West Ham United FC",
+            "awayTeamName": "West Ham United FC",
+            "homeTeamCrest": "https:\/\/crests.football-data.org\/563.png",
+            "awayTeamCrest": "https:\/\/crests.football-data.org\/328.png",
+            "scoreWinner": null,
+            "scoreFullTimeHome": null,
+            "scoreFullTimeAway": null
+        },
+        "537895": {
+            "utcDate": "2025-11-22T00:00:00Z",
+            "homeTeamName": "AFC Bournemouth",
+            "awayTeamName": "AFC Bournemouth",
+            "homeTeamCrest": "https:\/\/crests.football-data.org\/bournemouth.png",
+            "awayTeamCrest": "https:\/\/crests.football-data.org\/563.png",
+            "scoreWinner": null,
+            "scoreFullTimeHome": null,
+            "scoreFullTimeAway": null
+        },
+        "537896": {
+            "utcDate": "2025-11-22T00:00:00Z",
+            "homeTeamName": "Brighton & Hove Albion FC",
+            "awayTeamName": "Brighton & Hove Albion FC",
+            "homeTeamCrest": "https:\/\/crests.football-data.org\/397.png",
+            "awayTeamCrest": "https:\/\/crests.football-data.org\/402.png",
+            "scoreWinner": null,
+            "scoreFullTimeHome": null,
+            "scoreFullTimeAway": null
+        },
+        "537897": {
+            "utcDate": "2025-11-22T00:00:00Z",
+            "homeTeamName": "Arsenal FC",
+            "awayTeamName": "Arsenal FC",
+            "homeTeamCrest": "https:\/\/crests.football-data.org\/57.png",
+            "awayTeamCrest": "https:\/\/crests.football-data.org\/73.png",
+            "scoreWinner": null,
+            "scoreFullTimeHome": null,
+            "scoreFullTimeAway": null
+        },
+        "537898": {
+            "utcDate": "2025-11-22T00:00:00Z",
+            "homeTeamName": "Burnley FC",
+            "awayTeamName": "Burnley FC",
+            "homeTeamCrest": "https:\/\/crests.football-data.org\/328.png",
+            "awayTeamCrest": "https:\/\/crests.football-data.org\/61.png",
+            "scoreWinner": null,
+            "scoreFullTimeHome": null,
+            "scoreFullTimeAway": null
+        },
+        "537899": {
+            "utcDate": "2025-11-22T00:00:00Z",
+            "homeTeamName": "Fulham FC",
+            "awayTeamName": "Fulham FC",
+            "homeTeamCrest": "https:\/\/crests.football-data.org\/63.png",
+            "awayTeamCrest": "https:\/\/crests.football-data.org\/71.png",
+            "scoreWinner": null,
+            "scoreFullTimeHome": null,
+            "scoreFullTimeAway": null
+        },
+        "537900": {
+            "utcDate": "2025-11-22T00:00:00Z",
+            "homeTeamName": "Liverpool FC",
+            "awayTeamName": "Liverpool FC",
+            "homeTeamCrest": "https:\/\/crests.football-data.org\/64.png",
+            "awayTeamCrest": "https:\/\/crests.football-data.org\/351.png",
+            "scoreWinner": null,
+            "scoreFullTimeHome": null,
+            "scoreFullTimeAway": null
+        },
+        "537901": {
+            "utcDate": "2025-11-22T00:00:00Z",
+            "homeTeamName": "Leeds United FC",
+            "awayTeamName": "Leeds United FC",
+            "homeTeamCrest": "https:\/\/crests.football-data.org\/341.png",
+            "awayTeamCrest": "https:\/\/crests.football-data.org\/58.png",
+            "scoreWinner": null,
+            "scoreFullTimeHome": null,
+            "scoreFullTimeAway": null
+        },
+        "537902": {
+            "utcDate": "2025-11-22T00:00:00Z",
+            "homeTeamName": "Manchester United FC",
+            "awayTeamName": "Manchester United FC",
+            "homeTeamCrest": "https:\/\/crests.football-data.org\/66.png",
+            "awayTeamCrest": "https:\/\/crests.football-data.org\/62.png",
+            "scoreWinner": null,
+            "scoreFullTimeHome": null,
+            "scoreFullTimeAway": null
+        },
+        "537903": {
+            "utcDate": "2025-11-22T00:00:00Z",
+            "homeTeamName": "Newcastle United FC",
+            "awayTeamName": "Newcastle United FC",
+            "homeTeamCrest": "https:\/\/crests.football-data.org\/67.png",
+            "awayTeamCrest": "https:\/\/crests.football-data.org\/65.png",
+            "scoreWinner": null,
+            "scoreFullTimeHome": null,
+            "scoreFullTimeAway": null
+        },
+        "537904": {
+            "utcDate": "2025-11-22T00:00:00Z",
+            "homeTeamName": "Wolverhampton Wanderers FC",
+            "awayTeamName": "Wolverhampton Wanderers FC",
+            "homeTeamCrest": "https:\/\/crests.football-data.org\/76.png",
+            "awayTeamCrest": "https:\/\/crests.football-data.org\/354.png",
+            "scoreWinner": null,
+            "scoreFullTimeHome": null,
+            "scoreFullTimeAway": null
+        },
+        "537905": {
+            "utcDate": "2025-11-29T00:00:00Z",
+            "homeTeamName": "Sunderland AFC",
+            "awayTeamName": "Sunderland AFC",
+            "homeTeamCrest": "https:\/\/crests.football-data.org\/71.png",
+            "awayTeamCrest": "https:\/\/crests.football-data.org\/bournemouth.png",
+            "scoreWinner": null,
+            "scoreFullTimeHome": null,
+            "scoreFullTimeAway": null
+        },
+        "537906": {
+            "utcDate": "2025-11-29T00:00:00Z",
+            "homeTeamName": "Aston Villa FC",
+            "awayTeamName": "Aston Villa FC",
+            "homeTeamCrest": "https:\/\/crests.football-data.org\/58.png",
+            "awayTeamCrest": "https:\/\/crests.football-data.org\/76.png",
+            "scoreWinner": null,
+            "scoreFullTimeHome": null,
+            "scoreFullTimeAway": null
+        },
+        "537907": {
+            "utcDate": "2025-11-29T00:00:00Z",
+            "homeTeamName": "Crystal Palace FC",
+            "awayTeamName": "Crystal Palace FC",
+            "homeTeamCrest": "https:\/\/crests.football-data.org\/354.png",
+            "awayTeamCrest": "https:\/\/crests.football-data.org\/66.png",
+            "scoreWinner": null,
+            "scoreFullTimeHome": null,
+            "scoreFullTimeAway": null
+        },
+        "537908": {
+            "utcDate": "2025-11-29T00:00:00Z",
+            "homeTeamName": "Brentford FC",
+            "awayTeamName": "Brentford FC",
+            "homeTeamCrest": "https:\/\/crests.football-data.org\/402.png",
+            "awayTeamCrest": "https:\/\/crests.football-data.org\/328.png",
+            "scoreWinner": null,
+            "scoreFullTimeHome": null,
+            "scoreFullTimeAway": null
+        },
+        "537909": {
+            "utcDate": "2025-11-29T00:00:00Z",
+            "homeTeamName": "Chelsea FC",
+            "awayTeamName": "Chelsea FC",
+            "homeTeamCrest": "https:\/\/crests.football-data.org\/61.png",
+            "awayTeamCrest": "https:\/\/crests.football-data.org\/57.png",
+            "scoreWinner": null,
+            "scoreFullTimeHome": null,
+            "scoreFullTimeAway": null
+        },
+        "537910": {
+            "utcDate": "2025-11-29T00:00:00Z",
+            "homeTeamName": "Everton FC",
+            "awayTeamName": "Everton FC",
+            "homeTeamCrest": "https:\/\/crests.football-data.org\/62.png",
+            "awayTeamCrest": "https:\/\/crests.football-data.org\/67.png",
+            "scoreWinner": null,
+            "scoreFullTimeHome": null,
+            "scoreFullTimeAway": null
+        },
+        "537911": {
+            "utcDate": "2025-11-29T00:00:00Z",
+            "homeTeamName": "Manchester City FC",
+            "awayTeamName": "Manchester City FC",
+            "homeTeamCrest": "https:\/\/crests.football-data.org\/65.png",
+            "awayTeamCrest": "https:\/\/crests.football-data.org\/341.png",
+            "scoreWinner": null,
+            "scoreFullTimeHome": null,
+            "scoreFullTimeAway": null
+        },
+        "537912": {
+            "utcDate": "2025-11-29T00:00:00Z",
+            "homeTeamName": "Nottingham Forest FC",
+            "awayTeamName": "Nottingham Forest FC",
+            "homeTeamCrest": "https:\/\/crests.football-data.org\/351.png",
+            "awayTeamCrest": "https:\/\/crests.football-data.org\/397.png",
+            "scoreWinner": null,
+            "scoreFullTimeHome": null,
+            "scoreFullTimeAway": null
+        },
+        "537913": {
+            "utcDate": "2025-11-29T00:00:00Z",
+            "homeTeamName": "Tottenham Hotspur FC",
+            "awayTeamName": "Tottenham Hotspur FC",
+            "homeTeamCrest": "https:\/\/crests.football-data.org\/73.png",
+            "awayTeamCrest": "https:\/\/crests.football-data.org\/63.png",
+            "scoreWinner": null,
+            "scoreFullTimeHome": null,
+            "scoreFullTimeAway": null
+        },
+        "537914": {
+            "utcDate": "2025-11-29T00:00:00Z",
+            "homeTeamName": "West Ham United FC",
+            "awayTeamName": "West Ham United FC",
+            "homeTeamCrest": "https:\/\/crests.football-data.org\/563.png",
+            "awayTeamCrest": "https:\/\/crests.football-data.org\/64.png",
+            "scoreWinner": null,
+            "scoreFullTimeHome": null,
+            "scoreFullTimeAway": null
+        },
+        "537915": {
+            "utcDate": "2025-12-03T00:00:00Z",
+            "homeTeamName": "AFC Bournemouth",
+            "awayTeamName": "AFC Bournemouth",
+            "homeTeamCrest": "https:\/\/crests.football-data.org\/bournemouth.png",
+            "awayTeamCrest": "https:\/\/crests.football-data.org\/62.png",
+            "scoreWinner": null,
+            "scoreFullTimeHome": null,
+            "scoreFullTimeAway": null
+        },
+        "537916": {
+            "utcDate": "2025-12-03T00:00:00Z",
+            "homeTeamName": "Brighton & Hove Albion FC",
+            "awayTeamName": "Brighton & Hove Albion FC",
+            "homeTeamCrest": "https:\/\/crests.football-data.org\/397.png",
+            "awayTeamCrest": "https:\/\/crests.football-data.org\/58.png",
+            "scoreWinner": null,
+            "scoreFullTimeHome": null,
+            "scoreFullTimeAway": null
+        },
+        "537917": {
+            "utcDate": "2025-12-03T00:00:00Z",
+            "homeTeamName": "Arsenal FC",
+            "awayTeamName": "Arsenal FC",
+            "homeTeamCrest": "https:\/\/crests.football-data.org\/57.png",
+            "awayTeamCrest": "https:\/\/crests.football-data.org\/402.png",
+            "scoreWinner": null,
+            "scoreFullTimeHome": null,
+            "scoreFullTimeAway": null
+        },
+        "537918": {
+            "utcDate": "2025-12-03T00:00:00Z",
+            "homeTeamName": "Burnley FC",
+            "awayTeamName": "Burnley FC",
+            "homeTeamCrest": "https:\/\/crests.football-data.org\/328.png",
+            "awayTeamCrest": "https:\/\/crests.football-data.org\/354.png",
+            "scoreWinner": null,
+            "scoreFullTimeHome": null,
+            "scoreFullTimeAway": null
+        },
+        "537919": {
+            "utcDate": "2025-12-03T00:00:00Z",
+            "homeTeamName": "Fulham FC",
+            "awayTeamName": "Fulham FC",
+            "homeTeamCrest": "https:\/\/crests.football-data.org\/63.png",
+            "awayTeamCrest": "https:\/\/crests.football-data.org\/65.png",
+            "scoreWinner": null,
+            "scoreFullTimeHome": null,
+            "scoreFullTimeAway": null
+        },
+        "537920": {
+            "utcDate": "2025-12-03T00:00:00Z",
+            "homeTeamName": "Liverpool FC",
+            "awayTeamName": "Liverpool FC",
+            "homeTeamCrest": "https:\/\/crests.football-data.org\/64.png",
+            "awayTeamCrest": "https:\/\/crests.football-data.org\/71.png",
+            "scoreWinner": null,
+            "scoreFullTimeHome": null,
+            "scoreFullTimeAway": null
+        },
+        "537921": {
+            "utcDate": "2025-12-03T00:00:00Z",
+            "homeTeamName": "Leeds United FC",
+            "awayTeamName": "Leeds United FC",
+            "homeTeamCrest": "https:\/\/crests.football-data.org\/341.png",
+            "awayTeamCrest": "https:\/\/crests.football-data.org\/61.png",
+            "scoreWinner": null,
+            "scoreFullTimeHome": null,
+            "scoreFullTimeAway": null
+        },
+        "537922": {
+            "utcDate": "2025-12-03T00:00:00Z",
+            "homeTeamName": "Manchester United FC",
+            "awayTeamName": "Manchester United FC",
+            "homeTeamCrest": "https:\/\/crests.football-data.org\/66.png",
+            "awayTeamCrest": "https:\/\/crests.football-data.org\/563.png",
+            "scoreWinner": null,
+            "scoreFullTimeHome": null,
+            "scoreFullTimeAway": null
+        },
+        "537923": {
+            "utcDate": "2025-12-03T00:00:00Z",
+            "homeTeamName": "Newcastle United FC",
+            "awayTeamName": "Newcastle United FC",
+            "homeTeamCrest": "https:\/\/crests.football-data.org\/67.png",
+            "awayTeamCrest": "https:\/\/crests.football-data.org\/73.png",
+            "scoreWinner": null,
+            "scoreFullTimeHome": null,
+            "scoreFullTimeAway": null
+        },
+        "537924": {
+            "utcDate": "2025-12-03T00:00:00Z",
+            "homeTeamName": "Wolverhampton Wanderers FC",
+            "awayTeamName": "Wolverhampton Wanderers FC",
+            "homeTeamCrest": "https:\/\/crests.football-data.org\/76.png",
+            "awayTeamCrest": "https:\/\/crests.football-data.org\/351.png",
+            "scoreWinner": null,
+            "scoreFullTimeHome": null,
+            "scoreFullTimeAway": null
+        },
+        "537925": {
+            "utcDate": "2025-12-06T00:00:00Z",
+            "homeTeamName": "AFC Bournemouth",
+            "awayTeamName": "AFC Bournemouth",
+            "homeTeamCrest": "https:\/\/crests.football-data.org\/bournemouth.png",
+            "awayTeamCrest": "https:\/\/crests.football-data.org\/61.png",
+            "scoreWinner": null,
+            "scoreFullTimeHome": null,
+            "scoreFullTimeAway": null
+        },
+        "537926": {
+            "utcDate": "2025-12-06T00:00:00Z",
+            "homeTeamName": "Aston Villa FC",
+            "awayTeamName": "Aston Villa FC",
+            "homeTeamCrest": "https:\/\/crests.football-data.org\/58.png",
+            "awayTeamCrest": "https:\/\/crests.football-data.org\/57.png",
+            "scoreWinner": null,
+            "scoreFullTimeHome": null,
+            "scoreFullTimeAway": null
+        },
+        "537927": {
+            "utcDate": "2025-12-06T00:00:00Z",
+            "homeTeamName": "Brighton & Hove Albion FC",
+            "awayTeamName": "Brighton & Hove Albion FC",
+            "homeTeamCrest": "https:\/\/crests.football-data.org\/397.png",
+            "awayTeamCrest": "https:\/\/crests.football-data.org\/563.png",
+            "scoreWinner": null,
+            "scoreFullTimeHome": null,
+            "scoreFullTimeAway": null
+        },
+        "537928": {
+            "utcDate": "2025-12-06T00:00:00Z",
+            "homeTeamName": "Everton FC",
+            "awayTeamName": "Everton FC",
+            "homeTeamCrest": "https:\/\/crests.football-data.org\/62.png",
+            "awayTeamCrest": "https:\/\/crests.football-data.org\/351.png",
+            "scoreWinner": null,
+            "scoreFullTimeHome": null,
+            "scoreFullTimeAway": null
+        },
+        "537929": {
+            "utcDate": "2025-12-06T00:00:00Z",
+            "homeTeamName": "Fulham FC",
+            "awayTeamName": "Fulham FC",
+            "homeTeamCrest": "https:\/\/crests.football-data.org\/63.png",
+            "awayTeamCrest": "https:\/\/crests.football-data.org\/354.png",
+            "scoreWinner": null,
+            "scoreFullTimeHome": null,
+            "scoreFullTimeAway": null
+        },
+        "537930": {
+            "utcDate": "2025-12-06T00:00:00Z",
+            "homeTeamName": "Leeds United FC",
+            "awayTeamName": "Leeds United FC",
+            "homeTeamCrest": "https:\/\/crests.football-data.org\/341.png",
+            "awayTeamCrest": "https:\/\/crests.football-data.org\/64.png",
+            "scoreWinner": null,
+            "scoreFullTimeHome": null,
+            "scoreFullTimeAway": null
+        },
+        "537931": {
+            "utcDate": "2025-12-06T00:00:00Z",
+            "homeTeamName": "Manchester City FC",
+            "awayTeamName": "Manchester City FC",
+            "homeTeamCrest": "https:\/\/crests.football-data.org\/65.png",
+            "awayTeamCrest": "https:\/\/crests.football-data.org\/71.png",
+            "scoreWinner": null,
+            "scoreFullTimeHome": null,
+            "scoreFullTimeAway": null
+        },
+        "537932": {
+            "utcDate": "2025-12-06T00:00:00Z",
+            "homeTeamName": "Newcastle United FC",
+            "awayTeamName": "Newcastle United FC",
+            "homeTeamCrest": "https:\/\/crests.football-data.org\/67.png",
+            "awayTeamCrest": "https:\/\/crests.football-data.org\/328.png",
+            "scoreWinner": null,
+            "scoreFullTimeHome": null,
+            "scoreFullTimeAway": null
+        },
+        "537933": {
+            "utcDate": "2025-12-06T00:00:00Z",
+            "homeTeamName": "Tottenham Hotspur FC",
+            "awayTeamName": "Tottenham Hotspur FC",
+            "homeTeamCrest": "https:\/\/crests.football-data.org\/73.png",
+            "awayTeamCrest": "https:\/\/crests.football-data.org\/402.png",
+            "scoreWinner": null,
+            "scoreFullTimeHome": null,
+            "scoreFullTimeAway": null
+        },
+        "537934": {
+            "utcDate": "2025-12-06T00:00:00Z",
+            "homeTeamName": "Wolverhampton Wanderers FC",
+            "awayTeamName": "Wolverhampton Wanderers FC",
+            "homeTeamCrest": "https:\/\/crests.football-data.org\/76.png",
+            "awayTeamCrest": "https:\/\/crests.football-data.org\/66.png",
+            "scoreWinner": null,
+            "scoreFullTimeHome": null,
+            "scoreFullTimeAway": null
+        },
+        "537935": {
+            "utcDate": "2025-12-13T00:00:00Z",
+            "homeTeamName": "Sunderland AFC",
+            "awayTeamName": "Sunderland AFC",
+            "homeTeamCrest": "https:\/\/crests.football-data.org\/71.png",
+            "awayTeamCrest": "https:\/\/crests.football-data.org\/67.png",
+            "scoreWinner": null,
+            "scoreFullTimeHome": null,
+            "scoreFullTimeAway": null
+        },
+        "537936": {
+            "utcDate": "2025-12-13T00:00:00Z",
+            "homeTeamName": "Crystal Palace FC",
+            "awayTeamName": "Crystal Palace FC",
+            "homeTeamCrest": "https:\/\/crests.football-data.org\/354.png",
+            "awayTeamCrest": "https:\/\/crests.football-data.org\/65.png",
+            "scoreWinner": null,
+            "scoreFullTimeHome": null,
+            "scoreFullTimeAway": null
+        },
+        "537937": {
+            "utcDate": "2025-12-13T00:00:00Z",
+            "homeTeamName": "Arsenal FC",
+            "awayTeamName": "Arsenal FC",
+            "homeTeamCrest": "https:\/\/crests.football-data.org\/57.png",
+            "awayTeamCrest": "https:\/\/crests.football-data.org\/76.png",
+            "scoreWinner": null,
+            "scoreFullTimeHome": null,
+            "scoreFullTimeAway": null
+        },
+        "537938": {
+            "utcDate": "2025-12-13T00:00:00Z",
+            "homeTeamName": "Brentford FC",
+            "awayTeamName": "Brentford FC",
+            "homeTeamCrest": "https:\/\/crests.football-data.org\/402.png",
+            "awayTeamCrest": "https:\/\/crests.football-data.org\/341.png",
+            "scoreWinner": null,
+            "scoreFullTimeHome": null,
+            "scoreFullTimeAway": null
+        },
+        "537939": {
+            "utcDate": "2025-12-13T00:00:00Z",
+            "homeTeamName": "Burnley FC",
+            "awayTeamName": "Burnley FC",
+            "homeTeamCrest": "https:\/\/crests.football-data.org\/328.png",
+            "awayTeamCrest": "https:\/\/crests.football-data.org\/63.png",
+            "scoreWinner": null,
+            "scoreFullTimeHome": null,
+            "scoreFullTimeAway": null
+        },
+        "537940": {
+            "utcDate": "2025-12-13T00:00:00Z",
+            "homeTeamName": "Chelsea FC",
+            "awayTeamName": "Chelsea FC",
+            "homeTeamCrest": "https:\/\/crests.football-data.org\/61.png",
+            "awayTeamCrest": "https:\/\/crests.football-data.org\/62.png",
+            "scoreWinner": null,
+            "scoreFullTimeHome": null,
+            "scoreFullTimeAway": null
+        },
+        "537941": {
+            "utcDate": "2025-12-13T00:00:00Z",
+            "homeTeamName": "Liverpool FC",
+            "awayTeamName": "Liverpool FC",
+            "homeTeamCrest": "https:\/\/crests.football-data.org\/64.png",
+            "awayTeamCrest": "https:\/\/crests.football-data.org\/397.png",
+            "scoreWinner": null,
+            "scoreFullTimeHome": null,
+            "scoreFullTimeAway": null
+        },
+        "537942": {
+            "utcDate": "2025-12-13T00:00:00Z",
+            "homeTeamName": "Manchester United FC",
+            "awayTeamName": "Manchester United FC",
+            "homeTeamCrest": "https:\/\/crests.football-data.org\/66.png",
+            "awayTeamCrest": "https:\/\/crests.football-data.org\/bournemouth.png",
+            "scoreWinner": null,
+            "scoreFullTimeHome": null,
+            "scoreFullTimeAway": null
+        },
+        "537943": {
+            "utcDate": "2025-12-13T00:00:00Z",
+            "homeTeamName": "Nottingham Forest FC",
+            "awayTeamName": "Nottingham Forest FC",
+            "homeTeamCrest": "https:\/\/crests.football-data.org\/351.png",
+            "awayTeamCrest": "https:\/\/crests.football-data.org\/73.png",
+            "scoreWinner": null,
+            "scoreFullTimeHome": null,
+            "scoreFullTimeAway": null
+        },
+        "537944": {
+            "utcDate": "2025-12-13T00:00:00Z",
+            "homeTeamName": "West Ham United FC",
+            "awayTeamName": "West Ham United FC",
+            "homeTeamCrest": "https:\/\/crests.football-data.org\/563.png",
+            "awayTeamCrest": "https:\/\/crests.football-data.org\/58.png",
+            "scoreWinner": null,
+            "scoreFullTimeHome": null,
+            "scoreFullTimeAway": null
+        },
+        "537945": {
+            "utcDate": "2025-12-20T00:00:00Z",
+            "homeTeamName": "AFC Bournemouth",
+            "awayTeamName": "AFC Bournemouth",
+            "homeTeamCrest": "https:\/\/crests.football-data.org\/bournemouth.png",
+            "awayTeamCrest": "https:\/\/crests.football-data.org\/328.png",
+            "scoreWinner": null,
+            "scoreFullTimeHome": null,
+            "scoreFullTimeAway": null
+        },
+        "537946": {
+            "utcDate": "2025-12-20T00:00:00Z",
+            "homeTeamName": "Aston Villa FC",
+            "awayTeamName": "Aston Villa FC",
+            "homeTeamCrest": "https:\/\/crests.football-data.org\/58.png",
+            "awayTeamCrest": "https:\/\/crests.football-data.org\/66.png",
+            "scoreWinner": null,
+            "scoreFullTimeHome": null,
+            "scoreFullTimeAway": null
+        },
+        "537947": {
+            "utcDate": "2025-12-20T00:00:00Z",
+            "homeTeamName": "Brighton & Hove Albion FC",
+            "awayTeamName": "Brighton & Hove Albion FC",
+            "homeTeamCrest": "https:\/\/crests.football-data.org\/397.png",
+            "awayTeamCrest": "https:\/\/crests.football-data.org\/71.png",
+            "scoreWinner": null,
+            "scoreFullTimeHome": null,
+            "scoreFullTimeAway": null
+        },
+        "537948": {
+            "utcDate": "2025-12-20T00:00:00Z",
+            "homeTeamName": "Everton FC",
+            "awayTeamName": "Everton FC",
+            "homeTeamCrest": "https:\/\/crests.football-data.org\/62.png",
+            "awayTeamCrest": "https:\/\/crests.football-data.org\/57.png",
+            "scoreWinner": null,
+            "scoreFullTimeHome": null,
+            "scoreFullTimeAway": null
+        },
+        "537949": {
+            "utcDate": "2025-12-20T00:00:00Z",
+            "homeTeamName": "Fulham FC",
+            "awayTeamName": "Fulham FC",
+            "homeTeamCrest": "https:\/\/crests.football-data.org\/63.png",
+            "awayTeamCrest": "https:\/\/crests.football-data.org\/351.png",
+            "scoreWinner": null,
+            "scoreFullTimeHome": null,
+            "scoreFullTimeAway": null
+        },
+        "537950": {
+            "utcDate": "2025-12-20T00:00:00Z",
+            "homeTeamName": "Leeds United FC",
+            "awayTeamName": "Leeds United FC",
+            "homeTeamCrest": "https:\/\/crests.football-data.org\/341.png",
+            "awayTeamCrest": "https:\/\/crests.football-data.org\/354.png",
+            "scoreWinner": null,
+            "scoreFullTimeHome": null,
+            "scoreFullTimeAway": null
+        },
+        "537951": {
+            "utcDate": "2025-12-20T00:00:00Z",
+            "homeTeamName": "Manchester City FC",
+            "awayTeamName": "Manchester City FC",
+            "homeTeamCrest": "https:\/\/crests.football-data.org\/65.png",
+            "awayTeamCrest": "https:\/\/crests.football-data.org\/563.png",
+            "scoreWinner": null,
+            "scoreFullTimeHome": null,
+            "scoreFullTimeAway": null
+        },
+        "537952": {
+            "utcDate": "2025-12-20T00:00:00Z",
+            "homeTeamName": "Newcastle United FC",
+            "awayTeamName": "Newcastle United FC",
+            "homeTeamCrest": "https:\/\/crests.football-data.org\/67.png",
+            "awayTeamCrest": "https:\/\/crests.football-data.org\/61.png",
+            "scoreWinner": null,
+            "scoreFullTimeHome": null,
+            "scoreFullTimeAway": null
+        },
+        "537953": {
+            "utcDate": "2025-12-20T00:00:00Z",
+            "homeTeamName": "Tottenham Hotspur FC",
+            "awayTeamName": "Tottenham Hotspur FC",
+            "homeTeamCrest": "https:\/\/crests.football-data.org\/73.png",
+            "awayTeamCrest": "https:\/\/crests.football-data.org\/64.png",
+            "scoreWinner": null,
+            "scoreFullTimeHome": null,
+            "scoreFullTimeAway": null
+        },
+        "537954": {
+            "utcDate": "2025-12-20T00:00:00Z",
+            "homeTeamName": "Wolverhampton Wanderers FC",
+            "awayTeamName": "Wolverhampton Wanderers FC",
+            "homeTeamCrest": "https:\/\/crests.football-data.org\/76.png",
+            "awayTeamCrest": "https:\/\/crests.football-data.org\/402.png",
+            "scoreWinner": null,
+            "scoreFullTimeHome": null,
+            "scoreFullTimeAway": null
+        },
+        "537955": {
+            "utcDate": "2025-12-27T00:00:00Z",
+            "homeTeamName": "Sunderland AFC",
+            "awayTeamName": "Sunderland AFC",
+            "homeTeamCrest": "https:\/\/crests.football-data.org\/71.png",
+            "awayTeamCrest": "https:\/\/crests.football-data.org\/341.png",
+            "scoreWinner": null,
+            "scoreFullTimeHome": null,
+            "scoreFullTimeAway": null
+        },
+        "537956": {
+            "utcDate": "2025-12-27T00:00:00Z",
+            "homeTeamName": "Crystal Palace FC",
+            "awayTeamName": "Crystal Palace FC",
+            "homeTeamCrest": "https:\/\/crests.football-data.org\/354.png",
+            "awayTeamCrest": "https:\/\/crests.football-data.org\/73.png",
+            "scoreWinner": null,
+            "scoreFullTimeHome": null,
+            "scoreFullTimeAway": null
+        },
+        "537957": {
+            "utcDate": "2025-12-27T00:00:00Z",
+            "homeTeamName": "Arsenal FC",
+            "awayTeamName": "Arsenal FC",
+            "homeTeamCrest": "https:\/\/crests.football-data.org\/57.png",
+            "awayTeamCrest": "https:\/\/crests.football-data.org\/397.png",
+            "scoreWinner": null,
+            "scoreFullTimeHome": null,
+            "scoreFullTimeAway": null
+        },
+        "537958": {
+            "utcDate": "2025-12-27T00:00:00Z",
+            "homeTeamName": "Brentford FC",
+            "awayTeamName": "Brentford FC",
+            "homeTeamCrest": "https:\/\/crests.football-data.org\/402.png",
+            "awayTeamCrest": "https:\/\/crests.football-data.org\/bournemouth.png",
+            "scoreWinner": null,
+            "scoreFullTimeHome": null,
+            "scoreFullTimeAway": null
+        },
+        "537959": {
+            "utcDate": "2025-12-27T00:00:00Z",
+            "homeTeamName": "Burnley FC",
+            "awayTeamName": "Burnley FC",
+            "homeTeamCrest": "https:\/\/crests.football-data.org\/328.png",
+            "awayTeamCrest": "https:\/\/crests.football-data.org\/62.png",
+            "scoreWinner": null,
+            "scoreFullTimeHome": null,
+            "scoreFullTimeAway": null
+        },
+        "537960": {
+            "utcDate": "2025-12-27T00:00:00Z",
+            "homeTeamName": "Chelsea FC",
+            "awayTeamName": "Chelsea FC",
+            "homeTeamCrest": "https:\/\/crests.football-data.org\/61.png",
+            "awayTeamCrest": "https:\/\/crests.football-data.org\/58.png",
+            "scoreWinner": null,
+            "scoreFullTimeHome": null,
+            "scoreFullTimeAway": null
+        },
+        "537961": {
+            "utcDate": "2025-12-27T00:00:00Z",
+            "homeTeamName": "Liverpool FC",
+            "awayTeamName": "Liverpool FC",
+            "homeTeamCrest": "https:\/\/crests.football-data.org\/64.png",
+            "awayTeamCrest": "https:\/\/crests.football-data.org\/76.png",
+            "scoreWinner": null,
+            "scoreFullTimeHome": null,
+            "scoreFullTimeAway": null
+        },
+        "537962": {
+            "utcDate": "2025-12-27T00:00:00Z",
+            "homeTeamName": "Manchester United FC",
+            "awayTeamName": "Manchester United FC",
+            "homeTeamCrest": "https:\/\/crests.football-data.org\/66.png",
+            "awayTeamCrest": "https:\/\/crests.football-data.org\/67.png",
+            "scoreWinner": null,
+            "scoreFullTimeHome": null,
+            "scoreFullTimeAway": null
+        },
+        "537963": {
+            "utcDate": "2025-12-27T00:00:00Z",
+            "homeTeamName": "Nottingham Forest FC",
+            "awayTeamName": "Nottingham Forest FC",
+            "homeTeamCrest": "https:\/\/crests.football-data.org\/351.png",
+            "awayTeamCrest": "https:\/\/crests.football-data.org\/65.png",
+            "scoreWinner": null,
+            "scoreFullTimeHome": null,
+            "scoreFullTimeAway": null
+        },
+        "537964": {
+            "utcDate": "2025-12-27T00:00:00Z",
+            "homeTeamName": "West Ham United FC",
+            "awayTeamName": "West Ham United FC",
+            "homeTeamCrest": "https:\/\/crests.football-data.org\/563.png",
+            "awayTeamCrest": "https:\/\/crests.football-data.org\/63.png",
+            "scoreWinner": null,
+            "scoreFullTimeHome": null,
+            "scoreFullTimeAway": null
+        },
+        "537965": {
+            "utcDate": "2025-12-30T00:00:00Z",
+            "homeTeamName": "Sunderland AFC",
+            "awayTeamName": "Sunderland AFC",
+            "homeTeamCrest": "https:\/\/crests.football-data.org\/71.png",
+            "awayTeamCrest": "https:\/\/crests.football-data.org\/65.png",
+            "scoreWinner": null,
+            "scoreFullTimeHome": null,
+            "scoreFullTimeAway": null
+        },
+        "537966": {
+            "utcDate": "2025-12-30T00:00:00Z",
+            "homeTeamName": "Crystal Palace FC",
+            "awayTeamName": "Crystal Palace FC",
+            "homeTeamCrest": "https:\/\/crests.football-data.org\/354.png",
+            "awayTeamCrest": "https:\/\/crests.football-data.org\/63.png",
+            "scoreWinner": null,
+            "scoreFullTimeHome": null,
+            "scoreFullTimeAway": null
+        },
+        "537967": {
+            "utcDate": "2025-12-30T00:00:00Z",
+            "homeTeamName": "Arsenal FC",
+            "awayTeamName": "Arsenal FC",
+            "homeTeamCrest": "https:\/\/crests.football-data.org\/57.png",
+            "awayTeamCrest": "https:\/\/crests.football-data.org\/58.png",
+            "scoreWinner": null,
+            "scoreFullTimeHome": null,
+            "scoreFullTimeAway": null
+        },
+        "537968": {
+            "utcDate": "2025-12-30T00:00:00Z",
+            "homeTeamName": "Brentford FC",
+            "awayTeamName": "Brentford FC",
+            "homeTeamCrest": "https:\/\/crests.football-data.org\/402.png",
+            "awayTeamCrest": "https:\/\/crests.football-data.org\/73.png",
+            "scoreWinner": null,
+            "scoreFullTimeHome": null,
+            "scoreFullTimeAway": null
+        },
+        "537969": {
+            "utcDate": "2025-12-30T00:00:00Z",
+            "homeTeamName": "Burnley FC",
+            "awayTeamName": "Burnley FC",
+            "homeTeamCrest": "https:\/\/crests.football-data.org\/328.png",
+            "awayTeamCrest": "https:\/\/crests.football-data.org\/67.png",
+            "scoreWinner": null,
+            "scoreFullTimeHome": null,
+            "scoreFullTimeAway": null
+        },
+        "537970": {
+            "utcDate": "2025-12-30T00:00:00Z",
+            "homeTeamName": "Chelsea FC",
+            "awayTeamName": "Chelsea FC",
+            "homeTeamCrest": "https:\/\/crests.football-data.org\/61.png",
+            "awayTeamCrest": "https:\/\/crests.football-data.org\/bournemouth.png",
+            "scoreWinner": null,
+            "scoreFullTimeHome": null,
+            "scoreFullTimeAway": null
+        },
+        "537971": {
+            "utcDate": "2025-12-30T00:00:00Z",
+            "homeTeamName": "Liverpool FC",
+            "awayTeamName": "Liverpool FC",
+            "homeTeamCrest": "https:\/\/crests.football-data.org\/64.png",
+            "awayTeamCrest": "https:\/\/crests.football-data.org\/341.png",
+            "scoreWinner": null,
+            "scoreFullTimeHome": null,
+            "scoreFullTimeAway": null
+        },
+        "537972": {
+            "utcDate": "2025-12-30T00:00:00Z",
+            "homeTeamName": "Manchester United FC",
+            "awayTeamName": "Manchester United FC",
+            "homeTeamCrest": "https:\/\/crests.football-data.org\/66.png",
+            "awayTeamCrest": "https:\/\/crests.football-data.org\/76.png",
+            "scoreWinner": null,
+            "scoreFullTimeHome": null,
+            "scoreFullTimeAway": null
+        },
+        "537973": {
+            "utcDate": "2025-12-30T00:00:00Z",
+            "homeTeamName": "Nottingham Forest FC",
+            "awayTeamName": "Nottingham Forest FC",
+            "homeTeamCrest": "https:\/\/crests.football-data.org\/351.png",
+            "awayTeamCrest": "https:\/\/crests.football-data.org\/62.png",
+            "scoreWinner": null,
+            "scoreFullTimeHome": null,
+            "scoreFullTimeAway": null
+        },
+        "537974": {
+            "utcDate": "2025-12-30T00:00:00Z",
+            "homeTeamName": "West Ham United FC",
+            "awayTeamName": "West Ham United FC",
+            "homeTeamCrest": "https:\/\/crests.football-data.org\/563.png",
+            "awayTeamCrest": "https:\/\/crests.football-data.org\/397.png",
+            "scoreWinner": null,
+            "scoreFullTimeHome": null,
+            "scoreFullTimeAway": null
+        },
+        "537975": {
+            "utcDate": "2026-01-03T00:00:00Z",
+            "homeTeamName": "AFC Bournemouth",
+            "awayTeamName": "AFC Bournemouth",
+            "homeTeamCrest": "https:\/\/crests.football-data.org\/bournemouth.png",
+            "awayTeamCrest": "https:\/\/crests.football-data.org\/57.png",
+            "scoreWinner": null,
+            "scoreFullTimeHome": null,
+            "scoreFullTimeAway": null
+        },
+        "537976": {
+            "utcDate": "2026-01-03T00:00:00Z",
+            "homeTeamName": "Aston Villa FC",
+            "awayTeamName": "Aston Villa FC",
+            "homeTeamCrest": "https:\/\/crests.football-data.org\/58.png",
+            "awayTeamCrest": "https:\/\/crests.football-data.org\/351.png",
+            "scoreWinner": null,
+            "scoreFullTimeHome": null,
+            "scoreFullTimeAway": null
+        },
+        "537977": {
+            "utcDate": "2026-01-03T00:00:00Z",
+            "homeTeamName": "Brighton & Hove Albion FC",
+            "awayTeamName": "Brighton & Hove Albion FC",
+            "homeTeamCrest": "https:\/\/crests.football-data.org\/397.png",
+            "awayTeamCrest": "https:\/\/crests.football-data.org\/328.png",
+            "scoreWinner": null,
+            "scoreFullTimeHome": null,
+            "scoreFullTimeAway": null
+        },
+        "537978": {
+            "utcDate": "2026-01-03T00:00:00Z",
+            "homeTeamName": "Everton FC",
+            "awayTeamName": "Everton FC",
+            "homeTeamCrest": "https:\/\/crests.football-data.org\/62.png",
+            "awayTeamCrest": "https:\/\/crests.football-data.org\/402.png",
+            "scoreWinner": null,
+            "scoreFullTimeHome": null,
+            "scoreFullTimeAway": null
+        },
+        "537979": {
+            "utcDate": "2026-01-03T00:00:00Z",
+            "homeTeamName": "Fulham FC",
+            "awayTeamName": "Fulham FC",
+            "homeTeamCrest": "https:\/\/crests.football-data.org\/63.png",
+            "awayTeamCrest": "https:\/\/crests.football-data.org\/64.png",
+            "scoreWinner": null,
+            "scoreFullTimeHome": null,
+            "scoreFullTimeAway": null
+        },
+        "537980": {
+            "utcDate": "2026-01-03T00:00:00Z",
+            "homeTeamName": "Leeds United FC",
+            "awayTeamName": "Leeds United FC",
+            "homeTeamCrest": "https:\/\/crests.football-data.org\/341.png",
+            "awayTeamCrest": "https:\/\/crests.football-data.org\/66.png",
+            "scoreWinner": null,
+            "scoreFullTimeHome": null,
+            "scoreFullTimeAway": null
+        },
+        "537981": {
+            "utcDate": "2026-01-03T00:00:00Z",
+            "homeTeamName": "Manchester City FC",
+            "awayTeamName": "Manchester City FC",
+            "homeTeamCrest": "https:\/\/crests.football-data.org\/65.png",
+            "awayTeamCrest": "https:\/\/crests.football-data.org\/61.png",
+            "scoreWinner": null,
+            "scoreFullTimeHome": null,
+            "scoreFullTimeAway": null
+        },
+        "537982": {
+            "utcDate": "2026-01-03T00:00:00Z",
+            "homeTeamName": "Newcastle United FC",
+            "awayTeamName": "Newcastle United FC",
+            "homeTeamCrest": "https:\/\/crests.football-data.org\/67.png",
+            "awayTeamCrest": "https:\/\/crests.football-data.org\/354.png",
+            "scoreWinner": null,
+            "scoreFullTimeHome": null,
+            "scoreFullTimeAway": null
+        },
+        "537983": {
+            "utcDate": "2026-01-03T00:00:00Z",
+            "homeTeamName": "Tottenham Hotspur FC",
+            "awayTeamName": "Tottenham Hotspur FC",
+            "homeTeamCrest": "https:\/\/crests.football-data.org\/73.png",
+            "awayTeamCrest": "https:\/\/crests.football-data.org\/71.png",
+            "scoreWinner": null,
+            "scoreFullTimeHome": null,
+            "scoreFullTimeAway": null
+        },
+        "537984": {
+            "utcDate": "2026-01-03T00:00:00Z",
+            "homeTeamName": "Wolverhampton Wanderers FC",
+            "awayTeamName": "Wolverhampton Wanderers FC",
+            "homeTeamCrest": "https:\/\/crests.football-data.org\/76.png",
+            "awayTeamCrest": "https:\/\/crests.football-data.org\/563.png",
+            "scoreWinner": null,
+            "scoreFullTimeHome": null,
+            "scoreFullTimeAway": null
+        },
+        "537985": {
+            "utcDate": "2026-01-07T00:00:00Z",
+            "homeTeamName": "AFC Bournemouth",
+            "awayTeamName": "AFC Bournemouth",
+            "homeTeamCrest": "https:\/\/crests.football-data.org\/bournemouth.png",
+            "awayTeamCrest": "https:\/\/crests.football-data.org\/73.png",
+            "scoreWinner": null,
+            "scoreFullTimeHome": null,
+            "scoreFullTimeAway": null
+        },
+        "537986": {
+            "utcDate": "2026-01-07T00:00:00Z",
+            "homeTeamName": "Crystal Palace FC",
+            "awayTeamName": "Crystal Palace FC",
+            "homeTeamCrest": "https:\/\/crests.football-data.org\/354.png",
+            "awayTeamCrest": "https:\/\/crests.football-data.org\/58.png",
+            "scoreWinner": null,
+            "scoreFullTimeHome": null,
+            "scoreFullTimeAway": null
+        },
+        "537987": {
+            "utcDate": "2026-01-07T00:00:00Z",
+            "homeTeamName": "Arsenal FC",
+            "awayTeamName": "Arsenal FC",
+            "homeTeamCrest": "https:\/\/crests.football-data.org\/57.png",
+            "awayTeamCrest": "https:\/\/crests.football-data.org\/64.png",
+            "scoreWinner": null,
+            "scoreFullTimeHome": null,
+            "scoreFullTimeAway": null
+        },
+        "537988": {
+            "utcDate": "2026-01-07T00:00:00Z",
+            "homeTeamName": "Brentford FC",
+            "awayTeamName": "Brentford FC",
+            "homeTeamCrest": "https:\/\/crests.football-data.org\/402.png",
+            "awayTeamCrest": "https:\/\/crests.football-data.org\/71.png",
+            "scoreWinner": null,
+            "scoreFullTimeHome": null,
+            "scoreFullTimeAway": null
+        },
+        "537989": {
+            "utcDate": "2026-01-07T00:00:00Z",
+            "homeTeamName": "Burnley FC",
+            "awayTeamName": "Burnley FC",
+            "homeTeamCrest": "https:\/\/crests.football-data.org\/328.png",
+            "awayTeamCrest": "https:\/\/crests.football-data.org\/66.png",
+            "scoreWinner": null,
+            "scoreFullTimeHome": null,
+            "scoreFullTimeAway": null
+        },
+        "537990": {
+            "utcDate": "2026-01-07T00:00:00Z",
+            "homeTeamName": "Everton FC",
+            "awayTeamName": "Everton FC",
+            "homeTeamCrest": "https:\/\/crests.football-data.org\/62.png",
+            "awayTeamCrest": "https:\/\/crests.football-data.org\/76.png",
+            "scoreWinner": null,
+            "scoreFullTimeHome": null,
+            "scoreFullTimeAway": null
+        },
+        "537991": {
+            "utcDate": "2026-01-07T00:00:00Z",
+            "homeTeamName": "Fulham FC",
+            "awayTeamName": "Fulham FC",
+            "homeTeamCrest": "https:\/\/crests.football-data.org\/63.png",
+            "awayTeamCrest": "https:\/\/crests.football-data.org\/61.png",
+            "scoreWinner": null,
+            "scoreFullTimeHome": null,
+            "scoreFullTimeAway": null
+        },
+        "537992": {
+            "utcDate": "2026-01-07T00:00:00Z",
+            "homeTeamName": "Manchester City FC",
+            "awayTeamName": "Manchester City FC",
+            "homeTeamCrest": "https:\/\/crests.football-data.org\/65.png",
+            "awayTeamCrest": "https:\/\/crests.football-data.org\/397.png",
+            "scoreWinner": null,
+            "scoreFullTimeHome": null,
+            "scoreFullTimeAway": null
+        },
+        "537993": {
+            "utcDate": "2026-01-07T00:00:00Z",
+            "homeTeamName": "Newcastle United FC",
+            "awayTeamName": "Newcastle United FC",
+            "homeTeamCrest": "https:\/\/crests.football-data.org\/67.png",
+            "awayTeamCrest": "https:\/\/crests.football-data.org\/341.png",
+            "scoreWinner": null,
+            "scoreFullTimeHome": null,
+            "scoreFullTimeAway": null
+        },
+        "537994": {
+            "utcDate": "2026-01-07T00:00:00Z",
+            "homeTeamName": "West Ham United FC",
+            "awayTeamName": "West Ham United FC",
+            "homeTeamCrest": "https:\/\/crests.football-data.org\/563.png",
+            "awayTeamCrest": "https:\/\/crests.football-data.org\/351.png",
+            "scoreWinner": null,
+            "scoreFullTimeHome": null,
+            "scoreFullTimeAway": null
+        },
+        "537995": {
+            "utcDate": "2026-01-17T00:00:00Z",
+            "homeTeamName": "Sunderland AFC",
+            "awayTeamName": "Sunderland AFC",
+            "homeTeamCrest": "https:\/\/crests.football-data.org\/71.png",
+            "awayTeamCrest": "https:\/\/crests.football-data.org\/354.png",
+            "scoreWinner": null,
+            "scoreFullTimeHome": null,
+            "scoreFullTimeAway": null
+        },
+        "537996": {
+            "utcDate": "2026-01-17T00:00:00Z",
+            "homeTeamName": "Aston Villa FC",
+            "awayTeamName": "Aston Villa FC",
+            "homeTeamCrest": "https:\/\/crests.football-data.org\/58.png",
+            "awayTeamCrest": "https:\/\/crests.football-data.org\/62.png",
+            "scoreWinner": null,
+            "scoreFullTimeHome": null,
+            "scoreFullTimeAway": null
+        },
+        "537997": {
+            "utcDate": "2026-01-17T00:00:00Z",
+            "homeTeamName": "Brighton & Hove Albion FC",
+            "awayTeamName": "Brighton & Hove Albion FC",
+            "homeTeamCrest": "https:\/\/crests.football-data.org\/397.png",
+            "awayTeamCrest": "https:\/\/crests.football-data.org\/bournemouth.png",
+            "scoreWinner": null,
+            "scoreFullTimeHome": null,
+            "scoreFullTimeAway": null
+        },
+        "537998": {
+            "utcDate": "2026-01-17T00:00:00Z",
+            "homeTeamName": "Chelsea FC",
+            "awayTeamName": "Chelsea FC",
+            "homeTeamCrest": "https:\/\/crests.football-data.org\/61.png",
+            "awayTeamCrest": "https:\/\/crests.football-data.org\/402.png",
+            "scoreWinner": null,
+            "scoreFullTimeHome": null,
+            "scoreFullTimeAway": null
+        },
+        "537999": {
+            "utcDate": "2026-01-17T00:00:00Z",
+            "homeTeamName": "Liverpool FC",
+            "awayTeamName": "Liverpool FC",
+            "homeTeamCrest": "https:\/\/crests.football-data.org\/64.png",
+            "awayTeamCrest": "https:\/\/crests.football-data.org\/328.png",
+            "scoreWinner": null,
+            "scoreFullTimeHome": null,
+            "scoreFullTimeAway": null
+        },
+        "538000": {
+            "utcDate": "2026-01-17T00:00:00Z",
+            "homeTeamName": "Leeds United FC",
+            "awayTeamName": "Leeds United FC",
+            "homeTeamCrest": "https:\/\/crests.football-data.org\/341.png",
+            "awayTeamCrest": "https:\/\/crests.football-data.org\/63.png",
+            "scoreWinner": null,
+            "scoreFullTimeHome": null,
+            "scoreFullTimeAway": null
+        },
+        "538001": {
+            "utcDate": "2026-01-17T00:00:00Z",
+            "homeTeamName": "Manchester United FC",
+            "awayTeamName": "Manchester United FC",
+            "homeTeamCrest": "https:\/\/crests.football-data.org\/66.png",
+            "awayTeamCrest": "https:\/\/crests.football-data.org\/65.png",
+            "scoreWinner": null,
+            "scoreFullTimeHome": null,
+            "scoreFullTimeAway": null
+        },
+        "538002": {
+            "utcDate": "2026-01-17T00:00:00Z",
+            "homeTeamName": "Nottingham Forest FC",
+            "awayTeamName": "Nottingham Forest FC",
+            "homeTeamCrest": "https:\/\/crests.football-data.org\/351.png",
+            "awayTeamCrest": "https:\/\/crests.football-data.org\/57.png",
+            "scoreWinner": null,
+            "scoreFullTimeHome": null,
+            "scoreFullTimeAway": null
+        },
+        "538003": {
+            "utcDate": "2026-01-17T00:00:00Z",
+            "homeTeamName": "Tottenham Hotspur FC",
+            "awayTeamName": "Tottenham Hotspur FC",
+            "homeTeamCrest": "https:\/\/crests.football-data.org\/73.png",
+            "awayTeamCrest": "https:\/\/crests.football-data.org\/563.png",
+            "scoreWinner": null,
+            "scoreFullTimeHome": null,
+            "scoreFullTimeAway": null
+        },
+        "538004": {
+            "utcDate": "2026-01-17T00:00:00Z",
+            "homeTeamName": "Wolverhampton Wanderers FC",
+            "awayTeamName": "Wolverhampton Wanderers FC",
+            "homeTeamCrest": "https:\/\/crests.football-data.org\/76.png",
+            "awayTeamCrest": "https:\/\/crests.football-data.org\/67.png",
+            "scoreWinner": null,
+            "scoreFullTimeHome": null,
+            "scoreFullTimeAway": null
+        },
+        "538005": {
+            "utcDate": "2026-01-24T00:00:00Z",
+            "homeTeamName": "AFC Bournemouth",
+            "awayTeamName": "AFC Bournemouth",
+            "homeTeamCrest": "https:\/\/crests.football-data.org\/bournemouth.png",
+            "awayTeamCrest": "https:\/\/crests.football-data.org\/64.png",
+            "scoreWinner": null,
+            "scoreFullTimeHome": null,
+            "scoreFullTimeAway": null
+        },
+        "538006": {
+            "utcDate": "2026-01-24T00:00:00Z",
+            "homeTeamName": "Crystal Palace FC",
+            "awayTeamName": "Crystal Palace FC",
+            "homeTeamCrest": "https:\/\/crests.football-data.org\/354.png",
+            "awayTeamCrest": "https:\/\/crests.football-data.org\/61.png",
+            "scoreWinner": null,
+            "scoreFullTimeHome": null,
+            "scoreFullTimeAway": null
+        },
+        "538007": {
+            "utcDate": "2026-01-24T00:00:00Z",
+            "homeTeamName": "Arsenal FC",
+            "awayTeamName": "Arsenal FC",
+            "homeTeamCrest": "https:\/\/crests.football-data.org\/57.png",
+            "awayTeamCrest": "https:\/\/crests.football-data.org\/66.png",
+            "scoreWinner": null,
+            "scoreFullTimeHome": null,
+            "scoreFullTimeAway": null
+        },
+        "538008": {
+            "utcDate": "2026-01-24T00:00:00Z",
+            "homeTeamName": "Brentford FC",
+            "awayTeamName": "Brentford FC",
+            "homeTeamCrest": "https:\/\/crests.football-data.org\/402.png",
+            "awayTeamCrest": "https:\/\/crests.football-data.org\/351.png",
+            "scoreWinner": null,
+            "scoreFullTimeHome": null,
+            "scoreFullTimeAway": null
+        },
+        "538009": {
+            "utcDate": "2026-01-24T00:00:00Z",
+            "homeTeamName": "Burnley FC",
+            "awayTeamName": "Burnley FC",
+            "homeTeamCrest": "https:\/\/crests.football-data.org\/328.png",
+            "awayTeamCrest": "https:\/\/crests.football-data.org\/73.png",
+            "scoreWinner": null,
+            "scoreFullTimeHome": null,
+            "scoreFullTimeAway": null
+        },
+        "538010": {
+            "utcDate": "2026-01-24T00:00:00Z",
+            "homeTeamName": "Everton FC",
+            "awayTeamName": "Everton FC",
+            "homeTeamCrest": "https:\/\/crests.football-data.org\/62.png",
+            "awayTeamCrest": "https:\/\/crests.football-data.org\/341.png",
+            "scoreWinner": null,
+            "scoreFullTimeHome": null,
+            "scoreFullTimeAway": null
+        },
+        "538011": {
+            "utcDate": "2026-01-24T00:00:00Z",
+            "homeTeamName": "Fulham FC",
+            "awayTeamName": "Fulham FC",
+            "homeTeamCrest": "https:\/\/crests.football-data.org\/63.png",
+            "awayTeamCrest": "https:\/\/crests.football-data.org\/397.png",
+            "scoreWinner": null,
+            "scoreFullTimeHome": null,
+            "scoreFullTimeAway": null
+        },
+        "538012": {
+            "utcDate": "2026-01-24T00:00:00Z",
+            "homeTeamName": "Manchester City FC",
+            "awayTeamName": "Manchester City FC",
+            "homeTeamCrest": "https:\/\/crests.football-data.org\/65.png",
+            "awayTeamCrest": "https:\/\/crests.football-data.org\/76.png",
+            "scoreWinner": null,
+            "scoreFullTimeHome": null,
+            "scoreFullTimeAway": null
+        },
+        "538013": {
+            "utcDate": "2026-01-24T00:00:00Z",
+            "homeTeamName": "Newcastle United FC",
+            "awayTeamName": "Newcastle United FC",
+            "homeTeamCrest": "https:\/\/crests.football-data.org\/67.png",
+            "awayTeamCrest": "https:\/\/crests.football-data.org\/58.png",
+            "scoreWinner": null,
+            "scoreFullTimeHome": null,
+            "scoreFullTimeAway": null
+        },
+        "538014": {
+            "utcDate": "2026-01-24T00:00:00Z",
+            "homeTeamName": "West Ham United FC",
+            "awayTeamName": "West Ham United FC",
+            "homeTeamCrest": "https:\/\/crests.football-data.org\/563.png",
+            "awayTeamCrest": "https:\/\/crests.football-data.org\/71.png",
+            "scoreWinner": null,
+            "scoreFullTimeHome": null,
+            "scoreFullTimeAway": null
+        },
+        "538015": {
+            "utcDate": "2026-01-31T00:00:00Z",
+            "homeTeamName": "Sunderland AFC",
+            "awayTeamName": "Sunderland AFC",
+            "homeTeamCrest": "https:\/\/crests.football-data.org\/71.png",
+            "awayTeamCrest": "https:\/\/crests.football-data.org\/328.png",
+            "scoreWinner": null,
+            "scoreFullTimeHome": null,
+            "scoreFullTimeAway": null
+        },
+        "538016": {
+            "utcDate": "2026-01-31T00:00:00Z",
+            "homeTeamName": "Aston Villa FC",
+            "awayTeamName": "Aston Villa FC",
+            "homeTeamCrest": "https:\/\/crests.football-data.org\/58.png",
+            "awayTeamCrest": "https:\/\/crests.football-data.org\/402.png",
+            "scoreWinner": null,
+            "scoreFullTimeHome": null,
+            "scoreFullTimeAway": null
+        },
+        "538017": {
+            "utcDate": "2026-01-31T00:00:00Z",
+            "homeTeamName": "Brighton & Hove Albion FC",
+            "awayTeamName": "Brighton & Hove Albion FC",
+            "homeTeamCrest": "https:\/\/crests.football-data.org\/397.png",
+            "awayTeamCrest": "https:\/\/crests.football-data.org\/62.png",
+            "scoreWinner": null,
+            "scoreFullTimeHome": null,
+            "scoreFullTimeAway": null
+        },
+        "538018": {
+            "utcDate": "2026-01-31T00:00:00Z",
+            "homeTeamName": "Chelsea FC",
+            "awayTeamName": "Chelsea FC",
+            "homeTeamCrest": "https:\/\/crests.football-data.org\/61.png",
+            "awayTeamCrest": "https:\/\/crests.football-data.org\/563.png",
+            "scoreWinner": null,
+            "scoreFullTimeHome": null,
+            "scoreFullTimeAway": null
+        },
+        "538019": {
+            "utcDate": "2026-01-31T00:00:00Z",
+            "homeTeamName": "Liverpool FC",
+            "awayTeamName": "Liverpool FC",
+            "homeTeamCrest": "https:\/\/crests.football-data.org\/64.png",
+            "awayTeamCrest": "https:\/\/crests.football-data.org\/67.png",
+            "scoreWinner": null,
+            "scoreFullTimeHome": null,
+            "scoreFullTimeAway": null
+        },
+        "538020": {
+            "utcDate": "2026-01-31T00:00:00Z",
+            "homeTeamName": "Leeds United FC",
+            "awayTeamName": "Leeds United FC",
+            "homeTeamCrest": "https:\/\/crests.football-data.org\/341.png",
+            "awayTeamCrest": "https:\/\/crests.football-data.org\/57.png",
+            "scoreWinner": null,
+            "scoreFullTimeHome": null,
+            "scoreFullTimeAway": null
+        },
+        "538021": {
+            "utcDate": "2026-01-31T00:00:00Z",
+            "homeTeamName": "Manchester United FC",
+            "awayTeamName": "Manchester United FC",
+            "homeTeamCrest": "https:\/\/crests.football-data.org\/66.png",
+            "awayTeamCrest": "https:\/\/crests.football-data.org\/63.png",
+            "scoreWinner": null,
+            "scoreFullTimeHome": null,
+            "scoreFullTimeAway": null
+        },
+        "538022": {
+            "utcDate": "2026-01-31T00:00:00Z",
+            "homeTeamName": "Nottingham Forest FC",
+            "awayTeamName": "Nottingham Forest FC",
+            "homeTeamCrest": "https:\/\/crests.football-data.org\/351.png",
+            "awayTeamCrest": "https:\/\/crests.football-data.org\/354.png",
+            "scoreWinner": null,
+            "scoreFullTimeHome": null,
+            "scoreFullTimeAway": null
+        },
+        "538023": {
+            "utcDate": "2026-01-31T00:00:00Z",
+            "homeTeamName": "Tottenham Hotspur FC",
+            "awayTeamName": "Tottenham Hotspur FC",
+            "homeTeamCrest": "https:\/\/crests.football-data.org\/73.png",
+            "awayTeamCrest": "https:\/\/crests.football-data.org\/65.png",
+            "scoreWinner": null,
+            "scoreFullTimeHome": null,
+            "scoreFullTimeAway": null
+        },
+        "538024": {
+            "utcDate": "2026-01-31T00:00:00Z",
+            "homeTeamName": "Wolverhampton Wanderers FC",
+            "awayTeamName": "Wolverhampton Wanderers FC",
+            "homeTeamCrest": "https:\/\/crests.football-data.org\/76.png",
+            "awayTeamCrest": "https:\/\/crests.football-data.org\/bournemouth.png",
+            "scoreWinner": null,
+            "scoreFullTimeHome": null,
+            "scoreFullTimeAway": null
+        },
+        "538025": {
+            "utcDate": "2026-02-07T00:00:00Z",
+            "homeTeamName": "AFC Bournemouth",
+            "awayTeamName": "AFC Bournemouth",
+            "homeTeamCrest": "https:\/\/crests.football-data.org\/bournemouth.png",
+            "awayTeamCrest": "https:\/\/crests.football-data.org\/58.png",
+            "scoreWinner": null,
+            "scoreFullTimeHome": null,
+            "scoreFullTimeAway": null
+        },
+        "538026": {
+            "utcDate": "2026-02-07T00:00:00Z",
+            "homeTeamName": "Brighton & Hove Albion FC",
+            "awayTeamName": "Brighton & Hove Albion FC",
+            "homeTeamCrest": "https:\/\/crests.football-data.org\/397.png",
+            "awayTeamCrest": "https:\/\/crests.football-data.org\/354.png",
+            "scoreWinner": null,
+            "scoreFullTimeHome": null,
+            "scoreFullTimeAway": null
+        },
+        "538027": {
+            "utcDate": "2026-02-07T00:00:00Z",
+            "homeTeamName": "Arsenal FC",
+            "awayTeamName": "Arsenal FC",
+            "homeTeamCrest": "https:\/\/crests.football-data.org\/57.png",
+            "awayTeamCrest": "https:\/\/crests.football-data.org\/71.png",
+            "scoreWinner": null,
+            "scoreFullTimeHome": null,
+            "scoreFullTimeAway": null
+        },
+        "538028": {
+            "utcDate": "2026-02-07T00:00:00Z",
+            "homeTeamName": "Burnley FC",
+            "awayTeamName": "Burnley FC",
+            "homeTeamCrest": "https:\/\/crests.football-data.org\/328.png",
+            "awayTeamCrest": "https:\/\/crests.football-data.org\/563.png",
+            "scoreWinner": null,
+            "scoreFullTimeHome": null,
+            "scoreFullTimeAway": null
+        },
+        "538029": {
+            "utcDate": "2026-02-07T00:00:00Z",
+            "homeTeamName": "Fulham FC",
+            "awayTeamName": "Fulham FC",
+            "homeTeamCrest": "https:\/\/crests.football-data.org\/63.png",
+            "awayTeamCrest": "https:\/\/crests.football-data.org\/62.png",
+            "scoreWinner": null,
+            "scoreFullTimeHome": null,
+            "scoreFullTimeAway": null
+        },
+        "538030": {
+            "utcDate": "2026-02-07T00:00:00Z",
+            "homeTeamName": "Liverpool FC",
+            "awayTeamName": "Liverpool FC",
+            "homeTeamCrest": "https:\/\/crests.football-data.org\/64.png",
+            "awayTeamCrest": "https:\/\/crests.football-data.org\/65.png",
+            "scoreWinner": null,
+            "scoreFullTimeHome": null,
+            "scoreFullTimeAway": null
+        },
+        "538031": {
+            "utcDate": "2026-02-07T00:00:00Z",
+            "homeTeamName": "Leeds United FC",
+            "awayTeamName": "Leeds United FC",
+            "homeTeamCrest": "https:\/\/crests.football-data.org\/341.png",
+            "awayTeamCrest": "https:\/\/crests.football-data.org\/351.png",
+            "scoreWinner": null,
+            "scoreFullTimeHome": null,
+            "scoreFullTimeAway": null
+        },
+        "538032": {
+            "utcDate": "2026-02-07T00:00:00Z",
+            "homeTeamName": "Manchester United FC",
+            "awayTeamName": "Manchester United FC",
+            "homeTeamCrest": "https:\/\/crests.football-data.org\/66.png",
+            "awayTeamCrest": "https:\/\/crests.football-data.org\/73.png",
+            "scoreWinner": null,
+            "scoreFullTimeHome": null,
+            "scoreFullTimeAway": null
+        },
+        "538033": {
+            "utcDate": "2026-02-07T00:00:00Z",
+            "homeTeamName": "Newcastle United FC",
+            "awayTeamName": "Newcastle United FC",
+            "homeTeamCrest": "https:\/\/crests.football-data.org\/67.png",
+            "awayTeamCrest": "https:\/\/crests.football-data.org\/402.png",
+            "scoreWinner": null,
+            "scoreFullTimeHome": null,
+            "scoreFullTimeAway": null
+        },
+        "538034": {
+            "utcDate": "2026-02-07T00:00:00Z",
+            "homeTeamName": "Wolverhampton Wanderers FC",
+            "awayTeamName": "Wolverhampton Wanderers FC",
+            "homeTeamCrest": "https:\/\/crests.football-data.org\/76.png",
+            "awayTeamCrest": "https:\/\/crests.football-data.org\/61.png",
+            "scoreWinner": null,
+            "scoreFullTimeHome": null,
+            "scoreFullTimeAway": null
+        },
+        "538035": {
+            "utcDate": "2026-02-11T00:00:00Z",
+            "homeTeamName": "Sunderland AFC",
+            "awayTeamName": "Sunderland AFC",
+            "homeTeamCrest": "https:\/\/crests.football-data.org\/71.png",
+            "awayTeamCrest": "https:\/\/crests.football-data.org\/64.png",
+            "scoreWinner": null,
+            "scoreFullTimeHome": null,
+            "scoreFullTimeAway": null
+        },
+        "538036": {
+            "utcDate": "2026-02-11T00:00:00Z",
+            "homeTeamName": "Aston Villa FC",
+            "awayTeamName": "Aston Villa FC",
+            "homeTeamCrest": "https:\/\/crests.football-data.org\/58.png",
+            "awayTeamCrest": "https:\/\/crests.football-data.org\/397.png",
+            "scoreWinner": null,
+            "scoreFullTimeHome": null,
+            "scoreFullTimeAway": null
+        },
+        "538037": {
+            "utcDate": "2026-02-11T00:00:00Z",
+            "homeTeamName": "Crystal Palace FC",
+            "awayTeamName": "Crystal Palace FC",
+            "homeTeamCrest": "https:\/\/crests.football-data.org\/354.png",
+            "awayTeamCrest": "https:\/\/crests.football-data.org\/328.png",
+            "scoreWinner": null,
+            "scoreFullTimeHome": null,
+            "scoreFullTimeAway": null
+        },
+        "538038": {
+            "utcDate": "2026-02-11T00:00:00Z",
+            "homeTeamName": "Brentford FC",
+            "awayTeamName": "Brentford FC",
+            "homeTeamCrest": "https:\/\/crests.football-data.org\/402.png",
+            "awayTeamCrest": "https:\/\/crests.football-data.org\/57.png",
+            "scoreWinner": null,
+            "scoreFullTimeHome": null,
+            "scoreFullTimeAway": null
+        },
+        "538039": {
+            "utcDate": "2026-02-11T00:00:00Z",
+            "homeTeamName": "Chelsea FC",
+            "awayTeamName": "Chelsea FC",
+            "homeTeamCrest": "https:\/\/crests.football-data.org\/61.png",
+            "awayTeamCrest": "https:\/\/crests.football-data.org\/341.png",
+            "scoreWinner": null,
+            "scoreFullTimeHome": null,
+            "scoreFullTimeAway": null
+        },
+        "538040": {
+            "utcDate": "2026-02-11T00:00:00Z",
+            "homeTeamName": "Everton FC",
+            "awayTeamName": "Everton FC",
+            "homeTeamCrest": "https:\/\/crests.football-data.org\/62.png",
+            "awayTeamCrest": "https:\/\/crests.football-data.org\/bournemouth.png",
+            "scoreWinner": null,
+            "scoreFullTimeHome": null,
+            "scoreFullTimeAway": null
+        },
+        "538041": {
+            "utcDate": "2026-02-11T00:00:00Z",
+            "homeTeamName": "Manchester City FC",
+            "awayTeamName": "Manchester City FC",
+            "homeTeamCrest": "https:\/\/crests.football-data.org\/65.png",
+            "awayTeamCrest": "https:\/\/crests.football-data.org\/63.png",
+            "scoreWinner": null,
+            "scoreFullTimeHome": null,
+            "scoreFullTimeAway": null
+        },
+        "538042": {
+            "utcDate": "2026-02-11T00:00:00Z",
+            "homeTeamName": "Nottingham Forest FC",
+            "awayTeamName": "Nottingham Forest FC",
+            "homeTeamCrest": "https:\/\/crests.football-data.org\/351.png",
+            "awayTeamCrest": "https:\/\/crests.football-data.org\/76.png",
+            "scoreWinner": null,
+            "scoreFullTimeHome": null,
+            "scoreFullTimeAway": null
+        },
+        "538043": {
+            "utcDate": "2026-02-11T00:00:00Z",
+            "homeTeamName": "Tottenham Hotspur FC",
+            "awayTeamName": "Tottenham Hotspur FC",
+            "homeTeamCrest": "https:\/\/crests.football-data.org\/73.png",
+            "awayTeamCrest": "https:\/\/crests.football-data.org\/67.png",
+            "scoreWinner": null,
+            "scoreFullTimeHome": null,
+            "scoreFullTimeAway": null
+        },
+        "538044": {
+            "utcDate": "2026-02-11T00:00:00Z",
+            "homeTeamName": "West Ham United FC",
+            "awayTeamName": "West Ham United FC",
+            "homeTeamCrest": "https:\/\/crests.football-data.org\/563.png",
+            "awayTeamCrest": "https:\/\/crests.football-data.org\/66.png",
+            "scoreWinner": null,
+            "scoreFullTimeHome": null,
+            "scoreFullTimeAway": null
+        },
+        "538045": {
+            "utcDate": "2026-02-21T00:00:00Z",
+            "homeTeamName": "Sunderland AFC",
+            "awayTeamName": "Sunderland AFC",
+            "homeTeamCrest": "https:\/\/crests.football-data.org\/71.png",
+            "awayTeamCrest": "https:\/\/crests.football-data.org\/63.png",
+            "scoreWinner": null,
+            "scoreFullTimeHome": null,
+            "scoreFullTimeAway": null
+        },
+        "538046": {
+            "utcDate": "2026-02-21T00:00:00Z",
+            "homeTeamName": "Aston Villa FC",
+            "awayTeamName": "Aston Villa FC",
+            "homeTeamCrest": "https:\/\/crests.football-data.org\/58.png",
+            "awayTeamCrest": "https:\/\/crests.football-data.org\/341.png",
+            "scoreWinner": null,
+            "scoreFullTimeHome": null,
+            "scoreFullTimeAway": null
+        },
+        "538047": {
+            "utcDate": "2026-02-21T00:00:00Z",
+            "homeTeamName": "Crystal Palace FC",
+            "awayTeamName": "Crystal Palace FC",
+            "homeTeamCrest": "https:\/\/crests.football-data.org\/354.png",
+            "awayTeamCrest": "https:\/\/crests.football-data.org\/76.png",
+            "scoreWinner": null,
+            "scoreFullTimeHome": null,
+            "scoreFullTimeAway": null
+        },
+        "538048": {
+            "utcDate": "2026-02-21T00:00:00Z",
+            "homeTeamName": "Brentford FC",
+            "awayTeamName": "Brentford FC",
+            "homeTeamCrest": "https:\/\/crests.football-data.org\/402.png",
+            "awayTeamCrest": "https:\/\/crests.football-data.org\/397.png",
+            "scoreWinner": null,
+            "scoreFullTimeHome": null,
+            "scoreFullTimeAway": null
+        },
+        "538049": {
+            "utcDate": "2026-02-21T00:00:00Z",
+            "homeTeamName": "Chelsea FC",
+            "awayTeamName": "Chelsea FC",
+            "homeTeamCrest": "https:\/\/crests.football-data.org\/61.png",
+            "awayTeamCrest": "https:\/\/crests.football-data.org\/328.png",
+            "scoreWinner": null,
+            "scoreFullTimeHome": null,
+            "scoreFullTimeAway": null
+        },
+        "538050": {
+            "utcDate": "2026-02-21T00:00:00Z",
+            "homeTeamName": "Everton FC",
+            "awayTeamName": "Everton FC",
+            "homeTeamCrest": "https:\/\/crests.football-data.org\/62.png",
+            "awayTeamCrest": "https:\/\/crests.football-data.org\/66.png",
+            "scoreWinner": null,
+            "scoreFullTimeHome": null,
+            "scoreFullTimeAway": null
+        },
+        "538051": {
+            "utcDate": "2026-02-21T00:00:00Z",
+            "homeTeamName": "Manchester City FC",
+            "awayTeamName": "Manchester City FC",
+            "homeTeamCrest": "https:\/\/crests.football-data.org\/65.png",
+            "awayTeamCrest": "https:\/\/crests.football-data.org\/67.png",
+            "scoreWinner": null,
+            "scoreFullTimeHome": null,
+            "scoreFullTimeAway": null
+        },
+        "538052": {
+            "utcDate": "2026-02-21T00:00:00Z",
+            "homeTeamName": "Nottingham Forest FC",
+            "awayTeamName": "Nottingham Forest FC",
+            "homeTeamCrest": "https:\/\/crests.football-data.org\/351.png",
+            "awayTeamCrest": "https:\/\/crests.football-data.org\/64.png",
+            "scoreWinner": null,
+            "scoreFullTimeHome": null,
+            "scoreFullTimeAway": null
+        },
+        "538053": {
+            "utcDate": "2026-02-21T00:00:00Z",
+            "homeTeamName": "Tottenham Hotspur FC",
+            "awayTeamName": "Tottenham Hotspur FC",
+            "homeTeamCrest": "https:\/\/crests.football-data.org\/73.png",
+            "awayTeamCrest": "https:\/\/crests.football-data.org\/57.png",
+            "scoreWinner": null,
+            "scoreFullTimeHome": null,
+            "scoreFullTimeAway": null
+        },
+        "538054": {
+            "utcDate": "2026-02-21T00:00:00Z",
+            "homeTeamName": "West Ham United FC",
+            "awayTeamName": "West Ham United FC",
+            "homeTeamCrest": "https:\/\/crests.football-data.org\/563.png",
+            "awayTeamCrest": "https:\/\/crests.football-data.org\/bournemouth.png",
+            "scoreWinner": null,
+            "scoreFullTimeHome": null,
+            "scoreFullTimeAway": null
+        },
+        "538055": {
+            "utcDate": "2026-02-28T00:00:00Z",
+            "homeTeamName": "AFC Bournemouth",
+            "awayTeamName": "AFC Bournemouth",
+            "homeTeamCrest": "https:\/\/crests.football-data.org\/bournemouth.png",
+            "awayTeamCrest": "https:\/\/crests.football-data.org\/71.png",
+            "scoreWinner": null,
+            "scoreFullTimeHome": null,
+            "scoreFullTimeAway": null
+        },
+        "538056": {
+            "utcDate": "2026-02-28T00:00:00Z",
+            "homeTeamName": "Brighton & Hove Albion FC",
+            "awayTeamName": "Brighton & Hove Albion FC",
+            "homeTeamCrest": "https:\/\/crests.football-data.org\/397.png",
+            "awayTeamCrest": "https:\/\/crests.football-data.org\/351.png",
+            "scoreWinner": null,
+            "scoreFullTimeHome": null,
+            "scoreFullTimeAway": null
+        },
+        "538057": {
+            "utcDate": "2026-02-28T00:00:00Z",
+            "homeTeamName": "Arsenal FC",
+            "awayTeamName": "Arsenal FC",
+            "homeTeamCrest": "https:\/\/crests.football-data.org\/57.png",
+            "awayTeamCrest": "https:\/\/crests.football-data.org\/61.png",
+            "scoreWinner": null,
+            "scoreFullTimeHome": null,
+            "scoreFullTimeAway": null
+        },
+        "538058": {
+            "utcDate": "2026-02-28T00:00:00Z",
+            "homeTeamName": "Burnley FC",
+            "awayTeamName": "Burnley FC",
+            "homeTeamCrest": "https:\/\/crests.football-data.org\/328.png",
+            "awayTeamCrest": "https:\/\/crests.football-data.org\/402.png",
+            "scoreWinner": null,
+            "scoreFullTimeHome": null,
+            "scoreFullTimeAway": null
+        },
+        "538059": {
+            "utcDate": "2026-02-28T00:00:00Z",
+            "homeTeamName": "Fulham FC",
+            "awayTeamName": "Fulham FC",
+            "homeTeamCrest": "https:\/\/crests.football-data.org\/63.png",
+            "awayTeamCrest": "https:\/\/crests.football-data.org\/73.png",
+            "scoreWinner": null,
+            "scoreFullTimeHome": null,
+            "scoreFullTimeAway": null
+        },
+        "538060": {
+            "utcDate": "2026-02-28T00:00:00Z",
+            "homeTeamName": "Liverpool FC",
+            "awayTeamName": "Liverpool FC",
+            "homeTeamCrest": "https:\/\/crests.football-data.org\/64.png",
+            "awayTeamCrest": "https:\/\/crests.football-data.org\/563.png",
+            "scoreWinner": null,
+            "scoreFullTimeHome": null,
+            "scoreFullTimeAway": null
+        },
+        "538061": {
+            "utcDate": "2026-02-28T00:00:00Z",
+            "homeTeamName": "Leeds United FC",
+            "awayTeamName": "Leeds United FC",
+            "homeTeamCrest": "https:\/\/crests.football-data.org\/341.png",
+            "awayTeamCrest": "https:\/\/crests.football-data.org\/65.png",
+            "scoreWinner": null,
+            "scoreFullTimeHome": null,
+            "scoreFullTimeAway": null
+        },
+        "538062": {
+            "utcDate": "2026-02-28T00:00:00Z",
+            "homeTeamName": "Manchester United FC",
+            "awayTeamName": "Manchester United FC",
+            "homeTeamCrest": "https:\/\/crests.football-data.org\/66.png",
+            "awayTeamCrest": "https:\/\/crests.football-data.org\/354.png",
+            "scoreWinner": null,
+            "scoreFullTimeHome": null,
+            "scoreFullTimeAway": null
+        },
+        "538063": {
+            "utcDate": "2026-02-28T00:00:00Z",
+            "homeTeamName": "Newcastle United FC",
+            "awayTeamName": "Newcastle United FC",
+            "homeTeamCrest": "https:\/\/crests.football-data.org\/67.png",
+            "awayTeamCrest": "https:\/\/crests.football-data.org\/62.png",
+            "scoreWinner": null,
+            "scoreFullTimeHome": null,
+            "scoreFullTimeAway": null
+        },
+        "538064": {
+            "utcDate": "2026-02-28T00:00:00Z",
+            "homeTeamName": "Wolverhampton Wanderers FC",
+            "awayTeamName": "Wolverhampton Wanderers FC",
+            "homeTeamCrest": "https:\/\/crests.football-data.org\/76.png",
+            "awayTeamCrest": "https:\/\/crests.football-data.org\/58.png",
+            "scoreWinner": null,
+            "scoreFullTimeHome": null,
+            "scoreFullTimeAway": null
+        },
+        "538065": {
+            "utcDate": "2026-03-04T00:00:00Z",
+            "homeTeamName": "AFC Bournemouth",
+            "awayTeamName": "AFC Bournemouth",
+            "homeTeamCrest": "https:\/\/crests.football-data.org\/bournemouth.png",
+            "awayTeamCrest": "https:\/\/crests.football-data.org\/402.png",
+            "scoreWinner": null,
+            "scoreFullTimeHome": null,
+            "scoreFullTimeAway": null
+        },
+        "538066": {
+            "utcDate": "2026-03-04T00:00:00Z",
+            "homeTeamName": "Aston Villa FC",
+            "awayTeamName": "Aston Villa FC",
+            "homeTeamCrest": "https:\/\/crests.football-data.org\/58.png",
+            "awayTeamCrest": "https:\/\/crests.football-data.org\/61.png",
+            "scoreWinner": null,
+            "scoreFullTimeHome": null,
+            "scoreFullTimeAway": null
+        },
+        "538067": {
+            "utcDate": "2026-03-04T00:00:00Z",
+            "homeTeamName": "Brighton & Hove Albion FC",
+            "awayTeamName": "Brighton & Hove Albion FC",
+            "homeTeamCrest": "https:\/\/crests.football-data.org\/397.png",
+            "awayTeamCrest": "https:\/\/crests.football-data.org\/57.png",
+            "scoreWinner": null,
+            "scoreFullTimeHome": null,
+            "scoreFullTimeAway": null
+        },
+        "538068": {
+            "utcDate": "2026-03-04T00:00:00Z",
+            "homeTeamName": "Everton FC",
+            "awayTeamName": "Everton FC",
+            "homeTeamCrest": "https:\/\/crests.football-data.org\/62.png",
+            "awayTeamCrest": "https:\/\/crests.football-data.org\/328.png",
+            "scoreWinner": null,
+            "scoreFullTimeHome": null,
+            "scoreFullTimeAway": null
+        },
+        "538069": {
+            "utcDate": "2026-03-04T00:00:00Z",
+            "homeTeamName": "Fulham FC",
+            "awayTeamName": "Fulham FC",
+            "homeTeamCrest": "https:\/\/crests.football-data.org\/63.png",
+            "awayTeamCrest": "https:\/\/crests.football-data.org\/563.png",
+            "scoreWinner": null,
+            "scoreFullTimeHome": null,
+            "scoreFullTimeAway": null
+        },
+        "538070": {
+            "utcDate": "2026-03-04T00:00:00Z",
+            "homeTeamName": "Leeds United FC",
+            "awayTeamName": "Leeds United FC",
+            "homeTeamCrest": "https:\/\/crests.football-data.org\/341.png",
+            "awayTeamCrest": "https:\/\/crests.football-data.org\/71.png",
+            "scoreWinner": null,
+            "scoreFullTimeHome": null,
+            "scoreFullTimeAway": null
+        },
+        "538071": {
+            "utcDate": "2026-03-04T00:00:00Z",
+            "homeTeamName": "Manchester City FC",
+            "awayTeamName": "Manchester City FC",
+            "homeTeamCrest": "https:\/\/crests.football-data.org\/65.png",
+            "awayTeamCrest": "https:\/\/crests.football-data.org\/351.png",
+            "scoreWinner": null,
+            "scoreFullTimeHome": null,
+            "scoreFullTimeAway": null
+        },
+        "538072": {
+            "utcDate": "2026-03-04T00:00:00Z",
+            "homeTeamName": "Newcastle United FC",
+            "awayTeamName": "Newcastle United FC",
+            "homeTeamCrest": "https:\/\/crests.football-data.org\/67.png",
+            "awayTeamCrest": "https:\/\/crests.football-data.org\/66.png",
+            "scoreWinner": null,
+            "scoreFullTimeHome": null,
+            "scoreFullTimeAway": null
+        },
+        "538073": {
+            "utcDate": "2026-03-04T00:00:00Z",
+            "homeTeamName": "Tottenham Hotspur FC",
+            "awayTeamName": "Tottenham Hotspur FC",
+            "homeTeamCrest": "https:\/\/crests.football-data.org\/73.png",
+            "awayTeamCrest": "https:\/\/crests.football-data.org\/354.png",
+            "scoreWinner": null,
+            "scoreFullTimeHome": null,
+            "scoreFullTimeAway": null
+        },
+        "538074": {
+            "utcDate": "2026-03-04T00:00:00Z",
+            "homeTeamName": "Wolverhampton Wanderers FC",
+            "awayTeamName": "Wolverhampton Wanderers FC",
+            "homeTeamCrest": "https:\/\/crests.football-data.org\/76.png",
+            "awayTeamCrest": "https:\/\/crests.football-data.org\/64.png",
+            "scoreWinner": null,
+            "scoreFullTimeHome": null,
+            "scoreFullTimeAway": null
+        },
+        "538075": {
+            "utcDate": "2026-03-14T00:00:00Z",
+            "homeTeamName": "Sunderland AFC",
+            "awayTeamName": "Sunderland AFC",
+            "homeTeamCrest": "https:\/\/crests.football-data.org\/71.png",
+            "awayTeamCrest": "https:\/\/crests.football-data.org\/397.png",
+            "scoreWinner": null,
+            "scoreFullTimeHome": null,
+            "scoreFullTimeAway": null
+        },
+        "538076": {
+            "utcDate": "2026-03-14T00:00:00Z",
+            "homeTeamName": "Crystal Palace FC",
+            "awayTeamName": "Crystal Palace FC",
+            "homeTeamCrest": "https:\/\/crests.football-data.org\/354.png",
+            "awayTeamCrest": "https:\/\/crests.football-data.org\/341.png",
+            "scoreWinner": null,
+            "scoreFullTimeHome": null,
+            "scoreFullTimeAway": null
+        },
+        "538077": {
+            "utcDate": "2026-03-14T00:00:00Z",
+            "homeTeamName": "Arsenal FC",
+            "awayTeamName": "Arsenal FC",
+            "homeTeamCrest": "https:\/\/crests.football-data.org\/57.png",
+            "awayTeamCrest": "https:\/\/crests.football-data.org\/62.png",
+            "scoreWinner": null,
+            "scoreFullTimeHome": null,
+            "scoreFullTimeAway": null
+        },
+        "538078": {
+            "utcDate": "2026-03-14T00:00:00Z",
+            "homeTeamName": "Brentford FC",
+            "awayTeamName": "Brentford FC",
+            "homeTeamCrest": "https:\/\/crests.football-data.org\/402.png",
+            "awayTeamCrest": "https:\/\/crests.football-data.org\/76.png",
+            "scoreWinner": null,
+            "scoreFullTimeHome": null,
+            "scoreFullTimeAway": null
+        },
+        "538079": {
+            "utcDate": "2026-03-14T00:00:00Z",
+            "homeTeamName": "Burnley FC",
+            "awayTeamName": "Burnley FC",
+            "homeTeamCrest": "https:\/\/crests.football-data.org\/328.png",
+            "awayTeamCrest": "https:\/\/crests.football-data.org\/bournemouth.png",
+            "scoreWinner": null,
+            "scoreFullTimeHome": null,
+            "scoreFullTimeAway": null
+        },
+        "538080": {
+            "utcDate": "2026-03-14T00:00:00Z",
+            "homeTeamName": "Chelsea FC",
+            "awayTeamName": "Chelsea FC",
+            "homeTeamCrest": "https:\/\/crests.football-data.org\/61.png",
+            "awayTeamCrest": "https:\/\/crests.football-data.org\/67.png",
+            "scoreWinner": null,
+            "scoreFullTimeHome": null,
+            "scoreFullTimeAway": null
+        },
+        "538081": {
+            "utcDate": "2026-03-14T00:00:00Z",
+            "homeTeamName": "Liverpool FC",
+            "awayTeamName": "Liverpool FC",
+            "homeTeamCrest": "https:\/\/crests.football-data.org\/64.png",
+            "awayTeamCrest": "https:\/\/crests.football-data.org\/73.png",
+            "scoreWinner": null,
+            "scoreFullTimeHome": null,
+            "scoreFullTimeAway": null
+        },
+        "538082": {
+            "utcDate": "2026-03-14T00:00:00Z",
+            "homeTeamName": "Manchester United FC",
+            "awayTeamName": "Manchester United FC",
+            "homeTeamCrest": "https:\/\/crests.football-data.org\/66.png",
+            "awayTeamCrest": "https:\/\/crests.football-data.org\/58.png",
+            "scoreWinner": null,
+            "scoreFullTimeHome": null,
+            "scoreFullTimeAway": null
+        },
+        "538083": {
+            "utcDate": "2026-03-14T00:00:00Z",
+            "homeTeamName": "Nottingham Forest FC",
+            "awayTeamName": "Nottingham Forest FC",
+            "homeTeamCrest": "https:\/\/crests.football-data.org\/351.png",
+            "awayTeamCrest": "https:\/\/crests.football-data.org\/63.png",
+            "scoreWinner": null,
+            "scoreFullTimeHome": null,
+            "scoreFullTimeAway": null
+        },
+        "538084": {
+            "utcDate": "2026-03-14T00:00:00Z",
+            "homeTeamName": "West Ham United FC",
+            "awayTeamName": "West Ham United FC",
+            "homeTeamCrest": "https:\/\/crests.football-data.org\/563.png",
+            "awayTeamCrest": "https:\/\/crests.football-data.org\/65.png",
+            "scoreWinner": null,
+            "scoreFullTimeHome": null,
+            "scoreFullTimeAway": null
+        },
+        "538085": {
+            "utcDate": "2026-03-21T00:00:00Z",
+            "homeTeamName": "AFC Bournemouth",
+            "awayTeamName": "AFC Bournemouth",
+            "homeTeamCrest": "https:\/\/crests.football-data.org\/bournemouth.png",
+            "awayTeamCrest": "https:\/\/crests.football-data.org\/66.png",
+            "scoreWinner": null,
+            "scoreFullTimeHome": null,
+            "scoreFullTimeAway": null
+        },
+        "538086": {
+            "utcDate": "2026-03-21T00:00:00Z",
+            "homeTeamName": "Aston Villa FC",
+            "awayTeamName": "Aston Villa FC",
+            "homeTeamCrest": "https:\/\/crests.football-data.org\/58.png",
+            "awayTeamCrest": "https:\/\/crests.football-data.org\/563.png",
+            "scoreWinner": null,
+            "scoreFullTimeHome": null,
+            "scoreFullTimeAway": null
+        },
+        "538087": {
+            "utcDate": "2026-03-21T00:00:00Z",
+            "homeTeamName": "Brighton & Hove Albion FC",
+            "awayTeamName": "Brighton & Hove Albion FC",
+            "homeTeamCrest": "https:\/\/crests.football-data.org\/397.png",
+            "awayTeamCrest": "https:\/\/crests.football-data.org\/64.png",
+            "scoreWinner": null,
+            "scoreFullTimeHome": null,
+            "scoreFullTimeAway": null
+        },
+        "538088": {
+            "utcDate": "2026-03-21T00:00:00Z",
+            "homeTeamName": "Everton FC",
+            "awayTeamName": "Everton FC",
+            "homeTeamCrest": "https:\/\/crests.football-data.org\/62.png",
+            "awayTeamCrest": "https:\/\/crests.football-data.org\/61.png",
+            "scoreWinner": null,
+            "scoreFullTimeHome": null,
+            "scoreFullTimeAway": null
+        },
+        "538089": {
+            "utcDate": "2026-03-21T00:00:00Z",
+            "homeTeamName": "Fulham FC",
+            "awayTeamName": "Fulham FC",
+            "homeTeamCrest": "https:\/\/crests.football-data.org\/63.png",
+            "awayTeamCrest": "https:\/\/crests.football-data.org\/328.png",
+            "scoreWinner": null,
+            "scoreFullTimeHome": null,
+            "scoreFullTimeAway": null
+        },
+        "538090": {
+            "utcDate": "2026-03-21T00:00:00Z",
+            "homeTeamName": "Leeds United FC",
+            "awayTeamName": "Leeds United FC",
+            "homeTeamCrest": "https:\/\/crests.football-data.org\/341.png",
+            "awayTeamCrest": "https:\/\/crests.football-data.org\/402.png",
+            "scoreWinner": null,
+            "scoreFullTimeHome": null,
+            "scoreFullTimeAway": null
+        },
+        "538091": {
+            "utcDate": "2026-03-21T00:00:00Z",
+            "homeTeamName": "Manchester City FC",
+            "awayTeamName": "Manchester City FC",
+            "homeTeamCrest": "https:\/\/crests.football-data.org\/65.png",
+            "awayTeamCrest": "https:\/\/crests.football-data.org\/354.png",
+            "scoreWinner": null,
+            "scoreFullTimeHome": null,
+            "scoreFullTimeAway": null
+        },
+        "538092": {
+            "utcDate": "2026-03-21T00:00:00Z",
+            "homeTeamName": "Newcastle United FC",
+            "awayTeamName": "Newcastle United FC",
+            "homeTeamCrest": "https:\/\/crests.football-data.org\/67.png",
+            "awayTeamCrest": "https:\/\/crests.football-data.org\/71.png",
+            "scoreWinner": null,
+            "scoreFullTimeHome": null,
+            "scoreFullTimeAway": null
+        },
+        "538093": {
+            "utcDate": "2026-03-21T00:00:00Z",
+            "homeTeamName": "Tottenham Hotspur FC",
+            "awayTeamName": "Tottenham Hotspur FC",
+            "homeTeamCrest": "https:\/\/crests.football-data.org\/73.png",
+            "awayTeamCrest": "https:\/\/crests.football-data.org\/351.png",
+            "scoreWinner": null,
+            "scoreFullTimeHome": null,
+            "scoreFullTimeAway": null
+        },
+        "538094": {
+            "utcDate": "2026-03-21T00:00:00Z",
+            "homeTeamName": "Wolverhampton Wanderers FC",
+            "awayTeamName": "Wolverhampton Wanderers FC",
+            "homeTeamCrest": "https:\/\/crests.football-data.org\/76.png",
+            "awayTeamCrest": "https:\/\/crests.football-data.org\/57.png",
+            "scoreWinner": null,
+            "scoreFullTimeHome": null,
+            "scoreFullTimeAway": null
+        },
+        "538095": {
+            "utcDate": "2026-04-11T00:00:00Z",
+            "homeTeamName": "Sunderland AFC",
+            "awayTeamName": "Sunderland AFC",
+            "homeTeamCrest": "https:\/\/crests.football-data.org\/71.png",
+            "awayTeamCrest": "https:\/\/crests.football-data.org\/73.png",
+            "scoreWinner": null,
+            "scoreFullTimeHome": null,
+            "scoreFullTimeAway": null
+        },
+        "538096": {
+            "utcDate": "2026-04-11T00:00:00Z",
+            "homeTeamName": "Crystal Palace FC",
+            "awayTeamName": "Crystal Palace FC",
+            "homeTeamCrest": "https:\/\/crests.football-data.org\/354.png",
+            "awayTeamCrest": "https:\/\/crests.football-data.org\/67.png",
+            "scoreWinner": null,
+            "scoreFullTimeHome": null,
+            "scoreFullTimeAway": null
+        },
+        "538097": {
+            "utcDate": "2026-04-11T00:00:00Z",
+            "homeTeamName": "Arsenal FC",
+            "awayTeamName": "Arsenal FC",
+            "homeTeamCrest": "https:\/\/crests.football-data.org\/57.png",
+            "awayTeamCrest": "https:\/\/crests.football-data.org\/bournemouth.png",
+            "scoreWinner": null,
+            "scoreFullTimeHome": null,
+            "scoreFullTimeAway": null
+        },
+        "538098": {
+            "utcDate": "2026-04-11T00:00:00Z",
+            "homeTeamName": "Brentford FC",
+            "awayTeamName": "Brentford FC",
+            "homeTeamCrest": "https:\/\/crests.football-data.org\/402.png",
+            "awayTeamCrest": "https:\/\/crests.football-data.org\/62.png",
+            "scoreWinner": null,
+            "scoreFullTimeHome": null,
+            "scoreFullTimeAway": null
+        },
+        "538099": {
+            "utcDate": "2026-04-11T00:00:00Z",
+            "homeTeamName": "Burnley FC",
+            "awayTeamName": "Burnley FC",
+            "homeTeamCrest": "https:\/\/crests.football-data.org\/328.png",
+            "awayTeamCrest": "https:\/\/crests.football-data.org\/397.png",
+            "scoreWinner": null,
+            "scoreFullTimeHome": null,
+            "scoreFullTimeAway": null
+        },
+        "538100": {
+            "utcDate": "2026-04-11T00:00:00Z",
+            "homeTeamName": "Chelsea FC",
+            "awayTeamName": "Chelsea FC",
+            "homeTeamCrest": "https:\/\/crests.football-data.org\/61.png",
+            "awayTeamCrest": "https:\/\/crests.football-data.org\/65.png",
+            "scoreWinner": null,
+            "scoreFullTimeHome": null,
+            "scoreFullTimeAway": null
+        },
+        "538101": {
+            "utcDate": "2026-04-11T00:00:00Z",
+            "homeTeamName": "Liverpool FC",
+            "awayTeamName": "Liverpool FC",
+            "homeTeamCrest": "https:\/\/crests.football-data.org\/64.png",
+            "awayTeamCrest": "https:\/\/crests.football-data.org\/63.png",
+            "scoreWinner": null,
+            "scoreFullTimeHome": null,
+            "scoreFullTimeAway": null
+        },
+        "538102": {
+            "utcDate": "2026-04-11T00:00:00Z",
+            "homeTeamName": "Manchester United FC",
+            "awayTeamName": "Manchester United FC",
+            "homeTeamCrest": "https:\/\/crests.football-data.org\/66.png",
+            "awayTeamCrest": "https:\/\/crests.football-data.org\/341.png",
+            "scoreWinner": null,
+            "scoreFullTimeHome": null,
+            "scoreFullTimeAway": null
+        },
+        "538103": {
+            "utcDate": "2026-04-11T00:00:00Z",
+            "homeTeamName": "Nottingham Forest FC",
+            "awayTeamName": "Nottingham Forest FC",
+            "homeTeamCrest": "https:\/\/crests.football-data.org\/351.png",
+            "awayTeamCrest": "https:\/\/crests.football-data.org\/58.png",
+            "scoreWinner": null,
+            "scoreFullTimeHome": null,
+            "scoreFullTimeAway": null
+        },
+        "538104": {
+            "utcDate": "2026-04-11T00:00:00Z",
+            "homeTeamName": "West Ham United FC",
+            "awayTeamName": "West Ham United FC",
+            "homeTeamCrest": "https:\/\/crests.football-data.org\/563.png",
+            "awayTeamCrest": "https:\/\/crests.football-data.org\/76.png",
+            "scoreWinner": null,
+            "scoreFullTimeHome": null,
+            "scoreFullTimeAway": null
+        },
+        "538112": {
+            "utcDate": "2026-04-18T00:00:00Z",
+            "homeTeamName": "Newcastle United FC",
+            "awayTeamName": "Newcastle United FC",
+            "homeTeamCrest": "https:\/\/crests.football-data.org\/67.png",
+            "awayTeamCrest": "https:\/\/crests.football-data.org\/bournemouth.png",
+            "scoreWinner": null,
+            "scoreFullTimeHome": null,
+            "scoreFullTimeAway": null
+        },
+        "538113": {
+            "utcDate": "2026-04-18T00:00:00Z",
+            "homeTeamName": "Nottingham Forest FC",
+            "awayTeamName": "Nottingham Forest FC",
+            "homeTeamCrest": "https:\/\/crests.football-data.org\/351.png",
+            "awayTeamCrest": "https:\/\/crests.football-data.org\/328.png",
+            "scoreWinner": null,
+            "scoreFullTimeHome": null,
+            "scoreFullTimeAway": null
+        },
+        "538114": {
+            "utcDate": "2026-04-18T00:00:00Z",
+            "homeTeamName": "Tottenham Hotspur FC",
+            "awayTeamName": "Tottenham Hotspur FC",
+            "homeTeamCrest": "https:\/\/crests.football-data.org\/73.png",
+            "awayTeamCrest": "https:\/\/crests.football-data.org\/397.png",
+            "scoreWinner": null,
+            "scoreFullTimeHome": null,
+            "scoreFullTimeAway": null
+        },
+        "538105": {
+            "utcDate": "2026-04-18T00:00:00Z",
+            "homeTeamName": "Aston Villa FC",
+            "awayTeamName": "Aston Villa FC",
+            "homeTeamCrest": "https:\/\/crests.football-data.org\/58.png",
+            "awayTeamCrest": "https:\/\/crests.football-data.org\/71.png",
+            "scoreWinner": null,
+            "scoreFullTimeHome": null,
+            "scoreFullTimeAway": null
+        },
+        "538106": {
+            "utcDate": "2026-04-18T00:00:00Z",
+            "homeTeamName": "Crystal Palace FC",
+            "awayTeamName": "Crystal Palace FC",
+            "homeTeamCrest": "https:\/\/crests.football-data.org\/354.png",
+            "awayTeamCrest": "https:\/\/crests.football-data.org\/563.png",
+            "scoreWinner": null,
+            "scoreFullTimeHome": null,
+            "scoreFullTimeAway": null
+        },
+        "538107": {
+            "utcDate": "2026-04-18T00:00:00Z",
+            "homeTeamName": "Brentford FC",
+            "awayTeamName": "Brentford FC",
+            "homeTeamCrest": "https:\/\/crests.football-data.org\/402.png",
+            "awayTeamCrest": "https:\/\/crests.football-data.org\/63.png",
+            "scoreWinner": null,
+            "scoreFullTimeHome": null,
+            "scoreFullTimeAway": null
+        },
+        "538108": {
+            "utcDate": "2026-04-18T00:00:00Z",
+            "homeTeamName": "Chelsea FC",
+            "awayTeamName": "Chelsea FC",
+            "homeTeamCrest": "https:\/\/crests.football-data.org\/61.png",
+            "awayTeamCrest": "https:\/\/crests.football-data.org\/66.png",
+            "scoreWinner": null,
+            "scoreFullTimeHome": null,
+            "scoreFullTimeAway": null
+        },
+        "538109": {
+            "utcDate": "2026-04-18T00:00:00Z",
+            "homeTeamName": "Everton FC",
+            "awayTeamName": "Everton FC",
+            "homeTeamCrest": "https:\/\/crests.football-data.org\/62.png",
+            "awayTeamCrest": "https:\/\/crests.football-data.org\/64.png",
+            "scoreWinner": null,
+            "scoreFullTimeHome": null,
+            "scoreFullTimeAway": null
+        },
+        "538110": {
+            "utcDate": "2026-04-18T00:00:00Z",
+            "homeTeamName": "Leeds United FC",
+            "awayTeamName": "Leeds United FC",
+            "homeTeamCrest": "https:\/\/crests.football-data.org\/341.png",
+            "awayTeamCrest": "https:\/\/crests.football-data.org\/76.png",
+            "scoreWinner": null,
+            "scoreFullTimeHome": null,
+            "scoreFullTimeAway": null
+        },
+        "538111": {
+            "utcDate": "2026-04-18T00:00:00Z",
+            "homeTeamName": "Manchester City FC",
+            "awayTeamName": "Manchester City FC",
+            "homeTeamCrest": "https:\/\/crests.football-data.org\/65.png",
+            "awayTeamCrest": "https:\/\/crests.football-data.org\/57.png",
+            "scoreWinner": null,
+            "scoreFullTimeHome": null,
+            "scoreFullTimeAway": null
+        },
+        "538115": {
+            "utcDate": "2026-04-25T00:00:00Z",
+            "homeTeamName": "AFC Bournemouth",
+            "awayTeamName": "AFC Bournemouth",
+            "homeTeamCrest": "https:\/\/crests.football-data.org\/bournemouth.png",
+            "awayTeamCrest": "https:\/\/crests.football-data.org\/341.png",
+            "scoreWinner": null,
+            "scoreFullTimeHome": null,
+            "scoreFullTimeAway": null
+        },
+        "538116": {
+            "utcDate": "2026-04-25T00:00:00Z",
+            "homeTeamName": "Sunderland AFC",
+            "awayTeamName": "Sunderland AFC",
+            "homeTeamCrest": "https:\/\/crests.football-data.org\/71.png",
+            "awayTeamCrest": "https:\/\/crests.football-data.org\/351.png",
+            "scoreWinner": null,
+            "scoreFullTimeHome": null,
+            "scoreFullTimeAway": null
+        },
+        "538117": {
+            "utcDate": "2026-04-25T00:00:00Z",
+            "homeTeamName": "Brighton & Hove Albion FC",
+            "awayTeamName": "Brighton & Hove Albion FC",
+            "homeTeamCrest": "https:\/\/crests.football-data.org\/397.png",
+            "awayTeamCrest": "https:\/\/crests.football-data.org\/61.png",
+            "scoreWinner": null,
+            "scoreFullTimeHome": null,
+            "scoreFullTimeAway": null
+        },
+        "538118": {
+            "utcDate": "2026-04-25T00:00:00Z",
+            "homeTeamName": "Arsenal FC",
+            "awayTeamName": "Arsenal FC",
+            "homeTeamCrest": "https:\/\/crests.football-data.org\/57.png",
+            "awayTeamCrest": "https:\/\/crests.football-data.org\/67.png",
+            "scoreWinner": null,
+            "scoreFullTimeHome": null,
+            "scoreFullTimeAway": null
+        },
+        "538119": {
+            "utcDate": "2026-04-25T00:00:00Z",
+            "homeTeamName": "Burnley FC",
+            "awayTeamName": "Burnley FC",
+            "homeTeamCrest": "https:\/\/crests.football-data.org\/328.png",
+            "awayTeamCrest": "https:\/\/crests.football-data.org\/65.png",
+            "scoreWinner": null,
+            "scoreFullTimeHome": null,
+            "scoreFullTimeAway": null
+        },
+        "538120": {
+            "utcDate": "2026-04-25T00:00:00Z",
+            "homeTeamName": "Fulham FC",
+            "awayTeamName": "Fulham FC",
+            "homeTeamCrest": "https:\/\/crests.football-data.org\/63.png",
+            "awayTeamCrest": "https:\/\/crests.football-data.org\/58.png",
+            "scoreWinner": null,
+            "scoreFullTimeHome": null,
+            "scoreFullTimeAway": null
+        },
+        "538121": {
+            "utcDate": "2026-04-25T00:00:00Z",
+            "homeTeamName": "Liverpool FC",
+            "awayTeamName": "Liverpool FC",
+            "homeTeamCrest": "https:\/\/crests.football-data.org\/64.png",
+            "awayTeamCrest": "https:\/\/crests.football-data.org\/354.png",
+            "scoreWinner": null,
+            "scoreFullTimeHome": null,
+            "scoreFullTimeAway": null
+        },
+        "538122": {
+            "utcDate": "2026-04-25T00:00:00Z",
+            "homeTeamName": "Manchester United FC",
+            "awayTeamName": "Manchester United FC",
+            "homeTeamCrest": "https:\/\/crests.football-data.org\/66.png",
+            "awayTeamCrest": "https:\/\/crests.football-data.org\/402.png",
+            "scoreWinner": null,
+            "scoreFullTimeHome": null,
+            "scoreFullTimeAway": null
+        },
+        "538123": {
+            "utcDate": "2026-04-25T00:00:00Z",
+            "homeTeamName": "West Ham United FC",
+            "awayTeamName": "West Ham United FC",
+            "homeTeamCrest": "https:\/\/crests.football-data.org\/563.png",
+            "awayTeamCrest": "https:\/\/crests.football-data.org\/62.png",
+            "scoreWinner": null,
+            "scoreFullTimeHome": null,
+            "scoreFullTimeAway": null
+        },
+        "538124": {
+            "utcDate": "2026-04-25T00:00:00Z",
+            "homeTeamName": "Wolverhampton Wanderers FC",
+            "awayTeamName": "Wolverhampton Wanderers FC",
+            "homeTeamCrest": "https:\/\/crests.football-data.org\/76.png",
+            "awayTeamCrest": "https:\/\/crests.football-data.org\/73.png",
+            "scoreWinner": null,
+            "scoreFullTimeHome": null,
+            "scoreFullTimeAway": null
+        },
+        "538125": {
+            "utcDate": "2026-05-02T00:00:00Z",
+            "homeTeamName": "AFC Bournemouth",
+            "awayTeamName": "AFC Bournemouth",
+            "homeTeamCrest": "https:\/\/crests.football-data.org\/bournemouth.png",
+            "awayTeamCrest": "https:\/\/crests.football-data.org\/354.png",
+            "scoreWinner": null,
+            "scoreFullTimeHome": null,
+            "scoreFullTimeAway": null
+        },
+        "538126": {
+            "utcDate": "2026-05-02T00:00:00Z",
+            "homeTeamName": "Aston Villa FC",
+            "awayTeamName": "Aston Villa FC",
+            "homeTeamCrest": "https:\/\/crests.football-data.org\/58.png",
+            "awayTeamCrest": "https:\/\/crests.football-data.org\/73.png",
+            "scoreWinner": null,
+            "scoreFullTimeHome": null,
+            "scoreFullTimeAway": null
+        },
+        "538127": {
+            "utcDate": "2026-05-02T00:00:00Z",
+            "homeTeamName": "Arsenal FC",
+            "awayTeamName": "Arsenal FC",
+            "homeTeamCrest": "https:\/\/crests.football-data.org\/57.png",
+            "awayTeamCrest": "https:\/\/crests.football-data.org\/63.png",
+            "scoreWinner": null,
+            "scoreFullTimeHome": null,
+            "scoreFullTimeAway": null
+        },
+        "538128": {
+            "utcDate": "2026-05-02T00:00:00Z",
+            "homeTeamName": "Brentford FC",
+            "awayTeamName": "Brentford FC",
+            "homeTeamCrest": "https:\/\/crests.football-data.org\/402.png",
+            "awayTeamCrest": "https:\/\/crests.football-data.org\/563.png",
+            "scoreWinner": null,
+            "scoreFullTimeHome": null,
+            "scoreFullTimeAway": null
+        },
+        "538129": {
+            "utcDate": "2026-05-02T00:00:00Z",
+            "homeTeamName": "Chelsea FC",
+            "awayTeamName": "Chelsea FC",
+            "homeTeamCrest": "https:\/\/crests.football-data.org\/61.png",
+            "awayTeamCrest": "https:\/\/crests.football-data.org\/351.png",
+            "scoreWinner": null,
+            "scoreFullTimeHome": null,
+            "scoreFullTimeAway": null
+        },
+        "538130": {
+            "utcDate": "2026-05-02T00:00:00Z",
+            "homeTeamName": "Everton FC",
+            "awayTeamName": "Everton FC",
+            "homeTeamCrest": "https:\/\/crests.football-data.org\/62.png",
+            "awayTeamCrest": "https:\/\/crests.football-data.org\/65.png",
+            "scoreWinner": null,
+            "scoreFullTimeHome": null,
+            "scoreFullTimeAway": null
+        },
+        "538131": {
+            "utcDate": "2026-05-02T00:00:00Z",
+            "homeTeamName": "Leeds United FC",
+            "awayTeamName": "Leeds United FC",
+            "homeTeamCrest": "https:\/\/crests.football-data.org\/341.png",
+            "awayTeamCrest": "https:\/\/crests.football-data.org\/328.png",
+            "scoreWinner": null,
+            "scoreFullTimeHome": null,
+            "scoreFullTimeAway": null
+        },
+        "538132": {
+            "utcDate": "2026-05-02T00:00:00Z",
+            "homeTeamName": "Manchester United FC",
+            "awayTeamName": "Manchester United FC",
+            "homeTeamCrest": "https:\/\/crests.football-data.org\/66.png",
+            "awayTeamCrest": "https:\/\/crests.football-data.org\/64.png",
+            "scoreWinner": null,
+            "scoreFullTimeHome": null,
+            "scoreFullTimeAway": null
+        },
+        "538133": {
+            "utcDate": "2026-05-02T00:00:00Z",
+            "homeTeamName": "Newcastle United FC",
+            "awayTeamName": "Newcastle United FC",
+            "homeTeamCrest": "https:\/\/crests.football-data.org\/67.png",
+            "awayTeamCrest": "https:\/\/crests.football-data.org\/397.png",
+            "scoreWinner": null,
+            "scoreFullTimeHome": null,
+            "scoreFullTimeAway": null
+        },
+        "538134": {
+            "utcDate": "2026-05-02T00:00:00Z",
+            "homeTeamName": "Wolverhampton Wanderers FC",
+            "awayTeamName": "Wolverhampton Wanderers FC",
+            "homeTeamCrest": "https:\/\/crests.football-data.org\/76.png",
+            "awayTeamCrest": "https:\/\/crests.football-data.org\/71.png",
+            "scoreWinner": null,
+            "scoreFullTimeHome": null,
+            "scoreFullTimeAway": null
+        },
+        "538135": {
+            "utcDate": "2026-05-09T00:00:00Z",
+            "homeTeamName": "Sunderland AFC",
+            "awayTeamName": "Sunderland AFC",
+            "homeTeamCrest": "https:\/\/crests.football-data.org\/71.png",
+            "awayTeamCrest": "https:\/\/crests.football-data.org\/66.png",
+            "scoreWinner": null,
+            "scoreFullTimeHome": null,
+            "scoreFullTimeAway": null
+        },
+        "538136": {
+            "utcDate": "2026-05-09T00:00:00Z",
+            "homeTeamName": "Brighton & Hove Albion FC",
+            "awayTeamName": "Brighton & Hove Albion FC",
+            "homeTeamCrest": "https:\/\/crests.football-data.org\/397.png",
+            "awayTeamCrest": "https:\/\/crests.football-data.org\/76.png",
+            "scoreWinner": null,
+            "scoreFullTimeHome": null,
+            "scoreFullTimeAway": null
+        },
+        "538137": {
+            "utcDate": "2026-05-09T00:00:00Z",
+            "homeTeamName": "Crystal Palace FC",
+            "awayTeamName": "Crystal Palace FC",
+            "homeTeamCrest": "https:\/\/crests.football-data.org\/354.png",
+            "awayTeamCrest": "https:\/\/crests.football-data.org\/62.png",
+            "scoreWinner": null,
+            "scoreFullTimeHome": null,
+            "scoreFullTimeAway": null
+        },
+        "538138": {
+            "utcDate": "2026-05-09T00:00:00Z",
+            "homeTeamName": "Burnley FC",
+            "awayTeamName": "Burnley FC",
+            "homeTeamCrest": "https:\/\/crests.football-data.org\/328.png",
+            "awayTeamCrest": "https:\/\/crests.football-data.org\/58.png",
+            "scoreWinner": null,
+            "scoreFullTimeHome": null,
+            "scoreFullTimeAway": null
+        },
+        "538139": {
+            "utcDate": "2026-05-09T00:00:00Z",
+            "homeTeamName": "Fulham FC",
+            "awayTeamName": "Fulham FC",
+            "homeTeamCrest": "https:\/\/crests.football-data.org\/63.png",
+            "awayTeamCrest": "https:\/\/crests.football-data.org\/bournemouth.png",
+            "scoreWinner": null,
+            "scoreFullTimeHome": null,
+            "scoreFullTimeAway": null
+        },
+        "538140": {
+            "utcDate": "2026-05-09T00:00:00Z",
+            "homeTeamName": "Liverpool FC",
+            "awayTeamName": "Liverpool FC",
+            "homeTeamCrest": "https:\/\/crests.football-data.org\/64.png",
+            "awayTeamCrest": "https:\/\/crests.football-data.org\/61.png",
+            "scoreWinner": null,
+            "scoreFullTimeHome": null,
+            "scoreFullTimeAway": null
+        },
+        "538141": {
+            "utcDate": "2026-05-09T00:00:00Z",
+            "homeTeamName": "Manchester City FC",
+            "awayTeamName": "Manchester City FC",
+            "homeTeamCrest": "https:\/\/crests.football-data.org\/65.png",
+            "awayTeamCrest": "https:\/\/crests.football-data.org\/402.png",
+            "scoreWinner": null,
+            "scoreFullTimeHome": null,
+            "scoreFullTimeAway": null
+        },
+        "538142": {
+            "utcDate": "2026-05-09T00:00:00Z",
+            "homeTeamName": "Nottingham Forest FC",
+            "awayTeamName": "Nottingham Forest FC",
+            "homeTeamCrest": "https:\/\/crests.football-data.org\/351.png",
+            "awayTeamCrest": "https:\/\/crests.football-data.org\/67.png",
+            "scoreWinner": null,
+            "scoreFullTimeHome": null,
+            "scoreFullTimeAway": null
+        },
+        "538143": {
+            "utcDate": "2026-05-09T00:00:00Z",
+            "homeTeamName": "Tottenham Hotspur FC",
+            "awayTeamName": "Tottenham Hotspur FC",
+            "homeTeamCrest": "https:\/\/crests.football-data.org\/73.png",
+            "awayTeamCrest": "https:\/\/crests.football-data.org\/341.png",
+            "scoreWinner": null,
+            "scoreFullTimeHome": null,
+            "scoreFullTimeAway": null
+        },
+        "538144": {
+            "utcDate": "2026-05-09T00:00:00Z",
+            "homeTeamName": "West Ham United FC",
+            "awayTeamName": "West Ham United FC",
+            "homeTeamCrest": "https:\/\/crests.football-data.org\/563.png",
+            "awayTeamCrest": "https:\/\/crests.football-data.org\/57.png",
+            "scoreWinner": null,
+            "scoreFullTimeHome": null,
+            "scoreFullTimeAway": null
+        },
+        "538145": {
+            "utcDate": "2026-05-17T00:00:00Z",
+            "homeTeamName": "AFC Bournemouth",
+            "awayTeamName": "AFC Bournemouth",
+            "homeTeamCrest": "https:\/\/crests.football-data.org\/bournemouth.png",
+            "awayTeamCrest": "https:\/\/crests.football-data.org\/65.png",
+            "scoreWinner": null,
+            "scoreFullTimeHome": null,
+            "scoreFullTimeAway": null
+        },
+        "538146": {
+            "utcDate": "2026-05-17T00:00:00Z",
+            "homeTeamName": "Aston Villa FC",
+            "awayTeamName": "Aston Villa FC",
+            "homeTeamCrest": "https:\/\/crests.football-data.org\/58.png",
+            "awayTeamCrest": "https:\/\/crests.football-data.org\/64.png",
+            "scoreWinner": null,
+            "scoreFullTimeHome": null,
+            "scoreFullTimeAway": null
+        },
+        "538147": {
+            "utcDate": "2026-05-17T00:00:00Z",
+            "homeTeamName": "Arsenal FC",
+            "awayTeamName": "Arsenal FC",
+            "homeTeamCrest": "https:\/\/crests.football-data.org\/57.png",
+            "awayTeamCrest": "https:\/\/crests.football-data.org\/328.png",
+            "scoreWinner": null,
+            "scoreFullTimeHome": null,
+            "scoreFullTimeAway": null
+        },
+        "538148": {
+            "utcDate": "2026-05-17T00:00:00Z",
+            "homeTeamName": "Brentford FC",
+            "awayTeamName": "Brentford FC",
+            "homeTeamCrest": "https:\/\/crests.football-data.org\/402.png",
+            "awayTeamCrest": "https:\/\/crests.football-data.org\/354.png",
+            "scoreWinner": null,
+            "scoreFullTimeHome": null,
+            "scoreFullTimeAway": null
+        },
+        "538149": {
+            "utcDate": "2026-05-17T00:00:00Z",
+            "homeTeamName": "Chelsea FC",
+            "awayTeamName": "Chelsea FC",
+            "homeTeamCrest": "https:\/\/crests.football-data.org\/61.png",
+            "awayTeamCrest": "https:\/\/crests.football-data.org\/73.png",
+            "scoreWinner": null,
+            "scoreFullTimeHome": null,
+            "scoreFullTimeAway": null
+        },
+        "538150": {
+            "utcDate": "2026-05-17T00:00:00Z",
+            "homeTeamName": "Everton FC",
+            "awayTeamName": "Everton FC",
+            "homeTeamCrest": "https:\/\/crests.football-data.org\/62.png",
+            "awayTeamCrest": "https:\/\/crests.football-data.org\/71.png",
+            "scoreWinner": null,
+            "scoreFullTimeHome": null,
+            "scoreFullTimeAway": null
+        },
+        "538151": {
+            "utcDate": "2026-05-17T00:00:00Z",
+            "homeTeamName": "Leeds United FC",
+            "awayTeamName": "Leeds United FC",
+            "homeTeamCrest": "https:\/\/crests.football-data.org\/341.png",
+            "awayTeamCrest": "https:\/\/crests.football-data.org\/397.png",
+            "scoreWinner": null,
+            "scoreFullTimeHome": null,
+            "scoreFullTimeAway": null
+        },
+        "538152": {
+            "utcDate": "2026-05-17T00:00:00Z",
+            "homeTeamName": "Manchester United FC",
+            "awayTeamName": "Manchester United FC",
+            "homeTeamCrest": "https:\/\/crests.football-data.org\/66.png",
+            "awayTeamCrest": "https:\/\/crests.football-data.org\/351.png",
+            "scoreWinner": null,
+            "scoreFullTimeHome": null,
+            "scoreFullTimeAway": null
+        },
+        "538153": {
+            "utcDate": "2026-05-17T00:00:00Z",
+            "homeTeamName": "Newcastle United FC",
+            "awayTeamName": "Newcastle United FC",
+            "homeTeamCrest": "https:\/\/crests.football-data.org\/67.png",
+            "awayTeamCrest": "https:\/\/crests.football-data.org\/563.png",
+            "scoreWinner": null,
+            "scoreFullTimeHome": null,
+            "scoreFullTimeAway": null
+        },
+        "538154": {
+            "utcDate": "2026-05-17T00:00:00Z",
+            "homeTeamName": "Wolverhampton Wanderers FC",
+            "awayTeamName": "Wolverhampton Wanderers FC",
+            "homeTeamCrest": "https:\/\/crests.football-data.org\/76.png",
+            "awayTeamCrest": "https:\/\/crests.football-data.org\/63.png",
+            "scoreWinner": null,
+            "scoreFullTimeHome": null,
+            "scoreFullTimeAway": null
+        },
+        "538155": {
+            "utcDate": "2026-05-24T00:00:00Z",
+            "homeTeamName": "Sunderland AFC",
+            "awayTeamName": "Sunderland AFC",
+            "homeTeamCrest": "https:\/\/crests.football-data.org\/71.png",
+            "awayTeamCrest": "https:\/\/crests.football-data.org\/61.png",
+            "scoreWinner": null,
+            "scoreFullTimeHome": null,
+            "scoreFullTimeAway": null
+        },
+        "538156": {
+            "utcDate": "2026-05-24T00:00:00Z",
+            "homeTeamName": "Brighton & Hove Albion FC",
+            "awayTeamName": "Brighton & Hove Albion FC",
+            "homeTeamCrest": "https:\/\/crests.football-data.org\/397.png",
+            "awayTeamCrest": "https:\/\/crests.football-data.org\/66.png",
+            "scoreWinner": null,
+            "scoreFullTimeHome": null,
+            "scoreFullTimeAway": null
+        },
+        "538157": {
+            "utcDate": "2026-05-24T00:00:00Z",
+            "homeTeamName": "Crystal Palace FC",
+            "awayTeamName": "Crystal Palace FC",
+            "homeTeamCrest": "https:\/\/crests.football-data.org\/354.png",
+            "awayTeamCrest": "https:\/\/crests.football-data.org\/57.png",
+            "scoreWinner": null,
+            "scoreFullTimeHome": null,
+            "scoreFullTimeAway": null
+        },
+        "538158": {
+            "utcDate": "2026-05-24T00:00:00Z",
+            "homeTeamName": "Burnley FC",
+            "awayTeamName": "Burnley FC",
+            "homeTeamCrest": "https:\/\/crests.football-data.org\/328.png",
+            "awayTeamCrest": "https:\/\/crests.football-data.org\/76.png",
+            "scoreWinner": null,
+            "scoreFullTimeHome": null,
+            "scoreFullTimeAway": null
+        },
+        "538159": {
+            "utcDate": "2026-05-24T00:00:00Z",
+            "homeTeamName": "Fulham FC",
+            "awayTeamName": "Fulham FC",
+            "homeTeamCrest": "https:\/\/crests.football-data.org\/63.png",
+            "awayTeamCrest": "https:\/\/crests.football-data.org\/67.png",
+            "scoreWinner": null,
+            "scoreFullTimeHome": null,
+            "scoreFullTimeAway": null
+        },
+        "538160": {
+            "utcDate": "2026-05-24T00:00:00Z",
+            "homeTeamName": "Liverpool FC",
+            "awayTeamName": "Liverpool FC",
+            "homeTeamCrest": "https:\/\/crests.football-data.org\/64.png",
+            "awayTeamCrest": "https:\/\/crests.football-data.org\/402.png",
+            "scoreWinner": null,
+            "scoreFullTimeHome": null,
+            "scoreFullTimeAway": null
+        },
+        "538161": {
+            "utcDate": "2026-05-24T00:00:00Z",
+            "homeTeamName": "Manchester City FC",
+            "awayTeamName": "Manchester City FC",
+            "homeTeamCrest": "https:\/\/crests.football-data.org\/65.png",
+            "awayTeamCrest": "https:\/\/crests.football-data.org\/58.png",
+            "scoreWinner": null,
+            "scoreFullTimeHome": null,
+            "scoreFullTimeAway": null
+        },
+        "538162": {
+            "utcDate": "2026-05-24T00:00:00Z",
+            "homeTeamName": "Nottingham Forest FC",
+            "awayTeamName": "Nottingham Forest FC",
+            "homeTeamCrest": "https:\/\/crests.football-data.org\/351.png",
+            "awayTeamCrest": "https:\/\/crests.football-data.org\/bournemouth.png",
+            "scoreWinner": null,
+            "scoreFullTimeHome": null,
+            "scoreFullTimeAway": null
+        },
+        "538163": {
+            "utcDate": "2026-05-24T00:00:00Z",
+            "homeTeamName": "Tottenham Hotspur FC",
+            "awayTeamName": "Tottenham Hotspur FC",
+            "homeTeamCrest": "https:\/\/crests.football-data.org\/73.png",
+            "awayTeamCrest": "https:\/\/crests.football-data.org\/62.png",
+            "scoreWinner": null,
+            "scoreFullTimeHome": null,
+            "scoreFullTimeAway": null
+        },
+        "538164": {
+            "utcDate": "2026-05-24T00:00:00Z",
+            "homeTeamName": "West Ham United FC",
+            "awayTeamName": "West Ham United FC",
+            "homeTeamCrest": "https:\/\/crests.football-data.org\/563.png",
+            "awayTeamCrest": "https:\/\/crests.football-data.org\/341.png",
+            "scoreWinner": null,
+            "scoreFullTimeHome": null,
+            "scoreFullTimeAway": null
+        }
+    }
+}

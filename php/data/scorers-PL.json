@@ -1,0 +1,94 @@
+{
+    "scorers": [
+        {
+            "firstName": "Erling",
+            "lastName": "Haaland",
+            "playerTeamCrest": "https:\/\/crests.football-data.org\/65.png",
+            "playedMatches": 3,
+            "goals": 3,
+            "assists": null,
+            "penalties": null
+        },
+        {
+            "firstName": "Hugo",
+            "lastName": "Ekitik\u00e9",
+            "playerTeamCrest": "https:\/\/crests.football-data.org\/64.png",
+            "playedMatches": 3,
+            "goals": 2,
+            "assists": 1,
+            "penalties": null
+        },
+        {
+            "firstName": "Antoine",
+            "lastName": "Semenyo",
+            "playerTeamCrest": "https:\/\/crests.football-data.org\/bournemouth.png",
+            "playedMatches": 3,
+            "goals": 2,
+            "assists": 1,
+            "penalties": null
+        },
+        {
+            "firstName": "Wilson",
+            "lastName": "Isidor",
+            "playerTeamCrest": "https:\/\/crests.football-data.org\/71.png",
+            "playedMatches": 3,
+            "goals": 2,
+            "assists": null,
+            "penalties": null
+        },
+        {
+            "firstName": "",
+            "lastName": "Richarlison",
+            "playerTeamCrest": "https:\/\/crests.football-data.org\/73.png",
+            "playedMatches": 3,
+            "goals": 2,
+            "assists": 1,
+            "penalties": null
+        },
+        {
+            "firstName": "Brennan",
+            "lastName": "Johnson",
+            "playerTeamCrest": "https:\/\/crests.football-data.org\/73.png",
+            "playedMatches": 3,
+            "goals": 2,
+            "assists": null,
+            "penalties": null
+        },
+        {
+            "firstName": "Chris",
+            "lastName": "Wood",
+            "playerTeamCrest": "https:\/\/crests.football-data.org\/351.png",
+            "playedMatches": 3,
+            "goals": 2,
+            "assists": null,
+            "penalties": null
+        },
+        {
+            "firstName": "",
+            "lastName": "Thiago",
+            "playerTeamCrest": "https:\/\/crests.football-data.org\/402.png",
+            "playedMatches": 3,
+            "goals": 2,
+            "assists": null,
+            "penalties": 1
+        },
+        {
+            "firstName": "",
+            "lastName": "Lucas Paquet\u00e1",
+            "playerTeamCrest": "https:\/\/crests.football-data.org\/563.png",
+            "playedMatches": 3,
+            "goals": 2,
+            "assists": null,
+            "penalties": 1
+        },
+        {
+            "firstName": "",
+            "lastName": "Jo\u00e3o Pedro",
+            "playerTeamCrest": "https:\/\/crests.football-data.org\/61.png",
+            "playedMatches": 3,
+            "goals": 2,
+            "assists": 2,
+            "penalties": null
+        }
+    ]
+}

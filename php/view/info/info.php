@@ -4,7 +4,7 @@
 // temporisation de sortie
     ob_start();
 
-    if(isset($data['competitions'])) { $data = $data['competitions']; }
+    if(isset($data['competitions'])) { $data = $data['competitions']; } else { echo "Aucune donnée de ligue ou coupe disponible."; }
 
 ?>
 

@@ -153,6 +153,23 @@
 
     document.getElementById('column').addEventListener('click', function() {
 
+        const data = <?php echo json_encode($data); ?>;
+
+                // Appliquer la hauteur et la largeur à chaque carte
+        document.querySelectorAll('.article-card').forEach(card => {
+            card.style.height = '220px';
+            card.style.width = '900px';
+        });
+
+        // Appliquer le float:left à chaque image
+        document.querySelectorAll('.article-image').forEach(img => {
+            img.style.float = 'left';
+        });
+
+        document.querySelectorAll('.article-content').forEach(content => {
+            content.style.textAlign = 'left';
+        });
+
         document.querySelector('.news').style.gridTemplateColumns = 'auto';
 
         const titles = document.querySelectorAll('.article-title');
@@ -170,20 +187,7 @@
             }
         });
 
-        // Appliquer la hauteur et la largeur à chaque carte
-        document.querySelectorAll('.article-card').forEach(card => {
-            card.style.height = '220px';
-            card.style.width = '900px';
-        });
 
-        // Appliquer le float:left à chaque image
-        document.querySelectorAll('.article-image').forEach(img => {
-            img.style.float = 'left';
-        });
-
-        document.querySelectorAll('.article-content').forEach(content => {
-            content.style.textAlign = 'left';
-        });
 
     });
 

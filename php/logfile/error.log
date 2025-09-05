@@ -1,0 +1,18 @@
+[05-Sep-2025 19:00:24 Europe/Paris] PHP Notice:  Undefined variable: ctrl in /var/www/html/cron/crontab.php on line 193
+[05-Sep-2025 19:00:24 Europe/Paris] PHP Fatal error:  Uncaught Error: Call to a member function writeJson() on null in /var/www/html/cron/crontab.php:193
+Stack trace:
+#0 /var/www/html/cron/crontab.php(224): matches(3, '12cfafdf25fa4bf...', 'https://api.foo...', 'competitions.js...', '/var/www/html/d...')
+#1 {main}
+  thrown in /var/www/html/cron/crontab.php on line 193
+[05-Sep-2025 19:08:46 Europe/Paris] PHP Notice:  Undefined variable: str in /var/www/html/cron/crontab.php on line 242
+[05-Sep-2025 19:08:46 Europe/Paris] PHP Notice:  Undefined variable: str in /var/www/html/cron/crontab.php on line 242
+[05-Sep-2025 19:08:46 Europe/Paris] PHP Notice:  Undefined variable: str in /var/www/html/cron/crontab.php on line 242
+[05-Sep-2025 19:08:47 Europe/Paris] PHP Notice:  Undefined variable: str in /var/www/html/cron/crontab.php on line 242
+[05-Sep-2025 19:08:47 Europe/Paris] PHP Notice:  Undefined variable: str in /var/www/html/cron/crontab.php on line 242
+[05-Sep-2025 19:08:47 Europe/Paris] PHP Notice:  Undefined variable: str in /var/www/html/cron/crontab.php on line 242
+[05-Sep-2025 19:08:48 Europe/Paris] PHP Notice:  Undefined variable: str in /var/www/html/cron/crontab.php on line 242
+[05-Sep-2025 19:08:48 Europe/Paris] PHP Notice:  Undefined variable: str in /var/www/html/cron/crontab.php on line 242
+[05-Sep-2025 19:12:18 Europe/Paris] PHP Notice:  Undefined variable: data in /var/www/html/cron/crontab.php on line 329
+[05-Sep-2025 19:14:54 Europe/Paris] PHP Notice:  Undefined variable: data in /var/www/html/cron/crontab.php on line 329
+[05-Sep-2025 19:19:42 Europe/Paris] PHP Notice:  Undefined variable: data in /var/www/html/cron/crontab.php on line 331
+[05-Sep-2025 19:23:09 Europe/Paris] PHP Notice:  Undefined variable: data in /var/www/html/cron/crontab.php on line 331

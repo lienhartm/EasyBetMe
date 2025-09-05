@@ -1,0 +1,136 @@
+{
+    "seasons": [
+        {
+            "startDate": "2022-11-20",
+            "endDate": "2022-12-18",
+            "winnerName": "Argentina",
+            "winnerCrest": "https:\/\/crests.football-data.org\/762.png"
+        },
+        {
+            "startDate": "2018-06-14",
+            "endDate": "2018-07-15",
+            "winnerName": "France",
+            "winnerCrest": "https:\/\/crests.football-data.org\/773.svg"
+        },
+        {
+            "startDate": "2014-06-11",
+            "endDate": "2014-07-12",
+            "winnerName": "Germany",
+            "winnerCrest": "https:\/\/crests.football-data.org\/759.svg"
+        },
+        {
+            "startDate": "2010-06-10",
+            "endDate": "2010-07-10",
+            "winnerName": "Spain",
+            "winnerCrest": "https:\/\/crests.football-data.org\/760.svg"
+        },
+        {
+            "startDate": "2006-06-08",
+            "endDate": "2006-07-08",
+            "winnerName": "Italy",
+            "winnerCrest": "https:\/\/crests.football-data.org\/784.svg"
+        },
+        {
+            "startDate": "2002-05-30",
+            "endDate": "2002-06-29",
+            "winnerName": "Brazil",
+            "winnerCrest": "https:\/\/crests.football-data.org\/764.svg"
+        },
+        {
+            "startDate": "1998-06-09",
+            "endDate": "1998-07-11",
+            "winnerName": "France",
+            "winnerCrest": "https:\/\/crests.football-data.org\/773.svg"
+        },
+        {
+            "startDate": "1994-06-16",
+            "endDate": "1994-07-16",
+            "winnerName": "Brazil",
+            "winnerCrest": "https:\/\/crests.football-data.org\/764.svg"
+        },
+        {
+            "startDate": "1990-06-07",
+            "endDate": "1990-07-07",
+            "winnerName": "Germany",
+            "winnerCrest": "https:\/\/crests.football-data.org\/759.svg"
+        },
+        {
+            "startDate": "1986-05-30",
+            "endDate": "1986-06-28",
+            "winnerName": "Argentina",
+            "winnerCrest": "https:\/\/crests.football-data.org\/762.png"
+        },
+        {
+            "startDate": "1982-06-12",
+            "endDate": "1982-07-10",
+            "winnerName": "Italy",
+            "winnerCrest": "https:\/\/crests.football-data.org\/784.svg"
+        },
+        {
+            "startDate": "1978-05-31",
+            "endDate": "1978-06-24",
+            "winnerName": "Argentina",
+            "winnerCrest": "https:\/\/crests.football-data.org\/762.png"
+        },
+        {
+            "startDate": "1974-06-12",
+            "endDate": "1974-07-06",
+            "winnerName": "Germany",
+            "winnerCrest": "https:\/\/crests.football-data.org\/759.svg"
+        },
+        {
+            "startDate": "1970-05-30",
+            "endDate": "1970-06-20",
+            "winnerName": "Brazil",
+            "winnerCrest": "https:\/\/crests.football-data.org\/764.svg"
+        },
+        {
+            "startDate": "1966-07-10",
+            "endDate": "1966-07-29",
+            "winnerName": "England",
+            "winnerCrest": "https:\/\/crests.football-data.org\/770.svg"
+        },
+        {
+            "startDate": "1962-05-29",
+            "endDate": "1962-06-16",
+            "winnerName": "Brazil",
+            "winnerCrest": "https:\/\/crests.football-data.org\/764.svg"
+        },
+        {
+            "startDate": "1958-06-07",
+            "endDate": "1958-06-28",
+            "winnerName": "Brazil",
+            "winnerCrest": "https:\/\/crests.football-data.org\/764.svg"
+        },
+        {
+            "startDate": "1954-06-15",
+            "endDate": "1954-07-03",
+            "winnerName": "Germany",
+            "winnerCrest": "https:\/\/crests.football-data.org\/759.svg"
+        },
+        {
+            "startDate": "1950-06-23",
+            "endDate": "1950-07-15",
+            "winnerName": "Uruguay",
+            "winnerCrest": "https:\/\/crests.football-data.org\/758.svg"
+        },
+        {
+            "startDate": "1938-06-03",
+            "endDate": "1938-06-18",
+            "winnerName": "Italy",
+            "winnerCrest": "https:\/\/crests.football-data.org\/784.svg"
+        },
+        {
+            "startDate": "1934-05-26",
+            "endDate": "1934-06-09",
+            "winnerName": "Italy",
+            "winnerCrest": "https:\/\/crests.football-data.org\/784.svg"
+        },
+        {
+            "startDate": "1930-07-12",
+            "endDate": "1930-07-29",
+            "winnerName": "Uruguay",
+            "winnerCrest": "https:\/\/crests.football-data.org\/758.svg"
+        }
+    ]
+}

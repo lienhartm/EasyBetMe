@@ -1,0 +1,94 @@
+{
+    "scorers": [
+        {
+            "firstName": "Ilan",
+            "lastName": "Kebbal",
+            "playerTeamCrest": "https:\/\/crests.football-data.org\/1045.png",
+            "playedMatches": 3,
+            "goals": 3,
+            "assists": 1,
+            "penalties": 1
+        },
+        {
+            "firstName": "",
+            "lastName": "Jo\u00e3o Neves",
+            "playerTeamCrest": "https:\/\/crests.football-data.org\/524.png",
+            "playedMatches": 2,
+            "goals": 3,
+            "assists": null,
+            "penalties": null
+        },
+        {
+            "firstName": "Rassoul",
+            "lastName": "N'Diaye",
+            "playerTeamCrest": "https:\/\/crests.football-data.org\/533.png",
+            "playedMatches": 3,
+            "goals": 2,
+            "assists": null,
+            "penalties": null
+        },
+        {
+            "firstName": "Maghnes",
+            "lastName": "Akliouche",
+            "playerTeamCrest": "https:\/\/crests.football-data.org\/548.png",
+            "playedMatches": 3,
+            "goals": 2,
+            "assists": 1,
+            "penalties": null
+        },
+        {
+            "firstName": "Olivier",
+            "lastName": "Giroud",
+            "playerTeamCrest": "https:\/\/crests.football-data.org\/521.png",
+            "playedMatches": 2,
+            "goals": 2,
+            "assists": null,
+            "penalties": null
+        },
+        {
+            "firstName": "H\u00e1kon",
+            "lastName": "Haraldsson",
+            "playerTeamCrest": "https:\/\/crests.football-data.org\/521.png",
+            "playedMatches": 3,
+            "goals": 2,
+            "assists": null,
+            "penalties": null
+        },
+        {
+            "firstName": "Kamory",
+            "lastName": "Doumbia",
+            "playerTeamCrest": "https:\/\/crests.football-data.org\/512.png",
+            "playedMatches": 3,
+            "goals": 2,
+            "assists": 1,
+            "penalties": null
+        },
+        {
+            "firstName": "Lassine",
+            "lastName": "Sinayoko",
+            "playerTeamCrest": "https:\/\/crests.football-data.org\/519.png",
+            "playedMatches": 3,
+            "goals": 2,
+            "assists": null,
+            "penalties": null
+        },
+        {
+            "firstName": "Joaqu\u00edn",
+            "lastName": "Panichelli",
+            "playerTeamCrest": "https:\/\/crests.football-data.org\/576.png",
+            "playedMatches": 3,
+            "goals": 2,
+            "assists": null,
+            "penalties": 1
+        },
+        {
+            "firstName": "Esteban",
+            "lastName": "Lepaul",
+            "playerTeamCrest": "https:\/\/crests.football-data.org\/529.png",
+            "playedMatches": 3,
+            "goals": 2,
+            "assists": null,
+            "penalties": null
+        }
+    ]
+}

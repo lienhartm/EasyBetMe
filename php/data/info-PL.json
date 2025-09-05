@@ -1,0 +1,202 @@
+{
+    "seasons": [
+        {
+            "startDate": "2022-08-05",
+            "endDate": "2023-05-28",
+            "winnerName": "Manchester City FC",
+            "winnerCrest": "https:\/\/crests.football-data.org\/65.png"
+        },
+        {
+            "startDate": "2021-08-13",
+            "endDate": "2022-05-22",
+            "winnerName": "Manchester City FC",
+            "winnerCrest": "https:\/\/crests.football-data.org\/65.png"
+        },
+        {
+            "startDate": "2020-09-12",
+            "endDate": "2021-05-23",
+            "winnerName": "Manchester City FC",
+            "winnerCrest": "https:\/\/crests.football-data.org\/65.png"
+        },
+        {
+            "startDate": "2019-08-09",
+            "endDate": "2020-07-26",
+            "winnerName": "Liverpool FC",
+            "winnerCrest": "https:\/\/crests.football-data.org\/64.png"
+        },
+        {
+            "startDate": "2018-08-10",
+            "endDate": "2019-05-12",
+            "winnerName": "Manchester City FC",
+            "winnerCrest": "https:\/\/crests.football-data.org\/65.png"
+        },
+        {
+            "startDate": "2017-08-11",
+            "endDate": "2018-05-13",
+            "winnerName": "Manchester City FC",
+            "winnerCrest": "https:\/\/crests.football-data.org\/65.png"
+        },
+        {
+            "startDate": "2016-08-13",
+            "endDate": "2017-05-21",
+            "winnerName": "Chelsea FC",
+            "winnerCrest": "https:\/\/crests.football-data.org\/61.png"
+        },
+        {
+            "startDate": "2015-08-08",
+            "endDate": "2016-05-17",
+            "winnerName": "Leicester City FC",
+            "winnerCrest": "https:\/\/crests.football-data.org\/338.png"
+        },
+        {
+            "startDate": "2014-08-16",
+            "endDate": "2015-05-24",
+            "winnerName": "Chelsea FC",
+            "winnerCrest": "https:\/\/crests.football-data.org\/61.png"
+        },
+        {
+            "startDate": "2013-08-17",
+            "endDate": "2014-05-11",
+            "winnerName": "Manchester City FC",
+            "winnerCrest": "https:\/\/crests.football-data.org\/65.png"
+        },
+        {
+            "startDate": "2012-08-18",
+            "endDate": "2013-05-19",
+            "winnerName": "Manchester United FC",
+            "winnerCrest": "https:\/\/crests.football-data.org\/66.png"
+        },
+        {
+            "startDate": "2011-08-13",
+            "endDate": "2012-05-13",
+            "winnerName": "Manchester City FC",
+            "winnerCrest": "https:\/\/crests.football-data.org\/65.png"
+        },
+        {
+            "startDate": "2010-08-14",
+            "endDate": "2011-05-22",
+            "winnerName": "Manchester United FC",
+            "winnerCrest": "https:\/\/crests.football-data.org\/66.png"
+        },
+        {
+            "startDate": "2009-08-15",
+            "endDate": "2010-05-09",
+            "winnerName": "Chelsea FC",
+            "winnerCrest": "https:\/\/crests.football-data.org\/61.png"
+        },
+        {
+            "startDate": "2008-08-16",
+            "endDate": "2009-05-24",
+            "winnerName": "Manchester United FC",
+            "winnerCrest": "https:\/\/crests.football-data.org\/66.png"
+        },
+        {
+            "startDate": "2007-08-11",
+            "endDate": "2008-05-11",
+            "winnerName": "Manchester United FC",
+            "winnerCrest": "https:\/\/crests.football-data.org\/66.png"
+        },
+        {
+            "startDate": "2006-08-19",
+            "endDate": "2007-05-13",
+            "winnerName": "Manchester United FC",
+            "winnerCrest": "https:\/\/crests.football-data.org\/66.png"
+        },
+        {
+            "startDate": "2005-08-13",
+            "endDate": "2006-05-07",
+            "winnerName": "Chelsea FC",
+            "winnerCrest": "https:\/\/crests.football-data.org\/61.png"
+        },
+        {
+            "startDate": "2004-08-14",
+            "endDate": "2005-05-15",
+            "winnerName": "Chelsea FC",
+            "winnerCrest": "https:\/\/crests.football-data.org\/61.png"
+        },
+        {
+            "startDate": "2003-08-16",
+            "endDate": "2004-05-15",
+            "winnerName": "Arsenal FC",
+            "winnerCrest": "https:\/\/crests.football-data.org\/57.png"
+        },
+        {
+            "startDate": "2002-08-17",
+            "endDate": "2003-05-11",
+            "winnerName": "Manchester United FC",
+            "winnerCrest": "https:\/\/crests.football-data.org\/66.png"
+        },
+        {
+            "startDate": "2001-08-18",
+            "endDate": "2002-05-11",
+            "winnerName": "Arsenal FC",
+            "winnerCrest": "https:\/\/crests.football-data.org\/57.png"
+        },
+        {
+            "startDate": "2000-08-19",
+            "endDate": "2001-05-19",
+            "winnerName": "Manchester United FC",
+            "winnerCrest": "https:\/\/crests.football-data.org\/66.png"
+        },
+        {
+            "startDate": "1999-08-07",
+            "endDate": "2000-05-14",
+            "winnerName": "Manchester United FC",
+            "winnerCrest": "https:\/\/crests.football-data.org\/66.png"
+        },
+        {
+            "startDate": "1998-08-15",
+            "endDate": "1999-05-16",
+            "winnerName": "Manchester United FC",
+            "winnerCrest": "https:\/\/crests.football-data.org\/66.png"
+        },
+        {
+            "startDate": "1997-08-09",
+            "endDate": "1998-05-10",
+            "winnerName": "Arsenal FC",
+            "winnerCrest": "https:\/\/crests.football-data.org\/57.png"
+        },
+        {
+            "startDate": "1996-08-17",
+            "endDate": "1997-05-11",
+            "winnerName": "Manchester United FC",
+            "winnerCrest": "https:\/\/crests.football-data.org\/66.png"
+        },
+        {
+            "startDate": "1995-08-19",
+            "endDate": "1996-05-04",
+            "winnerName": "Manchester United FC",
+            "winnerCrest": "https:\/\/crests.football-data.org\/66.png"
+        },
+        {
+            "startDate": "1994-08-20",
+            "endDate": "1995-05-14",
+            "winnerName": "Blackburn Rovers FC",
+            "winnerCrest": "https:\/\/crests.football-data.org\/59.png"
+        },
+        {
+            "startDate": "1993-08-14",
+            "endDate": "1994-05-08",
+            "winnerName": "Manchester United FC",
+            "winnerCrest": "https:\/\/crests.football-data.org\/66.png"
+        },
+        {
+            "startDate": "1992-08-13",
+            "endDate": "1993-05-09",
+            "winnerName": "Manchester United FC",
+            "winnerCrest": "https:\/\/crests.football-data.org\/66.png"
+        },
+        {
+            "startDate": "1991-08-15",
+            "endDate": "1992-04-30",
+            "winnerName": "Leeds United FC",
+            "winnerCrest": "https:\/\/crests.football-data.org\/341.png"
+        },
+        {
+            "startDate": "1990-08-23",
+            "endDate": "1991-05-18",
+            "winnerName": "Arsenal FC",
+            "winnerCrest": "https:\/\/crests.football-data.org\/57.png"
+        }
+    ]
+}

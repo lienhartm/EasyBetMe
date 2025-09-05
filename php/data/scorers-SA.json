@@ -1,0 +1,94 @@
+{
+    "scorers": [
+        {
+            "firstName": "Du\u0161an",
+            "lastName": "Vlahovi\u0107",
+            "playerTeamCrest": "https:\/\/crests.football-data.org\/109.png",
+            "playedMatches": 2,
+            "goals": 2,
+            "assists": null,
+            "penalties": null
+        },
+        {
+            "firstName": "Marcus",
+            "lastName": "Thuram",
+            "playerTeamCrest": "https:\/\/crests.football-data.org\/108.png",
+            "playedMatches": 2,
+            "goals": 2,
+            "assists": 1,
+            "penalties": null
+        },
+        {
+            "firstName": "Scott",
+            "lastName": "McTominay",
+            "playerTeamCrest": "https:\/\/crests.football-data.org\/113.png",
+            "playedMatches": 2,
+            "goals": 1,
+            "assists": null,
+            "penalties": null
+        },
+        {
+            "firstName": "Kevin",
+            "lastName": "De Bruyne",
+            "playerTeamCrest": "https:\/\/crests.football-data.org\/113.png",
+            "playedMatches": 2,
+            "goals": 1,
+            "assists": null,
+            "penalties": null
+        },
+        {
+            "firstName": "Federico",
+            "lastName": "Baschirotto",
+            "playerTeamCrest": "https:\/\/crests.football-data.org\/457.png",
+            "playedMatches": 2,
+            "goals": 1,
+            "assists": null,
+            "penalties": null
+        },
+        {
+            "firstName": "Strahinja",
+            "lastName": "Pavlovi\u0107",
+            "playerTeamCrest": "https:\/\/crests.football-data.org\/98.png",
+            "playedMatches": 2,
+            "goals": 1,
+            "assists": null,
+            "penalties": null
+        },
+        {
+            "firstName": "Federico",
+            "lastName": "Bonazzoli",
+            "playerTeamCrest": "https:\/\/crests.football-data.org\/457.png",
+            "playedMatches": 1,
+            "goals": 1,
+            "assists": null,
+            "penalties": null
+        },
+        {
+            "firstName": "",
+            "lastName": "Wesley",
+            "playerTeamCrest": "https:\/\/crests.football-data.org\/100.png",
+            "playedMatches": 2,
+            "goals": 1,
+            "assists": null,
+            "penalties": null
+        },
+        {
+            "firstName": "Rolando",
+            "lastName": "Mandragora",
+            "playerTeamCrest": "https:\/\/crests.football-data.org\/99.png",
+            "playedMatches": 2,
+            "goals": 1,
+            "assists": null,
+            "penalties": null
+        },
+        {
+            "firstName": "Sebastiano",
+            "lastName": "Luperto",
+            "playerTeamCrest": "https:\/\/crests.football-data.org\/104.png",
+            "playedMatches": 2,
+            "goals": 1,
+            "assists": null,
+            "penalties": null
+        }
+    ]
+}

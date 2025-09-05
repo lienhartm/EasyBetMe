@@ -1,0 +1,28 @@
+{
+    "seasons": [
+        {
+            "startDate": "2023-09-19",
+            "endDate": "2024-06-01",
+            "winnerName": "Real Madrid CF",
+            "winnerCrest": "https:\/\/crests.football-data.org\/86.png"
+        },
+        {
+            "startDate": "2022-06-21",
+            "endDate": "2023-06-10",
+            "winnerName": "Manchester City FC",
+            "winnerCrest": "https:\/\/crests.football-data.org\/65.png"
+        },
+        {
+            "startDate": "2021-06-22",
+            "endDate": "2022-05-28",
+            "winnerName": "Real Madrid CF",
+            "winnerCrest": "https:\/\/crests.football-data.org\/86.png"
+        },
+        {
+            "startDate": "2017-06-27",
+            "endDate": "2018-05-26",
+            "winnerName": "Real Madrid CF",
+            "winnerCrest": "https:\/\/crests.football-data.org\/86.png"
+        }
+    ]
+}

@@ -1,0 +1,94 @@
+{
+    "scorers": [
+        {
+            "firstName": "Michael",
+            "lastName": "Olise",
+            "playerTeamCrest": "https:\/\/crests.football-data.org\/5.png",
+            "playedMatches": 2,
+            "goals": 3,
+            "assists": null,
+            "penalties": null
+        },
+        {
+            "firstName": "Harry",
+            "lastName": "Kane",
+            "playerTeamCrest": "https:\/\/crests.football-data.org\/5.png",
+            "playedMatches": 2,
+            "goals": 3,
+            "assists": 1,
+            "penalties": null
+        },
+        {
+            "firstName": "Serhou",
+            "lastName": "Guirassy",
+            "playerTeamCrest": "https:\/\/crests.football-data.org\/4.png",
+            "playedMatches": 2,
+            "goals": 3,
+            "assists": null,
+            "penalties": null
+        },
+        {
+            "firstName": "Luis",
+            "lastName": "D\u00edaz",
+            "playerTeamCrest": "https:\/\/crests.football-data.org\/5.png",
+            "playedMatches": 2,
+            "goals": 2,
+            "assists": 1,
+            "penalties": null
+        },
+        {
+            "firstName": "Can",
+            "lastName": "Uzun",
+            "playerTeamCrest": "https:\/\/crests.football-data.org\/19.png",
+            "playedMatches": 2,
+            "goals": 2,
+            "assists": 2,
+            "penalties": null
+        },
+        {
+            "firstName": "Jean",
+            "lastName": "Bahoya",
+            "playerTeamCrest": "https:\/\/crests.football-data.org\/19.png",
+            "playedMatches": 2,
+            "goals": 2,
+            "assists": 1,
+            "penalties": null
+        },
+        {
+            "firstName": "Ilyas",
+            "lastName": "Ansah",
+            "playerTeamCrest": "https:\/\/crests.football-data.org\/28.png",
+            "playedMatches": 2,
+            "goals": 2,
+            "assists": null,
+            "penalties": null
+        },
+        {
+            "firstName": "Andr\u00e9as",
+            "lastName": "Hountondji",
+            "playerTeamCrest": "https:\/\/crests.football-data.org\/20.png",
+            "playedMatches": 2,
+            "goals": 2,
+            "assists": null,
+            "penalties": null
+        },
+        {
+            "firstName": "Marius",
+            "lastName": "B\u00fclter",
+            "playerTeamCrest": "https:\/\/crests.football-data.org\/1.png",
+            "playedMatches": 2,
+            "goals": 2,
+            "assists": 2,
+            "penalties": null
+        },
+        {
+            "firstName": "Patrik",
+            "lastName": "Schick",
+            "playerTeamCrest": "https:\/\/crests.football-data.org\/3.png",
+            "playedMatches": 2,
+            "goals": 2,
+            "assists": null,
+            "penalties": 1
+        }
+    ]
+}

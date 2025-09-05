@@ -1,0 +1,1894 @@
+{
+    "matches": {
+        "551981": {
+            "utcDate": "2025-09-16T16:45:00Z",
+            "homeTeamName": "Athletic Club",
+            "awayTeamName": "Athletic Club",
+            "homeTeamCrest": "https:\/\/crests.football-data.org\/77.png",
+            "awayTeamCrest": "https:\/\/crests.football-data.org\/57.png",
+            "scoreWinner": null,
+            "scoreFullTimeHome": null,
+            "scoreFullTimeAway": null
+        },
+        "552049": {
+            "utcDate": "2025-09-16T16:45:00Z",
+            "homeTeamName": "PSV",
+            "awayTeamName": "PSV",
+            "homeTeamCrest": "https:\/\/crests.football-data.org\/674.png",
+            "awayTeamCrest": "https:\/\/crests.football-data.org\/3929.png",
+            "scoreWinner": null,
+            "scoreFullTimeHome": null,
+            "scoreFullTimeAway": null
+        },
+        "551941": {
+            "utcDate": "2025-09-16T19:00:00Z",
+            "homeTeamName": "Juventus FC",
+            "awayTeamName": "Juventus FC",
+            "homeTeamCrest": "https:\/\/crests.football-data.org\/109.png",
+            "awayTeamCrest": "https:\/\/crests.football-data.org\/4.png",
+            "scoreWinner": null,
+            "scoreFullTimeHome": null,
+            "scoreFullTimeAway": null
+        },
+        "551991": {
+            "utcDate": "2025-09-16T19:00:00Z",
+            "homeTeamName": "Sport Lisboa e Benfica",
+            "awayTeamName": "Sport Lisboa e Benfica",
+            "homeTeamCrest": "https:\/\/crests.football-data.org\/1903.png",
+            "awayTeamCrest": "https:\/\/crests.football-data.org\/611.png",
+            "scoreWinner": null,
+            "scoreFullTimeHome": null,
+            "scoreFullTimeAway": null
+        },
+        "552012": {
+            "utcDate": "2025-09-16T19:00:00Z",
+            "homeTeamName": "Tottenham Hotspur FC",
+            "awayTeamName": "Tottenham Hotspur FC",
+            "homeTeamCrest": "https:\/\/crests.football-data.org\/73.png",
+            "awayTeamCrest": "https:\/\/crests.football-data.org\/94.png",
+            "scoreWinner": null,
+            "scoreFullTimeHome": null,
+            "scoreFullTimeAway": null
+        },
+        "551927": {
+            "utcDate": "2025-09-16T19:00:00Z",
+            "homeTeamName": "Real Madrid CF",
+            "awayTeamName": "Real Madrid CF",
+            "homeTeamCrest": "https:\/\/crests.football-data.org\/86.png",
+            "awayTeamCrest": "https:\/\/crests.football-data.org\/516.png",
+            "scoreWinner": null,
+            "scoreFullTimeHome": null,
+            "scoreFullTimeAway": null
+        },
+        "552023": {
+            "utcDate": "2025-09-17T16:45:00Z",
+            "homeTeamName": "SK Slavia Praha",
+            "awayTeamName": "SK Slavia Praha",
+            "homeTeamCrest": "https:\/\/crests.football-data.org\/930.png",
+            "awayTeamCrest": "https:\/\/crests.football-data.org\/5721.png",
+            "scoreWinner": null,
+            "scoreFullTimeHome": null,
+            "scoreFullTimeAway": null
+        },
+        "552031": {
+            "utcDate": "2025-09-17T16:45:00Z",
+            "homeTeamName": "PAE Olympiakos SFP",
+            "awayTeamName": "PAE Olympiakos SFP",
+            "homeTeamCrest": "https:\/\/crests.football-data.org\/654.png",
+            "awayTeamCrest": "https:\/\/crests.football-data.org\/11034.png",
+            "scoreWinner": null,
+            "scoreFullTimeHome": null,
+            "scoreFullTimeAway": null
+        },
+        "551936": {
+            "utcDate": "2025-09-17T19:00:00Z",
+            "homeTeamName": "AFC Ajax",
+            "awayTeamName": "AFC Ajax",
+            "homeTeamCrest": "https:\/\/crests.football-data.org\/678.png",
+            "awayTeamCrest": "https:\/\/crests.football-data.org\/108.png",
+            "scoreWinner": null,
+            "scoreFullTimeHome": null,
+            "scoreFullTimeAway": null
+        },
+        "551946": {
+            "utcDate": "2025-09-17T19:00:00Z",
+            "homeTeamName": "Liverpool FC",
+            "awayTeamName": "Liverpool FC",
+            "homeTeamCrest": "https:\/\/crests.football-data.org\/64.png",
+            "awayTeamCrest": "https:\/\/crests.football-data.org\/78.png",
+            "scoreWinner": null,
+            "scoreFullTimeHome": null,
+            "scoreFullTimeAway": null
+        },
+        "551959": {
+            "utcDate": "2025-09-17T19:00:00Z",
+            "homeTeamName": "Paris Saint-Germain FC",
+            "awayTeamName": "Paris Saint-Germain FC",
+            "homeTeamCrest": "https:\/\/crests.football-data.org\/524.png",
+            "awayTeamCrest": "https:\/\/crests.football-data.org\/102.png",
+            "scoreWinner": null,
+            "scoreFullTimeHome": null,
+            "scoreFullTimeAway": null
+        },
+        "551908": {
+            "utcDate": "2025-09-17T19:00:00Z",
+            "homeTeamName": "FC Bayern M\u00fcnchen",
+            "awayTeamName": "FC Bayern M\u00fcnchen",
+            "homeTeamCrest": "https:\/\/crests.football-data.org\/5.png",
+            "awayTeamCrest": "https:\/\/crests.football-data.org\/61.png",
+            "scoreWinner": null,
+            "scoreFullTimeHome": null,
+            "scoreFullTimeAway": null
+        },
+        "551975": {
+            "utcDate": "2025-09-18T16:45:00Z",
+            "homeTeamName": "FC K\u00f8benhavn",
+            "awayTeamName": "FC K\u00f8benhavn",
+            "homeTeamCrest": "https:\/\/crests.football-data.org\/1876.png",
+            "awayTeamCrest": "https:\/\/crests.football-data.org\/3.png",
+            "scoreWinner": null,
+            "scoreFullTimeHome": null,
+            "scoreFullTimeAway": null
+        },
+        "551995": {
+            "utcDate": "2025-09-18T16:45:00Z",
+            "homeTeamName": "Club Brugge KV",
+            "awayTeamName": "Club Brugge KV",
+            "homeTeamCrest": "https:\/\/crests.football-data.org\/851.png",
+            "awayTeamCrest": "https:\/\/crests.football-data.org\/548.png",
+            "scoreWinner": null,
+            "scoreFullTimeHome": null,
+            "scoreFullTimeAway": null
+        },
+        "551958": {
+            "utcDate": "2025-09-18T19:00:00Z",
+            "homeTeamName": "Newcastle United FC",
+            "awayTeamName": "Newcastle United FC",
+            "homeTeamCrest": "https:\/\/crests.football-data.org\/67.png",
+            "awayTeamCrest": "https:\/\/crests.football-data.org\/81.png",
+            "scoreWinner": null,
+            "scoreFullTimeHome": null,
+            "scoreFullTimeAway": null
+        },
+        "551965": {
+            "utcDate": "2025-09-18T19:00:00Z",
+            "homeTeamName": "Manchester City FC",
+            "awayTeamName": "Manchester City FC",
+            "homeTeamCrest": "https:\/\/crests.football-data.org\/65.png",
+            "awayTeamCrest": "https:\/\/crests.football-data.org\/113.png",
+            "scoreWinner": null,
+            "scoreFullTimeHome": null,
+            "scoreFullTimeAway": null
+        },
+        "552000": {
+            "utcDate": "2025-09-18T19:00:00Z",
+            "homeTeamName": "Eintracht Frankfurt",
+            "awayTeamName": "Eintracht Frankfurt",
+            "homeTeamCrest": "https:\/\/crests.football-data.org\/19.png",
+            "awayTeamCrest": "https:\/\/crests.football-data.org\/610.png",
+            "scoreWinner": null,
+            "scoreFullTimeHome": null,
+            "scoreFullTimeAway": null
+        },
+        "552027": {
+            "utcDate": "2025-09-18T19:00:00Z",
+            "homeTeamName": "Sporting Clube de Portugal",
+            "awayTeamName": "Sporting Clube de Portugal",
+            "homeTeamCrest": "https:\/\/crests.football-data.org\/498.png",
+            "awayTeamCrest": "https:\/\/crests.football-data.org\/10601.png",
+            "scoreWinner": null,
+            "scoreFullTimeHome": null,
+            "scoreFullTimeAway": null
+        },
+        "551982": {
+            "utcDate": "2025-09-30T16:45:00Z",
+            "homeTeamName": "Atalanta BC",
+            "awayTeamName": "Atalanta BC",
+            "homeTeamCrest": "https:\/\/crests.football-data.org\/102.png",
+            "awayTeamCrest": "https:\/\/crests.football-data.org\/851.png",
+            "scoreWinner": null,
+            "scoreFullTimeHome": null,
+            "scoreFullTimeAway": null
+        },
+        "551930": {
+            "utcDate": "2025-09-30T16:45:00Z",
+            "homeTeamName": "FK Kairat",
+            "awayTeamName": "FK Kairat",
+            "homeTeamCrest": "https:\/\/crests.football-data.org\/10601.png",
+            "awayTeamCrest": "https:\/\/crests.football-data.org\/86.png",
+            "scoreWinner": null,
+            "scoreFullTimeHome": null,
+            "scoreFullTimeAway": null
+        },
+        "551951": {
+            "utcDate": "2025-09-30T19:00:00Z",
+            "homeTeamName": "Galatasaray SK",
+            "awayTeamName": "Galatasaray SK",
+            "homeTeamCrest": "https:\/\/crests.football-data.org\/610.png",
+            "awayTeamCrest": "https:\/\/crests.football-data.org\/64.png",
+            "scoreWinner": null,
+            "scoreFullTimeHome": null,
+            "scoreFullTimeAway": null
+        },
+        "551997": {
+            "utcDate": "2025-09-30T19:00:00Z",
+            "homeTeamName": "Club Atl\u00e9tico de Madrid",
+            "awayTeamName": "Club Atl\u00e9tico de Madrid",
+            "homeTeamCrest": "https:\/\/crests.football-data.org\/78.png",
+            "awayTeamCrest": "https:\/\/crests.football-data.org\/19.png",
+            "scoreWinner": null,
+            "scoreFullTimeHome": null,
+            "scoreFullTimeAway": null
+        },
+        "552015": {
+            "utcDate": "2025-09-30T19:00:00Z",
+            "homeTeamName": "Olympique de Marseille",
+            "awayTeamName": "Olympique de Marseille",
+            "homeTeamCrest": "https:\/\/crests.football-data.org\/516.png",
+            "awayTeamCrest": "https:\/\/crests.football-data.org\/678.png",
+            "scoreWinner": null,
+            "scoreFullTimeHome": null,
+            "scoreFullTimeAway": null
+        },
+        "552020": {
+            "utcDate": "2025-09-30T19:00:00Z",
+            "homeTeamName": "FK Bod\u00f8\/Glimt",
+            "awayTeamName": "FK Bod\u00f8\/Glimt",
+            "homeTeamCrest": "https:\/\/crests.football-data.org\/5721.png",
+            "awayTeamCrest": "https:\/\/crests.football-data.org\/73.png",
+            "scoreWinner": null,
+            "scoreFullTimeHome": null,
+            "scoreFullTimeAway": null
+        },
+        "551915": {
+            "utcDate": "2025-09-30T19:00:00Z",
+            "homeTeamName": "Paphos FC",
+            "awayTeamName": "Paphos FC",
+            "homeTeamCrest": "https:\/\/crests.football-data.org\/11034.png",
+            "awayTeamCrest": "https:\/\/crests.football-data.org\/5.png",
+            "scoreWinner": null,
+            "scoreFullTimeHome": null,
+            "scoreFullTimeAway": null
+        },
+        "551917": {
+            "utcDate": "2025-09-30T19:00:00Z",
+            "homeTeamName": "Chelsea FC",
+            "awayTeamName": "Chelsea FC",
+            "homeTeamCrest": "https:\/\/crests.football-data.org\/61.png",
+            "awayTeamCrest": "https:\/\/crests.football-data.org\/1903.png",
+            "scoreWinner": null,
+            "scoreFullTimeHome": null,
+            "scoreFullTimeAway": null
+        },
+        "551935": {
+            "utcDate": "2025-09-30T19:00:00Z",
+            "homeTeamName": "FC Internazionale Milano",
+            "awayTeamName": "FC Internazionale Milano",
+            "homeTeamCrest": "https:\/\/crests.football-data.org\/108.png",
+            "awayTeamCrest": "https:\/\/crests.football-data.org\/930.png",
+            "scoreWinner": null,
+            "scoreFullTimeHome": null,
+            "scoreFullTimeAway": null
+        },
+        "552039": {
+            "utcDate": "2025-10-01T16:45:00Z",
+            "homeTeamName": "Qaraba\u011f A\u011fdam FK",
+            "awayTeamName": "Qaraba\u011f A\u011fdam FK",
+            "homeTeamCrest": "https:\/\/crests.football-data.org\/611.png",
+            "awayTeamCrest": "https:\/\/crests.football-data.org\/1876.png",
+            "scoreWinner": null,
+            "scoreFullTimeHome": null,
+            "scoreFullTimeAway": null
+        },
+        "552044": {
+            "utcDate": "2025-10-01T16:45:00Z",
+            "homeTeamName": "Royale Union Saint-Gilloise",
+            "awayTeamName": "Royale Union Saint-Gilloise",
+            "homeTeamCrest": "https:\/\/crests.football-data.org\/3929.png",
+            "awayTeamCrest": "https:\/\/crests.football-data.org\/67.png",
+            "scoreWinner": null,
+            "scoreFullTimeHome": null,
+            "scoreFullTimeAway": null
+        },
+        "551944": {
+            "utcDate": "2025-10-01T19:00:00Z",
+            "homeTeamName": "Borussia Dortmund",
+            "awayTeamName": "Borussia Dortmund",
+            "homeTeamCrest": "https:\/\/crests.football-data.org\/4.png",
+            "awayTeamCrest": "https:\/\/crests.football-data.org\/77.png",
+            "scoreWinner": null,
+            "scoreFullTimeHome": null,
+            "scoreFullTimeAway": null
+        },
+        "551952": {
+            "utcDate": "2025-10-01T19:00:00Z",
+            "homeTeamName": "FC Barcelona",
+            "awayTeamName": "FC Barcelona",
+            "homeTeamCrest": "https:\/\/crests.football-data.org\/81.png",
+            "awayTeamCrest": "https:\/\/crests.football-data.org\/524.png",
+            "scoreWinner": null,
+            "scoreFullTimeHome": null,
+            "scoreFullTimeAway": null
+        },
+        "551968": {
+            "utcDate": "2025-10-01T19:00:00Z",
+            "homeTeamName": "AS Monaco FC",
+            "awayTeamName": "AS Monaco FC",
+            "homeTeamCrest": "https:\/\/crests.football-data.org\/548.png",
+            "awayTeamCrest": "https:\/\/crests.football-data.org\/65.png",
+            "scoreWinner": null,
+            "scoreFullTimeHome": null,
+            "scoreFullTimeAway": null
+        },
+        "551972": {
+            "utcDate": "2025-10-01T19:00:00Z",
+            "homeTeamName": "Bayer 04 Leverkusen",
+            "awayTeamName": "Bayer 04 Leverkusen",
+            "homeTeamCrest": "https:\/\/crests.football-data.org\/3.png",
+            "awayTeamCrest": "https:\/\/crests.football-data.org\/674.png",
+            "scoreWinner": null,
+            "scoreFullTimeHome": null,
+            "scoreFullTimeAway": null
+        },
+        "551978": {
+            "utcDate": "2025-10-01T19:00:00Z",
+            "homeTeamName": "Arsenal FC",
+            "awayTeamName": "Arsenal FC",
+            "homeTeamCrest": "https:\/\/crests.football-data.org\/57.png",
+            "awayTeamCrest": "https:\/\/crests.football-data.org\/654.png",
+            "scoreWinner": null,
+            "scoreFullTimeHome": null,
+            "scoreFullTimeAway": null
+        },
+        "552002": {
+            "utcDate": "2025-10-01T19:00:00Z",
+            "homeTeamName": "Villarreal CF",
+            "awayTeamName": "Villarreal CF",
+            "homeTeamCrest": "https:\/\/crests.football-data.org\/94.png",
+            "awayTeamCrest": "https:\/\/crests.football-data.org\/109.png",
+            "scoreWinner": null,
+            "scoreFullTimeHome": null,
+            "scoreFullTimeAway": null
+        },
+        "552026": {
+            "utcDate": "2025-10-01T19:00:00Z",
+            "homeTeamName": "SSC Napoli",
+            "awayTeamName": "SSC Napoli",
+            "homeTeamCrest": "https:\/\/crests.football-data.org\/113.png",
+            "awayTeamCrest": "https:\/\/crests.football-data.org\/498.png",
+            "scoreWinner": null,
+            "scoreFullTimeHome": null,
+            "scoreFullTimeAway": null
+        },
+        "551955": {
+            "utcDate": "2025-10-21T16:45:00Z",
+            "homeTeamName": "FC Barcelona",
+            "awayTeamName": "FC Barcelona",
+            "homeTeamCrest": "https:\/\/crests.football-data.org\/81.png",
+            "awayTeamCrest": "https:\/\/crests.football-data.org\/654.png",
+            "scoreWinner": null,
+            "scoreFullTimeHome": null,
+            "scoreFullTimeAway": null
+        },
+        "552045": {
+            "utcDate": "2025-10-21T16:45:00Z",
+            "homeTeamName": "FK Kairat",
+            "awayTeamName": "FK Kairat",
+            "homeTeamCrest": "https:\/\/crests.football-data.org\/10601.png",
+            "awayTeamCrest": "https:\/\/crests.football-data.org\/11034.png",
+            "scoreWinner": null,
+            "scoreFullTimeHome": null,
+            "scoreFullTimeAway": null
+        },
+        "551938": {
+            "utcDate": "2025-10-21T19:00:00Z",
+            "homeTeamName": "Royale Union Saint-Gilloise",
+            "awayTeamName": "Royale Union Saint-Gilloise",
+            "homeTeamCrest": "https:\/\/crests.football-data.org\/3929.png",
+            "awayTeamCrest": "https:\/\/crests.football-data.org\/108.png",
+            "scoreWinner": null,
+            "scoreFullTimeHome": null,
+            "scoreFullTimeAway": null
+        },
+        "551945": {
+            "utcDate": "2025-10-21T19:00:00Z",
+            "homeTeamName": "FC K\u00f8benhavn",
+            "awayTeamName": "FC K\u00f8benhavn",
+            "homeTeamCrest": "https:\/\/crests.football-data.org\/1876.png",
+            "awayTeamCrest": "https:\/\/crests.football-data.org\/4.png",
+            "scoreWinner": null,
+            "scoreFullTimeHome": null,
+            "scoreFullTimeAway": null
+        },
+        "551960": {
+            "utcDate": "2025-10-21T19:00:00Z",
+            "homeTeamName": "Bayer 04 Leverkusen",
+            "awayTeamName": "Bayer 04 Leverkusen",
+            "homeTeamCrest": "https:\/\/crests.football-data.org\/3.png",
+            "awayTeamCrest": "https:\/\/crests.football-data.org\/524.png",
+            "scoreWinner": null,
+            "scoreFullTimeHome": null,
+            "scoreFullTimeAway": null
+        },
+        "551964": {
+            "utcDate": "2025-10-21T19:00:00Z",
+            "homeTeamName": "Villarreal CF",
+            "awayTeamName": "Villarreal CF",
+            "homeTeamCrest": "https:\/\/crests.football-data.org\/94.png",
+            "awayTeamCrest": "https:\/\/crests.football-data.org\/65.png",
+            "scoreWinner": null,
+            "scoreFullTimeHome": null,
+            "scoreFullTimeAway": null
+        },
+        "551976": {
+            "utcDate": "2025-10-21T19:00:00Z",
+            "homeTeamName": "Arsenal FC",
+            "awayTeamName": "Arsenal FC",
+            "homeTeamCrest": "https:\/\/crests.football-data.org\/57.png",
+            "awayTeamCrest": "https:\/\/crests.football-data.org\/78.png",
+            "scoreWinner": null,
+            "scoreFullTimeHome": null,
+            "scoreFullTimeAway": null
+        },
+        "551992": {
+            "utcDate": "2025-10-21T19:00:00Z",
+            "homeTeamName": "Newcastle United FC",
+            "awayTeamName": "Newcastle United FC",
+            "homeTeamCrest": "https:\/\/crests.football-data.org\/67.png",
+            "awayTeamCrest": "https:\/\/crests.football-data.org\/1903.png",
+            "scoreWinner": null,
+            "scoreFullTimeHome": null,
+            "scoreFullTimeAway": null
+        },
+        "552048": {
+            "utcDate": "2025-10-21T19:00:00Z",
+            "homeTeamName": "PSV",
+            "awayTeamName": "PSV",
+            "homeTeamCrest": "https:\/\/crests.football-data.org\/674.png",
+            "awayTeamCrest": "https:\/\/crests.football-data.org\/113.png",
+            "scoreWinner": null,
+            "scoreFullTimeHome": null,
+            "scoreFullTimeAway": null
+        },
+        "552025": {
+            "utcDate": "2025-10-22T16:45:00Z",
+            "homeTeamName": "Galatasaray SK",
+            "awayTeamName": "Galatasaray SK",
+            "homeTeamCrest": "https:\/\/crests.football-data.org\/610.png",
+            "awayTeamCrest": "https:\/\/crests.football-data.org\/5721.png",
+            "scoreWinner": null,
+            "scoreFullTimeHome": null,
+            "scoreFullTimeAway": null
+        },
+        "552040": {
+            "utcDate": "2025-10-22T16:45:00Z",
+            "homeTeamName": "Athletic Club",
+            "awayTeamName": "Athletic Club",
+            "homeTeamCrest": "https:\/\/crests.football-data.org\/77.png",
+            "awayTeamCrest": "https:\/\/crests.football-data.org\/611.png",
+            "scoreWinner": null,
+            "scoreFullTimeHome": null,
+            "scoreFullTimeAway": null
+        },
+        "551947": {
+            "utcDate": "2025-10-22T19:00:00Z",
+            "homeTeamName": "Eintracht Frankfurt",
+            "awayTeamName": "Eintracht Frankfurt",
+            "homeTeamCrest": "https:\/\/crests.football-data.org\/19.png",
+            "awayTeamCrest": "https:\/\/crests.football-data.org\/64.png",
+            "scoreWinner": null,
+            "scoreFullTimeHome": null,
+            "scoreFullTimeAway": null
+        },
+        "551984": {
+            "utcDate": "2025-10-22T19:00:00Z",
+            "homeTeamName": "Atalanta BC",
+            "awayTeamName": "Atalanta BC",
+            "homeTeamCrest": "https:\/\/crests.football-data.org\/102.png",
+            "awayTeamCrest": "https:\/\/crests.football-data.org\/930.png",
+            "scoreWinner": null,
+            "scoreFullTimeHome": null,
+            "scoreFullTimeAway": null
+        },
+        "552016": {
+            "utcDate": "2025-10-22T19:00:00Z",
+            "homeTeamName": "Sporting Clube de Portugal",
+            "awayTeamName": "Sporting Clube de Portugal",
+            "homeTeamCrest": "https:\/\/crests.football-data.org\/498.png",
+            "awayTeamCrest": "https:\/\/crests.football-data.org\/516.png",
+            "scoreWinner": null,
+            "scoreFullTimeHome": null,
+            "scoreFullTimeAway": null
+        },
+        "552022": {
+            "utcDate": "2025-10-22T19:00:00Z",
+            "homeTeamName": "AS Monaco FC",
+            "awayTeamName": "AS Monaco FC",
+            "homeTeamCrest": "https:\/\/crests.football-data.org\/548.png",
+            "awayTeamCrest": "https:\/\/crests.football-data.org\/73.png",
+            "scoreWinner": null,
+            "scoreFullTimeHome": null,
+            "scoreFullTimeAway": null
+        },
+        "551910": {
+            "utcDate": "2025-10-22T19:00:00Z",
+            "homeTeamName": "FC Bayern M\u00fcnchen",
+            "awayTeamName": "FC Bayern M\u00fcnchen",
+            "homeTeamCrest": "https:\/\/crests.football-data.org\/5.png",
+            "awayTeamCrest": "https:\/\/crests.football-data.org\/851.png",
+            "scoreWinner": null,
+            "scoreFullTimeHome": null,
+            "scoreFullTimeAway": null
+        },
+        "551919": {
+            "utcDate": "2025-10-22T19:00:00Z",
+            "homeTeamName": "Chelsea FC",
+            "awayTeamName": "Chelsea FC",
+            "homeTeamCrest": "https:\/\/crests.football-data.org\/61.png",
+            "awayTeamCrest": "https:\/\/crests.football-data.org\/678.png",
+            "scoreWinner": null,
+            "scoreFullTimeHome": null,
+            "scoreFullTimeAway": null
+        },
+        "551925": {
+            "utcDate": "2025-10-22T19:00:00Z",
+            "homeTeamName": "Real Madrid CF",
+            "awayTeamName": "Real Madrid CF",
+            "homeTeamCrest": "https:\/\/crests.football-data.org\/86.png",
+            "awayTeamCrest": "https:\/\/crests.football-data.org\/109.png",
+            "scoreWinner": null,
+            "scoreFullTimeHome": null,
+            "scoreFullTimeAway": null
+        },
+        "551979": {
+            "utcDate": "2025-11-04T17:45:00Z",
+            "homeTeamName": "SK Slavia Praha",
+            "awayTeamName": "SK Slavia Praha",
+            "homeTeamCrest": "https:\/\/crests.football-data.org\/930.png",
+            "awayTeamCrest": "https:\/\/crests.football-data.org\/57.png",
+            "scoreWinner": null,
+            "scoreFullTimeHome": null,
+            "scoreFullTimeAway": null
+        },
+        "551999": {
+            "utcDate": "2025-11-04T17:45:00Z",
+            "homeTeamName": "SSC Napoli",
+            "awayTeamName": "SSC Napoli",
+            "homeTeamCrest": "https:\/\/crests.football-data.org\/113.png",
+            "awayTeamCrest": "https:\/\/crests.football-data.org\/19.png",
+            "scoreWinner": null,
+            "scoreFullTimeHome": null,
+            "scoreFullTimeAway": null
+        },
+        "552003": {
+            "utcDate": "2025-11-04T20:00:00Z",
+            "homeTeamName": "Juventus FC",
+            "awayTeamName": "Juventus FC",
+            "homeTeamCrest": "https:\/\/crests.football-data.org\/109.png",
+            "awayTeamCrest": "https:\/\/crests.football-data.org\/498.png",
+            "scoreWinner": null,
+            "scoreFullTimeHome": null,
+            "scoreFullTimeAway": null
+        },
+        "552009": {
+            "utcDate": "2025-11-04T20:00:00Z",
+            "homeTeamName": "Club Atl\u00e9tico de Madrid",
+            "awayTeamName": "Club Atl\u00e9tico de Madrid",
+            "homeTeamCrest": "https:\/\/crests.football-data.org\/78.png",
+            "awayTeamCrest": "https:\/\/crests.football-data.org\/3929.png",
+            "scoreWinner": null,
+            "scoreFullTimeHome": null,
+            "scoreFullTimeAway": null
+        },
+        "552021": {
+            "utcDate": "2025-11-04T20:00:00Z",
+            "homeTeamName": "Tottenham Hotspur FC",
+            "awayTeamName": "Tottenham Hotspur FC",
+            "homeTeamCrest": "https:\/\/crests.football-data.org\/73.png",
+            "awayTeamCrest": "https:\/\/crests.football-data.org\/1876.png",
+            "scoreWinner": null,
+            "scoreFullTimeHome": null,
+            "scoreFullTimeAway": null
+        },
+        "552024": {
+            "utcDate": "2025-11-04T20:00:00Z",
+            "homeTeamName": "FK Bod\u00f8\/Glimt",
+            "awayTeamName": "FK Bod\u00f8\/Glimt",
+            "homeTeamCrest": "https:\/\/crests.football-data.org\/5721.png",
+            "awayTeamCrest": "https:\/\/crests.football-data.org\/548.png",
+            "scoreWinner": null,
+            "scoreFullTimeHome": null,
+            "scoreFullTimeAway": null
+        },
+        "552029": {
+            "utcDate": "2025-11-04T20:00:00Z",
+            "homeTeamName": "PAE Olympiakos SFP",
+            "awayTeamName": "PAE Olympiakos SFP",
+            "homeTeamCrest": "https:\/\/crests.football-data.org\/654.png",
+            "awayTeamCrest": "https:\/\/crests.football-data.org\/674.png",
+            "scoreWinner": null,
+            "scoreFullTimeHome": null,
+            "scoreFullTimeAway": null
+        },
+        "551909": {
+            "utcDate": "2025-11-04T20:00:00Z",
+            "homeTeamName": "Paris Saint-Germain FC",
+            "awayTeamName": "Paris Saint-Germain FC",
+            "homeTeamCrest": "https:\/\/crests.football-data.org\/524.png",
+            "awayTeamCrest": "https:\/\/crests.football-data.org\/5.png",
+            "scoreWinner": null,
+            "scoreFullTimeHome": null,
+            "scoreFullTimeAway": null
+        },
+        "551924": {
+            "utcDate": "2025-11-04T20:00:00Z",
+            "homeTeamName": "Liverpool FC",
+            "awayTeamName": "Liverpool FC",
+            "homeTeamCrest": "https:\/\/crests.football-data.org\/64.png",
+            "awayTeamCrest": "https:\/\/crests.football-data.org\/86.png",
+            "scoreWinner": null,
+            "scoreFullTimeHome": null,
+            "scoreFullTimeAway": null
+        },
+        "552014": {
+            "utcDate": "2025-11-05T17:45:00Z",
+            "homeTeamName": "Paphos FC",
+            "awayTeamName": "Paphos FC",
+            "homeTeamCrest": "https:\/\/crests.football-data.org\/11034.png",
+            "awayTeamCrest": "https:\/\/crests.football-data.org\/94.png",
+            "scoreWinner": null,
+            "scoreFullTimeHome": null,
+            "scoreFullTimeAway": null
+        },
+        "551922": {
+            "utcDate": "2025-11-05T17:45:00Z",
+            "homeTeamName": "Qaraba\u011f A\u011fdam FK",
+            "awayTeamName": "Qaraba\u011f A\u011fdam FK",
+            "homeTeamCrest": "https:\/\/crests.football-data.org\/611.png",
+            "awayTeamCrest": "https:\/\/crests.football-data.org\/61.png",
+            "scoreWinner": null,
+            "scoreFullTimeHome": null,
+            "scoreFullTimeAway": null
+        },
+        "551937": {
+            "utcDate": "2025-11-05T20:00:00Z",
+            "homeTeamName": "FC Internazionale Milano",
+            "awayTeamName": "FC Internazionale Milano",
+            "homeTeamCrest": "https:\/\/crests.football-data.org\/108.png",
+            "awayTeamCrest": "https:\/\/crests.football-data.org\/10601.png",
+            "scoreWinner": null,
+            "scoreFullTimeHome": null,
+            "scoreFullTimeAway": null
+        },
+        "551939": {
+            "utcDate": "2025-11-05T20:00:00Z",
+            "homeTeamName": "Manchester City FC",
+            "awayTeamName": "Manchester City FC",
+            "homeTeamCrest": "https:\/\/crests.football-data.org\/65.png",
+            "awayTeamCrest": "https:\/\/crests.football-data.org\/4.png",
+            "scoreWinner": null,
+            "scoreFullTimeHome": null,
+            "scoreFullTimeAway": null
+        },
+        "551954": {
+            "utcDate": "2025-11-05T20:00:00Z",
+            "homeTeamName": "Club Brugge KV",
+            "awayTeamName": "Club Brugge KV",
+            "homeTeamCrest": "https:\/\/crests.football-data.org\/851.png",
+            "awayTeamCrest": "https:\/\/crests.football-data.org\/81.png",
+            "scoreWinner": null,
+            "scoreFullTimeHome": null,
+            "scoreFullTimeAway": null
+        },
+        "551971": {
+            "utcDate": "2025-11-05T20:00:00Z",
+            "homeTeamName": "Sport Lisboa e Benfica",
+            "awayTeamName": "Sport Lisboa e Benfica",
+            "homeTeamCrest": "https:\/\/crests.football-data.org\/1903.png",
+            "awayTeamCrest": "https:\/\/crests.football-data.org\/3.png",
+            "scoreWinner": null,
+            "scoreFullTimeHome": null,
+            "scoreFullTimeAway": null
+        },
+        "551985": {
+            "utcDate": "2025-11-05T20:00:00Z",
+            "homeTeamName": "Olympique de Marseille",
+            "awayTeamName": "Olympique de Marseille",
+            "homeTeamCrest": "https:\/\/crests.football-data.org\/516.png",
+            "awayTeamCrest": "https:\/\/crests.football-data.org\/102.png",
+            "scoreWinner": null,
+            "scoreFullTimeHome": null,
+            "scoreFullTimeAway": null
+        },
+        "552033": {
+            "utcDate": "2025-11-05T20:00:00Z",
+            "homeTeamName": "AFC Ajax",
+            "awayTeamName": "AFC Ajax",
+            "homeTeamCrest": "https:\/\/crests.football-data.org\/678.png",
+            "awayTeamCrest": "https:\/\/crests.football-data.org\/610.png",
+            "scoreWinner": null,
+            "scoreFullTimeHome": null,
+            "scoreFullTimeAway": null
+        },
+        "552047": {
+            "utcDate": "2025-11-05T20:00:00Z",
+            "homeTeamName": "Newcastle United FC",
+            "awayTeamName": "Newcastle United FC",
+            "homeTeamCrest": "https:\/\/crests.football-data.org\/67.png",
+            "awayTeamCrest": "https:\/\/crests.football-data.org\/77.png",
+            "scoreWinner": null,
+            "scoreFullTimeHome": null,
+            "scoreFullTimeAway": null
+        },
+        "551990": {
+            "utcDate": "2025-11-25T17:45:00Z",
+            "homeTeamName": "AFC Ajax",
+            "awayTeamName": "AFC Ajax",
+            "homeTeamCrest": "https:\/\/crests.football-data.org\/678.png",
+            "awayTeamCrest": "https:\/\/crests.football-data.org\/1903.png",
+            "scoreWinner": null,
+            "scoreFullTimeHome": null,
+            "scoreFullTimeAway": null
+        },
+        "552043": {
+            "utcDate": "2025-11-25T17:45:00Z",
+            "homeTeamName": "Galatasaray SK",
+            "awayTeamName": "Galatasaray SK",
+            "homeTeamCrest": "https:\/\/crests.football-data.org\/610.png",
+            "awayTeamCrest": "https:\/\/crests.football-data.org\/3929.png",
+            "scoreWinner": null,
+            "scoreFullTimeHome": null,
+            "scoreFullTimeAway": null
+        },
+        "551940": {
+            "utcDate": "2025-11-25T20:00:00Z",
+            "homeTeamName": "Borussia Dortmund",
+            "awayTeamName": "Borussia Dortmund",
+            "homeTeamCrest": "https:\/\/crests.football-data.org\/4.png",
+            "awayTeamCrest": "https:\/\/crests.football-data.org\/94.png",
+            "scoreWinner": null,
+            "scoreFullTimeHome": null,
+            "scoreFullTimeAway": null
+        },
+        "551963": {
+            "utcDate": "2025-11-25T20:00:00Z",
+            "homeTeamName": "Manchester City FC",
+            "awayTeamName": "Manchester City FC",
+            "homeTeamCrest": "https:\/\/crests.football-data.org\/65.png",
+            "awayTeamCrest": "https:\/\/crests.football-data.org\/3.png",
+            "scoreWinner": null,
+            "scoreFullTimeHome": null,
+            "scoreFullTimeAway": null
+        },
+        "552004": {
+            "utcDate": "2025-11-25T20:00:00Z",
+            "homeTeamName": "FK Bod\u00f8\/Glimt",
+            "awayTeamName": "FK Bod\u00f8\/Glimt",
+            "homeTeamCrest": "https:\/\/crests.football-data.org\/5721.png",
+            "awayTeamCrest": "https:\/\/crests.football-data.org\/109.png",
+            "scoreWinner": null,
+            "scoreFullTimeHome": null,
+            "scoreFullTimeAway": null
+        },
+        "552017": {
+            "utcDate": "2025-11-25T20:00:00Z",
+            "homeTeamName": "Olympique de Marseille",
+            "awayTeamName": "Olympique de Marseille",
+            "homeTeamCrest": "https:\/\/crests.football-data.org\/516.png",
+            "awayTeamCrest": "https:\/\/crests.football-data.org\/67.png",
+            "scoreWinner": null,
+            "scoreFullTimeHome": null,
+            "scoreFullTimeAway": null
+        },
+        "552035": {
+            "utcDate": "2025-11-25T20:00:00Z",
+            "homeTeamName": "SK Slavia Praha",
+            "awayTeamName": "SK Slavia Praha",
+            "homeTeamCrest": "https:\/\/crests.football-data.org\/930.png",
+            "awayTeamCrest": "https:\/\/crests.football-data.org\/77.png",
+            "scoreWinner": null,
+            "scoreFullTimeHome": null,
+            "scoreFullTimeAway": null
+        },
+        "552037": {
+            "utcDate": "2025-11-25T20:00:00Z",
+            "homeTeamName": "SSC Napoli",
+            "awayTeamName": "SSC Napoli",
+            "homeTeamCrest": "https:\/\/crests.football-data.org\/113.png",
+            "awayTeamCrest": "https:\/\/crests.football-data.org\/611.png",
+            "scoreWinner": null,
+            "scoreFullTimeHome": null,
+            "scoreFullTimeAway": null
+        },
+        "551916": {
+            "utcDate": "2025-11-25T20:00:00Z",
+            "homeTeamName": "Chelsea FC",
+            "awayTeamName": "Chelsea FC",
+            "homeTeamCrest": "https:\/\/crests.football-data.org\/61.png",
+            "awayTeamCrest": "https:\/\/crests.football-data.org\/81.png",
+            "scoreWinner": null,
+            "scoreFullTimeHome": null,
+            "scoreFullTimeAway": null
+        },
+        "552042": {
+            "utcDate": "2025-11-26T17:45:00Z",
+            "homeTeamName": "Paphos FC",
+            "awayTeamName": "Paphos FC",
+            "homeTeamCrest": "https:\/\/crests.football-data.org\/11034.png",
+            "awayTeamCrest": "https:\/\/crests.football-data.org\/548.png",
+            "scoreWinner": null,
+            "scoreFullTimeHome": null,
+            "scoreFullTimeAway": null
+        },
+        "552046": {
+            "utcDate": "2025-11-26T17:45:00Z",
+            "homeTeamName": "FC K\u00f8benhavn",
+            "awayTeamName": "FC K\u00f8benhavn",
+            "homeTeamCrest": "https:\/\/crests.football-data.org\/1876.png",
+            "awayTeamCrest": "https:\/\/crests.football-data.org\/10601.png",
+            "scoreWinner": null,
+            "scoreFullTimeHome": null,
+            "scoreFullTimeAway": null
+        },
+        "551948": {
+            "utcDate": "2025-11-26T20:00:00Z",
+            "homeTeamName": "Liverpool FC",
+            "awayTeamName": "Liverpool FC",
+            "homeTeamCrest": "https:\/\/crests.football-data.org\/64.png",
+            "awayTeamCrest": "https:\/\/crests.football-data.org\/674.png",
+            "scoreWinner": null,
+            "scoreFullTimeHome": null,
+            "scoreFullTimeAway": null
+        },
+        "551961": {
+            "utcDate": "2025-11-26T20:00:00Z",
+            "homeTeamName": "Paris Saint-Germain FC",
+            "awayTeamName": "Paris Saint-Germain FC",
+            "homeTeamCrest": "https:\/\/crests.football-data.org\/524.png",
+            "awayTeamCrest": "https:\/\/crests.football-data.org\/73.png",
+            "scoreWinner": null,
+            "scoreFullTimeHome": null,
+            "scoreFullTimeAway": null
+        },
+        "551983": {
+            "utcDate": "2025-11-26T20:00:00Z",
+            "homeTeamName": "Eintracht Frankfurt",
+            "awayTeamName": "Eintracht Frankfurt",
+            "homeTeamCrest": "https:\/\/crests.football-data.org\/19.png",
+            "awayTeamCrest": "https:\/\/crests.football-data.org\/102.png",
+            "scoreWinner": null,
+            "scoreFullTimeHome": null,
+            "scoreFullTimeAway": null
+        },
+        "551994": {
+            "utcDate": "2025-11-26T20:00:00Z",
+            "homeTeamName": "Sporting Clube de Portugal",
+            "awayTeamName": "Sporting Clube de Portugal",
+            "homeTeamCrest": "https:\/\/crests.football-data.org\/498.png",
+            "awayTeamCrest": "https:\/\/crests.football-data.org\/851.png",
+            "scoreWinner": null,
+            "scoreFullTimeHome": null,
+            "scoreFullTimeAway": null
+        },
+        "551911": {
+            "utcDate": "2025-11-26T20:00:00Z",
+            "homeTeamName": "Arsenal FC",
+            "awayTeamName": "Arsenal FC",
+            "homeTeamCrest": "https:\/\/crests.football-data.org\/57.png",
+            "awayTeamCrest": "https:\/\/crests.football-data.org\/5.png",
+            "scoreWinner": null,
+            "scoreFullTimeHome": null,
+            "scoreFullTimeAway": null
+        },
+        "551928": {
+            "utcDate": "2025-11-26T20:00:00Z",
+            "homeTeamName": "PAE Olympiakos SFP",
+            "awayTeamName": "PAE Olympiakos SFP",
+            "homeTeamCrest": "https:\/\/crests.football-data.org\/654.png",
+            "awayTeamCrest": "https:\/\/crests.football-data.org\/86.png",
+            "scoreWinner": null,
+            "scoreFullTimeHome": null,
+            "scoreFullTimeAway": null
+        },
+        "551934": {
+            "utcDate": "2025-11-26T20:00:00Z",
+            "homeTeamName": "Club Atl\u00e9tico de Madrid",
+            "awayTeamName": "Club Atl\u00e9tico de Madrid",
+            "homeTeamCrest": "https:\/\/crests.football-data.org\/78.png",
+            "awayTeamCrest": "https:\/\/crests.football-data.org\/108.png",
+            "scoreWinner": null,
+            "scoreFullTimeHome": null,
+            "scoreFullTimeAway": null
+        },
+        "552032": {
+            "utcDate": "2025-12-09T15:30:00Z",
+            "homeTeamName": "FK Kairat",
+            "awayTeamName": "FK Kairat",
+            "homeTeamCrest": "https:\/\/crests.football-data.org\/10601.png",
+            "awayTeamCrest": "https:\/\/crests.football-data.org\/654.png",
+            "scoreWinner": null,
+            "scoreFullTimeHome": null,
+            "scoreFullTimeAway": null
+        },
+        "551912": {
+            "utcDate": "2025-12-09T17:45:00Z",
+            "homeTeamName": "FC Bayern M\u00fcnchen",
+            "awayTeamName": "FC Bayern M\u00fcnchen",
+            "homeTeamCrest": "https:\/\/crests.football-data.org\/5.png",
+            "awayTeamCrest": "https:\/\/crests.football-data.org\/498.png",
+            "scoreWinner": null,
+            "scoreFullTimeHome": null,
+            "scoreFullTimeAway": null
+        },
+        "551953": {
+            "utcDate": "2025-12-09T20:00:00Z",
+            "homeTeamName": "FC Barcelona",
+            "awayTeamName": "FC Barcelona",
+            "homeTeamCrest": "https:\/\/crests.football-data.org\/81.png",
+            "awayTeamCrest": "https:\/\/crests.football-data.org\/19.png",
+            "scoreWinner": null,
+            "scoreFullTimeHome": null,
+            "scoreFullTimeAway": null
+        },
+        "552008": {
+            "utcDate": "2025-12-09T20:00:00Z",
+            "homeTeamName": "PSV",
+            "awayTeamName": "PSV",
+            "homeTeamCrest": "https:\/\/crests.football-data.org\/674.png",
+            "awayTeamCrest": "https:\/\/crests.football-data.org\/78.png",
+            "scoreWinner": null,
+            "scoreFullTimeHome": null,
+            "scoreFullTimeAway": null
+        },
+        "552018": {
+            "utcDate": "2025-12-09T20:00:00Z",
+            "homeTeamName": "Royale Union Saint-Gilloise",
+            "awayTeamName": "Royale Union Saint-Gilloise",
+            "homeTeamCrest": "https:\/\/crests.football-data.org\/3929.png",
+            "awayTeamCrest": "https:\/\/crests.football-data.org\/516.png",
+            "scoreWinner": null,
+            "scoreFullTimeHome": null,
+            "scoreFullTimeAway": null
+        },
+        "552019": {
+            "utcDate": "2025-12-09T20:00:00Z",
+            "homeTeamName": "Tottenham Hotspur FC",
+            "awayTeamName": "Tottenham Hotspur FC",
+            "homeTeamCrest": "https:\/\/crests.football-data.org\/73.png",
+            "awayTeamCrest": "https:\/\/crests.football-data.org\/930.png",
+            "scoreWinner": null,
+            "scoreFullTimeHome": null,
+            "scoreFullTimeAway": null
+        },
+        "552041": {
+            "utcDate": "2025-12-09T20:00:00Z",
+            "homeTeamName": "AS Monaco FC",
+            "awayTeamName": "AS Monaco FC",
+            "homeTeamCrest": "https:\/\/crests.football-data.org\/548.png",
+            "awayTeamCrest": "https:\/\/crests.football-data.org\/610.png",
+            "scoreWinner": null,
+            "scoreFullTimeHome": null,
+            "scoreFullTimeAway": null
+        },
+        "551918": {
+            "utcDate": "2025-12-09T20:00:00Z",
+            "homeTeamName": "Atalanta BC",
+            "awayTeamName": "Atalanta BC",
+            "homeTeamCrest": "https:\/\/crests.football-data.org\/102.png",
+            "awayTeamCrest": "https:\/\/crests.football-data.org\/61.png",
+            "scoreWinner": null,
+            "scoreFullTimeHome": null,
+            "scoreFullTimeAway": null
+        },
+        "551931": {
+            "utcDate": "2025-12-09T20:00:00Z",
+            "homeTeamName": "FC Internazionale Milano",
+            "awayTeamName": "FC Internazionale Milano",
+            "homeTeamCrest": "https:\/\/crests.football-data.org\/108.png",
+            "awayTeamCrest": "https:\/\/crests.football-data.org\/64.png",
+            "scoreWinner": null,
+            "scoreFullTimeHome": null,
+            "scoreFullTimeAway": null
+        },
+        "552013": {
+            "utcDate": "2025-12-10T17:45:00Z",
+            "homeTeamName": "Villarreal CF",
+            "awayTeamName": "Villarreal CF",
+            "homeTeamCrest": "https:\/\/crests.football-data.org\/94.png",
+            "awayTeamCrest": "https:\/\/crests.football-data.org\/1876.png",
+            "scoreWinner": null,
+            "scoreFullTimeHome": null,
+            "scoreFullTimeAway": null
+        },
+        "552034": {
+            "utcDate": "2025-12-10T17:45:00Z",
+            "homeTeamName": "Qaraba\u011f A\u011fdam FK",
+            "awayTeamName": "Qaraba\u011f A\u011fdam FK",
+            "homeTeamCrest": "https:\/\/crests.football-data.org\/611.png",
+            "awayTeamCrest": "https:\/\/crests.football-data.org\/678.png",
+            "scoreWinner": null,
+            "scoreFullTimeHome": null,
+            "scoreFullTimeAway": null
+        },
+        "551942": {
+            "utcDate": "2025-12-10T20:00:00Z",
+            "homeTeamName": "Borussia Dortmund",
+            "awayTeamName": "Borussia Dortmund",
+            "homeTeamCrest": "https:\/\/crests.football-data.org\/4.png",
+            "awayTeamCrest": "https:\/\/crests.football-data.org\/5721.png",
+            "scoreWinner": null,
+            "scoreFullTimeHome": null,
+            "scoreFullTimeAway": null
+        },
+        "551969": {
+            "utcDate": "2025-12-10T20:00:00Z",
+            "homeTeamName": "Athletic Club",
+            "awayTeamName": "Athletic Club",
+            "homeTeamCrest": "https:\/\/crests.football-data.org\/77.png",
+            "awayTeamCrest": "https:\/\/crests.football-data.org\/524.png",
+            "scoreWinner": null,
+            "scoreFullTimeHome": null,
+            "scoreFullTimeAway": null
+        },
+        "551974": {
+            "utcDate": "2025-12-10T20:00:00Z",
+            "homeTeamName": "Bayer 04 Leverkusen",
+            "awayTeamName": "Bayer 04 Leverkusen",
+            "homeTeamCrest": "https:\/\/crests.football-data.org\/3.png",
+            "awayTeamCrest": "https:\/\/crests.football-data.org\/67.png",
+            "scoreWinner": null,
+            "scoreFullTimeHome": null,
+            "scoreFullTimeAway": null
+        },
+        "551977": {
+            "utcDate": "2025-12-10T20:00:00Z",
+            "homeTeamName": "Club Brugge KV",
+            "awayTeamName": "Club Brugge KV",
+            "homeTeamCrest": "https:\/\/crests.football-data.org\/851.png",
+            "awayTeamCrest": "https:\/\/crests.football-data.org\/57.png",
+            "scoreWinner": null,
+            "scoreFullTimeHome": null,
+            "scoreFullTimeAway": null
+        },
+        "551989": {
+            "utcDate": "2025-12-10T20:00:00Z",
+            "homeTeamName": "Sport Lisboa e Benfica",
+            "awayTeamName": "Sport Lisboa e Benfica",
+            "homeTeamCrest": "https:\/\/crests.football-data.org\/1903.png",
+            "awayTeamCrest": "https:\/\/crests.football-data.org\/113.png",
+            "scoreWinner": null,
+            "scoreFullTimeHome": null,
+            "scoreFullTimeAway": null
+        },
+        "552005": {
+            "utcDate": "2025-12-10T20:00:00Z",
+            "homeTeamName": "Juventus FC",
+            "awayTeamName": "Juventus FC",
+            "homeTeamCrest": "https:\/\/crests.football-data.org\/109.png",
+            "awayTeamCrest": "https:\/\/crests.football-data.org\/11034.png",
+            "scoreWinner": null,
+            "scoreFullTimeHome": null,
+            "scoreFullTimeAway": null
+        },
+        "551923": {
+            "utcDate": "2025-12-10T20:00:00Z",
+            "homeTeamName": "Real Madrid CF",
+            "awayTeamName": "Real Madrid CF",
+            "homeTeamCrest": "https:\/\/crests.football-data.org\/86.png",
+            "awayTeamCrest": "https:\/\/crests.football-data.org\/65.png",
+            "scoreWinner": null,
+            "scoreFullTimeHome": null,
+            "scoreFullTimeAway": null
+        },
+        "551996": {
+            "utcDate": "2026-01-20T15:30:00Z",
+            "homeTeamName": "FK Kairat",
+            "awayTeamName": "FK Kairat",
+            "homeTeamCrest": "https:\/\/crests.football-data.org\/10601.png",
+            "awayTeamCrest": "https:\/\/crests.football-data.org\/851.png",
+            "scoreWinner": null,
+            "scoreFullTimeHome": null,
+            "scoreFullTimeAway": null
+        },
+        "551966": {
+            "utcDate": "2026-01-20T17:45:00Z",
+            "homeTeamName": "FK Bod\u00f8\/Glimt",
+            "awayTeamName": "FK Bod\u00f8\/Glimt",
+            "homeTeamCrest": "https:\/\/crests.football-data.org\/5721.png",
+            "awayTeamCrest": "https:\/\/crests.football-data.org\/65.png",
+            "scoreWinner": null,
+            "scoreFullTimeHome": null,
+            "scoreFullTimeAway": null
+        },
+        "551943": {
+            "utcDate": "2026-01-20T20:00:00Z",
+            "homeTeamName": "Tottenham Hotspur FC",
+            "awayTeamName": "Tottenham Hotspur FC",
+            "homeTeamCrest": "https:\/\/crests.football-data.org\/73.png",
+            "awayTeamCrest": "https:\/\/crests.football-data.org\/4.png",
+            "scoreWinner": null,
+            "scoreFullTimeHome": null,
+            "scoreFullTimeAway": null
+        },
+        "551962": {
+            "utcDate": "2026-01-20T20:00:00Z",
+            "homeTeamName": "Sporting Clube de Portugal",
+            "awayTeamName": "Sporting Clube de Portugal",
+            "homeTeamCrest": "https:\/\/crests.football-data.org\/498.png",
+            "awayTeamCrest": "https:\/\/crests.football-data.org\/524.png",
+            "scoreWinner": null,
+            "scoreFullTimeHome": null,
+            "scoreFullTimeAway": null
+        },
+        "551973": {
+            "utcDate": "2026-01-20T20:00:00Z",
+            "homeTeamName": "PAE Olympiakos SFP",
+            "awayTeamName": "PAE Olympiakos SFP",
+            "homeTeamCrest": "https:\/\/crests.football-data.org\/654.png",
+            "awayTeamCrest": "https:\/\/crests.football-data.org\/3.png",
+            "scoreWinner": null,
+            "scoreFullTimeHome": null,
+            "scoreFullTimeAway": null
+        },
+        "552011": {
+            "utcDate": "2026-01-20T20:00:00Z",
+            "homeTeamName": "Villarreal CF",
+            "awayTeamName": "Villarreal CF",
+            "homeTeamCrest": "https:\/\/crests.football-data.org\/94.png",
+            "awayTeamCrest": "https:\/\/crests.football-data.org\/678.png",
+            "scoreWinner": null,
+            "scoreFullTimeHome": null,
+            "scoreFullTimeAway": null
+        },
+        "552038": {
+            "utcDate": "2026-01-20T20:00:00Z",
+            "homeTeamName": "FC K\u00f8benhavn",
+            "awayTeamName": "FC K\u00f8benhavn",
+            "homeTeamCrest": "https:\/\/crests.football-data.org\/1876.png",
+            "awayTeamCrest": "https:\/\/crests.football-data.org\/113.png",
+            "scoreWinner": null,
+            "scoreFullTimeHome": null,
+            "scoreFullTimeAway": null
+        },
+        "551929": {
+            "utcDate": "2026-01-20T20:00:00Z",
+            "homeTeamName": "Real Madrid CF",
+            "awayTeamName": "Real Madrid CF",
+            "homeTeamCrest": "https:\/\/crests.football-data.org\/86.png",
+            "awayTeamCrest": "https:\/\/crests.football-data.org\/548.png",
+            "scoreWinner": null,
+            "scoreFullTimeHome": null,
+            "scoreFullTimeAway": null
+        },
+        "551933": {
+            "utcDate": "2026-01-20T20:00:00Z",
+            "homeTeamName": "FC Internazionale Milano",
+            "awayTeamName": "FC Internazionale Milano",
+            "homeTeamCrest": "https:\/\/crests.football-data.org\/108.png",
+            "awayTeamCrest": "https:\/\/crests.football-data.org\/57.png",
+            "scoreWinner": null,
+            "scoreFullTimeHome": null,
+            "scoreFullTimeAway": null
+        },
+        "552001": {
+            "utcDate": "2026-01-21T17:45:00Z",
+            "homeTeamName": "Qaraba\u011f A\u011fdam FK",
+            "awayTeamName": "Qaraba\u011f A\u011fdam FK",
+            "homeTeamCrest": "https:\/\/crests.football-data.org\/611.png",
+            "awayTeamCrest": "https:\/\/crests.football-data.org\/19.png",
+            "scoreWinner": null,
+            "scoreFullTimeHome": null,
+            "scoreFullTimeAway": null
+        },
+        "552010": {
+            "utcDate": "2026-01-21T17:45:00Z",
+            "homeTeamName": "Galatasaray SK",
+            "awayTeamName": "Galatasaray SK",
+            "homeTeamCrest": "https:\/\/crests.football-data.org\/610.png",
+            "awayTeamCrest": "https:\/\/crests.football-data.org\/78.png",
+            "scoreWinner": null,
+            "scoreFullTimeHome": null,
+            "scoreFullTimeAway": null
+        },
+        "551949": {
+            "utcDate": "2026-01-21T20:00:00Z",
+            "homeTeamName": "Olympique de Marseille",
+            "awayTeamName": "Olympique de Marseille",
+            "homeTeamCrest": "https:\/\/crests.football-data.org\/516.png",
+            "awayTeamCrest": "https:\/\/crests.football-data.org\/64.png",
+            "scoreWinner": null,
+            "scoreFullTimeHome": null,
+            "scoreFullTimeAway": null
+        },
+        "551956": {
+            "utcDate": "2026-01-21T20:00:00Z",
+            "homeTeamName": "SK Slavia Praha",
+            "awayTeamName": "SK Slavia Praha",
+            "homeTeamCrest": "https:\/\/crests.football-data.org\/930.png",
+            "awayTeamCrest": "https:\/\/crests.football-data.org\/81.png",
+            "scoreWinner": null,
+            "scoreFullTimeHome": null,
+            "scoreFullTimeAway": null
+        },
+        "551986": {
+            "utcDate": "2026-01-21T20:00:00Z",
+            "homeTeamName": "Atalanta BC",
+            "awayTeamName": "Atalanta BC",
+            "homeTeamCrest": "https:\/\/crests.football-data.org\/102.png",
+            "awayTeamCrest": "https:\/\/crests.football-data.org\/77.png",
+            "scoreWinner": null,
+            "scoreFullTimeHome": null,
+            "scoreFullTimeAway": null
+        },
+        "551988": {
+            "utcDate": "2026-01-21T20:00:00Z",
+            "homeTeamName": "Juventus FC",
+            "awayTeamName": "Juventus FC",
+            "homeTeamCrest": "https:\/\/crests.football-data.org\/109.png",
+            "awayTeamCrest": "https:\/\/crests.football-data.org\/1903.png",
+            "scoreWinner": null,
+            "scoreFullTimeHome": null,
+            "scoreFullTimeAway": null
+        },
+        "552036": {
+            "utcDate": "2026-01-21T20:00:00Z",
+            "homeTeamName": "Newcastle United FC",
+            "awayTeamName": "Newcastle United FC",
+            "homeTeamCrest": "https:\/\/crests.football-data.org\/67.png",
+            "awayTeamCrest": "https:\/\/crests.football-data.org\/674.png",
+            "scoreWinner": null,
+            "scoreFullTimeHome": null,
+            "scoreFullTimeAway": null
+        },
+        "551914": {
+            "utcDate": "2026-01-21T20:00:00Z",
+            "homeTeamName": "FC Bayern M\u00fcnchen",
+            "awayTeamName": "FC Bayern M\u00fcnchen",
+            "homeTeamCrest": "https:\/\/crests.football-data.org\/5.png",
+            "awayTeamCrest": "https:\/\/crests.football-data.org\/3929.png",
+            "scoreWinner": null,
+            "scoreFullTimeHome": null,
+            "scoreFullTimeAway": null
+        },
+        "551921": {
+            "utcDate": "2026-01-21T20:00:00Z",
+            "homeTeamName": "Chelsea FC",
+            "awayTeamName": "Chelsea FC",
+            "homeTeamCrest": "https:\/\/crests.football-data.org\/61.png",
+            "awayTeamCrest": "https:\/\/crests.football-data.org\/11034.png",
+            "scoreWinner": null,
+            "scoreFullTimeHome": null,
+            "scoreFullTimeAway": null
+        },
+        "551950": {
+            "utcDate": "2026-01-28T20:00:00Z",
+            "homeTeamName": "Liverpool FC",
+            "awayTeamName": "Liverpool FC",
+            "homeTeamCrest": "https:\/\/crests.football-data.org\/64.png",
+            "awayTeamCrest": "https:\/\/crests.football-data.org\/611.png",
+            "scoreWinner": null,
+            "scoreFullTimeHome": null,
+            "scoreFullTimeAway": null
+        },
+        "551957": {
+            "utcDate": "2026-01-28T20:00:00Z",
+            "homeTeamName": "FC Barcelona",
+            "awayTeamName": "FC Barcelona",
+            "homeTeamCrest": "https:\/\/crests.football-data.org\/81.png",
+            "awayTeamCrest": "https:\/\/crests.football-data.org\/1876.png",
+            "scoreWinner": null,
+            "scoreFullTimeHome": null,
+            "scoreFullTimeAway": null
+        },
+        "551967": {
+            "utcDate": "2026-01-28T20:00:00Z",
+            "homeTeamName": "Manchester City FC",
+            "awayTeamName": "Manchester City FC",
+            "homeTeamCrest": "https:\/\/crests.football-data.org\/65.png",
+            "awayTeamCrest": "https:\/\/crests.football-data.org\/610.png",
+            "scoreWinner": null,
+            "scoreFullTimeHome": null,
+            "scoreFullTimeAway": null
+        },
+        "551970": {
+            "utcDate": "2026-01-28T20:00:00Z",
+            "homeTeamName": "Bayer 04 Leverkusen",
+            "awayTeamName": "Bayer 04 Leverkusen",
+            "homeTeamCrest": "https:\/\/crests.football-data.org\/3.png",
+            "awayTeamCrest": "https:\/\/crests.football-data.org\/94.png",
+            "scoreWinner": null,
+            "scoreFullTimeHome": null,
+            "scoreFullTimeAway": null
+        },
+        "551980": {
+            "utcDate": "2026-01-28T20:00:00Z",
+            "homeTeamName": "Arsenal FC",
+            "awayTeamName": "Arsenal FC",
+            "homeTeamCrest": "https:\/\/crests.football-data.org\/57.png",
+            "awayTeamCrest": "https:\/\/crests.football-data.org\/10601.png",
+            "scoreWinner": null,
+            "scoreFullTimeHome": null,
+            "scoreFullTimeAway": null
+        },
+        "551987": {
+            "utcDate": "2026-01-28T20:00:00Z",
+            "homeTeamName": "Royale Union Saint-Gilloise",
+            "awayTeamName": "Royale Union Saint-Gilloise",
+            "homeTeamCrest": "https:\/\/crests.football-data.org\/3929.png",
+            "awayTeamCrest": "https:\/\/crests.football-data.org\/102.png",
+            "scoreWinner": null,
+            "scoreFullTimeHome": null,
+            "scoreFullTimeAway": null
+        },
+        "551993": {
+            "utcDate": "2026-01-28T20:00:00Z",
+            "homeTeamName": "Club Brugge KV",
+            "awayTeamName": "Club Brugge KV",
+            "homeTeamCrest": "https:\/\/crests.football-data.org\/851.png",
+            "awayTeamCrest": "https:\/\/crests.football-data.org\/516.png",
+            "scoreWinner": null,
+            "scoreFullTimeHome": null,
+            "scoreFullTimeAway": null
+        },
+        "551998": {
+            "utcDate": "2026-01-28T20:00:00Z",
+            "homeTeamName": "Eintracht Frankfurt",
+            "awayTeamName": "Eintracht Frankfurt",
+            "homeTeamCrest": "https:\/\/crests.football-data.org\/19.png",
+            "awayTeamCrest": "https:\/\/crests.football-data.org\/73.png",
+            "scoreWinner": null,
+            "scoreFullTimeHome": null,
+            "scoreFullTimeAway": null
+        },
+        "552006": {
+            "utcDate": "2026-01-28T20:00:00Z",
+            "homeTeamName": "AS Monaco FC",
+            "awayTeamName": "AS Monaco FC",
+            "homeTeamCrest": "https:\/\/crests.football-data.org\/548.png",
+            "awayTeamCrest": "https:\/\/crests.football-data.org\/109.png",
+            "scoreWinner": null,
+            "scoreFullTimeHome": null,
+            "scoreFullTimeAway": null
+        },
+        "552007": {
+            "utcDate": "2026-01-28T20:00:00Z",
+            "homeTeamName": "Club Atl\u00e9tico de Madrid",
+            "awayTeamName": "Club Atl\u00e9tico de Madrid",
+            "homeTeamCrest": "https:\/\/crests.football-data.org\/78.png",
+            "awayTeamCrest": "https:\/\/crests.football-data.org\/5721.png",
+            "scoreWinner": null,
+            "scoreFullTimeHome": null,
+            "scoreFullTimeAway": null
+        },
+        "552028": {
+            "utcDate": "2026-01-28T20:00:00Z",
+            "homeTeamName": "Athletic Club",
+            "awayTeamName": "Athletic Club",
+            "homeTeamCrest": "https:\/\/crests.football-data.org\/77.png",
+            "awayTeamCrest": "https:\/\/crests.football-data.org\/498.png",
+            "scoreWinner": null,
+            "scoreFullTimeHome": null,
+            "scoreFullTimeAway": null
+        },
+        "552030": {
+            "utcDate": "2026-01-28T20:00:00Z",
+            "homeTeamName": "AFC Ajax",
+            "awayTeamName": "AFC Ajax",
+            "homeTeamCrest": "https:\/\/crests.football-data.org\/678.png",
+            "awayTeamCrest": "https:\/\/crests.football-data.org\/654.png",
+            "scoreWinner": null,
+            "scoreFullTimeHome": null,
+            "scoreFullTimeAway": null
+        },
+        "552050": {
+            "utcDate": "2026-01-28T20:00:00Z",
+            "homeTeamName": "Paris Saint-Germain FC",
+            "awayTeamName": "Paris Saint-Germain FC",
+            "homeTeamCrest": "https:\/\/crests.football-data.org\/524.png",
+            "awayTeamCrest": "https:\/\/crests.football-data.org\/67.png",
+            "scoreWinner": null,
+            "scoreFullTimeHome": null,
+            "scoreFullTimeAway": null
+        },
+        "552051": {
+            "utcDate": "2026-01-28T20:00:00Z",
+            "homeTeamName": "Paphos FC",
+            "awayTeamName": "Paphos FC",
+            "homeTeamCrest": "https:\/\/crests.football-data.org\/11034.png",
+            "awayTeamCrest": "https:\/\/crests.football-data.org\/930.png",
+            "scoreWinner": null,
+            "scoreFullTimeHome": null,
+            "scoreFullTimeAway": null
+        },
+        "551913": {
+            "utcDate": "2026-01-28T20:00:00Z",
+            "homeTeamName": "PSV",
+            "awayTeamName": "PSV",
+            "homeTeamCrest": "https:\/\/crests.football-data.org\/674.png",
+            "awayTeamCrest": "https:\/\/crests.football-data.org\/5.png",
+            "scoreWinner": null,
+            "scoreFullTimeHome": null,
+            "scoreFullTimeAway": null
+        },
+        "551920": {
+            "utcDate": "2026-01-28T20:00:00Z",
+            "homeTeamName": "SSC Napoli",
+            "awayTeamName": "SSC Napoli",
+            "homeTeamCrest": "https:\/\/crests.football-data.org\/113.png",
+            "awayTeamCrest": "https:\/\/crests.football-data.org\/61.png",
+            "scoreWinner": null,
+            "scoreFullTimeHome": null,
+            "scoreFullTimeAway": null
+        },
+        "551926": {
+            "utcDate": "2026-01-28T20:00:00Z",
+            "homeTeamName": "Sport Lisboa e Benfica",
+            "awayTeamName": "Sport Lisboa e Benfica",
+            "homeTeamCrest": "https:\/\/crests.football-data.org\/1903.png",
+            "awayTeamCrest": "https:\/\/crests.football-data.org\/86.png",
+            "scoreWinner": null,
+            "scoreFullTimeHome": null,
+            "scoreFullTimeAway": null
+        },
+        "551932": {
+            "utcDate": "2026-01-28T20:00:00Z",
+            "homeTeamName": "Borussia Dortmund",
+            "awayTeamName": "Borussia Dortmund",
+            "homeTeamCrest": "https:\/\/crests.football-data.org\/4.png",
+            "awayTeamCrest": "https:\/\/crests.football-data.org\/108.png",
+            "scoreWinner": null,
+            "scoreFullTimeHome": null,
+            "scoreFullTimeAway": null
+        },
+        "552052": {
+            "utcDate": "2026-02-17T00:00:00Z",
+            "homeTeamName": null,
+            "awayTeamName": null,
+            "homeTeamCrest": null,
+            "awayTeamCrest": null,
+            "scoreWinner": null,
+            "scoreFullTimeHome": null,
+            "scoreFullTimeAway": null
+        },
+        "552053": {
+            "utcDate": "2026-02-17T00:00:00Z",
+            "homeTeamName": null,
+            "awayTeamName": null,
+            "homeTeamCrest": null,
+            "awayTeamCrest": null,
+            "scoreWinner": null,
+            "scoreFullTimeHome": null,
+            "scoreFullTimeAway": null
+        },
+        "552054": {
+            "utcDate": "2026-02-17T00:00:00Z",
+            "homeTeamName": null,
+            "awayTeamName": null,
+            "homeTeamCrest": null,
+            "awayTeamCrest": null,
+            "scoreWinner": null,
+            "scoreFullTimeHome": null,
+            "scoreFullTimeAway": null
+        },
+        "552055": {
+            "utcDate": "2026-02-17T00:00:00Z",
+            "homeTeamName": null,
+            "awayTeamName": null,
+            "homeTeamCrest": null,
+            "awayTeamCrest": null,
+            "scoreWinner": null,
+            "scoreFullTimeHome": null,
+            "scoreFullTimeAway": null
+        },
+        "552056": {
+            "utcDate": "2026-02-18T00:00:00Z",
+            "homeTeamName": null,
+            "awayTeamName": null,
+            "homeTeamCrest": null,
+            "awayTeamCrest": null,
+            "scoreWinner": null,
+            "scoreFullTimeHome": null,
+            "scoreFullTimeAway": null
+        },
+        "552057": {
+            "utcDate": "2026-02-18T00:00:00Z",
+            "homeTeamName": null,
+            "awayTeamName": null,
+            "homeTeamCrest": null,
+            "awayTeamCrest": null,
+            "scoreWinner": null,
+            "scoreFullTimeHome": null,
+            "scoreFullTimeAway": null
+        },
+        "552058": {
+            "utcDate": "2026-02-18T00:00:00Z",
+            "homeTeamName": null,
+            "awayTeamName": null,
+            "homeTeamCrest": null,
+            "awayTeamCrest": null,
+            "scoreWinner": null,
+            "scoreFullTimeHome": null,
+            "scoreFullTimeAway": null
+        },
+        "552059": {
+            "utcDate": "2026-02-18T00:00:00Z",
+            "homeTeamName": null,
+            "awayTeamName": null,
+            "homeTeamCrest": null,
+            "awayTeamCrest": null,
+            "scoreWinner": null,
+            "scoreFullTimeHome": null,
+            "scoreFullTimeAway": null
+        },
+        "552060": {
+            "utcDate": "2026-02-24T00:00:00Z",
+            "homeTeamName": null,
+            "awayTeamName": null,
+            "homeTeamCrest": null,
+            "awayTeamCrest": null,
+            "scoreWinner": null,
+            "scoreFullTimeHome": null,
+            "scoreFullTimeAway": null
+        },
+        "552061": {
+            "utcDate": "2026-02-24T00:00:00Z",
+            "homeTeamName": null,
+            "awayTeamName": null,
+            "homeTeamCrest": null,
+            "awayTeamCrest": null,
+            "scoreWinner": null,
+            "scoreFullTimeHome": null,
+            "scoreFullTimeAway": null
+        },
+        "552062": {
+            "utcDate": "2026-02-24T00:00:00Z",
+            "homeTeamName": null,
+            "awayTeamName": null,
+            "homeTeamCrest": null,
+            "awayTeamCrest": null,
+            "scoreWinner": null,
+            "scoreFullTimeHome": null,
+            "scoreFullTimeAway": null
+        },
+        "552063": {
+            "utcDate": "2026-02-24T00:00:00Z",
+            "homeTeamName": null,
+            "awayTeamName": null,
+            "homeTeamCrest": null,
+            "awayTeamCrest": null,
+            "scoreWinner": null,
+            "scoreFullTimeHome": null,
+            "scoreFullTimeAway": null
+        },
+        "552064": {
+            "utcDate": "2026-02-25T00:00:00Z",
+            "homeTeamName": null,
+            "awayTeamName": null,
+            "homeTeamCrest": null,
+            "awayTeamCrest": null,
+            "scoreWinner": null,
+            "scoreFullTimeHome": null,
+            "scoreFullTimeAway": null
+        },
+        "552065": {
+            "utcDate": "2026-02-25T00:00:00Z",
+            "homeTeamName": null,
+            "awayTeamName": null,
+            "homeTeamCrest": null,
+            "awayTeamCrest": null,
+            "scoreWinner": null,
+            "scoreFullTimeHome": null,
+            "scoreFullTimeAway": null
+        },
+        "552066": {
+            "utcDate": "2026-02-25T00:00:00Z",
+            "homeTeamName": null,
+            "awayTeamName": null,
+            "homeTeamCrest": null,
+            "awayTeamCrest": null,
+            "scoreWinner": null,
+            "scoreFullTimeHome": null,
+            "scoreFullTimeAway": null
+        },
+        "552067": {
+            "utcDate": "2026-02-25T00:00:00Z",
+            "homeTeamName": null,
+            "awayTeamName": null,
+            "homeTeamCrest": null,
+            "awayTeamCrest": null,
+            "scoreWinner": null,
+            "scoreFullTimeHome": null,
+            "scoreFullTimeAway": null
+        },
+        "552068": {
+            "utcDate": "2026-03-10T00:00:00Z",
+            "homeTeamName": null,
+            "awayTeamName": null,
+            "homeTeamCrest": null,
+            "awayTeamCrest": null,
+            "scoreWinner": null,
+            "scoreFullTimeHome": null,
+            "scoreFullTimeAway": null
+        },
+        "552069": {
+            "utcDate": "2026-03-10T00:00:00Z",
+            "homeTeamName": null,
+            "awayTeamName": null,
+            "homeTeamCrest": null,
+            "awayTeamCrest": null,
+            "scoreWinner": null,
+            "scoreFullTimeHome": null,
+            "scoreFullTimeAway": null
+        },
+        "552070": {
+            "utcDate": "2026-03-10T00:00:00Z",
+            "homeTeamName": null,
+            "awayTeamName": null,
+            "homeTeamCrest": null,
+            "awayTeamCrest": null,
+            "scoreWinner": null,
+            "scoreFullTimeHome": null,
+            "scoreFullTimeAway": null
+        },
+        "552071": {
+            "utcDate": "2026-03-10T00:00:00Z",
+            "homeTeamName": null,
+            "awayTeamName": null,
+            "homeTeamCrest": null,
+            "awayTeamCrest": null,
+            "scoreWinner": null,
+            "scoreFullTimeHome": null,
+            "scoreFullTimeAway": null
+        },
+        "552072": {
+            "utcDate": "2026-03-11T00:00:00Z",
+            "homeTeamName": null,
+            "awayTeamName": null,
+            "homeTeamCrest": null,
+            "awayTeamCrest": null,
+            "scoreWinner": null,
+            "scoreFullTimeHome": null,
+            "scoreFullTimeAway": null
+        },
+        "552073": {
+            "utcDate": "2026-03-11T00:00:00Z",
+            "homeTeamName": null,
+            "awayTeamName": null,
+            "homeTeamCrest": null,
+            "awayTeamCrest": null,
+            "scoreWinner": null,
+            "scoreFullTimeHome": null,
+            "scoreFullTimeAway": null
+        },
+        "552074": {
+            "utcDate": "2026-03-11T00:00:00Z",
+            "homeTeamName": null,
+            "awayTeamName": null,
+            "homeTeamCrest": null,
+            "awayTeamCrest": null,
+            "scoreWinner": null,
+            "scoreFullTimeHome": null,
+            "scoreFullTimeAway": null
+        },
+        "552075": {
+            "utcDate": "2026-03-11T00:00:00Z",
+            "homeTeamName": null,
+            "awayTeamName": null,
+            "homeTeamCrest": null,
+            "awayTeamCrest": null,
+            "scoreWinner": null,
+            "scoreFullTimeHome": null,
+            "scoreFullTimeAway": null
+        },
+        "552076": {
+            "utcDate": "2026-03-17T00:00:00Z",
+            "homeTeamName": null,
+            "awayTeamName": null,
+            "homeTeamCrest": null,
+            "awayTeamCrest": null,
+            "scoreWinner": null,
+            "scoreFullTimeHome": null,
+            "scoreFullTimeAway": null
+        },
+        "552077": {
+            "utcDate": "2026-03-17T00:00:00Z",
+            "homeTeamName": null,
+            "awayTeamName": null,
+            "homeTeamCrest": null,
+            "awayTeamCrest": null,
+            "scoreWinner": null,
+            "scoreFullTimeHome": null,
+            "scoreFullTimeAway": null
+        },
+        "552078": {
+            "utcDate": "2026-03-17T00:00:00Z",
+            "homeTeamName": null,
+            "awayTeamName": null,
+            "homeTeamCrest": null,
+            "awayTeamCrest": null,
+            "scoreWinner": null,
+            "scoreFullTimeHome": null,
+            "scoreFullTimeAway": null
+        },
+        "552079": {
+            "utcDate": "2026-03-17T00:00:00Z",
+            "homeTeamName": null,
+            "awayTeamName": null,
+            "homeTeamCrest": null,
+            "awayTeamCrest": null,
+            "scoreWinner": null,
+            "scoreFullTimeHome": null,
+            "scoreFullTimeAway": null
+        },
+        "552080": {
+            "utcDate": "2026-03-18T00:00:00Z",
+            "homeTeamName": null,
+            "awayTeamName": null,
+            "homeTeamCrest": null,
+            "awayTeamCrest": null,
+            "scoreWinner": null,
+            "scoreFullTimeHome": null,
+            "scoreFullTimeAway": null
+        },
+        "552081": {
+            "utcDate": "2026-03-18T00:00:00Z",
+            "homeTeamName": null,
+            "awayTeamName": null,
+            "homeTeamCrest": null,
+            "awayTeamCrest": null,
+            "scoreWinner": null,
+            "scoreFullTimeHome": null,
+            "scoreFullTimeAway": null
+        },
+        "552082": {
+            "utcDate": "2026-03-18T00:00:00Z",
+            "homeTeamName": null,
+            "awayTeamName": null,
+            "homeTeamCrest": null,
+            "awayTeamCrest": null,
+            "scoreWinner": null,
+            "scoreFullTimeHome": null,
+            "scoreFullTimeAway": null
+        },
+        "552083": {
+            "utcDate": "2026-03-18T00:00:00Z",
+            "homeTeamName": null,
+            "awayTeamName": null,
+            "homeTeamCrest": null,
+            "awayTeamCrest": null,
+            "scoreWinner": null,
+            "scoreFullTimeHome": null,
+            "scoreFullTimeAway": null
+        },
+        "552084": {
+            "utcDate": "2026-04-07T00:00:00Z",
+            "homeTeamName": null,
+            "awayTeamName": null,
+            "homeTeamCrest": null,
+            "awayTeamCrest": null,
+            "scoreWinner": null,
+            "scoreFullTimeHome": null,
+            "scoreFullTimeAway": null
+        },
+        "552085": {
+            "utcDate": "2026-04-07T00:00:00Z",
+            "homeTeamName": null,
+            "awayTeamName": null,
+            "homeTeamCrest": null,
+            "awayTeamCrest": null,
+            "scoreWinner": null,
+            "scoreFullTimeHome": null,
+            "scoreFullTimeAway": null
+        },
+        "552086": {
+            "utcDate": "2026-04-08T00:00:00Z",
+            "homeTeamName": null,
+            "awayTeamName": null,
+            "homeTeamCrest": null,
+            "awayTeamCrest": null,
+            "scoreWinner": null,
+            "scoreFullTimeHome": null,
+            "scoreFullTimeAway": null
+        },
+        "552087": {
+            "utcDate": "2026-04-08T00:00:00Z",
+            "homeTeamName": null,
+            "awayTeamName": null,
+            "homeTeamCrest": null,
+            "awayTeamCrest": null,
+            "scoreWinner": null,
+            "scoreFullTimeHome": null,
+            "scoreFullTimeAway": null
+        },
+        "552088": {
+            "utcDate": "2026-04-14T00:00:00Z",
+            "homeTeamName": null,
+            "awayTeamName": null,
+            "homeTeamCrest": null,
+            "awayTeamCrest": null,
+            "scoreWinner": null,
+            "scoreFullTimeHome": null,
+            "scoreFullTimeAway": null
+        },
+        "552089": {
+            "utcDate": "2026-04-14T00:00:00Z",
+            "homeTeamName": null,
+            "awayTeamName": null,
+            "homeTeamCrest": null,
+            "awayTeamCrest": null,
+            "scoreWinner": null,
+            "scoreFullTimeHome": null,
+            "scoreFullTimeAway": null
+        },
+        "552090": {
+            "utcDate": "2026-04-15T00:00:00Z",
+            "homeTeamName": null,
+            "awayTeamName": null,
+            "homeTeamCrest": null,
+            "awayTeamCrest": null,
+            "scoreWinner": null,
+            "scoreFullTimeHome": null,
+            "scoreFullTimeAway": null
+        },
+        "552091": {
+            "utcDate": "2026-04-15T00:00:00Z",
+            "homeTeamName": null,
+            "awayTeamName": null,
+            "homeTeamCrest": null,
+            "awayTeamCrest": null,
+            "scoreWinner": null,
+            "scoreFullTimeHome": null,
+            "scoreFullTimeAway": null
+        },
+        "552092": {
+            "utcDate": "2026-04-28T00:00:00Z",
+            "homeTeamName": null,
+            "awayTeamName": null,
+            "homeTeamCrest": null,
+            "awayTeamCrest": null,
+            "scoreWinner": null,
+            "scoreFullTimeHome": null,
+            "scoreFullTimeAway": null
+        },
+        "552093": {
+            "utcDate": "2026-04-29T00:00:00Z",
+            "homeTeamName": null,
+            "awayTeamName": null,
+            "homeTeamCrest": null,
+            "awayTeamCrest": null,
+            "scoreWinner": null,
+            "scoreFullTimeHome": null,
+            "scoreFullTimeAway": null
+        },
+        "552094": {
+            "utcDate": "2026-05-05T00:00:00Z",
+            "homeTeamName": null,
+            "awayTeamName": null,
+            "homeTeamCrest": null,
+            "awayTeamCrest": null,
+            "scoreWinner": null,
+            "scoreFullTimeHome": null,
+            "scoreFullTimeAway": null
+        },
+        "552095": {
+            "utcDate": "2026-05-06T00:00:00Z",
+            "homeTeamName": null,
+            "awayTeamName": null,
+            "homeTeamCrest": null,
+            "awayTeamCrest": null,
+            "scoreWinner": null,
+            "scoreFullTimeHome": null,
+            "scoreFullTimeAway": null
+        },
+        "552096": {
+            "utcDate": "2026-05-30T16:00:00Z",
+            "homeTeamName": null,
+            "awayTeamName": null,
+            "homeTeamCrest": null,
+            "awayTeamCrest": null,
+            "scoreWinner": null,
+            "scoreFullTimeHome": null,
+            "scoreFullTimeAway": null
+        }
+    }
+}

@@ -1,0 +1,28 @@
+{
+    "seasons": [
+        {
+            "startDate": "2020-09-12",
+            "endDate": "2021-05-23",
+            "winnerName": "Club Atl\u00e9tico de Madrid",
+            "winnerCrest": "https:\/\/crests.football-data.org\/78.png"
+        },
+        {
+            "startDate": "2019-08-16",
+            "endDate": "2020-07-19",
+            "winnerName": "Real Madrid CF",
+            "winnerCrest": "https:\/\/crests.football-data.org\/86.png"
+        },
+        {
+            "startDate": "2018-08-17",
+            "endDate": "2019-05-19",
+            "winnerName": "FC Barcelona",
+            "winnerCrest": "https:\/\/crests.football-data.org\/81.png"
+        },
+        {
+            "startDate": "2017-08-18",
+            "endDate": "2018-05-20",
+            "winnerName": "FC Barcelona",
+            "winnerCrest": "https:\/\/crests.football-data.org\/81.png"
+        }
+    ]
+}

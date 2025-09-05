@@ -10,13 +10,13 @@ class InfoControlleur {
 
             $ctrl = new DataControlleur();
 
-            $competitions = $ctrl->dataJson("/var/www/html/data/competition-info-".$competition.".json");
+            $competitions = $ctrl->dataJson("/var/www/html/data/info-".$competition.".json");
 
-            $matches = $ctrl->dataJson("/var/www/html/data/competition-matches-".$competition."-".date("Y").".json");
+            $matches = $ctrl->dataJson("/var/www/html/data/matches-".$competition.".json");
 
-            $standings = $ctrl->dataJson("/var/www/html/data/competition-standings-".$competition."-".date("Y").".json");
+            $standings = $ctrl->dataJson("/var/www/html/data/standings-".$competition.".json");
 
-            $scorers = $ctrl->dataJson("/var/www/html/data/competition-scorers-".$competition."-".date("Y").".json");
+            $scorers = $ctrl->dataJson("/var/www/html/data/scorers-".$competition.".json");
 
             require "view/info/competition.php";
 

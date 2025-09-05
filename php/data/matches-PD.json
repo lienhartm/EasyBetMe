@@ -1,0 +1,3804 @@
+{
+    "matches": {
+        "544214": {
+            "utcDate": "2025-08-15T17:00:00Z",
+            "homeTeamName": "Girona FC",
+            "awayTeamName": "Girona FC",
+            "homeTeamCrest": "https:\/\/crests.football-data.org\/298.png",
+            "awayTeamCrest": "https:\/\/crests.football-data.org\/87.png",
+            "scoreWinner": "AWAY_TEAM",
+            "scoreFullTimeHome": 1,
+            "scoreFullTimeAway": 3
+        },
+        "544220": {
+            "utcDate": "2025-08-15T19:30:00Z",
+            "homeTeamName": "Villarreal CF",
+            "awayTeamName": "Villarreal CF",
+            "homeTeamCrest": "https:\/\/crests.football-data.org\/94.png",
+            "awayTeamCrest": "https:\/\/crests.football-data.org\/1048.png",
+            "scoreWinner": "HOME_TEAM",
+            "scoreFullTimeHome": 2,
+            "scoreFullTimeAway": 0
+        },
+        "544216": {
+            "utcDate": "2025-08-16T17:30:00Z",
+            "homeTeamName": "RCD Mallorca",
+            "awayTeamName": "RCD Mallorca",
+            "homeTeamCrest": "https:\/\/crests.football-data.org\/89.png",
+            "awayTeamCrest": "https:\/\/crests.football-data.org\/81.png",
+            "scoreWinner": "AWAY_TEAM",
+            "scoreFullTimeHome": 0,
+            "scoreFullTimeAway": 3
+        },
+        "544211": {
+            "utcDate": "2025-08-16T19:30:00Z",
+            "homeTeamName": "Deportivo Alav\u00e9s",
+            "awayTeamName": "Deportivo Alav\u00e9s",
+            "homeTeamCrest": "https:\/\/crests.football-data.org\/263.png",
+            "awayTeamCrest": "https:\/\/crests.football-data.org\/88.png",
+            "scoreWinner": "HOME_TEAM",
+            "scoreFullTimeHome": 2,
+            "scoreFullTimeAway": 1
+        },
+        "544219": {
+            "utcDate": "2025-08-16T19:30:00Z",
+            "homeTeamName": "Valencia CF",
+            "awayTeamName": "Valencia CF",
+            "homeTeamCrest": "https:\/\/crests.football-data.org\/95.png",
+            "awayTeamCrest": "https:\/\/crests.football-data.org\/92.png",
+            "scoreWinner": "DRAW",
+            "scoreFullTimeHome": 1,
+            "scoreFullTimeAway": 1
+        },
+        "544213": {
+            "utcDate": "2025-08-17T15:00:00Z",
+            "homeTeamName": "RC Celta de Vigo",
+            "awayTeamName": "RC Celta de Vigo",
+            "homeTeamCrest": "https:\/\/crests.football-data.org\/558.png",
+            "awayTeamCrest": "https:\/\/crests.football-data.org\/82.png",
+            "scoreWinner": "AWAY_TEAM",
+            "scoreFullTimeHome": 0,
+            "scoreFullTimeAway": 2
+        },
+        "544212": {
+            "utcDate": "2025-08-17T17:30:00Z",
+            "homeTeamName": "Athletic Club",
+            "awayTeamName": "Athletic Club",
+            "homeTeamCrest": "https:\/\/crests.football-data.org\/77.png",
+            "awayTeamCrest": "https:\/\/crests.football-data.org\/559.png",
+            "scoreWinner": "HOME_TEAM",
+            "scoreFullTimeHome": 3,
+            "scoreFullTimeAway": 2
+        },
+        "544215": {
+            "utcDate": "2025-08-17T19:30:00Z",
+            "homeTeamName": "RCD Espanyol de Barcelona",
+            "awayTeamName": "RCD Espanyol de Barcelona",
+            "homeTeamCrest": "https:\/\/crests.football-data.org\/80.png",
+            "awayTeamCrest": "https:\/\/crests.football-data.org\/78.png",
+            "scoreWinner": "HOME_TEAM",
+            "scoreFullTimeHome": 2,
+            "scoreFullTimeAway": 1
+        },
+        "544217": {
+            "utcDate": "2025-08-18T19:00:00Z",
+            "homeTeamName": "Elche CF",
+            "awayTeamName": "Elche CF",
+            "homeTeamCrest": "https:\/\/crests.football-data.org\/285.png",
+            "awayTeamCrest": "https:\/\/crests.football-data.org\/90.png",
+            "scoreWinner": "DRAW",
+            "scoreFullTimeHome": 1,
+            "scoreFullTimeAway": 1
+        },
+        "544218": {
+            "utcDate": "2025-08-19T19:00:00Z",
+            "homeTeamName": "Real Madrid CF",
+            "awayTeamName": "Real Madrid CF",
+            "homeTeamCrest": "https:\/\/crests.football-data.org\/86.png",
+            "awayTeamCrest": "https:\/\/crests.football-data.org\/79.png",
+            "scoreWinner": "HOME_TEAM",
+            "scoreFullTimeHome": 1,
+            "scoreFullTimeAway": 0
+        },
+        "544225": {
+            "utcDate": "2025-08-22T19:30:00Z",
+            "homeTeamName": "Real Betis Balompi\u00e9",
+            "awayTeamName": "Real Betis Balompi\u00e9",
+            "homeTeamCrest": "https:\/\/crests.football-data.org\/90.png",
+            "awayTeamCrest": "https:\/\/crests.football-data.org\/263.png",
+            "scoreWinner": "HOME_TEAM",
+            "scoreFullTimeHome": 1,
+            "scoreFullTimeAway": 0
+        },
+        "544227": {
+            "utcDate": "2025-08-23T15:00:00Z",
+            "homeTeamName": "RCD Mallorca",
+            "awayTeamName": "RCD Mallorca",
+            "homeTeamCrest": "https:\/\/crests.football-data.org\/89.png",
+            "awayTeamCrest": "https:\/\/crests.football-data.org\/558.png",
+            "scoreWinner": "DRAW",
+            "scoreFullTimeHome": 1,
+            "scoreFullTimeAway": 1
+        },
+        "544222": {
+            "utcDate": "2025-08-23T17:30:00Z",
+            "homeTeamName": "Club Atl\u00e9tico de Madrid",
+            "awayTeamName": "Club Atl\u00e9tico de Madrid",
+            "homeTeamCrest": "https:\/\/crests.football-data.org\/78.png",
+            "awayTeamCrest": "https:\/\/crests.football-data.org\/285.png",
+            "scoreWinner": "DRAW",
+            "scoreFullTimeHome": 1,
+            "scoreFullTimeAway": 1
+        },
+        "544226": {
+            "utcDate": "2025-08-23T19:30:00Z",
+            "homeTeamName": "Levante UD",
+            "awayTeamName": "Levante UD",
+            "homeTeamCrest": "https:\/\/crests.football-data.org\/88.png",
+            "awayTeamCrest": "https:\/\/crests.football-data.org\/81.png",
+            "scoreWinner": "AWAY_TEAM",
+            "scoreFullTimeHome": 2,
+            "scoreFullTimeAway": 3
+        },
+        "544223": {
+            "utcDate": "2025-08-24T15:00:00Z",
+            "homeTeamName": "CA Osasuna",
+            "awayTeamName": "CA Osasuna",
+            "homeTeamCrest": "https:\/\/crests.football-data.org\/79.png",
+            "awayTeamCrest": "https:\/\/crests.football-data.org\/95.png",
+            "scoreWinner": "HOME_TEAM",
+            "scoreFullTimeHome": 1,
+            "scoreFullTimeAway": 0
+        },
+        "544228": {
+            "utcDate": "2025-08-24T17:30:00Z",
+            "homeTeamName": "Real Sociedad de F\u00fatbol",
+            "awayTeamName": "Real Sociedad de F\u00fatbol",
+            "homeTeamCrest": "https:\/\/crests.football-data.org\/92.png",
+            "awayTeamCrest": "https:\/\/crests.football-data.org\/80.png",
+            "scoreWinner": "DRAW",
+            "scoreFullTimeHome": 2,
+            "scoreFullTimeAway": 2
+        },
+        "544230": {
+            "utcDate": "2025-08-24T17:30:00Z",
+            "homeTeamName": "Villarreal CF",
+            "awayTeamName": "Villarreal CF",
+            "homeTeamCrest": "https:\/\/crests.football-data.org\/94.png",
+            "awayTeamCrest": "https:\/\/crests.football-data.org\/298.png",
+            "scoreWinner": "HOME_TEAM",
+            "scoreFullTimeHome": 5,
+            "scoreFullTimeAway": 0
+        },
+        "544224": {
+            "utcDate": "2025-08-24T19:30:00Z",
+            "homeTeamName": "Real Oviedo",
+            "awayTeamName": "Real Oviedo",
+            "homeTeamCrest": "https:\/\/crests.football-data.org\/1048.png",
+            "awayTeamCrest": "https:\/\/crests.football-data.org\/86.png",
+            "scoreWinner": "AWAY_TEAM",
+            "scoreFullTimeHome": 0,
+            "scoreFullTimeAway": 3
+        },
+        "544221": {
+            "utcDate": "2025-08-25T17:30:00Z",
+            "homeTeamName": "Athletic Club",
+            "awayTeamName": "Athletic Club",
+            "homeTeamCrest": "https:\/\/crests.football-data.org\/77.png",
+            "awayTeamCrest": "https:\/\/crests.football-data.org\/87.png",
+            "scoreWinner": "HOME_TEAM",
+            "scoreFullTimeHome": 1,
+            "scoreFullTimeAway": 0
+        },
+        "544229": {
+            "utcDate": "2025-08-25T19:30:00Z",
+            "homeTeamName": "Sevilla FC",
+            "awayTeamName": "Sevilla FC",
+            "homeTeamCrest": "https:\/\/crests.football-data.org\/559.png",
+            "awayTeamCrest": "https:\/\/crests.football-data.org\/82.png",
+            "scoreWinner": "AWAY_TEAM",
+            "scoreFullTimeHome": 1,
+            "scoreFullTimeAway": 2
+        },
+        "544268": {
+            "utcDate": "2025-08-27T19:00:00Z",
+            "homeTeamName": "RC Celta de Vigo",
+            "awayTeamName": "RC Celta de Vigo",
+            "homeTeamCrest": "https:\/\/crests.football-data.org\/558.png",
+            "awayTeamCrest": "https:\/\/crests.football-data.org\/90.png",
+            "scoreWinner": "DRAW",
+            "scoreFullTimeHome": 1,
+            "scoreFullTimeAway": 1
+        },
+        "544233": {
+            "utcDate": "2025-08-29T17:30:00Z",
+            "homeTeamName": "Elche CF",
+            "awayTeamName": "Elche CF",
+            "homeTeamCrest": "https:\/\/crests.football-data.org\/285.png",
+            "awayTeamCrest": "https:\/\/crests.football-data.org\/88.png",
+            "scoreWinner": "HOME_TEAM",
+            "scoreFullTimeHome": 2,
+            "scoreFullTimeAway": 0
+        },
+        "544239": {
+            "utcDate": "2025-08-29T19:30:00Z",
+            "homeTeamName": "Valencia CF",
+            "awayTeamName": "Valencia CF",
+            "homeTeamCrest": "https:\/\/crests.football-data.org\/95.png",
+            "awayTeamCrest": "https:\/\/crests.football-data.org\/82.png",
+            "scoreWinner": "HOME_TEAM",
+            "scoreFullTimeHome": 3,
+            "scoreFullTimeAway": 0
+        },
+        "544231": {
+            "utcDate": "2025-08-30T15:00:00Z",
+            "homeTeamName": "Deportivo Alav\u00e9s",
+            "awayTeamName": "Deportivo Alav\u00e9s",
+            "homeTeamCrest": "https:\/\/crests.football-data.org\/263.png",
+            "awayTeamCrest": "https:\/\/crests.football-data.org\/78.png",
+            "scoreWinner": "DRAW",
+            "scoreFullTimeHome": 1,
+            "scoreFullTimeAway": 1
+        },
+        "544236": {
+            "utcDate": "2025-08-30T17:00:00Z",
+            "homeTeamName": "Real Oviedo",
+            "awayTeamName": "Real Oviedo",
+            "homeTeamCrest": "https:\/\/crests.football-data.org\/1048.png",
+            "awayTeamCrest": "https:\/\/crests.football-data.org\/92.png",
+            "scoreWinner": "HOME_TEAM",
+            "scoreFullTimeHome": 1,
+            "scoreFullTimeAway": 0
+        },
+        "544235": {
+            "utcDate": "2025-08-30T17:30:00Z",
+            "homeTeamName": "Girona FC",
+            "awayTeamName": "Girona FC",
+            "homeTeamCrest": "https:\/\/crests.football-data.org\/298.png",
+            "awayTeamCrest": "https:\/\/crests.football-data.org\/559.png",
+            "scoreWinner": "AWAY_TEAM",
+            "scoreFullTimeHome": 0,
+            "scoreFullTimeAway": 2
+        },
+        "544240": {
+            "utcDate": "2025-08-30T19:30:00Z",
+            "homeTeamName": "Real Madrid CF",
+            "awayTeamName": "Real Madrid CF",
+            "homeTeamCrest": "https:\/\/crests.football-data.org\/86.png",
+            "awayTeamCrest": "https:\/\/crests.football-data.org\/89.png",
+            "scoreWinner": "HOME_TEAM",
+            "scoreFullTimeHome": 2,
+            "scoreFullTimeAway": 1
+        },
+        "544232": {
+            "utcDate": "2025-08-31T15:00:00Z",
+            "homeTeamName": "RC Celta de Vigo",
+            "awayTeamName": "RC Celta de Vigo",
+            "homeTeamCrest": "https:\/\/crests.football-data.org\/558.png",
+            "awayTeamCrest": "https:\/\/crests.football-data.org\/94.png",
+            "scoreWinner": "DRAW",
+            "scoreFullTimeHome": 1,
+            "scoreFullTimeAway": 1
+        },
+        "544237": {
+            "utcDate": "2025-08-31T17:00:00Z",
+            "homeTeamName": "Real Betis Balompi\u00e9",
+            "awayTeamName": "Real Betis Balompi\u00e9",
+            "homeTeamCrest": "https:\/\/crests.football-data.org\/90.png",
+            "awayTeamCrest": "https:\/\/crests.football-data.org\/77.png",
+            "scoreWinner": "AWAY_TEAM",
+            "scoreFullTimeHome": 1,
+            "scoreFullTimeAway": 2
+        },
+        "544234": {
+            "utcDate": "2025-08-31T17:30:00Z",
+            "homeTeamName": "RCD Espanyol de Barcelona",
+            "awayTeamName": "RCD Espanyol de Barcelona",
+            "homeTeamCrest": "https:\/\/crests.football-data.org\/80.png",
+            "awayTeamCrest": "https:\/\/crests.football-data.org\/79.png",
+            "scoreWinner": "HOME_TEAM",
+            "scoreFullTimeHome": 1,
+            "scoreFullTimeAway": 0
+        },
+        "544238": {
+            "utcDate": "2025-08-31T19:30:00Z",
+            "homeTeamName": "Rayo Vallecano de Madrid",
+            "awayTeamName": "Rayo Vallecano de Madrid",
+            "homeTeamCrest": "https:\/\/crests.football-data.org\/87.png",
+            "awayTeamCrest": "https:\/\/crests.football-data.org\/81.png",
+            "scoreWinner": "DRAW",
+            "scoreFullTimeHome": 1,
+            "scoreFullTimeAway": 1
+        },
+        "544249": {
+            "utcDate": "2025-09-12T19:00:00Z",
+            "homeTeamName": "Sevilla FC",
+            "awayTeamName": "Sevilla FC",
+            "homeTeamCrest": "https:\/\/crests.football-data.org\/559.png",
+            "awayTeamCrest": "https:\/\/crests.football-data.org\/285.png",
+            "scoreWinner": null,
+            "scoreFullTimeHome": null,
+            "scoreFullTimeAway": null
+        },
+        "544245": {
+            "utcDate": "2025-09-13T12:00:00Z",
+            "homeTeamName": "Getafe CF",
+            "awayTeamName": "Getafe CF",
+            "homeTeamCrest": "https:\/\/crests.football-data.org\/82.png",
+            "awayTeamCrest": "https:\/\/crests.football-data.org\/1048.png",
+            "scoreWinner": null,
+            "scoreFullTimeHome": null,
+            "scoreFullTimeAway": null
+        },
+        "544250": {
+            "utcDate": "2025-09-13T14:15:00Z",
+            "homeTeamName": "Real Sociedad de F\u00fatbol",
+            "awayTeamName": "Real Sociedad de F\u00fatbol",
+            "homeTeamCrest": "https:\/\/crests.football-data.org\/92.png",
+            "awayTeamCrest": "https:\/\/crests.football-data.org\/86.png",
+            "scoreWinner": null,
+            "scoreFullTimeHome": null,
+            "scoreFullTimeAway": null
+        },
+        "544247": {
+            "utcDate": "2025-09-13T16:30:00Z",
+            "homeTeamName": "Athletic Club",
+            "awayTeamName": "Athletic Club",
+            "homeTeamCrest": "https:\/\/crests.football-data.org\/77.png",
+            "awayTeamCrest": "https:\/\/crests.football-data.org\/263.png",
+            "scoreWinner": null,
+            "scoreFullTimeHome": null,
+            "scoreFullTimeAway": null
+        },
+        "544241": {
+            "utcDate": "2025-09-13T19:00:00Z",
+            "homeTeamName": "Club Atl\u00e9tico de Madrid",
+            "awayTeamName": "Club Atl\u00e9tico de Madrid",
+            "homeTeamCrest": "https:\/\/crests.football-data.org\/78.png",
+            "awayTeamCrest": "https:\/\/crests.football-data.org\/94.png",
+            "scoreWinner": null,
+            "scoreFullTimeHome": null,
+            "scoreFullTimeAway": null
+        },
+        "544243": {
+            "utcDate": "2025-09-14T12:00:00Z",
+            "homeTeamName": "RC Celta de Vigo",
+            "awayTeamName": "RC Celta de Vigo",
+            "homeTeamCrest": "https:\/\/crests.football-data.org\/558.png",
+            "awayTeamCrest": "https:\/\/crests.football-data.org\/298.png",
+            "scoreWinner": null,
+            "scoreFullTimeHome": null,
+            "scoreFullTimeAway": null
+        },
+        "544248": {
+            "utcDate": "2025-09-14T14:15:00Z",
+            "homeTeamName": "Levante UD",
+            "awayTeamName": "Levante UD",
+            "homeTeamCrest": "https:\/\/crests.football-data.org\/88.png",
+            "awayTeamCrest": "https:\/\/crests.football-data.org\/90.png",
+            "scoreWinner": null,
+            "scoreFullTimeHome": null,
+            "scoreFullTimeAway": null
+        },
+        "544246": {
+            "utcDate": "2025-09-14T16:30:00Z",
+            "homeTeamName": "CA Osasuna",
+            "awayTeamName": "CA Osasuna",
+            "homeTeamCrest": "https:\/\/crests.football-data.org\/79.png",
+            "awayTeamCrest": "https:\/\/crests.football-data.org\/87.png",
+            "scoreWinner": null,
+            "scoreFullTimeHome": null,
+            "scoreFullTimeAway": null
+        },
+        "544242": {
+            "utcDate": "2025-09-14T19:00:00Z",
+            "homeTeamName": "FC Barcelona",
+            "awayTeamName": "FC Barcelona",
+            "homeTeamCrest": "https:\/\/crests.football-data.org\/81.png",
+            "awayTeamCrest": "https:\/\/crests.football-data.org\/95.png",
+            "scoreWinner": null,
+            "scoreFullTimeHome": null,
+            "scoreFullTimeAway": null
+        },
+        "544244": {
+            "utcDate": "2025-09-15T19:00:00Z",
+            "homeTeamName": "RCD Espanyol de Barcelona",
+            "awayTeamName": "RCD Espanyol de Barcelona",
+            "homeTeamCrest": "https:\/\/crests.football-data.org\/80.png",
+            "awayTeamCrest": "https:\/\/crests.football-data.org\/89.png",
+            "scoreWinner": null,
+            "scoreFullTimeHome": null,
+            "scoreFullTimeAway": null
+        },
+        "544253": {
+            "utcDate": "2025-09-19T19:00:00Z",
+            "homeTeamName": "Real Betis Balompi\u00e9",
+            "awayTeamName": "Real Betis Balompi\u00e9",
+            "homeTeamCrest": "https:\/\/crests.football-data.org\/90.png",
+            "awayTeamCrest": "https:\/\/crests.football-data.org\/92.png",
+            "scoreWinner": null,
+            "scoreFullTimeHome": null,
+            "scoreFullTimeAway": null
+        },
+        "544255": {
+            "utcDate": "2025-09-20T12:00:00Z",
+            "homeTeamName": "Girona FC",
+            "awayTeamName": "Girona FC",
+            "homeTeamCrest": "https:\/\/crests.football-data.org\/298.png",
+            "awayTeamCrest": "https:\/\/crests.football-data.org\/88.png",
+            "scoreWinner": null,
+            "scoreFullTimeHome": null,
+            "scoreFullTimeAway": null
+        },
+        "544259": {
+            "utcDate": "2025-09-20T14:15:00Z",
+            "homeTeamName": "Real Madrid CF",
+            "awayTeamName": "Real Madrid CF",
+            "homeTeamCrest": "https:\/\/crests.football-data.org\/86.png",
+            "awayTeamCrest": "https:\/\/crests.football-data.org\/80.png",
+            "scoreWinner": null,
+            "scoreFullTimeHome": null,
+            "scoreFullTimeAway": null
+        },
+        "544260": {
+            "utcDate": "2025-09-20T16:30:00Z",
+            "homeTeamName": "Villarreal CF",
+            "awayTeamName": "Villarreal CF",
+            "homeTeamCrest": "https:\/\/crests.football-data.org\/94.png",
+            "awayTeamCrest": "https:\/\/crests.football-data.org\/79.png",
+            "scoreWinner": null,
+            "scoreFullTimeHome": null,
+            "scoreFullTimeAway": null
+        },
+        "544251": {
+            "utcDate": "2025-09-20T16:30:00Z",
+            "homeTeamName": "Deportivo Alav\u00e9s",
+            "awayTeamName": "Deportivo Alav\u00e9s",
+            "homeTeamCrest": "https:\/\/crests.football-data.org\/263.png",
+            "awayTeamCrest": "https:\/\/crests.football-data.org\/559.png",
+            "scoreWinner": null,
+            "scoreFullTimeHome": null,
+            "scoreFullTimeAway": null
+        },
+        "544256": {
+            "utcDate": "2025-09-20T19:00:00Z",
+            "homeTeamName": "Valencia CF",
+            "awayTeamName": "Valencia CF",
+            "homeTeamCrest": "https:\/\/crests.football-data.org\/95.png",
+            "awayTeamCrest": "https:\/\/crests.football-data.org\/77.png",
+            "scoreWinner": null,
+            "scoreFullTimeHome": null,
+            "scoreFullTimeAway": null
+        },
+        "544258": {
+            "utcDate": "2025-09-21T12:00:00Z",
+            "homeTeamName": "Rayo Vallecano de Madrid",
+            "awayTeamName": "Rayo Vallecano de Madrid",
+            "homeTeamCrest": "https:\/\/crests.football-data.org\/87.png",
+            "awayTeamCrest": "https:\/\/crests.football-data.org\/558.png",
+            "scoreWinner": null,
+            "scoreFullTimeHome": null,
+            "scoreFullTimeAway": null
+        },
+        "544257": {
+            "utcDate": "2025-09-21T14:15:00Z",
+            "homeTeamName": "RCD Mallorca",
+            "awayTeamName": "RCD Mallorca",
+            "homeTeamCrest": "https:\/\/crests.football-data.org\/89.png",
+            "awayTeamCrest": "https:\/\/crests.football-data.org\/78.png",
+            "scoreWinner": null,
+            "scoreFullTimeHome": null,
+            "scoreFullTimeAway": null
+        },
+        "544254": {
+            "utcDate": "2025-09-21T16:30:00Z",
+            "homeTeamName": "Elche CF",
+            "awayTeamName": "Elche CF",
+            "homeTeamCrest": "https:\/\/crests.football-data.org\/285.png",
+            "awayTeamCrest": "https:\/\/crests.football-data.org\/1048.png",
+            "scoreWinner": null,
+            "scoreFullTimeHome": null,
+            "scoreFullTimeAway": null
+        },
+        "544252": {
+            "utcDate": "2025-09-21T19:00:00Z",
+            "homeTeamName": "FC Barcelona",
+            "awayTeamName": "FC Barcelona",
+            "homeTeamCrest": "https:\/\/crests.football-data.org\/81.png",
+            "awayTeamCrest": "https:\/\/crests.football-data.org\/82.png",
+            "scoreWinner": null,
+            "scoreFullTimeHome": null,
+            "scoreFullTimeAway": null
+        },
+        "544261": {
+            "utcDate": "2025-09-23T17:00:00Z",
+            "homeTeamName": "Athletic Club",
+            "awayTeamName": "Athletic Club",
+            "homeTeamCrest": "https:\/\/crests.football-data.org\/77.png",
+            "awayTeamCrest": "https:\/\/crests.football-data.org\/298.png",
+            "scoreWinner": null,
+            "scoreFullTimeHome": null,
+            "scoreFullTimeAway": null
+        },
+        "544263": {
+            "utcDate": "2025-09-23T17:00:00Z",
+            "homeTeamName": "RCD Espanyol de Barcelona",
+            "awayTeamName": "RCD Espanyol de Barcelona",
+            "homeTeamCrest": "https:\/\/crests.football-data.org\/80.png",
+            "awayTeamCrest": "https:\/\/crests.football-data.org\/95.png",
+            "scoreWinner": null,
+            "scoreFullTimeHome": null,
+            "scoreFullTimeAway": null
+        },
+        "544264": {
+            "utcDate": "2025-09-23T19:30:00Z",
+            "homeTeamName": "Levante UD",
+            "awayTeamName": "Levante UD",
+            "homeTeamCrest": "https:\/\/crests.football-data.org\/88.png",
+            "awayTeamCrest": "https:\/\/crests.football-data.org\/86.png",
+            "scoreWinner": null,
+            "scoreFullTimeHome": null,
+            "scoreFullTimeAway": null
+        },
+        "544265": {
+            "utcDate": "2025-09-23T19:30:00Z",
+            "homeTeamName": "Sevilla FC",
+            "awayTeamName": "Sevilla FC",
+            "homeTeamCrest": "https:\/\/crests.football-data.org\/559.png",
+            "awayTeamCrest": "https:\/\/crests.football-data.org\/94.png",
+            "scoreWinner": null,
+            "scoreFullTimeHome": null,
+            "scoreFullTimeAway": null
+        },
+        "544266": {
+            "utcDate": "2025-09-24T17:00:00Z",
+            "homeTeamName": "Getafe CF",
+            "awayTeamName": "Getafe CF",
+            "homeTeamCrest": "https:\/\/crests.football-data.org\/82.png",
+            "awayTeamCrest": "https:\/\/crests.football-data.org\/263.png",
+            "scoreWinner": null,
+            "scoreFullTimeHome": null,
+            "scoreFullTimeAway": null
+        },
+        "544262": {
+            "utcDate": "2025-09-24T19:30:00Z",
+            "homeTeamName": "Club Atl\u00e9tico de Madrid",
+            "awayTeamName": "Club Atl\u00e9tico de Madrid",
+            "homeTeamCrest": "https:\/\/crests.football-data.org\/78.png",
+            "awayTeamCrest": "https:\/\/crests.football-data.org\/87.png",
+            "scoreWinner": null,
+            "scoreFullTimeHome": null,
+            "scoreFullTimeAway": null
+        },
+        "544270": {
+            "utcDate": "2025-09-24T19:30:00Z",
+            "homeTeamName": "Real Sociedad de F\u00fatbol",
+            "awayTeamName": "Real Sociedad de F\u00fatbol",
+            "homeTeamCrest": "https:\/\/crests.football-data.org\/92.png",
+            "awayTeamCrest": "https:\/\/crests.football-data.org\/89.png",
+            "scoreWinner": null,
+            "scoreFullTimeHome": null,
+            "scoreFullTimeAway": null
+        },
+        "544269": {
+            "utcDate": "2025-09-25T17:30:00Z",
+            "homeTeamName": "CA Osasuna",
+            "awayTeamName": "CA Osasuna",
+            "homeTeamCrest": "https:\/\/crests.football-data.org\/79.png",
+            "awayTeamCrest": "https:\/\/crests.football-data.org\/285.png",
+            "scoreWinner": null,
+            "scoreFullTimeHome": null,
+            "scoreFullTimeAway": null
+        },
+        "544267": {
+            "utcDate": "2025-09-25T19:30:00Z",
+            "homeTeamName": "Real Oviedo",
+            "awayTeamName": "Real Oviedo",
+            "homeTeamCrest": "https:\/\/crests.football-data.org\/1048.png",
+            "awayTeamCrest": "https:\/\/crests.football-data.org\/81.png",
+            "scoreWinner": null,
+            "scoreFullTimeHome": null,
+            "scoreFullTimeAway": null
+        },
+        "544279": {
+            "utcDate": "2025-09-26T19:00:00Z",
+            "homeTeamName": "Girona FC",
+            "awayTeamName": "Girona FC",
+            "homeTeamCrest": "https:\/\/crests.football-data.org\/298.png",
+            "awayTeamCrest": "https:\/\/crests.football-data.org\/80.png",
+            "scoreWinner": null,
+            "scoreFullTimeHome": null,
+            "scoreFullTimeAway": null
+        },
+        "544274": {
+            "utcDate": "2025-09-27T12:00:00Z",
+            "homeTeamName": "Getafe CF",
+            "awayTeamName": "Getafe CF",
+            "homeTeamCrest": "https:\/\/crests.football-data.org\/82.png",
+            "awayTeamCrest": "https:\/\/crests.football-data.org\/88.png",
+            "scoreWinner": null,
+            "scoreFullTimeHome": null,
+            "scoreFullTimeAway": null
+        },
+        "544271": {
+            "utcDate": "2025-09-27T14:15:00Z",
+            "homeTeamName": "Club Atl\u00e9tico de Madrid",
+            "awayTeamName": "Club Atl\u00e9tico de Madrid",
+            "homeTeamCrest": "https:\/\/crests.football-data.org\/78.png",
+            "awayTeamCrest": "https:\/\/crests.football-data.org\/86.png",
+            "scoreWinner": null,
+            "scoreFullTimeHome": null,
+            "scoreFullTimeAway": null
+        },
+        "544276": {
+            "utcDate": "2025-09-27T16:30:00Z",
+            "homeTeamName": "RCD Mallorca",
+            "awayTeamName": "RCD Mallorca",
+            "homeTeamCrest": "https:\/\/crests.football-data.org\/89.png",
+            "awayTeamCrest": "https:\/\/crests.football-data.org\/263.png",
+            "scoreWinner": null,
+            "scoreFullTimeHome": null,
+            "scoreFullTimeAway": null
+        },
+        "544277": {
+            "utcDate": "2025-09-27T19:00:00Z",
+            "homeTeamName": "Villarreal CF",
+            "awayTeamName": "Villarreal CF",
+            "homeTeamCrest": "https:\/\/crests.football-data.org\/94.png",
+            "awayTeamCrest": "https:\/\/crests.football-data.org\/77.png",
+            "scoreWinner": null,
+            "scoreFullTimeHome": null,
+            "scoreFullTimeAway": null
+        },
+        "544275": {
+            "utcDate": "2025-09-28T12:00:00Z",
+            "homeTeamName": "Rayo Vallecano de Madrid",
+            "awayTeamName": "Rayo Vallecano de Madrid",
+            "homeTeamCrest": "https:\/\/crests.football-data.org\/87.png",
+            "awayTeamCrest": "https:\/\/crests.football-data.org\/559.png",
+            "scoreWinner": null,
+            "scoreFullTimeHome": null,
+            "scoreFullTimeAway": null
+        },
+        "544278": {
+            "utcDate": "2025-09-28T14:15:00Z",
+            "homeTeamName": "Elche CF",
+            "awayTeamName": "Elche CF",
+            "homeTeamCrest": "https:\/\/crests.football-data.org\/285.png",
+            "awayTeamCrest": "https:\/\/crests.football-data.org\/558.png",
+            "scoreWinner": null,
+            "scoreFullTimeHome": null,
+            "scoreFullTimeAway": null
+        },
+        "544273": {
+            "utcDate": "2025-09-28T16:30:00Z",
+            "homeTeamName": "Real Betis Balompi\u00e9",
+            "awayTeamName": "Real Betis Balompi\u00e9",
+            "homeTeamCrest": "https:\/\/crests.football-data.org\/90.png",
+            "awayTeamCrest": "https:\/\/crests.football-data.org\/79.png",
+            "scoreWinner": null,
+            "scoreFullTimeHome": null,
+            "scoreFullTimeAway": null
+        },
+        "544272": {
+            "utcDate": "2025-09-28T19:00:00Z",
+            "homeTeamName": "FC Barcelona",
+            "awayTeamName": "FC Barcelona",
+            "homeTeamCrest": "https:\/\/crests.football-data.org\/81.png",
+            "awayTeamCrest": "https:\/\/crests.football-data.org\/92.png",
+            "scoreWinner": null,
+            "scoreFullTimeHome": null,
+            "scoreFullTimeAway": null
+        },
+        "544280": {
+            "utcDate": "2025-09-29T19:00:00Z",
+            "homeTeamName": "Valencia CF",
+            "awayTeamName": "Valencia CF",
+            "homeTeamCrest": "https:\/\/crests.football-data.org\/95.png",
+            "awayTeamCrest": "https:\/\/crests.football-data.org\/1048.png",
+            "scoreWinner": null,
+            "scoreFullTimeHome": null,
+            "scoreFullTimeAway": null
+        },
+        "544281": {
+            "utcDate": "2025-10-05T00:00:00Z",
+            "homeTeamName": "Deportivo Alav\u00e9s",
+            "awayTeamName": "Deportivo Alav\u00e9s",
+            "homeTeamCrest": "https:\/\/crests.football-data.org\/263.png",
+            "awayTeamCrest": "https:\/\/crests.football-data.org\/285.png",
+            "scoreWinner": null,
+            "scoreFullTimeHome": null,
+            "scoreFullTimeAway": null
+        },
+        "544282": {
+            "utcDate": "2025-10-05T00:00:00Z",
+            "homeTeamName": "Athletic Club",
+            "awayTeamName": "Athletic Club",
+            "homeTeamCrest": "https:\/\/crests.football-data.org\/77.png",
+            "awayTeamCrest": "https:\/\/crests.football-data.org\/89.png",
+            "scoreWinner": null,
+            "scoreFullTimeHome": null,
+            "scoreFullTimeAway": null
+        },
+        "544283": {
+            "utcDate": "2025-10-05T00:00:00Z",
+            "homeTeamName": "Girona FC",
+            "awayTeamName": "Girona FC",
+            "homeTeamCrest": "https:\/\/crests.football-data.org\/298.png",
+            "awayTeamCrest": "https:\/\/crests.football-data.org\/95.png",
+            "scoreWinner": null,
+            "scoreFullTimeHome": null,
+            "scoreFullTimeAway": null
+        },
+        "544284": {
+            "utcDate": "2025-10-05T00:00:00Z",
+            "homeTeamName": "Real Madrid CF",
+            "awayTeamName": "Real Madrid CF",
+            "homeTeamCrest": "https:\/\/crests.football-data.org\/86.png",
+            "awayTeamCrest": "https:\/\/crests.football-data.org\/94.png",
+            "scoreWinner": null,
+            "scoreFullTimeHome": null,
+            "scoreFullTimeAway": null
+        },
+        "544285": {
+            "utcDate": "2025-10-05T00:00:00Z",
+            "homeTeamName": "RC Celta de Vigo",
+            "awayTeamName": "RC Celta de Vigo",
+            "homeTeamCrest": "https:\/\/crests.football-data.org\/558.png",
+            "awayTeamCrest": "https:\/\/crests.football-data.org\/78.png",
+            "scoreWinner": null,
+            "scoreFullTimeHome": null,
+            "scoreFullTimeAway": null
+        },
+        "544286": {
+            "utcDate": "2025-10-05T00:00:00Z",
+            "homeTeamName": "Sevilla FC",
+            "awayTeamName": "Sevilla FC",
+            "homeTeamCrest": "https:\/\/crests.football-data.org\/559.png",
+            "awayTeamCrest": "https:\/\/crests.football-data.org\/81.png",
+            "scoreWinner": null,
+            "scoreFullTimeHome": null,
+            "scoreFullTimeAway": null
+        },
+        "544287": {
+            "utcDate": "2025-10-05T00:00:00Z",
+            "homeTeamName": "RCD Espanyol de Barcelona",
+            "awayTeamName": "RCD Espanyol de Barcelona",
+            "homeTeamCrest": "https:\/\/crests.football-data.org\/80.png",
+            "awayTeamCrest": "https:\/\/crests.football-data.org\/90.png",
+            "scoreWinner": null,
+            "scoreFullTimeHome": null,
+            "scoreFullTimeAway": null
+        },
+        "544288": {
+            "utcDate": "2025-10-05T00:00:00Z",
+            "homeTeamName": "CA Osasuna",
+            "awayTeamName": "CA Osasuna",
+            "homeTeamCrest": "https:\/\/crests.football-data.org\/79.png",
+            "awayTeamCrest": "https:\/\/crests.football-data.org\/82.png",
+            "scoreWinner": null,
+            "scoreFullTimeHome": null,
+            "scoreFullTimeAway": null
+        },
+        "544289": {
+            "utcDate": "2025-10-05T00:00:00Z",
+            "homeTeamName": "Real Oviedo",
+            "awayTeamName": "Real Oviedo",
+            "homeTeamCrest": "https:\/\/crests.football-data.org\/1048.png",
+            "awayTeamCrest": "https:\/\/crests.football-data.org\/88.png",
+            "scoreWinner": null,
+            "scoreFullTimeHome": null,
+            "scoreFullTimeAway": null
+        },
+        "544290": {
+            "utcDate": "2025-10-05T00:00:00Z",
+            "homeTeamName": "Real Sociedad de F\u00fatbol",
+            "awayTeamName": "Real Sociedad de F\u00fatbol",
+            "homeTeamCrest": "https:\/\/crests.football-data.org\/92.png",
+            "awayTeamCrest": "https:\/\/crests.football-data.org\/87.png",
+            "scoreWinner": null,
+            "scoreFullTimeHome": null,
+            "scoreFullTimeAway": null
+        },
+        "544291": {
+            "utcDate": "2025-10-19T00:00:00Z",
+            "homeTeamName": "Deportivo Alav\u00e9s",
+            "awayTeamName": "Deportivo Alav\u00e9s",
+            "homeTeamCrest": "https:\/\/crests.football-data.org\/263.png",
+            "awayTeamCrest": "https:\/\/crests.football-data.org\/95.png",
+            "scoreWinner": null,
+            "scoreFullTimeHome": null,
+            "scoreFullTimeAway": null
+        },
+        "544292": {
+            "utcDate": "2025-10-19T00:00:00Z",
+            "homeTeamName": "Club Atl\u00e9tico de Madrid",
+            "awayTeamName": "Club Atl\u00e9tico de Madrid",
+            "homeTeamCrest": "https:\/\/crests.football-data.org\/78.png",
+            "awayTeamCrest": "https:\/\/crests.football-data.org\/79.png",
+            "scoreWinner": null,
+            "scoreFullTimeHome": null,
+            "scoreFullTimeAway": null
+        },
+        "544293": {
+            "utcDate": "2025-10-19T00:00:00Z",
+            "homeTeamName": "FC Barcelona",
+            "awayTeamName": "FC Barcelona",
+            "homeTeamCrest": "https:\/\/crests.football-data.org\/81.png",
+            "awayTeamCrest": "https:\/\/crests.football-data.org\/298.png",
+            "scoreWinner": null,
+            "scoreFullTimeHome": null,
+            "scoreFullTimeAway": null
+        },
+        "544294": {
+            "utcDate": "2025-10-19T00:00:00Z",
+            "homeTeamName": "RC Celta de Vigo",
+            "awayTeamName": "RC Celta de Vigo",
+            "homeTeamCrest": "https:\/\/crests.football-data.org\/558.png",
+            "awayTeamCrest": "https:\/\/crests.football-data.org\/92.png",
+            "scoreWinner": null,
+            "scoreFullTimeHome": null,
+            "scoreFullTimeAway": null
+        },
+        "544295": {
+            "utcDate": "2025-10-19T00:00:00Z",
+            "homeTeamName": "Getafe CF",
+            "awayTeamName": "Getafe CF",
+            "homeTeamCrest": "https:\/\/crests.football-data.org\/82.png",
+            "awayTeamCrest": "https:\/\/crests.football-data.org\/86.png",
+            "scoreWinner": null,
+            "scoreFullTimeHome": null,
+            "scoreFullTimeAway": null
+        },
+        "544296": {
+            "utcDate": "2025-10-19T00:00:00Z",
+            "homeTeamName": "Levante UD",
+            "awayTeamName": "Levante UD",
+            "homeTeamCrest": "https:\/\/crests.football-data.org\/88.png",
+            "awayTeamCrest": "https:\/\/crests.football-data.org\/87.png",
+            "scoreWinner": null,
+            "scoreFullTimeHome": null,
+            "scoreFullTimeAway": null
+        },
+        "544297": {
+            "utcDate": "2025-10-19T00:00:00Z",
+            "homeTeamName": "Elche CF",
+            "awayTeamName": "Elche CF",
+            "homeTeamCrest": "https:\/\/crests.football-data.org\/285.png",
+            "awayTeamCrest": "https:\/\/crests.football-data.org\/77.png",
+            "scoreWinner": null,
+            "scoreFullTimeHome": null,
+            "scoreFullTimeAway": null
+        },
+        "544298": {
+            "utcDate": "2025-10-19T00:00:00Z",
+            "homeTeamName": "Villarreal CF",
+            "awayTeamName": "Villarreal CF",
+            "homeTeamCrest": "https:\/\/crests.football-data.org\/94.png",
+            "awayTeamCrest": "https:\/\/crests.football-data.org\/90.png",
+            "scoreWinner": null,
+            "scoreFullTimeHome": null,
+            "scoreFullTimeAway": null
+        },
+        "544299": {
+            "utcDate": "2025-10-19T00:00:00Z",
+            "homeTeamName": "Real Oviedo",
+            "awayTeamName": "Real Oviedo",
+            "homeTeamCrest": "https:\/\/crests.football-data.org\/1048.png",
+            "awayTeamCrest": "https:\/\/crests.football-data.org\/80.png",
+            "scoreWinner": null,
+            "scoreFullTimeHome": null,
+            "scoreFullTimeAway": null
+        },
+        "544300": {
+            "utcDate": "2025-10-19T00:00:00Z",
+            "homeTeamName": "Sevilla FC",
+            "awayTeamName": "Sevilla FC",
+            "homeTeamCrest": "https:\/\/crests.football-data.org\/559.png",
+            "awayTeamCrest": "https:\/\/crests.football-data.org\/89.png",
+            "scoreWinner": null,
+            "scoreFullTimeHome": null,
+            "scoreFullTimeAway": null
+        },
+        "544301": {
+            "utcDate": "2025-10-26T00:00:00Z",
+            "homeTeamName": "Athletic Club",
+            "awayTeamName": "Athletic Club",
+            "homeTeamCrest": "https:\/\/crests.football-data.org\/77.png",
+            "awayTeamCrest": "https:\/\/crests.football-data.org\/82.png",
+            "scoreWinner": null,
+            "scoreFullTimeHome": null,
+            "scoreFullTimeAway": null
+        },
+        "544302": {
+            "utcDate": "2025-10-26T00:00:00Z",
+            "homeTeamName": "Girona FC",
+            "awayTeamName": "Girona FC",
+            "homeTeamCrest": "https:\/\/crests.football-data.org\/298.png",
+            "awayTeamCrest": "https:\/\/crests.football-data.org\/1048.png",
+            "scoreWinner": null,
+            "scoreFullTimeHome": null,
+            "scoreFullTimeAway": null
+        },
+        "544303": {
+            "utcDate": "2025-10-26T00:00:00Z",
+            "homeTeamName": "Real Sociedad de F\u00fatbol",
+            "awayTeamName": "Real Sociedad de F\u00fatbol",
+            "homeTeamCrest": "https:\/\/crests.football-data.org\/92.png",
+            "awayTeamCrest": "https:\/\/crests.football-data.org\/559.png",
+            "scoreWinner": null,
+            "scoreFullTimeHome": null,
+            "scoreFullTimeAway": null
+        },
+        "544304": {
+            "utcDate": "2025-10-26T00:00:00Z",
+            "homeTeamName": "Valencia CF",
+            "awayTeamName": "Valencia CF",
+            "homeTeamCrest": "https:\/\/crests.football-data.org\/95.png",
+            "awayTeamCrest": "https:\/\/crests.football-data.org\/94.png",
+            "scoreWinner": null,
+            "scoreFullTimeHome": null,
+            "scoreFullTimeAway": null
+        },
+        "544305": {
+            "utcDate": "2025-10-26T00:00:00Z",
+            "homeTeamName": "Rayo Vallecano de Madrid",
+            "awayTeamName": "Rayo Vallecano de Madrid",
+            "homeTeamCrest": "https:\/\/crests.football-data.org\/87.png",
+            "awayTeamCrest": "https:\/\/crests.football-data.org\/263.png",
+            "scoreWinner": null,
+            "scoreFullTimeHome": null,
+            "scoreFullTimeAway": null
+        },
+        "544306": {
+            "utcDate": "2025-10-26T00:00:00Z",
+            "homeTeamName": "Real Betis Balompi\u00e9",
+            "awayTeamName": "Real Betis Balompi\u00e9",
+            "homeTeamCrest": "https:\/\/crests.football-data.org\/90.png",
+            "awayTeamCrest": "https:\/\/crests.football-data.org\/78.png",
+            "scoreWinner": null,
+            "scoreFullTimeHome": null,
+            "scoreFullTimeAway": null
+        },
+        "544307": {
+            "utcDate": "2025-10-26T00:00:00Z",
+            "homeTeamName": "Real Madrid CF",
+            "awayTeamName": "Real Madrid CF",
+            "homeTeamCrest": "https:\/\/crests.football-data.org\/86.png",
+            "awayTeamCrest": "https:\/\/crests.football-data.org\/81.png",
+            "scoreWinner": null,
+            "scoreFullTimeHome": null,
+            "scoreFullTimeAway": null
+        },
+        "544308": {
+            "utcDate": "2025-10-26T00:00:00Z",
+            "homeTeamName": "CA Osasuna",
+            "awayTeamName": "CA Osasuna",
+            "homeTeamCrest": "https:\/\/crests.football-data.org\/79.png",
+            "awayTeamCrest": "https:\/\/crests.football-data.org\/558.png",
+            "scoreWinner": null,
+            "scoreFullTimeHome": null,
+            "scoreFullTimeAway": null
+        },
+        "544309": {
+            "utcDate": "2025-10-26T00:00:00Z",
+            "homeTeamName": "RCD Espanyol de Barcelona",
+            "awayTeamName": "RCD Espanyol de Barcelona",
+            "homeTeamCrest": "https:\/\/crests.football-data.org\/80.png",
+            "awayTeamCrest": "https:\/\/crests.football-data.org\/285.png",
+            "scoreWinner": null,
+            "scoreFullTimeHome": null,
+            "scoreFullTimeAway": null
+        },
+        "544310": {
+            "utcDate": "2025-10-26T00:00:00Z",
+            "homeTeamName": "RCD Mallorca",
+            "awayTeamName": "RCD Mallorca",
+            "homeTeamCrest": "https:\/\/crests.football-data.org\/89.png",
+            "awayTeamCrest": "https:\/\/crests.football-data.org\/88.png",
+            "scoreWinner": null,
+            "scoreFullTimeHome": null,
+            "scoreFullTimeAway": null
+        },
+        "544311": {
+            "utcDate": "2025-11-02T00:00:00Z",
+            "homeTeamName": "Deportivo Alav\u00e9s",
+            "awayTeamName": "Deportivo Alav\u00e9s",
+            "homeTeamCrest": "https:\/\/crests.football-data.org\/263.png",
+            "awayTeamCrest": "https:\/\/crests.football-data.org\/80.png",
+            "scoreWinner": null,
+            "scoreFullTimeHome": null,
+            "scoreFullTimeAway": null
+        },
+        "544312": {
+            "utcDate": "2025-11-02T00:00:00Z",
+            "homeTeamName": "Club Atl\u00e9tico de Madrid",
+            "awayTeamName": "Club Atl\u00e9tico de Madrid",
+            "homeTeamCrest": "https:\/\/crests.football-data.org\/78.png",
+            "awayTeamCrest": "https:\/\/crests.football-data.org\/559.png",
+            "scoreWinner": null,
+            "scoreFullTimeHome": null,
+            "scoreFullTimeAway": null
+        },
+        "544313": {
+            "utcDate": "2025-11-02T00:00:00Z",
+            "homeTeamName": "FC Barcelona",
+            "awayTeamName": "FC Barcelona",
+            "homeTeamCrest": "https:\/\/crests.football-data.org\/81.png",
+            "awayTeamCrest": "https:\/\/crests.football-data.org\/285.png",
+            "scoreWinner": null,
+            "scoreFullTimeHome": null,
+            "scoreFullTimeAway": null
+        },
+        "544314": {
+            "utcDate": "2025-11-02T00:00:00Z",
+            "homeTeamName": "Real Betis Balompi\u00e9",
+            "awayTeamName": "Real Betis Balompi\u00e9",
+            "homeTeamCrest": "https:\/\/crests.football-data.org\/90.png",
+            "awayTeamCrest": "https:\/\/crests.football-data.org\/89.png",
+            "scoreWinner": null,
+            "scoreFullTimeHome": null,
+            "scoreFullTimeAway": null
+        },
+        "544315": {
+            "utcDate": "2025-11-02T00:00:00Z",
+            "homeTeamName": "Getafe CF",
+            "awayTeamName": "Getafe CF",
+            "homeTeamCrest": "https:\/\/crests.football-data.org\/82.png",
+            "awayTeamCrest": "https:\/\/crests.football-data.org\/298.png",
+            "scoreWinner": null,
+            "scoreFullTimeHome": null,
+            "scoreFullTimeAway": null
+        },
+        "544316": {
+            "utcDate": "2025-11-02T00:00:00Z",
+            "homeTeamName": "Real Madrid CF",
+            "awayTeamName": "Real Madrid CF",
+            "homeTeamCrest": "https:\/\/crests.football-data.org\/86.png",
+            "awayTeamCrest": "https:\/\/crests.football-data.org\/95.png",
+            "scoreWinner": null,
+            "scoreFullTimeHome": null,
+            "scoreFullTimeAway": null
+        },
+        "544317": {
+            "utcDate": "2025-11-02T00:00:00Z",
+            "homeTeamName": "Real Sociedad de F\u00fatbol",
+            "awayTeamName": "Real Sociedad de F\u00fatbol",
+            "homeTeamCrest": "https:\/\/crests.football-data.org\/92.png",
+            "awayTeamCrest": "https:\/\/crests.football-data.org\/77.png",
+            "scoreWinner": null,
+            "scoreFullTimeHome": null,
+            "scoreFullTimeAway": null
+        },
+        "544318": {
+            "utcDate": "2025-11-02T00:00:00Z",
+            "homeTeamName": "Levante UD",
+            "awayTeamName": "Levante UD",
+            "homeTeamCrest": "https:\/\/crests.football-data.org\/88.png",
+            "awayTeamCrest": "https:\/\/crests.football-data.org\/558.png",
+            "scoreWinner": null,
+            "scoreFullTimeHome": null,
+            "scoreFullTimeAway": null
+        },
+        "544319": {
+            "utcDate": "2025-11-02T00:00:00Z",
+            "homeTeamName": "Real Oviedo",
+            "awayTeamName": "Real Oviedo",
+            "homeTeamCrest": "https:\/\/crests.football-data.org\/1048.png",
+            "awayTeamCrest": "https:\/\/crests.football-data.org\/79.png",
+            "scoreWinner": null,
+            "scoreFullTimeHome": null,
+            "scoreFullTimeAway": null
+        },
+        "544320": {
+            "utcDate": "2025-11-02T00:00:00Z",
+            "homeTeamName": "Villarreal CF",
+            "awayTeamName": "Villarreal CF",
+            "homeTeamCrest": "https:\/\/crests.football-data.org\/94.png",
+            "awayTeamCrest": "https:\/\/crests.football-data.org\/87.png",
+            "scoreWinner": null,
+            "scoreFullTimeHome": null,
+            "scoreFullTimeAway": null
+        },
+        "544321": {
+            "utcDate": "2025-11-09T00:00:00Z",
+            "homeTeamName": "Athletic Club",
+            "awayTeamName": "Athletic Club",
+            "homeTeamCrest": "https:\/\/crests.football-data.org\/77.png",
+            "awayTeamCrest": "https:\/\/crests.football-data.org\/1048.png",
+            "scoreWinner": null,
+            "scoreFullTimeHome": null,
+            "scoreFullTimeAway": null
+        },
+        "544322": {
+            "utcDate": "2025-11-09T00:00:00Z",
+            "homeTeamName": "Club Atl\u00e9tico de Madrid",
+            "awayTeamName": "Club Atl\u00e9tico de Madrid",
+            "homeTeamCrest": "https:\/\/crests.football-data.org\/78.png",
+            "awayTeamCrest": "https:\/\/crests.football-data.org\/88.png",
+            "scoreWinner": null,
+            "scoreFullTimeHome": null,
+            "scoreFullTimeAway": null
+        },
+        "544323": {
+            "utcDate": "2025-11-09T00:00:00Z",
+            "homeTeamName": "Elche CF",
+            "awayTeamName": "Elche CF",
+            "homeTeamCrest": "https:\/\/crests.football-data.org\/285.png",
+            "awayTeamCrest": "https:\/\/crests.football-data.org\/92.png",
+            "scoreWinner": null,
+            "scoreFullTimeHome": null,
+            "scoreFullTimeAway": null
+        },
+        "544324": {
+            "utcDate": "2025-11-09T00:00:00Z",
+            "homeTeamName": "RCD Espanyol de Barcelona",
+            "awayTeamName": "RCD Espanyol de Barcelona",
+            "homeTeamCrest": "https:\/\/crests.football-data.org\/80.png",
+            "awayTeamCrest": "https:\/\/crests.football-data.org\/94.png",
+            "scoreWinner": null,
+            "scoreFullTimeHome": null,
+            "scoreFullTimeAway": null
+        },
+        "544325": {
+            "utcDate": "2025-11-09T00:00:00Z",
+            "homeTeamName": "Rayo Vallecano de Madrid",
+            "awayTeamName": "Rayo Vallecano de Madrid",
+            "homeTeamCrest": "https:\/\/crests.football-data.org\/87.png",
+            "awayTeamCrest": "https:\/\/crests.football-data.org\/86.png",
+            "scoreWinner": null,
+            "scoreFullTimeHome": null,
+            "scoreFullTimeAway": null
+        },
+        "544326": {
+            "utcDate": "2025-11-09T00:00:00Z",
+            "homeTeamName": "Girona FC",
+            "awayTeamName": "Girona FC",
+            "homeTeamCrest": "https:\/\/crests.football-data.org\/298.png",
+            "awayTeamCrest": "https:\/\/crests.football-data.org\/263.png",
+            "scoreWinner": null,
+            "scoreFullTimeHome": null,
+            "scoreFullTimeAway": null
+        },
+        "544327": {
+            "utcDate": "2025-11-09T00:00:00Z",
+            "homeTeamName": "RC Celta de Vigo",
+            "awayTeamName": "RC Celta de Vigo",
+            "homeTeamCrest": "https:\/\/crests.football-data.org\/558.png",
+            "awayTeamCrest": "https:\/\/crests.football-data.org\/81.png",
+            "scoreWinner": null,
+            "scoreFullTimeHome": null,
+            "scoreFullTimeAway": null
+        },
+        "544328": {
+            "utcDate": "2025-11-09T00:00:00Z",
+            "homeTeamName": "Valencia CF",
+            "awayTeamName": "Valencia CF",
+            "homeTeamCrest": "https:\/\/crests.football-data.org\/95.png",
+            "awayTeamCrest": "https:\/\/crests.football-data.org\/90.png",
+            "scoreWinner": null,
+            "scoreFullTimeHome": null,
+            "scoreFullTimeAway": null
+        },
+        "544329": {
+            "utcDate": "2025-11-09T00:00:00Z",
+            "homeTeamName": "RCD Mallorca",
+            "awayTeamName": "RCD Mallorca",
+            "homeTeamCrest": "https:\/\/crests.football-data.org\/89.png",
+            "awayTeamCrest": "https:\/\/crests.football-data.org\/82.png",
+            "scoreWinner": null,
+            "scoreFullTimeHome": null,
+            "scoreFullTimeAway": null
+        },
+        "544330": {
+            "utcDate": "2025-11-09T00:00:00Z",
+            "homeTeamName": "Sevilla FC",
+            "awayTeamName": "Sevilla FC",
+            "homeTeamCrest": "https:\/\/crests.football-data.org\/559.png",
+            "awayTeamCrest": "https:\/\/crests.football-data.org\/79.png",
+            "scoreWinner": null,
+            "scoreFullTimeHome": null,
+            "scoreFullTimeAway": null
+        },
+        "544331": {
+            "utcDate": "2025-11-23T00:00:00Z",
+            "homeTeamName": "Deportivo Alav\u00e9s",
+            "awayTeamName": "Deportivo Alav\u00e9s",
+            "homeTeamCrest": "https:\/\/crests.football-data.org\/263.png",
+            "awayTeamCrest": "https:\/\/crests.football-data.org\/558.png",
+            "scoreWinner": null,
+            "scoreFullTimeHome": null,
+            "scoreFullTimeAway": null
+        },
+        "544332": {
+            "utcDate": "2025-11-23T00:00:00Z",
+            "homeTeamName": "Real Betis Balompi\u00e9",
+            "awayTeamName": "Real Betis Balompi\u00e9",
+            "homeTeamCrest": "https:\/\/crests.football-data.org\/90.png",
+            "awayTeamCrest": "https:\/\/crests.football-data.org\/298.png",
+            "scoreWinner": null,
+            "scoreFullTimeHome": null,
+            "scoreFullTimeAway": null
+        },
+        "544333": {
+            "utcDate": "2025-11-23T00:00:00Z",
+            "homeTeamName": "Elche CF",
+            "awayTeamName": "Elche CF",
+            "homeTeamCrest": "https:\/\/crests.football-data.org\/285.png",
+            "awayTeamCrest": "https:\/\/crests.football-data.org\/86.png",
+            "scoreWinner": null,
+            "scoreFullTimeHome": null,
+            "scoreFullTimeAway": null
+        },
+        "544334": {
+            "utcDate": "2025-11-23T00:00:00Z",
+            "homeTeamName": "RCD Espanyol de Barcelona",
+            "awayTeamName": "RCD Espanyol de Barcelona",
+            "homeTeamCrest": "https:\/\/crests.football-data.org\/80.png",
+            "awayTeamCrest": "https:\/\/crests.football-data.org\/559.png",
+            "scoreWinner": null,
+            "scoreFullTimeHome": null,
+            "scoreFullTimeAway": null
+        },
+        "544335": {
+            "utcDate": "2025-11-23T00:00:00Z",
+            "homeTeamName": "CA Osasuna",
+            "awayTeamName": "CA Osasuna",
+            "homeTeamCrest": "https:\/\/crests.football-data.org\/79.png",
+            "awayTeamCrest": "https:\/\/crests.football-data.org\/92.png",
+            "scoreWinner": null,
+            "scoreFullTimeHome": null,
+            "scoreFullTimeAway": null
+        },
+        "544336": {
+            "utcDate": "2025-11-23T00:00:00Z",
+            "homeTeamName": "Real Oviedo",
+            "awayTeamName": "Real Oviedo",
+            "homeTeamCrest": "https:\/\/crests.football-data.org\/1048.png",
+            "awayTeamCrest": "https:\/\/crests.football-data.org\/87.png",
+            "scoreWinner": null,
+            "scoreFullTimeHome": null,
+            "scoreFullTimeAway": null
+        },
+        "544337": {
+            "utcDate": "2025-11-23T00:00:00Z",
+            "homeTeamName": "FC Barcelona",
+            "awayTeamName": "FC Barcelona",
+            "homeTeamCrest": "https:\/\/crests.football-data.org\/81.png",
+            "awayTeamCrest": "https:\/\/crests.football-data.org\/77.png",
+            "scoreWinner": null,
+            "scoreFullTimeHome": null,
+            "scoreFullTimeAway": null
+        },
+        "544338": {
+            "utcDate": "2025-11-23T00:00:00Z",
+            "homeTeamName": "Getafe CF",
+            "awayTeamName": "Getafe CF",
+            "homeTeamCrest": "https:\/\/crests.football-data.org\/82.png",
+            "awayTeamCrest": "https:\/\/crests.football-data.org\/78.png",
+            "scoreWinner": null,
+            "scoreFullTimeHome": null,
+            "scoreFullTimeAway": null
+        },
+        "544339": {
+            "utcDate": "2025-11-23T00:00:00Z",
+            "homeTeamName": "Valencia CF",
+            "awayTeamName": "Valencia CF",
+            "homeTeamCrest": "https:\/\/crests.football-data.org\/95.png",
+            "awayTeamCrest": "https:\/\/crests.football-data.org\/88.png",
+            "scoreWinner": null,
+            "scoreFullTimeHome": null,
+            "scoreFullTimeAway": null
+        },
+        "544340": {
+            "utcDate": "2025-11-23T00:00:00Z",
+            "homeTeamName": "Villarreal CF",
+            "awayTeamName": "Villarreal CF",
+            "homeTeamCrest": "https:\/\/crests.football-data.org\/94.png",
+            "awayTeamCrest": "https:\/\/crests.football-data.org\/89.png",
+            "scoreWinner": null,
+            "scoreFullTimeHome": null,
+            "scoreFullTimeAway": null
+        },
+        "544341": {
+            "utcDate": "2025-11-30T00:00:00Z",
+            "homeTeamName": "Club Atl\u00e9tico de Madrid",
+            "awayTeamName": "Club Atl\u00e9tico de Madrid",
+            "homeTeamCrest": "https:\/\/crests.football-data.org\/78.png",
+            "awayTeamCrest": "https:\/\/crests.football-data.org\/1048.png",
+            "scoreWinner": null,
+            "scoreFullTimeHome": null,
+            "scoreFullTimeAway": null
+        },
+        "544342": {
+            "utcDate": "2025-11-30T00:00:00Z",
+            "homeTeamName": "RC Celta de Vigo",
+            "awayTeamName": "RC Celta de Vigo",
+            "homeTeamCrest": "https:\/\/crests.football-data.org\/558.png",
+            "awayTeamCrest": "https:\/\/crests.football-data.org\/80.png",
+            "scoreWinner": null,
+            "scoreFullTimeHome": null,
+            "scoreFullTimeAway": null
+        },
+        "544343": {
+            "utcDate": "2025-11-30T00:00:00Z",
+            "homeTeamName": "Girona FC",
+            "awayTeamName": "Girona FC",
+            "homeTeamCrest": "https:\/\/crests.football-data.org\/298.png",
+            "awayTeamCrest": "https:\/\/crests.football-data.org\/86.png",
+            "scoreWinner": null,
+            "scoreFullTimeHome": null,
+            "scoreFullTimeAway": null
+        },
+        "544344": {
+            "utcDate": "2025-11-30T00:00:00Z",
+            "homeTeamName": "RCD Mallorca",
+            "awayTeamName": "RCD Mallorca",
+            "homeTeamCrest": "https:\/\/crests.football-data.org\/89.png",
+            "awayTeamCrest": "https:\/\/crests.football-data.org\/79.png",
+            "scoreWinner": null,
+            "scoreFullTimeHome": null,
+            "scoreFullTimeAway": null
+        },
+        "544345": {
+            "utcDate": "2025-11-30T00:00:00Z",
+            "homeTeamName": "Rayo Vallecano de Madrid",
+            "awayTeamName": "Rayo Vallecano de Madrid",
+            "homeTeamCrest": "https:\/\/crests.football-data.org\/87.png",
+            "awayTeamCrest": "https:\/\/crests.football-data.org\/95.png",
+            "scoreWinner": null,
+            "scoreFullTimeHome": null,
+            "scoreFullTimeAway": null
+        },
+        "544346": {
+            "utcDate": "2025-11-30T00:00:00Z",
+            "homeTeamName": "Real Sociedad de F\u00fatbol",
+            "awayTeamName": "Real Sociedad de F\u00fatbol",
+            "homeTeamCrest": "https:\/\/crests.football-data.org\/92.png",
+            "awayTeamCrest": "https:\/\/crests.football-data.org\/94.png",
+            "scoreWinner": null,
+            "scoreFullTimeHome": null,
+            "scoreFullTimeAway": null
+        },
+        "544347": {
+            "utcDate": "2025-11-30T00:00:00Z",
+            "homeTeamName": "FC Barcelona",
+            "awayTeamName": "FC Barcelona",
+            "homeTeamCrest": "https:\/\/crests.football-data.org\/81.png",
+            "awayTeamCrest": "https:\/\/crests.football-data.org\/263.png",
+            "scoreWinner": null,
+            "scoreFullTimeHome": null,
+            "scoreFullTimeAway": null
+        },
+        "544348": {
+            "utcDate": "2025-11-30T00:00:00Z",
+            "homeTeamName": "Levante UD",
+            "awayTeamName": "Levante UD",
+            "homeTeamCrest": "https:\/\/crests.football-data.org\/88.png",
+            "awayTeamCrest": "https:\/\/crests.football-data.org\/77.png",
+            "scoreWinner": null,
+            "scoreFullTimeHome": null,
+            "scoreFullTimeAway": null
+        },
+        "544349": {
+            "utcDate": "2025-11-30T00:00:00Z",
+            "homeTeamName": "Sevilla FC",
+            "awayTeamName": "Sevilla FC",
+            "homeTeamCrest": "https:\/\/crests.football-data.org\/559.png",
+            "awayTeamCrest": "https:\/\/crests.football-data.org\/90.png",
+            "scoreWinner": null,
+            "scoreFullTimeHome": null,
+            "scoreFullTimeAway": null
+        },
+        "544350": {
+            "utcDate": "2025-11-30T00:00:00Z",
+            "homeTeamName": "Getafe CF",
+            "awayTeamName": "Getafe CF",
+            "homeTeamCrest": "https:\/\/crests.football-data.org\/82.png",
+            "awayTeamCrest": "https:\/\/crests.football-data.org\/285.png",
+            "scoreWinner": null,
+            "scoreFullTimeHome": null,
+            "scoreFullTimeAway": null
+        },
+        "544351": {
+            "utcDate": "2025-12-07T00:00:00Z",
+            "homeTeamName": "Deportivo Alav\u00e9s",
+            "awayTeamName": "Deportivo Alav\u00e9s",
+            "homeTeamCrest": "https:\/\/crests.football-data.org\/263.png",
+            "awayTeamCrest": "https:\/\/crests.football-data.org\/92.png",
+            "scoreWinner": null,
+            "scoreFullTimeHome": null,
+            "scoreFullTimeAway": null
+        },
+        "544352": {
+            "utcDate": "2025-12-07T00:00:00Z",
+            "homeTeamName": "Athletic Club",
+            "awayTeamName": "Athletic Club",
+            "homeTeamCrest": "https:\/\/crests.football-data.org\/77.png",
+            "awayTeamCrest": "https:\/\/crests.football-data.org\/78.png",
+            "scoreWinner": null,
+            "scoreFullTimeHome": null,
+            "scoreFullTimeAway": null
+        },
+        "544353": {
+            "utcDate": "2025-12-07T00:00:00Z",
+            "homeTeamName": "Elche CF",
+            "awayTeamName": "Elche CF",
+            "homeTeamCrest": "https:\/\/crests.football-data.org\/285.png",
+            "awayTeamCrest": "https:\/\/crests.football-data.org\/298.png",
+            "scoreWinner": null,
+            "scoreFullTimeHome": null,
+            "scoreFullTimeAway": null
+        },
+        "544354": {
+            "utcDate": "2025-12-07T00:00:00Z",
+            "homeTeamName": "RCD Espanyol de Barcelona",
+            "awayTeamName": "RCD Espanyol de Barcelona",
+            "homeTeamCrest": "https:\/\/crests.football-data.org\/80.png",
+            "awayTeamCrest": "https:\/\/crests.football-data.org\/87.png",
+            "scoreWinner": null,
+            "scoreFullTimeHome": null,
+            "scoreFullTimeAway": null
+        },
+        "544355": {
+            "utcDate": "2025-12-07T00:00:00Z",
+            "homeTeamName": "Real Betis Balompi\u00e9",
+            "awayTeamName": "Real Betis Balompi\u00e9",
+            "homeTeamCrest": "https:\/\/crests.football-data.org\/90.png",
+            "awayTeamCrest": "https:\/\/crests.football-data.org\/81.png",
+            "scoreWinner": null,
+            "scoreFullTimeHome": null,
+            "scoreFullTimeAway": null
+        },
+        "544356": {
+            "utcDate": "2025-12-07T00:00:00Z",
+            "homeTeamName": "Real Madrid CF",
+            "awayTeamName": "Real Madrid CF",
+            "homeTeamCrest": "https:\/\/crests.football-data.org\/86.png",
+            "awayTeamCrest": "https:\/\/crests.football-data.org\/558.png",
+            "scoreWinner": null,
+            "scoreFullTimeHome": null,
+            "scoreFullTimeAway": null
+        },
+        "544357": {
+            "utcDate": "2025-12-07T00:00:00Z",
+            "homeTeamName": "Villarreal CF",
+            "awayTeamName": "Villarreal CF",
+            "homeTeamCrest": "https:\/\/crests.football-data.org\/94.png",
+            "awayTeamCrest": "https:\/\/crests.football-data.org\/82.png",
+            "scoreWinner": null,
+            "scoreFullTimeHome": null,
+            "scoreFullTimeAway": null
+        },
+        "544358": {
+            "utcDate": "2025-12-07T00:00:00Z",
+            "homeTeamName": "CA Osasuna",
+            "awayTeamName": "CA Osasuna",
+            "homeTeamCrest": "https:\/\/crests.football-data.org\/79.png",
+            "awayTeamCrest": "https:\/\/crests.football-data.org\/88.png",
+            "scoreWinner": null,
+            "scoreFullTimeHome": null,
+            "scoreFullTimeAway": null
+        },
+        "544359": {
+            "utcDate": "2025-12-07T00:00:00Z",
+            "homeTeamName": "Real Oviedo",
+            "awayTeamName": "Real Oviedo",
+            "homeTeamCrest": "https:\/\/crests.football-data.org\/1048.png",
+            "awayTeamCrest": "https:\/\/crests.football-data.org\/89.png",
+            "scoreWinner": null,
+            "scoreFullTimeHome": null,
+            "scoreFullTimeAway": null
+        },
+        "544360": {
+            "utcDate": "2025-12-07T00:00:00Z",
+            "homeTeamName": "Valencia CF",
+            "awayTeamName": "Valencia CF",
+            "homeTeamCrest": "https:\/\/crests.football-data.org\/95.png",
+            "awayTeamCrest": "https:\/\/crests.football-data.org\/559.png",
+            "scoreWinner": null,
+            "scoreFullTimeHome": null,
+            "scoreFullTimeAway": null
+        },
+        "544361": {
+            "utcDate": "2025-12-14T00:00:00Z",
+            "homeTeamName": "Deportivo Alav\u00e9s",
+            "awayTeamName": "Deportivo Alav\u00e9s",
+            "homeTeamCrest": "https:\/\/crests.football-data.org\/263.png",
+            "awayTeamCrest": "https:\/\/crests.football-data.org\/86.png",
+            "scoreWinner": null,
+            "scoreFullTimeHome": null,
+            "scoreFullTimeAway": null
+        },
+        "544362": {
+            "utcDate": "2025-12-14T00:00:00Z",
+            "homeTeamName": "Club Atl\u00e9tico de Madrid",
+            "awayTeamName": "Club Atl\u00e9tico de Madrid",
+            "homeTeamCrest": "https:\/\/crests.football-data.org\/78.png",
+            "awayTeamCrest": "https:\/\/crests.football-data.org\/95.png",
+            "scoreWinner": null,
+            "scoreFullTimeHome": null,
+            "scoreFullTimeAway": null
+        },
+        "544363": {
+            "utcDate": "2025-12-14T00:00:00Z",
+            "homeTeamName": "FC Barcelona",
+            "awayTeamName": "FC Barcelona",
+            "homeTeamCrest": "https:\/\/crests.football-data.org\/81.png",
+            "awayTeamCrest": "https:\/\/crests.football-data.org\/79.png",
+            "scoreWinner": null,
+            "scoreFullTimeHome": null,
+            "scoreFullTimeAway": null
+        },
+        "544364": {
+            "utcDate": "2025-12-14T00:00:00Z",
+            "homeTeamName": "Levante UD",
+            "awayTeamName": "Levante UD",
+            "homeTeamCrest": "https:\/\/crests.football-data.org\/88.png",
+            "awayTeamCrest": "https:\/\/crests.football-data.org\/94.png",
+            "scoreWinner": null,
+            "scoreFullTimeHome": null,
+            "scoreFullTimeAway": null
+        },
+        "544365": {
+            "utcDate": "2025-12-14T00:00:00Z",
+            "homeTeamName": "RC Celta de Vigo",
+            "awayTeamName": "RC Celta de Vigo",
+            "homeTeamCrest": "https:\/\/crests.football-data.org\/558.png",
+            "awayTeamCrest": "https:\/\/crests.football-data.org\/77.png",
+            "scoreWinner": null,
+            "scoreFullTimeHome": null,
+            "scoreFullTimeAway": null
+        },
+        "544366": {
+            "utcDate": "2025-12-14T00:00:00Z",
+            "homeTeamName": "Rayo Vallecano de Madrid",
+            "awayTeamName": "Rayo Vallecano de Madrid",
+            "homeTeamCrest": "https:\/\/crests.football-data.org\/87.png",
+            "awayTeamCrest": "https:\/\/crests.football-data.org\/90.png",
+            "scoreWinner": null,
+            "scoreFullTimeHome": null,
+            "scoreFullTimeAway": null
+        },
+        "544367": {
+            "utcDate": "2025-12-14T00:00:00Z",
+            "homeTeamName": "RCD Mallorca",
+            "awayTeamName": "RCD Mallorca",
+            "homeTeamCrest": "https:\/\/crests.football-data.org\/89.png",
+            "awayTeamCrest": "https:\/\/crests.football-data.org\/285.png",
+            "scoreWinner": null,
+            "scoreFullTimeHome": null,
+            "scoreFullTimeAway": null
+        },
+        "544368": {
+            "utcDate": "2025-12-14T00:00:00Z",
+            "homeTeamName": "Getafe CF",
+            "awayTeamName": "Getafe CF",
+            "homeTeamCrest": "https:\/\/crests.football-data.org\/82.png",
+            "awayTeamCrest": "https:\/\/crests.football-data.org\/80.png",
+            "scoreWinner": null,
+            "scoreFullTimeHome": null,
+            "scoreFullTimeAway": null
+        },
+        "544369": {
+            "utcDate": "2025-12-14T00:00:00Z",
+            "homeTeamName": "Real Sociedad de F\u00fatbol",
+            "awayTeamName": "Real Sociedad de F\u00fatbol",
+            "homeTeamCrest": "https:\/\/crests.football-data.org\/92.png",
+            "awayTeamCrest": "https:\/\/crests.football-data.org\/298.png",
+            "scoreWinner": null,
+            "scoreFullTimeHome": null,
+            "scoreFullTimeAway": null
+        },
+        "544370": {
+            "utcDate": "2025-12-14T00:00:00Z",
+            "homeTeamName": "Sevilla FC",
+            "awayTeamName": "Sevilla FC",
+            "homeTeamCrest": "https:\/\/crests.football-data.org\/559.png",
+            "awayTeamCrest": "https:\/\/crests.football-data.org\/1048.png",
+            "scoreWinner": null,
+            "scoreFullTimeHome": null,
+            "scoreFullTimeAway": null
+        },
+        "544371": {
+            "utcDate": "2025-12-21T00:00:00Z",
+            "homeTeamName": "Athletic Club",
+            "awayTeamName": "Athletic Club",
+            "homeTeamCrest": "https:\/\/crests.football-data.org\/77.png",
+            "awayTeamCrest": "https:\/\/crests.football-data.org\/80.png",
+            "scoreWinner": null,
+            "scoreFullTimeHome": null,
+            "scoreFullTimeAway": null
+        },
+        "544372": {
+            "utcDate": "2025-12-21T00:00:00Z",
+            "homeTeamName": "Real Betis Balompi\u00e9",
+            "awayTeamName": "Real Betis Balompi\u00e9",
+            "homeTeamCrest": "https:\/\/crests.football-data.org\/90.png",
+            "awayTeamCrest": "https:\/\/crests.football-data.org\/82.png",
+            "scoreWinner": null,
+            "scoreFullTimeHome": null,
+            "scoreFullTimeAway": null
+        },
+        "544373": {
+            "utcDate": "2025-12-21T00:00:00Z",
+            "homeTeamName": "Elche CF",
+            "awayTeamName": "Elche CF",
+            "homeTeamCrest": "https:\/\/crests.football-data.org\/285.png",
+            "awayTeamCrest": "https:\/\/crests.football-data.org\/87.png",
+            "scoreWinner": null,
+            "scoreFullTimeHome": null,
+            "scoreFullTimeAway": null
+        },
+        "544374": {
+            "utcDate": "2025-12-21T00:00:00Z",
+            "homeTeamName": "Levante UD",
+            "awayTeamName": "Levante UD",
+            "homeTeamCrest": "https:\/\/crests.football-data.org\/88.png",
+            "awayTeamCrest": "https:\/\/crests.football-data.org\/92.png",
+            "scoreWinner": null,
+            "scoreFullTimeHome": null,
+            "scoreFullTimeAway": null
+        },
+        "544375": {
+            "utcDate": "2025-12-21T00:00:00Z",
+            "homeTeamName": "Real Madrid CF",
+            "awayTeamName": "Real Madrid CF",
+            "homeTeamCrest": "https:\/\/crests.football-data.org\/86.png",
+            "awayTeamCrest": "https:\/\/crests.football-data.org\/559.png",
+            "scoreWinner": null,
+            "scoreFullTimeHome": null,
+            "scoreFullTimeAway": null
+        },
+        "544376": {
+            "utcDate": "2025-12-21T00:00:00Z",
+            "homeTeamName": "CA Osasuna",
+            "awayTeamName": "CA Osasuna",
+            "homeTeamCrest": "https:\/\/crests.football-data.org\/79.png",
+            "awayTeamCrest": "https:\/\/crests.football-data.org\/263.png",
+            "scoreWinner": null,
+            "scoreFullTimeHome": null,
+            "scoreFullTimeAway": null
+        },
+        "544377": {
+            "utcDate": "2025-12-21T00:00:00Z",
+            "homeTeamName": "Girona FC",
+            "awayTeamName": "Girona FC",
+            "homeTeamCrest": "https:\/\/crests.football-data.org\/298.png",
+            "awayTeamCrest": "https:\/\/crests.football-data.org\/78.png",
+            "scoreWinner": null,
+            "scoreFullTimeHome": null,
+            "scoreFullTimeAway": null
+        },
+        "544378": {
+            "utcDate": "2025-12-21T00:00:00Z",
+            "homeTeamName": "Villarreal CF",
+            "awayTeamName": "Villarreal CF",
+            "homeTeamCrest": "https:\/\/crests.football-data.org\/94.png",
+            "awayTeamCrest": "https:\/\/crests.football-data.org\/81.png",
+            "scoreWinner": null,
+            "scoreFullTimeHome": null,
+            "scoreFullTimeAway": null
+        },
+        "544379": {
+            "utcDate": "2025-12-21T00:00:00Z",
+            "homeTeamName": "Real Oviedo",
+            "awayTeamName": "Real Oviedo",
+            "homeTeamCrest": "https:\/\/crests.football-data.org\/1048.png",
+            "awayTeamCrest": "https:\/\/crests.football-data.org\/558.png",
+            "scoreWinner": null,
+            "scoreFullTimeHome": null,
+            "scoreFullTimeAway": null
+        },
+        "544380": {
+            "utcDate": "2025-12-21T00:00:00Z",
+            "homeTeamName": "Valencia CF",
+            "awayTeamName": "Valencia CF",
+            "homeTeamCrest": "https:\/\/crests.football-data.org\/95.png",
+            "awayTeamCrest": "https:\/\/crests.football-data.org\/89.png",
+            "scoreWinner": null,
+            "scoreFullTimeHome": null,
+            "scoreFullTimeAway": null
+        },
+        "544381": {
+            "utcDate": "2026-01-04T00:00:00Z",
+            "homeTeamName": "Deportivo Alav\u00e9s",
+            "awayTeamName": "Deportivo Alav\u00e9s",
+            "homeTeamCrest": "https:\/\/crests.football-data.org\/263.png",
+            "awayTeamCrest": "https:\/\/crests.football-data.org\/1048.png",
+            "scoreWinner": null,
+            "scoreFullTimeHome": null,
+            "scoreFullTimeAway": null
+        },
+        "544382": {
+            "utcDate": "2026-01-04T00:00:00Z",
+            "homeTeamName": "RC Celta de Vigo",
+            "awayTeamName": "RC Celta de Vigo",
+            "homeTeamCrest": "https:\/\/crests.football-data.org\/558.png",
+            "awayTeamCrest": "https:\/\/crests.football-data.org\/95.png",
+            "scoreWinner": null,
+            "scoreFullTimeHome": null,
+            "scoreFullTimeAway": null
+        },
+        "544383": {
+            "utcDate": "2026-01-04T00:00:00Z",
+            "homeTeamName": "Elche CF",
+            "awayTeamName": "Elche CF",
+            "homeTeamCrest": "https:\/\/crests.football-data.org\/285.png",
+            "awayTeamCrest": "https:\/\/crests.football-data.org\/94.png",
+            "scoreWinner": null,
+            "scoreFullTimeHome": null,
+            "scoreFullTimeAway": null
+        },
+        "544384": {
+            "utcDate": "2026-01-04T00:00:00Z",
+            "homeTeamName": "CA Osasuna",
+            "awayTeamName": "CA Osasuna",
+            "homeTeamCrest": "https:\/\/crests.football-data.org\/79.png",
+            "awayTeamCrest": "https:\/\/crests.football-data.org\/77.png",
+            "scoreWinner": null,
+            "scoreFullTimeHome": null,
+            "scoreFullTimeAway": null
+        },
+        "544385": {
+            "utcDate": "2026-01-04T00:00:00Z",
+            "homeTeamName": "Real Sociedad de F\u00fatbol",
+            "awayTeamName": "Real Sociedad de F\u00fatbol",
+            "homeTeamCrest": "https:\/\/crests.football-data.org\/92.png",
+            "awayTeamCrest": "https:\/\/crests.football-data.org\/78.png",
+            "scoreWinner": null,
+            "scoreFullTimeHome": null,
+            "scoreFullTimeAway": null
+        },
+        "544386": {
+            "utcDate": "2026-01-04T00:00:00Z",
+            "homeTeamName": "RCD Espanyol de Barcelona",
+            "awayTeamName": "RCD Espanyol de Barcelona",
+            "homeTeamCrest": "https:\/\/crests.football-data.org\/80.png",
+            "awayTeamCrest": "https:\/\/crests.football-data.org\/81.png",
+            "scoreWinner": null,
+            "scoreFullTimeHome": null,
+            "scoreFullTimeAway": null
+        },
+        "544387": {
+            "utcDate": "2026-01-04T00:00:00Z",
+            "homeTeamName": "Real Madrid CF",
+            "awayTeamName": "Real Madrid CF",
+            "homeTeamCrest": "https:\/\/crests.football-data.org\/86.png",
+            "awayTeamCrest": "https:\/\/crests.football-data.org\/90.png",
+            "scoreWinner": null,
+            "scoreFullTimeHome": null,
+            "scoreFullTimeAway": null
+        },
+        "544388": {
+            "utcDate": "2026-01-04T00:00:00Z",
+            "homeTeamName": "Rayo Vallecano de Madrid",
+            "awayTeamName": "Rayo Vallecano de Madrid",
+            "homeTeamCrest": "https:\/\/crests.football-data.org\/87.png",
+            "awayTeamCrest": "https:\/\/crests.football-data.org\/82.png",
+            "scoreWinner": null,
+            "scoreFullTimeHome": null,
+            "scoreFullTimeAway": null
+        },
+        "544389": {
+            "utcDate": "2026-01-04T00:00:00Z",
+            "homeTeamName": "RCD Mallorca",
+            "awayTeamName": "RCD Mallorca",
+            "homeTeamCrest": "https:\/\/crests.football-data.org\/89.png",
+            "awayTeamCrest": "https:\/\/crests.football-data.org\/298.png",
+            "scoreWinner": null,
+            "scoreFullTimeHome": null,
+            "scoreFullTimeAway": null
+        },
+        "544390": {
+            "utcDate": "2026-01-04T00:00:00Z",
+            "homeTeamName": "Sevilla FC",
+            "awayTeamName": "Sevilla FC",
+            "homeTeamCrest": "https:\/\/crests.football-data.org\/559.png",
+            "awayTeamCrest": "https:\/\/crests.football-data.org\/88.png",
+            "scoreWinner": null,
+            "scoreFullTimeHome": null,
+            "scoreFullTimeAway": null
+        },
+        "544391": {
+            "utcDate": "2026-01-11T00:00:00Z",
+            "homeTeamName": "Athletic Club",
+            "awayTeamName": "Athletic Club",
+            "homeTeamCrest": "https:\/\/crests.football-data.org\/77.png",
+            "awayTeamCrest": "https:\/\/crests.football-data.org\/86.png",
+            "scoreWinner": null,
+            "scoreFullTimeHome": null,
+            "scoreFullTimeAway": null
+        },
+        "544392": {
+            "utcDate": "2026-01-11T00:00:00Z",
+            "homeTeamName": "Getafe CF",
+            "awayTeamName": "Getafe CF",
+            "homeTeamCrest": "https:\/\/crests.football-data.org\/82.png",
+            "awayTeamCrest": "https:\/\/crests.football-data.org\/92.png",
+            "scoreWinner": null,
+            "scoreFullTimeHome": null,
+            "scoreFullTimeAway": null
+        },
+        "544393": {
+            "utcDate": "2026-01-11T00:00:00Z",
+            "homeTeamName": "Girona FC",
+            "awayTeamName": "Girona FC",
+            "homeTeamCrest": "https:\/\/crests.football-data.org\/298.png",
+            "awayTeamCrest": "https:\/\/crests.football-data.org\/79.png",
+            "scoreWinner": null,
+            "scoreFullTimeHome": null,
+            "scoreFullTimeAway": null
+        },
+        "544394": {
+            "utcDate": "2026-01-11T00:00:00Z",
+            "homeTeamName": "Villarreal CF",
+            "awayTeamName": "Villarreal CF",
+            "homeTeamCrest": "https:\/\/crests.football-data.org\/94.png",
+            "awayTeamCrest": "https:\/\/crests.football-data.org\/263.png",
+            "scoreWinner": null,
+            "scoreFullTimeHome": null,
+            "scoreFullTimeAway": null
+        },
+        "544395": {
+            "utcDate": "2026-01-11T00:00:00Z",
+            "homeTeamName": "FC Barcelona",
+            "awayTeamName": "FC Barcelona",
+            "homeTeamCrest": "https:\/\/crests.football-data.org\/81.png",
+            "awayTeamCrest": "https:\/\/crests.football-data.org\/78.png",
+            "scoreWinner": null,
+            "scoreFullTimeHome": null,
+            "scoreFullTimeAway": null
+        },
+        "544396": {
+            "utcDate": "2026-01-11T00:00:00Z",
+            "homeTeamName": "Real Oviedo",
+            "awayTeamName": "Real Oviedo",
+            "homeTeamCrest": "https:\/\/crests.football-data.org\/1048.png",
+            "awayTeamCrest": "https:\/\/crests.football-data.org\/90.png",
+            "scoreWinner": null,
+            "scoreFullTimeHome": null,
+            "scoreFullTimeAway": null
+        },
+        "544397": {
+            "utcDate": "2026-01-11T00:00:00Z",
+            "homeTeamName": "Sevilla FC",
+            "awayTeamName": "Sevilla FC",
+            "homeTeamCrest": "https:\/\/crests.football-data.org\/559.png",
+            "awayTeamCrest": "https:\/\/crests.football-data.org\/558.png",
+            "scoreWinner": null,
+            "scoreFullTimeHome": null,
+            "scoreFullTimeAway": null
+        },
+        "544398": {
+            "utcDate": "2026-01-11T00:00:00Z",
+            "homeTeamName": "Valencia CF",
+            "awayTeamName": "Valencia CF",
+            "homeTeamCrest": "https:\/\/crests.football-data.org\/95.png",
+            "awayTeamCrest": "https:\/\/crests.football-data.org\/285.png",
+            "scoreWinner": null,
+            "scoreFullTimeHome": null,
+            "scoreFullTimeAway": null
+        },
+        "544399": {
+            "utcDate": "2026-01-11T00:00:00Z",
+            "homeTeamName": "Levante UD",
+            "awayTeamName": "Levante UD",
+            "homeTeamCrest": "https:\/\/crests.football-data.org\/88.png",
+            "awayTeamCrest": "https:\/\/crests.football-data.org\/80.png",
+            "scoreWinner": null,
+            "scoreFullTimeHome": null,
+            "scoreFullTimeAway": null
+        },
+        "544400": {
+            "utcDate": "2026-01-11T00:00:00Z",
+            "homeTeamName": "Rayo Vallecano de Madrid",
+            "awayTeamName": "Rayo Vallecano de Madrid",
+            "homeTeamCrest": "https:\/\/crests.football-data.org\/87.png",
+            "awayTeamCrest": "https:\/\/crests.football-data.org\/89.png",
+            "scoreWinner": null,
+            "scoreFullTimeHome": null,
+            "scoreFullTimeAway": null
+        },
+        "544401": {
+            "utcDate": "2026-01-18T00:00:00Z",
+            "homeTeamName": "Real Betis Balompi\u00e9",
+            "awayTeamName": "Real Betis Balompi\u00e9",
+            "homeTeamCrest": "https:\/\/crests.football-data.org\/90.png",
+            "awayTeamCrest": "https:\/\/crests.football-data.org\/94.png",
+            "scoreWinner": null,
+            "scoreFullTimeHome": null,
+            "scoreFullTimeAway": null
+        },
+        "544402": {
+            "utcDate": "2026-01-18T00:00:00Z",
+            "homeTeamName": "RC Celta de Vigo",
+            "awayTeamName": "RC Celta de Vigo",
+            "homeTeamCrest": "https:\/\/crests.football-data.org\/558.png",
+            "awayTeamCrest": "https:\/\/crests.football-data.org\/87.png",
+            "scoreWinner": null,
+            "scoreFullTimeHome": null,
+            "scoreFullTimeAway": null
+        },
+        "544403": {
+            "utcDate": "2026-01-18T00:00:00Z",
+            "homeTeamName": "Elche CF",
+            "awayTeamName": "Elche CF",
+            "homeTeamCrest": "https:\/\/crests.football-data.org\/285.png",
+            "awayTeamCrest": "https:\/\/crests.football-data.org\/559.png",
+            "scoreWinner": null,
+            "scoreFullTimeHome": null,
+            "scoreFullTimeAway": null
+        },
+        "544404": {
+            "utcDate": "2026-01-18T00:00:00Z",
+            "homeTeamName": "RCD Espanyol de Barcelona",
+            "awayTeamName": "RCD Espanyol de Barcelona",
+            "homeTeamCrest": "https:\/\/crests.football-data.org\/80.png",
+            "awayTeamCrest": "https:\/\/crests.football-data.org\/298.png",
+            "scoreWinner": null,
+            "scoreFullTimeHome": null,
+            "scoreFullTimeAway": null
+        },
+        "544405": {
+            "utcDate": "2026-01-18T00:00:00Z",
+            "homeTeamName": "Getafe CF",
+            "awayTeamName": "Getafe CF",
+            "homeTeamCrest": "https:\/\/crests.football-data.org\/82.png",
+            "awayTeamCrest": "https:\/\/crests.football-data.org\/95.png",
+            "scoreWinner": null,
+            "scoreFullTimeHome": null,
+            "scoreFullTimeAway": null
+        },
+        "544406": {
+            "utcDate": "2026-01-18T00:00:00Z",
+            "homeTeamName": "CA Osasuna",
+            "awayTeamName": "CA Osasuna",
+            "homeTeamCrest": "https:\/\/crests.football-data.org\/79.png",
+            "awayTeamCrest": "https:\/\/crests.football-data.org\/1048.png",
+            "scoreWinner": null,
+            "scoreFullTimeHome": null,
+            "scoreFullTimeAway": null
+        },
+        "544407": {
+            "utcDate": "2026-01-18T00:00:00Z",
+            "homeTeamName": "Club Atl\u00e9tico de Madrid",
+            "awayTeamName": "Club Atl\u00e9tico de Madrid",
+            "homeTeamCrest": "https:\/\/crests.football-data.org\/78.png",
+            "awayTeamCrest": "https:\/\/crests.football-data.org\/263.png",
+            "scoreWinner": null,
+            "scoreFullTimeHome": null,
+            "scoreFullTimeAway": null
+        },
+        "544408": {
+            "utcDate": "2026-01-18T00:00:00Z",
+            "homeTeamName": "RCD Mallorca",
+            "awayTeamName": "RCD Mallorca",
+            "homeTeamCrest": "https:\/\/crests.football-data.org\/89.png",
+            "awayTeamCrest": "https:\/\/crests.football-data.org\/77.png",
+            "scoreWinner": null,
+            "scoreFullTimeHome": null,
+            "scoreFullTimeAway": null
+        },
+        "544409": {
+            "utcDate": "2026-01-18T00:00:00Z",
+            "homeTeamName": "Real Sociedad de F\u00fatbol",
+            "awayTeamName": "Real Sociedad de F\u00fatbol",
+            "homeTeamCrest": "https:\/\/crests.football-data.org\/92.png",
+            "awayTeamCrest": "https:\/\/crests.football-data.org\/81.png",
+            "scoreWinner": null,
+            "scoreFullTimeHome": null,
+            "scoreFullTimeAway": null
+        },
+        "544410": {
+            "utcDate": "2026-01-18T00:00:00Z",
+            "homeTeamName": "Real Madrid CF",
+            "awayTeamName": "Real Madrid CF",
+            "homeTeamCrest": "https:\/\/crests.football-data.org\/86.png",
+            "awayTeamCrest": "https:\/\/crests.football-data.org\/88.png",
+            "scoreWinner": null,
+            "scoreFullTimeHome": null,
+            "scoreFullTimeAway": null
+        },
+        "544411": {
+            "utcDate": "2026-01-25T00:00:00Z",
+            "homeTeamName": "Deportivo Alav\u00e9s",
+            "awayTeamName": "Deportivo Alav\u00e9s",
+            "homeTeamCrest": "https:\/\/crests.football-data.org\/263.png",
+            "awayTeamCrest": "https:\/\/crests.football-data.org\/90.png",
+            "scoreWinner": null,
+            "scoreFullTimeHome": null,
+            "scoreFullTimeAway": null
+        },
+        "544412": {
+            "utcDate": "2026-01-25T00:00:00Z",
+            "homeTeamName": "Club Atl\u00e9tico de Madrid",
+            "awayTeamName": "Club Atl\u00e9tico de Madrid",
+            "homeTeamCrest": "https:\/\/crests.football-data.org\/78.png",
+            "awayTeamCrest": "https:\/\/crests.football-data.org\/89.png",
+            "scoreWinner": null,
+            "scoreFullTimeHome": null,
+            "scoreFullTimeAway": null
+        },
+        "544413": {
+            "utcDate": "2026-01-25T00:00:00Z",
+            "homeTeamName": "FC Barcelona",
+            "awayTeamName": "FC Barcelona",
+            "homeTeamCrest": "https:\/\/crests.football-data.org\/81.png",
+            "awayTeamCrest": "https:\/\/crests.football-data.org\/1048.png",
+            "scoreWinner": null,
+            "scoreFullTimeHome": null,
+            "scoreFullTimeAway": null
+        },
+        "544414": {
+            "utcDate": "2026-01-25T00:00:00Z",
+            "homeTeamName": "Sevilla FC",
+            "awayTeamName": "Sevilla FC",
+            "homeTeamCrest": "https:\/\/crests.football-data.org\/559.png",
+            "awayTeamCrest": "https:\/\/crests.football-data.org\/77.png",
+            "scoreWinner": null,
+            "scoreFullTimeHome": null,
+            "scoreFullTimeAway": null
+        },
+        "544415": {
+            "utcDate": "2026-01-25T00:00:00Z",
+            "homeTeamName": "Real Sociedad de F\u00fatbol",
+            "awayTeamName": "Real Sociedad de F\u00fatbol",
+            "homeTeamCrest": "https:\/\/crests.football-data.org\/92.png",
+            "awayTeamCrest": "https:\/\/crests.football-data.org\/558.png",
+            "scoreWinner": null,
+            "scoreFullTimeHome": null,
+            "scoreFullTimeAway": null
+        },
+        "544416": {
+            "utcDate": "2026-01-25T00:00:00Z",
+            "homeTeamName": "Levante UD",
+            "awayTeamName": "Levante UD",
+            "homeTeamCrest": "https:\/\/crests.football-data.org\/88.png",
+            "awayTeamCrest": "https:\/\/crests.football-data.org\/285.png",
+            "scoreWinner": null,
+            "scoreFullTimeHome": null,
+            "scoreFullTimeAway": null
+        },
+        "544417": {
+            "utcDate": "2026-01-25T00:00:00Z",
+            "homeTeamName": "Valencia CF",
+            "awayTeamName": "Valencia CF",
+            "homeTeamCrest": "https:\/\/crests.football-data.org\/95.png",
+            "awayTeamCrest": "https:\/\/crests.football-data.org\/80.png",
+            "scoreWinner": null,
+            "scoreFullTimeHome": null,
+            "scoreFullTimeAway": null
+        },
+        "544418": {
+            "utcDate": "2026-01-25T00:00:00Z",
+            "homeTeamName": "Girona FC",
+            "awayTeamName": "Girona FC",
+            "homeTeamCrest": "https:\/\/crests.football-data.org\/298.png",
+            "awayTeamCrest": "https:\/\/crests.football-data.org\/82.png",
+            "scoreWinner": null,
+            "scoreFullTimeHome": null,
+            "scoreFullTimeAway": null
+        },
+        "544419": {
+            "utcDate": "2026-01-25T00:00:00Z",
+            "homeTeamName": "Rayo Vallecano de Madrid",
+            "awayTeamName": "Rayo Vallecano de Madrid",
+            "homeTeamCrest": "https:\/\/crests.football-data.org\/87.png",
+            "awayTeamCrest": "https:\/\/crests.football-data.org\/79.png",
+            "scoreWinner": null,
+            "scoreFullTimeHome": null,
+            "scoreFullTimeAway": null
+        },
+        "544420": {
+            "utcDate": "2026-01-25T00:00:00Z",
+            "homeTeamName": "Villarreal CF",
+            "awayTeamName": "Villarreal CF",
+            "homeTeamCrest": "https:\/\/crests.football-data.org\/94.png",
+            "awayTeamCrest": "https:\/\/crests.football-data.org\/86.png",
+            "scoreWinner": null,
+            "scoreFullTimeHome": null,
+            "scoreFullTimeAway": null
+        },
+        "544421": {
+            "utcDate": "2026-02-01T00:00:00Z",
+            "homeTeamName": "Athletic Club",
+            "awayTeamName": "Athletic Club",
+            "homeTeamCrest": "https:\/\/crests.football-data.org\/77.png",
+            "awayTeamCrest": "https:\/\/crests.football-data.org\/92.png",
+            "scoreWinner": null,
+            "scoreFullTimeHome": null,
+            "scoreFullTimeAway": null
+        },
+        "544422": {
+            "utcDate": "2026-02-01T00:00:00Z",
+            "homeTeamName": "Real Betis Balompi\u00e9",
+            "awayTeamName": "Real Betis Balompi\u00e9",
+            "homeTeamCrest": "https:\/\/crests.football-data.org\/90.png",
+            "awayTeamCrest": "https:\/\/crests.football-data.org\/95.png",
+            "scoreWinner": null,
+            "scoreFullTimeHome": null,
+            "scoreFullTimeAway": null
+        },
+        "544423": {
+            "utcDate": "2026-02-01T00:00:00Z",
+            "homeTeamName": "RCD Mallorca",
+            "awayTeamName": "RCD Mallorca",
+            "homeTeamCrest": "https:\/\/crests.football-data.org\/89.png",
+            "awayTeamCrest": "https:\/\/crests.football-data.org\/559.png",
+            "scoreWinner": null,
+            "scoreFullTimeHome": null,
+            "scoreFullTimeAway": null
+        },
+        "544424": {
+            "utcDate": "2026-02-01T00:00:00Z",
+            "homeTeamName": "CA Osasuna",
+            "awayTeamName": "CA Osasuna",
+            "homeTeamCrest": "https:\/\/crests.football-data.org\/79.png",
+            "awayTeamCrest": "https:\/\/crests.football-data.org\/94.png",
+            "scoreWinner": null,
+            "scoreFullTimeHome": null,
+            "scoreFullTimeAway": null
+        },
+        "544425": {
+            "utcDate": "2026-02-01T00:00:00Z",
+            "homeTeamName": "RCD Espanyol de Barcelona",
+            "awayTeamName": "RCD Espanyol de Barcelona",
+            "homeTeamCrest": "https:\/\/crests.football-data.org\/80.png",
+            "awayTeamCrest": "https:\/\/crests.football-data.org\/263.png",
+            "scoreWinner": null,
+            "scoreFullTimeHome": null,
+            "scoreFullTimeAway": null
+        },
+        "544426": {
+            "utcDate": "2026-02-01T00:00:00Z",
+            "homeTeamName": "Levante UD",
+            "awayTeamName": "Levante UD",
+            "homeTeamCrest": "https:\/\/crests.football-data.org\/88.png",
+            "awayTeamCrest": "https:\/\/crests.football-data.org\/78.png",
+            "scoreWinner": null,
+            "scoreFullTimeHome": null,
+            "scoreFullTimeAway": null
+        },
+        "544427": {
+            "utcDate": "2026-02-01T00:00:00Z",
+            "homeTeamName": "Elche CF",
+            "awayTeamName": "Elche CF",
+            "homeTeamCrest": "https:\/\/crests.football-data.org\/285.png",
+            "awayTeamCrest": "https:\/\/crests.football-data.org\/81.png",
+            "scoreWinner": null,
+            "scoreFullTimeHome": null,
+            "scoreFullTimeAway": null
+        },
+        "544428": {
+            "utcDate": "2026-02-01T00:00:00Z",
+            "homeTeamName": "Getafe CF",
+            "awayTeamName": "Getafe CF",
+            "homeTeamCrest": "https:\/\/crests.football-data.org\/82.png",
+            "awayTeamCrest": "https:\/\/crests.football-data.org\/558.png",
+            "scoreWinner": null,
+            "scoreFullTimeHome": null,
+            "scoreFullTimeAway": null
+        },
+        "544429": {
+            "utcDate": "2026-02-01T00:00:00Z",
+            "homeTeamName": "Real Oviedo",
+            "awayTeamName": "Real Oviedo",
+            "homeTeamCrest": "https:\/\/crests.football-data.org\/1048.png",
+            "awayTeamCrest": "https:\/\/crests.football-data.org\/298.png",
+            "scoreWinner": null,
+            "scoreFullTimeHome": null,
+            "scoreFullTimeAway": null
+        },
+        "544430": {
+            "utcDate": "2026-02-01T00:00:00Z",
+            "homeTeamName": "Real Madrid CF",
+            "awayTeamName": "Real Madrid CF",
+            "homeTeamCrest": "https:\/\/crests.football-data.org\/86.png",
+            "awayTeamCrest": "https:\/\/crests.football-data.org\/87.png",
+            "scoreWinner": null,
+            "scoreFullTimeHome": null,
+            "scoreFullTimeAway": null
+        },
+        "544431": {
+            "utcDate": "2026-02-08T00:00:00Z",
+            "homeTeamName": "Deportivo Alav\u00e9s",
+            "awayTeamName": "Deportivo Alav\u00e9s",
+            "homeTeamCrest": "https:\/\/crests.football-data.org\/263.png",
+            "awayTeamCrest": "https:\/\/crests.football-data.org\/82.png",
+            "scoreWinner": null,
+            "scoreFullTimeHome": null,
+            "scoreFullTimeAway": null
+        },
+        "544432": {
+            "utcDate": "2026-02-08T00:00:00Z",
+            "homeTeamName": "Athletic Club",
+            "awayTeamName": "Athletic Club",
+            "homeTeamCrest": "https:\/\/crests.football-data.org\/77.png",
+            "awayTeamCrest": "https:\/\/crests.football-data.org\/88.png",
+            "scoreWinner": null,
+            "scoreFullTimeHome": null,
+            "scoreFullTimeAway": null
+        },
+        "544433": {
+            "utcDate": "2026-02-08T00:00:00Z",
+            "homeTeamName": "Club Atl\u00e9tico de Madrid",
+            "awayTeamName": "Club Atl\u00e9tico de Madrid",
+            "homeTeamCrest": "https:\/\/crests.football-data.org\/78.png",
+            "awayTeamCrest": "https:\/\/crests.football-data.org\/90.png",
+            "scoreWinner": null,
+            "scoreFullTimeHome": null,
+            "scoreFullTimeAway": null
+        },
+        "544434": {
+            "utcDate": "2026-02-08T00:00:00Z",
+            "homeTeamName": "FC Barcelona",
+            "awayTeamName": "FC Barcelona",
+            "homeTeamCrest": "https:\/\/crests.football-data.org\/81.png",
+            "awayTeamCrest": "https:\/\/crests.football-data.org\/89.png",
+            "scoreWinner": null,
+            "scoreFullTimeHome": null,
+            "scoreFullTimeAway": null
+        },
+        "544435": {
+            "utcDate": "2026-02-08T00:00:00Z",
+            "homeTeamName": "RC Celta de Vigo",
+            "awayTeamName": "RC Celta de Vigo",
+            "homeTeamCrest": "https:\/\/crests.football-data.org\/558.png",
+            "awayTeamCrest": "https:\/\/crests.football-data.org\/79.png",
+            "scoreWinner": null,
+            "scoreFullTimeHome": null,
+            "scoreFullTimeAway": null
+        },
+        "544436": {
+            "utcDate": "2026-02-08T00:00:00Z",
+            "homeTeamName": "Real Sociedad de F\u00fatbol",
+            "awayTeamName": "Real Sociedad de F\u00fatbol",
+            "homeTeamCrest": "https:\/\/crests.football-data.org\/92.png",
+            "awayTeamCrest": "https:\/\/crests.football-data.org\/285.png",
+            "scoreWinner": null,
+            "scoreFullTimeHome": null,
+            "scoreFullTimeAway": null
+        },
+        "544437": {
+            "utcDate": "2026-02-08T00:00:00Z",
+            "homeTeamName": "Villarreal CF",
+            "awayTeamName": "Villarreal CF",
+            "homeTeamCrest": "https:\/\/crests.football-data.org\/94.png",
+            "awayTeamCrest": "https:\/\/crests.football-data.org\/80.png",
+            "scoreWinner": null,
+            "scoreFullTimeHome": null,
+            "scoreFullTimeAway": null
+        },
+        "544438": {
+            "utcDate": "2026-02-08T00:00:00Z",
+            "homeTeamName": "Sevilla FC",
+            "awayTeamName": "Sevilla FC",
+            "homeTeamCrest": "https:\/\/crests.football-data.org\/559.png",
+            "awayTeamCrest": "https:\/\/crests.football-data.org\/298.png",
+            "scoreWinner": null,
+            "scoreFullTimeHome": null,
+            "scoreFullTimeAway": null
+        },
+        "544439": {
+            "utcDate": "2026-02-08T00:00:00Z",
+            "homeTeamName": "Valencia CF",
+            "awayTeamName": "Valencia CF",
+            "homeTeamCrest": "https:\/\/crests.football-data.org\/95.png",
+            "awayTeamCrest": "https:\/\/crests.football-data.org\/86.png",
+            "scoreWinner": null,
+            "scoreFullTimeHome": null,
+            "scoreFullTimeAway": null
+        },
+        "544440": {
+            "utcDate": "2026-02-08T00:00:00Z",
+            "homeTeamName": "Rayo Vallecano de Madrid",
+            "awayTeamName": "Rayo Vallecano de Madrid",
+            "homeTeamCrest": "https:\/\/crests.football-data.org\/87.png",
+            "awayTeamCrest": "https:\/\/crests.football-data.org\/1048.png",
+            "scoreWinner": null,
+            "scoreFullTimeHome": null,
+            "scoreFullTimeAway": null
+        },
+        "544441": {
+            "utcDate": "2026-02-15T00:00:00Z",
+            "homeTeamName": "Elche CF",
+            "awayTeamName": "Elche CF",
+            "homeTeamCrest": "https:\/\/crests.football-data.org\/285.png",
+            "awayTeamCrest": "https:\/\/crests.football-data.org\/79.png",
+            "scoreWinner": null,
+            "scoreFullTimeHome": null,
+            "scoreFullTimeAway": null
+        },
+        "544442": {
+            "utcDate": "2026-02-15T00:00:00Z",
+            "homeTeamName": "Getafe CF",
+            "awayTeamName": "Getafe CF",
+            "homeTeamCrest": "https:\/\/crests.football-data.org\/82.png",
+            "awayTeamCrest": "https:\/\/crests.football-data.org\/94.png",
+            "scoreWinner": null,
+            "scoreFullTimeHome": null,
+            "scoreFullTimeAway": null
+        },
+        "544443": {
+            "utcDate": "2026-02-15T00:00:00Z",
+            "homeTeamName": "Levante UD",
+            "awayTeamName": "Levante UD",
+            "homeTeamCrest": "https:\/\/crests.football-data.org\/88.png",
+            "awayTeamCrest": "https:\/\/crests.football-data.org\/95.png",
+            "scoreWinner": null,
+            "scoreFullTimeHome": null,
+            "scoreFullTimeAway": null
+        },
+        "544444": {
+            "utcDate": "2026-02-15T00:00:00Z",
+            "homeTeamName": "Real Madrid CF",
+            "awayTeamName": "Real Madrid CF",
+            "homeTeamCrest": "https:\/\/crests.football-data.org\/86.png",
+            "awayTeamCrest": "https:\/\/crests.football-data.org\/92.png",
+            "scoreWinner": null,
+            "scoreFullTimeHome": null,
+            "scoreFullTimeAway": null
+        },
+        "544445": {
+            "utcDate": "2026-02-15T00:00:00Z",
+            "homeTeamName": "Sevilla FC",
+            "awayTeamName": "Sevilla FC",
+            "homeTeamCrest": "https:\/\/crests.football-data.org\/559.png",
+            "awayTeamCrest": "https:\/\/crests.football-data.org\/263.png",
+            "scoreWinner": null,
+            "scoreFullTimeHome": null,
+            "scoreFullTimeAway": null
+        },
+        "544446": {
+            "utcDate": "2026-02-15T00:00:00Z",
+            "homeTeamName": "Real Oviedo",
+            "awayTeamName": "Real Oviedo",
+            "homeTeamCrest": "https:\/\/crests.football-data.org\/1048.png",
+            "awayTeamCrest": "https:\/\/crests.football-data.org\/77.png",
+            "scoreWinner": null,
+            "scoreFullTimeHome": null,
+            "scoreFullTimeAway": null
+        },
+        "544447": {
+            "utcDate": "2026-02-15T00:00:00Z",
+            "homeTeamName": "Rayo Vallecano de Madrid",
+            "awayTeamName": "Rayo Vallecano de Madrid",
+            "homeTeamCrest": "https:\/\/crests.football-data.org\/87.png",
+            "awayTeamCrest": "https:\/\/crests.football-data.org\/78.png",
+            "scoreWinner": null,
+            "scoreFullTimeHome": null,
+            "scoreFullTimeAway": null
+        },
+        "544448": {
+            "utcDate": "2026-02-15T00:00:00Z",
+            "homeTeamName": "Girona FC",
+            "awayTeamName": "Girona FC",
+            "homeTeamCrest": "https:\/\/crests.football-data.org\/298.png",
+            "awayTeamCrest": "https:\/\/crests.football-data.org\/81.png",
+            "scoreWinner": null,
+            "scoreFullTimeHome": null,
+            "scoreFullTimeAway": null
+        },
+        "544449": {
+            "utcDate": "2026-02-15T00:00:00Z",
+            "homeTeamName": "RCD Mallorca",
+            "awayTeamName": "RCD Mallorca",
+            "homeTeamCrest": "https:\/\/crests.football-data.org\/89.png",
+            "awayTeamCrest": "https:\/\/crests.football-data.org\/90.png",
+            "scoreWinner": null,
+            "scoreFullTimeHome": null,
+            "scoreFullTimeAway": null
+        },
+        "544450": {
+            "utcDate": "2026-02-15T00:00:00Z",
+            "homeTeamName": "RCD Espanyol de Barcelona",
+            "awayTeamName": "RCD Espanyol de Barcelona",
+            "homeTeamCrest": "https:\/\/crests.football-data.org\/80.png",
+            "awayTeamCrest": "https:\/\/crests.football-data.org\/558.png",
+            "scoreWinner": null,
+            "scoreFullTimeHome": null,
+            "scoreFullTimeAway": null
+        },
+        "544451": {
+            "utcDate": "2026-02-22T00:00:00Z",
+            "homeTeamName": "Deportivo Alav\u00e9s",
+            "awayTeamName": "Deportivo Alav\u00e9s",
+            "homeTeamCrest": "https:\/\/crests.football-data.org\/263.png",
+            "awayTeamCrest": "https:\/\/crests.football-data.org\/298.png",
+            "scoreWinner": null,
+            "scoreFullTimeHome": null,
+            "scoreFullTimeAway": null
+        },
+        "544452": {
+            "utcDate": "2026-02-22T00:00:00Z",
+            "homeTeamName": "Athletic Club",
+            "awayTeamName": "Athletic Club",
+            "homeTeamCrest": "https:\/\/crests.football-data.org\/77.png",
+            "awayTeamCrest": "https:\/\/crests.football-data.org\/285.png",
+            "scoreWinner": null,
+            "scoreFullTimeHome": null,
+            "scoreFullTimeAway": null
+        },
+        "544453": {
+            "utcDate": "2026-02-22T00:00:00Z",
+            "homeTeamName": "Club Atl\u00e9tico de Madrid",
+            "awayTeamName": "Club Atl\u00e9tico de Madrid",
+            "homeTeamCrest": "https:\/\/crests.football-data.org\/78.png",
+            "awayTeamCrest": "https:\/\/crests.football-data.org\/80.png",
+            "scoreWinner": null,
+            "scoreFullTimeHome": null,
+            "scoreFullTimeAway": null
+        },
+        "544454": {
+            "utcDate": "2026-02-22T00:00:00Z",
+            "homeTeamName": "FC Barcelona",
+            "awayTeamName": "FC Barcelona",
+            "homeTeamCrest": "https:\/\/crests.football-data.org\/81.png",
+            "awayTeamCrest": "https:\/\/crests.football-data.org\/88.png",
+            "scoreWinner": null,
+            "scoreFullTimeHome": null,
+            "scoreFullTimeAway": null
+        },
+        "544455": {
+            "utcDate": "2026-02-22T00:00:00Z",
+            "homeTeamName": "Real Betis Balompi\u00e9",
+            "awayTeamName": "Real Betis Balompi\u00e9",
+            "homeTeamCrest": "https:\/\/crests.football-data.org\/90.png",
+            "awayTeamCrest": "https:\/\/crests.football-data.org\/87.png",
+            "scoreWinner": null,
+            "scoreFullTimeHome": null,
+            "scoreFullTimeAway": null
+        },
+        "544456": {
+            "utcDate": "2026-02-22T00:00:00Z",
+            "homeTeamName": "RC Celta de Vigo",
+            "awayTeamName": "RC Celta de Vigo",
+            "homeTeamCrest": "https:\/\/crests.football-data.org\/558.png",
+            "awayTeamCrest": "https:\/\/crests.football-data.org\/89.png",
+            "scoreWinner": null,
+            "scoreFullTimeHome": null,
+            "scoreFullTimeAway": null
+        },
+        "544457": {
+            "utcDate": "2026-02-22T00:00:00Z",
+            "homeTeamName": "Getafe CF",
+            "awayTeamName": "Getafe CF",
+            "homeTeamCrest": "https:\/\/crests.football-data.org\/82.png",
+            "awayTeamCrest": "https:\/\/crests.football-data.org\/559.png",
+            "scoreWinner": null,
+            "scoreFullTimeHome": null,
+            "scoreFullTimeAway": null
+        },
+        "544458": {
+            "utcDate": "2026-02-22T00:00:00Z",
+            "homeTeamName": "CA Osasuna",
+            "awayTeamName": "CA Osasuna",
+            "homeTeamCrest": "https:\/\/crests.football-data.org\/79.png",
+            "awayTeamCrest": "https:\/\/crests.football-data.org\/86.png",
+            "scoreWinner": null,
+            "scoreFullTimeHome": null,
+            "scoreFullTimeAway": null
+        },
+        "544459": {
+            "utcDate": "2026-02-22T00:00:00Z",
+            "homeTeamName": "Villarreal CF",
+            "awayTeamName": "Villarreal CF",
+            "homeTeamCrest": "https:\/\/crests.football-data.org\/94.png",
+            "awayTeamCrest": "https:\/\/crests.football-data.org\/95.png",
+            "scoreWinner": null,
+            "scoreFullTimeHome": null,
+            "scoreFullTimeAway": null
+        },
+        "544460": {
+            "utcDate": "2026-02-22T00:00:00Z",
+            "homeTeamName": "Real Sociedad de F\u00fatbol",
+            "awayTeamName": "Real Sociedad de F\u00fatbol",
+            "homeTeamCrest": "https:\/\/crests.football-data.org\/92.png",
+            "awayTeamCrest": "https:\/\/crests.football-data.org\/1048.png",
+            "scoreWinner": null,
+            "scoreFullTimeHome": null,
+            "scoreFullTimeAway": null
+        },
+        "544461": {
+            "utcDate": "2026-03-01T00:00:00Z",
+            "homeTeamName": "FC Barcelona",
+            "awayTeamName": "FC Barcelona",
+            "homeTeamCrest": "https:\/\/crests.football-data.org\/81.png",
+            "awayTeamCrest": "https:\/\/crests.football-data.org\/94.png",
+            "scoreWinner": null,
+            "scoreFullTimeHome": null,
+            "scoreFullTimeAway": null
+        },
+        "544462": {
+            "utcDate": "2026-03-01T00:00:00Z",
+            "homeTeamName": "Real Betis Balompi\u00e9",
+            "awayTeamName": "Real Betis Balompi\u00e9",
+            "homeTeamCrest": "https:\/\/crests.football-data.org\/90.png",
+            "awayTeamCrest": "https:\/\/crests.football-data.org\/559.png",
+            "scoreWinner": null,
+            "scoreFullTimeHome": null,
+            "scoreFullTimeAway": null
+        },
+        "544463": {
+            "utcDate": "2026-03-01T00:00:00Z",
+            "homeTeamName": "Elche CF",
+            "awayTeamName": "Elche CF",
+            "homeTeamCrest": "https:\/\/crests.football-data.org\/285.png",
+            "awayTeamCrest": "https:\/\/crests.football-data.org\/80.png",
+            "scoreWinner": null,
+            "scoreFullTimeHome": null,
+            "scoreFullTimeAway": null
+        },
+        "544464": {
+            "utcDate": "2026-03-01T00:00:00Z",
+            "homeTeamName": "RCD Mallorca",
+            "awayTeamName": "RCD Mallorca",
+            "homeTeamCrest": "https:\/\/crests.football-data.org\/89.png",
+            "awayTeamCrest": "https:\/\/crests.football-data.org\/92.png",
+            "scoreWinner": null,
+            "scoreFullTimeHome": null,
+            "scoreFullTimeAway": null
+        },
+        "544465": {
+            "utcDate": "2026-03-01T00:00:00Z",
+            "homeTeamName": "Levante UD",
+            "awayTeamName": "Levante UD",
+            "homeTeamCrest": "https:\/\/crests.football-data.org\/88.png",
+            "awayTeamCrest": "https:\/\/crests.football-data.org\/263.png",
+            "scoreWinner": null,
+            "scoreFullTimeHome": null,
+            "scoreFullTimeAway": null
+        },
+        "544466": {
+            "utcDate": "2026-03-01T00:00:00Z",
+            "homeTeamName": "Rayo Vallecano de Madrid",
+            "awayTeamName": "Rayo Vallecano de Madrid",
+            "homeTeamCrest": "https:\/\/crests.football-data.org\/87.png",
+            "awayTeamCrest": "https:\/\/crests.football-data.org\/77.png",
+            "scoreWinner": null,
+            "scoreFullTimeHome": null,
+            "scoreFullTimeAway": null
+        },
+        "544467": {
+            "utcDate": "2026-03-01T00:00:00Z",
+            "homeTeamName": "Real Oviedo",
+            "awayTeamName": "Real Oviedo",
+            "homeTeamCrest": "https:\/\/crests.football-data.org\/1048.png",
+            "awayTeamCrest": "https:\/\/crests.football-data.org\/78.png",
+            "scoreWinner": null,
+            "scoreFullTimeHome": null,
+            "scoreFullTimeAway": null
+        },
+        "544468": {
+            "utcDate": "2026-03-01T00:00:00Z",
+            "homeTeamName": "Girona FC",
+            "awayTeamName": "Girona FC",
+            "homeTeamCrest": "https:\/\/crests.football-data.org\/298.png",
+            "awayTeamCrest": "https:\/\/crests.football-data.org\/558.png",
+            "scoreWinner": null,
+            "scoreFullTimeHome": null,
+            "scoreFullTimeAway": null
+        },
+        "544469": {
+            "utcDate": "2026-03-01T00:00:00Z",
+            "homeTeamName": "Real Madrid CF",
+            "awayTeamName": "Real Madrid CF",
+            "homeTeamCrest": "https:\/\/crests.football-data.org\/86.png",
+            "awayTeamCrest": "https:\/\/crests.football-data.org\/82.png",
+            "scoreWinner": null,
+            "scoreFullTimeHome": null,
+            "scoreFullTimeAway": null
+        },
+        "544470": {
+            "utcDate": "2026-03-01T00:00:00Z",
+            "homeTeamName": "Valencia CF",
+            "awayTeamName": "Valencia CF",
+            "homeTeamCrest": "https:\/\/crests.football-data.org\/95.png",
+            "awayTeamCrest": "https:\/\/crests.football-data.org\/79.png",
+            "scoreWinner": null,
+            "scoreFullTimeHome": null,
+            "scoreFullTimeAway": null
+        },
+        "544471": {
+            "utcDate": "2026-03-08T00:00:00Z",
+            "homeTeamName": "Athletic Club",
+            "awayTeamName": "Athletic Club",
+            "homeTeamCrest": "https:\/\/crests.football-data.org\/77.png",
+            "awayTeamCrest": "https:\/\/crests.football-data.org\/81.png",
+            "scoreWinner": null,
+            "scoreFullTimeHome": null,
+            "scoreFullTimeAway": null
+        },
+        "544472": {
+            "utcDate": "2026-03-08T00:00:00Z",
+            "homeTeamName": "Club Atl\u00e9tico de Madrid",
+            "awayTeamName": "Club Atl\u00e9tico de Madrid",
+            "homeTeamCrest": "https:\/\/crests.football-data.org\/78.png",
+            "awayTeamCrest": "https:\/\/crests.football-data.org\/92.png",
+            "scoreWinner": null,
+            "scoreFullTimeHome": null,
+            "scoreFullTimeAway": null
+        },
+        "544473": {
+            "utcDate": "2026-03-08T00:00:00Z",
+            "homeTeamName": "RC Celta de Vigo",
+            "awayTeamName": "RC Celta de Vigo",
+            "homeTeamCrest": "https:\/\/crests.football-data.org\/558.png",
+            "awayTeamCrest": "https:\/\/crests.football-data.org\/86.png",
+            "scoreWinner": null,
+            "scoreFullTimeHome": null,
+            "scoreFullTimeAway": null
+        },
+        "544474": {
+            "utcDate": "2026-03-08T00:00:00Z",
+            "homeTeamName": "RCD Espanyol de Barcelona",
+            "awayTeamName": "RCD Espanyol de Barcelona",
+            "homeTeamCrest": "https:\/\/crests.football-data.org\/80.png",
+            "awayTeamCrest": "https:\/\/crests.football-data.org\/1048.png",
+            "scoreWinner": null,
+            "scoreFullTimeHome": null,
+            "scoreFullTimeAway": null
+        },
+        "544475": {
+            "utcDate": "2026-03-08T00:00:00Z",
+            "homeTeamName": "Valencia CF",
+            "awayTeamName": "Valencia CF",
+            "homeTeamCrest": "https:\/\/crests.football-data.org\/95.png",
+            "awayTeamCrest": "https:\/\/crests.football-data.org\/263.png",
+            "scoreWinner": null,
+            "scoreFullTimeHome": null,
+            "scoreFullTimeAway": null
+        },
+        "544476": {
+            "utcDate": "2026-03-08T00:00:00Z",
+            "homeTeamName": "Getafe CF",
+            "awayTeamName": "Getafe CF",
+            "homeTeamCrest": "https:\/\/crests.football-data.org\/82.png",
+            "awayTeamCrest": "https:\/\/crests.football-data.org\/90.png",
+            "scoreWinner": null,
+            "scoreFullTimeHome": null,
+            "scoreFullTimeAway": null
+        },
+        "544477": {
+            "utcDate": "2026-03-08T00:00:00Z",
+            "homeTeamName": "Villarreal CF",
+            "awayTeamName": "Villarreal CF",
+            "homeTeamCrest": "https:\/\/crests.football-data.org\/94.png",
+            "awayTeamCrest": "https:\/\/crests.football-data.org\/285.png",
+            "scoreWinner": null,
+            "scoreFullTimeHome": null,
+            "scoreFullTimeAway": null
+        },
+        "544478": {
+            "utcDate": "2026-03-08T00:00:00Z",
+            "homeTeamName": "Levante UD",
+            "awayTeamName": "Levante UD",
+            "homeTeamCrest": "https:\/\/crests.football-data.org\/88.png",
+            "awayTeamCrest": "https:\/\/crests.football-data.org\/298.png",
+            "scoreWinner": null,
+            "scoreFullTimeHome": null,
+            "scoreFullTimeAway": null
+        },
+        "544479": {
+            "utcDate": "2026-03-08T00:00:00Z",
+            "homeTeamName": "CA Osasuna",
+            "awayTeamName": "CA Osasuna",
+            "homeTeamCrest": "https:\/\/crests.football-data.org\/79.png",
+            "awayTeamCrest": "https:\/\/crests.football-data.org\/89.png",
+            "scoreWinner": null,
+            "scoreFullTimeHome": null,
+            "scoreFullTimeAway": null
+        },
+        "544480": {
+            "utcDate": "2026-03-08T00:00:00Z",
+            "homeTeamName": "Sevilla FC",
+            "awayTeamName": "Sevilla FC",
+            "homeTeamCrest": "https:\/\/crests.football-data.org\/559.png",
+            "awayTeamCrest": "https:\/\/crests.football-data.org\/87.png",
+            "scoreWinner": null,
+            "scoreFullTimeHome": null,
+            "scoreFullTimeAway": null
+        },
+        "544481": {
+            "utcDate": "2026-03-15T00:00:00Z",
+            "homeTeamName": "Deportivo Alav\u00e9s",
+            "awayTeamName": "Deportivo Alav\u00e9s",
+            "homeTeamCrest": "https:\/\/crests.football-data.org\/263.png",
+            "awayTeamCrest": "https:\/\/crests.football-data.org\/94.png",
+            "scoreWinner": null,
+            "scoreFullTimeHome": null,
+            "scoreFullTimeAway": null
+        },
+        "544482": {
+            "utcDate": "2026-03-15T00:00:00Z",
+            "homeTeamName": "Club Atl\u00e9tico de Madrid",
+            "awayTeamName": "Club Atl\u00e9tico de Madrid",
+            "homeTeamCrest": "https:\/\/crests.football-data.org\/78.png",
+            "awayTeamCrest": "https:\/\/crests.football-data.org\/82.png",
+            "scoreWinner": null,
+            "scoreFullTimeHome": null,
+            "scoreFullTimeAway": null
+        },
+        "544483": {
+            "utcDate": "2026-03-15T00:00:00Z",
+            "homeTeamName": "FC Barcelona",
+            "awayTeamName": "FC Barcelona",
+            "homeTeamCrest": "https:\/\/crests.football-data.org\/81.png",
+            "awayTeamCrest": "https:\/\/crests.football-data.org\/559.png",
+            "scoreWinner": null,
+            "scoreFullTimeHome": null,
+            "scoreFullTimeAway": null
+        },
+        "544484": {
+            "utcDate": "2026-03-15T00:00:00Z",
+            "homeTeamName": "Real Betis Balompi\u00e9",
+            "awayTeamName": "Real Betis Balompi\u00e9",
+            "homeTeamCrest": "https:\/\/crests.football-data.org\/90.png",
+            "awayTeamCrest": "https:\/\/crests.football-data.org\/558.png",
+            "scoreWinner": null,
+            "scoreFullTimeHome": null,
+            "scoreFullTimeAway": null
+        },
+        "544485": {
+            "utcDate": "2026-03-15T00:00:00Z",
+            "homeTeamName": "Real Oviedo",
+            "awayTeamName": "Real Oviedo",
+            "homeTeamCrest": "https:\/\/crests.football-data.org\/1048.png",
+            "awayTeamCrest": "https:\/\/crests.football-data.org\/95.png",
+            "scoreWinner": null,
+            "scoreFullTimeHome": null,
+            "scoreFullTimeAway": null
+        },
+        "544486": {
+            "utcDate": "2026-03-15T00:00:00Z",
+            "homeTeamName": "Girona FC",
+            "awayTeamName": "Girona FC",
+            "homeTeamCrest": "https:\/\/crests.football-data.org\/298.png",
+            "awayTeamCrest": "https:\/\/crests.football-data.org\/77.png",
+            "scoreWinner": null,
+            "scoreFullTimeHome": null,
+            "scoreFullTimeAway": null
+        },
+        "544487": {
+            "utcDate": "2026-03-15T00:00:00Z",
+            "homeTeamName": "Real Madrid CF",
+            "awayTeamName": "Real Madrid CF",
+            "homeTeamCrest": "https:\/\/crests.football-data.org\/86.png",
+            "awayTeamCrest": "https:\/\/crests.football-data.org\/285.png",
+            "scoreWinner": null,
+            "scoreFullTimeHome": null,
+            "scoreFullTimeAway": null
+        },
+        "544488": {
+            "utcDate": "2026-03-15T00:00:00Z",
+            "homeTeamName": "RCD Mallorca",
+            "awayTeamName": "RCD Mallorca",
+            "homeTeamCrest": "https:\/\/crests.football-data.org\/89.png",
+            "awayTeamCrest": "https:\/\/crests.football-data.org\/80.png",
+            "scoreWinner": null,
+            "scoreFullTimeHome": null,
+            "scoreFullTimeAway": null
+        },
+        "544489": {
+            "utcDate": "2026-03-15T00:00:00Z",
+            "homeTeamName": "Rayo Vallecano de Madrid",
+            "awayTeamName": "Rayo Vallecano de Madrid",
+            "homeTeamCrest": "https:\/\/crests.football-data.org\/87.png",
+            "awayTeamCrest": "https:\/\/crests.football-data.org\/88.png",
+            "scoreWinner": null,
+            "scoreFullTimeHome": null,
+            "scoreFullTimeAway": null
+        },
+        "544490": {
+            "utcDate": "2026-03-15T00:00:00Z",
+            "homeTeamName": "Real Sociedad de F\u00fatbol",
+            "awayTeamName": "Real Sociedad de F\u00fatbol",
+            "homeTeamCrest": "https:\/\/crests.football-data.org\/92.png",
+            "awayTeamCrest": "https:\/\/crests.football-data.org\/79.png",
+            "scoreWinner": null,
+            "scoreFullTimeHome": null,
+            "scoreFullTimeAway": null
+        },
+        "544491": {
+            "utcDate": "2026-03-22T00:00:00Z",
+            "homeTeamName": "Athletic Club",
+            "awayTeamName": "Athletic Club",
+            "homeTeamCrest": "https:\/\/crests.football-data.org\/77.png",
+            "awayTeamCrest": "https:\/\/crests.football-data.org\/90.png",
+            "scoreWinner": null,
+            "scoreFullTimeHome": null,
+            "scoreFullTimeAway": null
+        },
+        "544492": {
+            "utcDate": "2026-03-22T00:00:00Z",
+            "homeTeamName": "FC Barcelona",
+            "awayTeamName": "FC Barcelona",
+            "homeTeamCrest": "https:\/\/crests.football-data.org\/81.png",
+            "awayTeamCrest": "https:\/\/crests.football-data.org\/87.png",
+            "scoreWinner": null,
+            "scoreFullTimeHome": null,
+            "scoreFullTimeAway": null
+        },
+        "544493": {
+            "utcDate": "2026-03-22T00:00:00Z",
+            "homeTeamName": "Elche CF",
+            "awayTeamName": "Elche CF",
+            "homeTeamCrest": "https:\/\/crests.football-data.org\/285.png",
+            "awayTeamCrest": "https:\/\/crests.football-data.org\/89.png",
+            "scoreWinner": null,
+            "scoreFullTimeHome": null,
+            "scoreFullTimeAway": null
+        },
+        "544494": {
+            "utcDate": "2026-03-22T00:00:00Z",
+            "homeTeamName": "RCD Espanyol de Barcelona",
+            "awayTeamName": "RCD Espanyol de Barcelona",
+            "homeTeamCrest": "https:\/\/crests.football-data.org\/80.png",
+            "awayTeamCrest": "https:\/\/crests.football-data.org\/82.png",
+            "scoreWinner": null,
+            "scoreFullTimeHome": null,
+            "scoreFullTimeAway": null
+        },
+        "544495": {
+            "utcDate": "2026-03-22T00:00:00Z",
+            "homeTeamName": "Levante UD",
+            "awayTeamName": "Levante UD",
+            "homeTeamCrest": "https:\/\/crests.football-data.org\/88.png",
+            "awayTeamCrest": "https:\/\/crests.football-data.org\/1048.png",
+            "scoreWinner": null,
+            "scoreFullTimeHome": null,
+            "scoreFullTimeAway": null
+        },
+        "544496": {
+            "utcDate": "2026-03-22T00:00:00Z",
+            "homeTeamName": "Sevilla FC",
+            "awayTeamName": "Sevilla FC",
+            "homeTeamCrest": "https:\/\/crests.football-data.org\/559.png",
+            "awayTeamCrest": "https:\/\/crests.football-data.org\/95.png",
+            "scoreWinner": null,
+            "scoreFullTimeHome": null,
+            "scoreFullTimeAway": null
+        },
+        "544497": {
+            "utcDate": "2026-03-22T00:00:00Z",
+            "homeTeamName": "RC Celta de Vigo",
+            "awayTeamName": "RC Celta de Vigo",
+            "homeTeamCrest": "https:\/\/crests.football-data.org\/558.png",
+            "awayTeamCrest": "https:\/\/crests.football-data.org\/263.png",
+            "scoreWinner": null,
+            "scoreFullTimeHome": null,
+            "scoreFullTimeAway": null
+        },
+        "544498": {
+            "utcDate": "2026-03-22T00:00:00Z",
+            "homeTeamName": "Real Madrid CF",
+            "awayTeamName": "Real Madrid CF",
+            "homeTeamCrest": "https:\/\/crests.football-data.org\/86.png",
+            "awayTeamCrest": "https:\/\/crests.football-data.org\/78.png",
+            "scoreWinner": null,
+            "scoreFullTimeHome": null,
+            "scoreFullTimeAway": null
+        },
+        "544499": {
+            "utcDate": "2026-03-22T00:00:00Z",
+            "homeTeamName": "CA Osasuna",
+            "awayTeamName": "CA Osasuna",
+            "homeTeamCrest": "https:\/\/crests.football-data.org\/79.png",
+            "awayTeamCrest": "https:\/\/crests.football-data.org\/298.png",
+            "scoreWinner": null,
+            "scoreFullTimeHome": null,
+            "scoreFullTimeAway": null
+        },
+        "544500": {
+            "utcDate": "2026-03-22T00:00:00Z",
+            "homeTeamName": "Villarreal CF",
+            "awayTeamName": "Villarreal CF",
+            "homeTeamCrest": "https:\/\/crests.football-data.org\/94.png",
+            "awayTeamCrest": "https:\/\/crests.football-data.org\/92.png",
+            "scoreWinner": null,
+            "scoreFullTimeHome": null,
+            "scoreFullTimeAway": null
+        },
+        "544501": {
+            "utcDate": "2026-04-05T00:00:00Z",
+            "homeTeamName": "Deportivo Alav\u00e9s",
+            "awayTeamName": "Deportivo Alav\u00e9s",
+            "homeTeamCrest": "https:\/\/crests.football-data.org\/263.png",
+            "awayTeamCrest": "https:\/\/crests.football-data.org\/79.png",
+            "scoreWinner": null,
+            "scoreFullTimeHome": null,
+            "scoreFullTimeAway": null
+        },
+        "544502": {
+            "utcDate": "2026-04-05T00:00:00Z",
+            "homeTeamName": "Club Atl\u00e9tico de Madrid",
+            "awayTeamName": "Club Atl\u00e9tico de Madrid",
+            "homeTeamCrest": "https:\/\/crests.football-data.org\/78.png",
+            "awayTeamCrest": "https:\/\/crests.football-data.org\/81.png",
+            "scoreWinner": null,
+            "scoreFullTimeHome": null,
+            "scoreFullTimeAway": null
+        },
+        "544503": {
+            "utcDate": "2026-04-05T00:00:00Z",
+            "homeTeamName": "Real Betis Balompi\u00e9",
+            "awayTeamName": "Real Betis Balompi\u00e9",
+            "homeTeamCrest": "https:\/\/crests.football-data.org\/90.png",
+            "awayTeamCrest": "https:\/\/crests.football-data.org\/80.png",
+            "scoreWinner": null,
+            "scoreFullTimeHome": null,
+            "scoreFullTimeAway": null
+        },
+        "544504": {
+            "utcDate": "2026-04-05T00:00:00Z",
+            "homeTeamName": "Girona FC",
+            "awayTeamName": "Girona FC",
+            "homeTeamCrest": "https:\/\/crests.football-data.org\/298.png",
+            "awayTeamCrest": "https:\/\/crests.football-data.org\/94.png",
+            "scoreWinner": null,
+            "scoreFullTimeHome": null,
+            "scoreFullTimeAway": null
+        },
+        "544505": {
+            "utcDate": "2026-04-05T00:00:00Z",
+            "homeTeamName": "RCD Mallorca",
+            "awayTeamName": "RCD Mallorca",
+            "homeTeamCrest": "https:\/\/crests.football-data.org\/89.png",
+            "awayTeamCrest": "https:\/\/crests.football-data.org\/86.png",
+            "scoreWinner": null,
+            "scoreFullTimeHome": null,
+            "scoreFullTimeAway": null
+        },
+        "544506": {
+            "utcDate": "2026-04-05T00:00:00Z",
+            "homeTeamName": "Real Oviedo",
+            "awayTeamName": "Real Oviedo",
+            "homeTeamCrest": "https:\/\/crests.football-data.org\/1048.png",
+            "awayTeamCrest": "https:\/\/crests.football-data.org\/559.png",
+            "scoreWinner": null,
+            "scoreFullTimeHome": null,
+            "scoreFullTimeAway": null
+        },
+        "544507": {
+            "utcDate": "2026-04-05T00:00:00Z",
+            "homeTeamName": "Getafe CF",
+            "awayTeamName": "Getafe CF",
+            "homeTeamCrest": "https:\/\/crests.football-data.org\/82.png",
+            "awayTeamCrest": "https:\/\/crests.football-data.org\/77.png",
+            "scoreWinner": null,
+            "scoreFullTimeHome": null,
+            "scoreFullTimeAway": null
+        },
+        "544508": {
+            "utcDate": "2026-04-05T00:00:00Z",
+            "homeTeamName": "Valencia CF",
+            "awayTeamName": "Valencia CF",
+            "homeTeamCrest": "https:\/\/crests.football-data.org\/95.png",
+            "awayTeamCrest": "https:\/\/crests.football-data.org\/558.png",
+            "scoreWinner": null,
+            "scoreFullTimeHome": null,
+            "scoreFullTimeAway": null
+        },
+        "544509": {
+            "utcDate": "2026-04-05T00:00:00Z",
+            "homeTeamName": "Rayo Vallecano de Madrid",
+            "awayTeamName": "Rayo Vallecano de Madrid",
+            "homeTeamCrest": "https:\/\/crests.football-data.org\/87.png",
+            "awayTeamCrest": "https:\/\/crests.football-data.org\/285.png",
+            "scoreWinner": null,
+            "scoreFullTimeHome": null,
+            "scoreFullTimeAway": null
+        },
+        "544510": {
+            "utcDate": "2026-04-05T00:00:00Z",
+            "homeTeamName": "Real Sociedad de F\u00fatbol",
+            "awayTeamName": "Real Sociedad de F\u00fatbol",
+            "homeTeamCrest": "https:\/\/crests.football-data.org\/92.png",
+            "awayTeamCrest": "https:\/\/crests.football-data.org\/88.png",
+            "scoreWinner": null,
+            "scoreFullTimeHome": null,
+            "scoreFullTimeAway": null
+        },
+        "544512": {
+            "utcDate": "2026-04-12T00:00:00Z",
+            "homeTeamName": "FC Barcelona",
+            "awayTeamName": "FC Barcelona",
+            "homeTeamCrest": "https:\/\/crests.football-data.org\/81.png",
+            "awayTeamCrest": "https:\/\/crests.football-data.org\/80.png",
+            "scoreWinner": null,
+            "scoreFullTimeHome": null,
+            "scoreFullTimeAway": null
+        },
+        "544513": {
+            "utcDate": "2026-04-12T00:00:00Z",
+            "homeTeamName": "RC Celta de Vigo",
+            "awayTeamName": "RC Celta de Vigo",
+            "homeTeamCrest": "https:\/\/crests.football-data.org\/558.png",
+            "awayTeamCrest": "https:\/\/crests.football-data.org\/1048.png",
+            "scoreWinner": null,
+            "scoreFullTimeHome": null,
+            "scoreFullTimeAway": null
+        },
+        "544514": {
+            "utcDate": "2026-04-12T00:00:00Z",
+            "homeTeamName": "Elche CF",
+            "awayTeamName": "Elche CF",
+            "homeTeamCrest": "https:\/\/crests.football-data.org\/285.png",
+            "awayTeamCrest": "https:\/\/crests.football-data.org\/95.png",
+            "scoreWinner": null,
+            "scoreFullTimeHome": null,
+            "scoreFullTimeAway": null
+        },
+        "544515": {
+            "utcDate": "2026-04-12T00:00:00Z",
+            "homeTeamName": "RCD Mallorca",
+            "awayTeamName": "RCD Mallorca",
+            "homeTeamCrest": "https:\/\/crests.football-data.org\/89.png",
+            "awayTeamCrest": "https:\/\/crests.football-data.org\/87.png",
+            "scoreWinner": null,
+            "scoreFullTimeHome": null,
+            "scoreFullTimeAway": null
+        },
+        "544516": {
+            "utcDate": "2026-04-12T00:00:00Z",
+            "homeTeamName": "Real Sociedad de F\u00fatbol",
+            "awayTeamName": "Real Sociedad de F\u00fatbol",
+            "homeTeamCrest": "https:\/\/crests.football-data.org\/92.png",
+            "awayTeamCrest": "https:\/\/crests.football-data.org\/263.png",
+            "scoreWinner": null,
+            "scoreFullTimeHome": null,
+            "scoreFullTimeAway": null
+        },
+        "544517": {
+            "utcDate": "2026-04-12T00:00:00Z",
+            "homeTeamName": "Sevilla FC",
+            "awayTeamName": "Sevilla FC",
+            "homeTeamCrest": "https:\/\/crests.football-data.org\/559.png",
+            "awayTeamCrest": "https:\/\/crests.football-data.org\/78.png",
+            "scoreWinner": null,
+            "scoreFullTimeHome": null,
+            "scoreFullTimeAway": null
+        },
+        "544518": {
+            "utcDate": "2026-04-12T00:00:00Z",
+            "homeTeamName": "CA Osasuna",
+            "awayTeamName": "CA Osasuna",
+            "homeTeamCrest": "https:\/\/crests.football-data.org\/79.png",
+            "awayTeamCrest": "https:\/\/crests.football-data.org\/90.png",
+            "scoreWinner": null,
+            "scoreFullTimeHome": null,
+            "scoreFullTimeAway": null
+        },
+        "544519": {
+            "utcDate": "2026-04-12T00:00:00Z",
+            "homeTeamName": "Levante UD",
+            "awayTeamName": "Levante UD",
+            "homeTeamCrest": "https:\/\/crests.football-data.org\/88.png",
+            "awayTeamCrest": "https:\/\/crests.football-data.org\/82.png",
+            "scoreWinner": null,
+            "scoreFullTimeHome": null,
+            "scoreFullTimeAway": null
+        },
+        "544520": {
+            "utcDate": "2026-04-12T00:00:00Z",
+            "homeTeamName": "Real Madrid CF",
+            "awayTeamName": "Real Madrid CF",
+            "homeTeamCrest": "https:\/\/crests.football-data.org\/86.png",
+            "awayTeamCrest": "https:\/\/crests.football-data.org\/298.png",
+            "scoreWinner": null,
+            "scoreFullTimeHome": null,
+            "scoreFullTimeAway": null
+        },
+        "544511": {
+            "utcDate": "2026-04-12T00:00:00Z",
+            "homeTeamName": "Athletic Club",
+            "awayTeamName": "Athletic Club",
+            "homeTeamCrest": "https:\/\/crests.football-data.org\/77.png",
+            "awayTeamCrest": "https:\/\/crests.football-data.org\/94.png",
+            "scoreWinner": null,
+            "scoreFullTimeHome": null,
+            "scoreFullTimeAway": null
+        },
+        "544521": {
+            "utcDate": "2026-04-19T00:00:00Z",
+            "homeTeamName": "Deportivo Alav\u00e9s",
+            "awayTeamName": "Deportivo Alav\u00e9s",
+            "homeTeamCrest": "https:\/\/crests.football-data.org\/263.png",
+            "awayTeamCrest": "https:\/\/crests.football-data.org\/89.png",
+            "scoreWinner": null,
+            "scoreFullTimeHome": null,
+            "scoreFullTimeAway": null
+        },
+        "544522": {
+            "utcDate": "2026-04-19T00:00:00Z",
+            "homeTeamName": "Real Betis Balompi\u00e9",
+            "awayTeamName": "Real Betis Balompi\u00e9",
+            "homeTeamCrest": "https:\/\/crests.football-data.org\/90.png",
+            "awayTeamCrest": "https:\/\/crests.football-data.org\/86.png",
+            "scoreWinner": null,
+            "scoreFullTimeHome": null,
+            "scoreFullTimeAway": null
+        },
+        "544523": {
+            "utcDate": "2026-04-19T00:00:00Z",
+            "homeTeamName": "RCD Espanyol de Barcelona",
+            "awayTeamName": "RCD Espanyol de Barcelona",
+            "homeTeamCrest": "https:\/\/crests.football-data.org\/80.png",
+            "awayTeamCrest": "https:\/\/crests.football-data.org\/88.png",
+            "scoreWinner": null,
+            "scoreFullTimeHome": null,
+            "scoreFullTimeAway": null
+        },
+        "544524": {
+            "utcDate": "2026-04-19T00:00:00Z",
+            "homeTeamName": "CA Osasuna",
+            "awayTeamName": "CA Osasuna",
+            "homeTeamCrest": "https:\/\/crests.football-data.org\/79.png",
+            "awayTeamCrest": "https:\/\/crests.football-data.org\/559.png",
+            "scoreWinner": null,
+            "scoreFullTimeHome": null,
+            "scoreFullTimeAway": null
+        },
+        "544525": {
+            "utcDate": "2026-04-19T00:00:00Z",
+            "homeTeamName": "Rayo Vallecano de Madrid",
+            "awayTeamName": "Rayo Vallecano de Madrid",
+            "homeTeamCrest": "https:\/\/crests.football-data.org\/87.png",
+            "awayTeamCrest": "https:\/\/crests.football-data.org\/92.png",
+            "scoreWinner": null,
+            "scoreFullTimeHome": null,
+            "scoreFullTimeAway": null
+        },
+        "544526": {
+            "utcDate": "2026-04-19T00:00:00Z",
+            "homeTeamName": "Club Atl\u00e9tico de Madrid",
+            "awayTeamName": "Club Atl\u00e9tico de Madrid",
+            "homeTeamCrest": "https:\/\/crests.football-data.org\/78.png",
+            "awayTeamCrest": "https:\/\/crests.football-data.org\/77.png",
+            "scoreWinner": null,
+            "scoreFullTimeHome": null,
+            "scoreFullTimeAway": null
+        },
+        "544527": {
+            "utcDate": "2026-04-19T00:00:00Z",
+            "homeTeamName": "Getafe CF",
+            "awayTeamName": "Getafe CF",
+            "homeTeamCrest": "https:\/\/crests.football-data.org\/82.png",
+            "awayTeamCrest": "https:\/\/crests.football-data.org\/81.png",
+            "scoreWinner": null,
+            "scoreFullTimeHome": null,
+            "scoreFullTimeAway": null
+        },
+        "544528": {
+            "utcDate": "2026-04-19T00:00:00Z",
+            "homeTeamName": "Villarreal CF",
+            "awayTeamName": "Villarreal CF",
+            "homeTeamCrest": "https:\/\/crests.football-data.org\/94.png",
+            "awayTeamCrest": "https:\/\/crests.football-data.org\/558.png",
+            "scoreWinner": null,
+            "scoreFullTimeHome": null,
+            "scoreFullTimeAway": null
+        },
+        "544529": {
+            "utcDate": "2026-04-19T00:00:00Z",
+            "homeTeamName": "Real Oviedo",
+            "awayTeamName": "Real Oviedo",
+            "homeTeamCrest": "https:\/\/crests.football-data.org\/1048.png",
+            "awayTeamCrest": "https:\/\/crests.football-data.org\/285.png",
+            "scoreWinner": null,
+            "scoreFullTimeHome": null,
+            "scoreFullTimeAway": null
+        },
+        "544530": {
+            "utcDate": "2026-04-19T00:00:00Z",
+            "homeTeamName": "Valencia CF",
+            "awayTeamName": "Valencia CF",
+            "homeTeamCrest": "https:\/\/crests.football-data.org\/95.png",
+            "awayTeamCrest": "https:\/\/crests.football-data.org\/298.png",
+            "scoreWinner": null,
+            "scoreFullTimeHome": null,
+            "scoreFullTimeAway": null
+        },
+        "544531": {
+            "utcDate": "2026-04-22T00:00:00Z",
+            "homeTeamName": "Athletic Club",
+            "awayTeamName": "Athletic Club",
+            "homeTeamCrest": "https:\/\/crests.football-data.org\/77.png",
+            "awayTeamCrest": "https:\/\/crests.football-data.org\/79.png",
+            "scoreWinner": null,
+            "scoreFullTimeHome": null,
+            "scoreFullTimeAway": null
+        },
+        "544532": {
+            "utcDate": "2026-04-22T00:00:00Z",
+            "homeTeamName": "FC Barcelona",
+            "awayTeamName": "FC Barcelona",
+            "homeTeamCrest": "https:\/\/crests.football-data.org\/81.png",
+            "awayTeamCrest": "https:\/\/crests.football-data.org\/558.png",
+            "scoreWinner": null,
+            "scoreFullTimeHome": null,
+            "scoreFullTimeAway": null
+        },
+        "544533": {
+            "utcDate": "2026-04-22T00:00:00Z",
+            "homeTeamName": "Levante UD",
+            "awayTeamName": "Levante UD",
+            "homeTeamCrest": "https:\/\/crests.football-data.org\/88.png",
+            "awayTeamCrest": "https:\/\/crests.football-data.org\/559.png",
+            "scoreWinner": null,
+            "scoreFullTimeHome": null,
+            "scoreFullTimeAway": null
+        },
+        "544534": {
+            "utcDate": "2026-04-22T00:00:00Z",
+            "homeTeamName": "RCD Mallorca",
+            "awayTeamName": "RCD Mallorca",
+            "homeTeamCrest": "https:\/\/crests.football-data.org\/89.png",
+            "awayTeamCrest": "https:\/\/crests.football-data.org\/95.png",
+            "scoreWinner": null,
+            "scoreFullTimeHome": null,
+            "scoreFullTimeAway": null
+        },
+        "544535": {
+            "utcDate": "2026-04-22T00:00:00Z",
+            "homeTeamName": "Real Oviedo",
+            "awayTeamName": "Real Oviedo",
+            "homeTeamCrest": "https:\/\/crests.football-data.org\/1048.png",
+            "awayTeamCrest": "https:\/\/crests.football-data.org\/94.png",
+            "scoreWinner": null,
+            "scoreFullTimeHome": null,
+            "scoreFullTimeAway": null
+        },
+        "544536": {
+            "utcDate": "2026-04-22T00:00:00Z",
+            "homeTeamName": "Real Madrid CF",
+            "awayTeamName": "Real Madrid CF",
+            "homeTeamCrest": "https:\/\/crests.football-data.org\/86.png",
+            "awayTeamCrest": "https:\/\/crests.football-data.org\/263.png",
+            "scoreWinner": null,
+            "scoreFullTimeHome": null,
+            "scoreFullTimeAway": null
+        },
+        "544537": {
+            "utcDate": "2026-04-22T00:00:00Z",
+            "homeTeamName": "Elche CF",
+            "awayTeamName": "Elche CF",
+            "homeTeamCrest": "https:\/\/crests.football-data.org\/285.png",
+            "awayTeamCrest": "https:\/\/crests.football-data.org\/78.png",
+            "scoreWinner": null,
+            "scoreFullTimeHome": null,
+            "scoreFullTimeAway": null
+        },
+        "544538": {
+            "utcDate": "2026-04-22T00:00:00Z",
+            "homeTeamName": "Girona FC",
+            "awayTeamName": "Girona FC",
+            "homeTeamCrest": "https:\/\/crests.football-data.org\/298.png",
+            "awayTeamCrest": "https:\/\/crests.football-data.org\/90.png",
+            "scoreWinner": null,
+            "scoreFullTimeHome": null,
+            "scoreFullTimeAway": null
+        },
+        "544539": {
+            "utcDate": "2026-04-22T00:00:00Z",
+            "homeTeamName": "Rayo Vallecano de Madrid",
+            "awayTeamName": "Rayo Vallecano de Madrid",
+            "homeTeamCrest": "https:\/\/crests.football-data.org\/87.png",
+            "awayTeamCrest": "https:\/\/crests.football-data.org\/80.png",
+            "scoreWinner": null,
+            "scoreFullTimeHome": null,
+            "scoreFullTimeAway": null
+        },
+        "544540": {
+            "utcDate": "2026-04-22T00:00:00Z",
+            "homeTeamName": "Real Sociedad de F\u00fatbol",
+            "awayTeamName": "Real Sociedad de F\u00fatbol",
+            "homeTeamCrest": "https:\/\/crests.football-data.org\/92.png",
+            "awayTeamCrest": "https:\/\/crests.football-data.org\/82.png",
+            "scoreWinner": null,
+            "scoreFullTimeHome": null,
+            "scoreFullTimeAway": null
+        },
+        "544541": {
+            "utcDate": "2026-05-03T00:00:00Z",
+            "homeTeamName": "Deportivo Alav\u00e9s",
+            "awayTeamName": "Deportivo Alav\u00e9s",
+            "homeTeamCrest": "https:\/\/crests.football-data.org\/263.png",
+            "awayTeamCrest": "https:\/\/crests.football-data.org\/77.png",
+            "scoreWinner": null,
+            "scoreFullTimeHome": null,
+            "scoreFullTimeAway": null
+        },
+        "544542": {
+            "utcDate": "2026-05-03T00:00:00Z",
+            "homeTeamName": "Real Betis Balompi\u00e9",
+            "awayTeamName": "Real Betis Balompi\u00e9",
+            "homeTeamCrest": "https:\/\/crests.football-data.org\/90.png",
+            "awayTeamCrest": "https:\/\/crests.football-data.org\/1048.png",
+            "scoreWinner": null,
+            "scoreFullTimeHome": null,
+            "scoreFullTimeAway": null
+        },
+        "544543": {
+            "utcDate": "2026-05-03T00:00:00Z",
+            "homeTeamName": "RC Celta de Vigo",
+            "awayTeamName": "RC Celta de Vigo",
+            "homeTeamCrest": "https:\/\/crests.football-data.org\/558.png",
+            "awayTeamCrest": "https:\/\/crests.football-data.org\/285.png",
+            "scoreWinner": null,
+            "scoreFullTimeHome": null,
+            "scoreFullTimeAway": null
+        },
+        "544544": {
+            "utcDate": "2026-05-03T00:00:00Z",
+            "homeTeamName": "RCD Espanyol de Barcelona",
+            "awayTeamName": "RCD Espanyol de Barcelona",
+            "homeTeamCrest": "https:\/\/crests.football-data.org\/80.png",
+            "awayTeamCrest": "https:\/\/crests.football-data.org\/86.png",
+            "scoreWinner": null,
+            "scoreFullTimeHome": null,
+            "scoreFullTimeAway": null
+        },
+        "544545": {
+            "utcDate": "2026-05-03T00:00:00Z",
+            "homeTeamName": "Getafe CF",
+            "awayTeamName": "Getafe CF",
+            "homeTeamCrest": "https:\/\/crests.football-data.org\/82.png",
+            "awayTeamCrest": "https:\/\/crests.football-data.org\/87.png",
+            "scoreWinner": null,
+            "scoreFullTimeHome": null,
+            "scoreFullTimeAway": null
+        },
+        "544546": {
+            "utcDate": "2026-05-03T00:00:00Z",
+            "homeTeamName": "Girona FC",
+            "awayTeamName": "Girona FC",
+            "homeTeamCrest": "https:\/\/crests.football-data.org\/298.png",
+            "awayTeamCrest": "https:\/\/crests.football-data.org\/89.png",
+            "scoreWinner": null,
+            "scoreFullTimeHome": null,
+            "scoreFullTimeAway": null
+        },
+        "544547": {
+            "utcDate": "2026-05-03T00:00:00Z",
+            "homeTeamName": "Valencia CF",
+            "awayTeamName": "Valencia CF",
+            "homeTeamCrest": "https:\/\/crests.football-data.org\/95.png",
+            "awayTeamCrest": "https:\/\/crests.football-data.org\/78.png",
+            "scoreWinner": null,
+            "scoreFullTimeHome": null,
+            "scoreFullTimeAway": null
+        },
+        "544548": {
+            "utcDate": "2026-05-03T00:00:00Z",
+            "homeTeamName": "CA Osasuna",
+            "awayTeamName": "CA Osasuna",
+            "homeTeamCrest": "https:\/\/crests.football-data.org\/79.png",
+            "awayTeamCrest": "https:\/\/crests.football-data.org\/81.png",
+            "scoreWinner": null,
+            "scoreFullTimeHome": null,
+            "scoreFullTimeAway": null
+        },
+        "544549": {
+            "utcDate": "2026-05-03T00:00:00Z",
+            "homeTeamName": "Villarreal CF",
+            "awayTeamName": "Villarreal CF",
+            "homeTeamCrest": "https:\/\/crests.football-data.org\/94.png",
+            "awayTeamCrest": "https:\/\/crests.football-data.org\/88.png",
+            "scoreWinner": null,
+            "scoreFullTimeHome": null,
+            "scoreFullTimeAway": null
+        },
+        "544550": {
+            "utcDate": "2026-05-03T00:00:00Z",
+            "homeTeamName": "Sevilla FC",
+            "awayTeamName": "Sevilla FC",
+            "homeTeamCrest": "https:\/\/crests.football-data.org\/559.png",
+            "awayTeamCrest": "https:\/\/crests.football-data.org\/92.png",
+            "scoreWinner": null,
+            "scoreFullTimeHome": null,
+            "scoreFullTimeAway": null
+        },
+        "544551": {
+            "utcDate": "2026-05-10T00:00:00Z",
+            "homeTeamName": "Athletic Club",
+            "awayTeamName": "Athletic Club",
+            "homeTeamCrest": "https:\/\/crests.football-data.org\/77.png",
+            "awayTeamCrest": "https:\/\/crests.football-data.org\/95.png",
+            "scoreWinner": null,
+            "scoreFullTimeHome": null,
+            "scoreFullTimeAway": null
+        },
+        "544552": {
+            "utcDate": "2026-05-10T00:00:00Z",
+            "homeTeamName": "Club Atl\u00e9tico de Madrid",
+            "awayTeamName": "Club Atl\u00e9tico de Madrid",
+            "homeTeamCrest": "https:\/\/crests.football-data.org\/78.png",
+            "awayTeamCrest": "https:\/\/crests.football-data.org\/558.png",
+            "scoreWinner": null,
+            "scoreFullTimeHome": null,
+            "scoreFullTimeAway": null
+        },
+        "544553": {
+            "utcDate": "2026-05-10T00:00:00Z",
+            "homeTeamName": "FC Barcelona",
+            "awayTeamName": "FC Barcelona",
+            "homeTeamCrest": "https:\/\/crests.football-data.org\/81.png",
+            "awayTeamCrest": "https:\/\/crests.football-data.org\/86.png",
+            "scoreWinner": null,
+            "scoreFullTimeHome": null,
+            "scoreFullTimeAway": null
+        },
+        "544554": {
+            "utcDate": "2026-05-10T00:00:00Z",
+            "homeTeamName": "Levante UD",
+            "awayTeamName": "Levante UD",
+            "homeTeamCrest": "https:\/\/crests.football-data.org\/88.png",
+            "awayTeamCrest": "https:\/\/crests.football-data.org\/79.png",
+            "scoreWinner": null,
+            "scoreFullTimeHome": null,
+            "scoreFullTimeAway": null
+        },
+        "544555": {
+            "utcDate": "2026-05-10T00:00:00Z",
+            "homeTeamName": "RCD Mallorca",
+            "awayTeamName": "RCD Mallorca",
+            "homeTeamCrest": "https:\/\/crests.football-data.org\/89.png",
+            "awayTeamCrest": "https:\/\/crests.football-data.org\/94.png",
+            "scoreWinner": null,
+            "scoreFullTimeHome": null,
+            "scoreFullTimeAway": null
+        },
+        "544556": {
+            "utcDate": "2026-05-10T00:00:00Z",
+            "homeTeamName": "Elche CF",
+            "awayTeamName": "Elche CF",
+            "homeTeamCrest": "https:\/\/crests.football-data.org\/285.png",
+            "awayTeamCrest": "https:\/\/crests.football-data.org\/263.png",
+            "scoreWinner": null,
+            "scoreFullTimeHome": null,
+            "scoreFullTimeAway": null
+        },
+        "544557": {
+            "utcDate": "2026-05-10T00:00:00Z",
+            "homeTeamName": "Real Sociedad de F\u00fatbol",
+            "awayTeamName": "Real Sociedad de F\u00fatbol",
+            "homeTeamCrest": "https:\/\/crests.football-data.org\/92.png",
+            "awayTeamCrest": "https:\/\/crests.football-data.org\/90.png",
+            "scoreWinner": null,
+            "scoreFullTimeHome": null,
+            "scoreFullTimeAway": null
+        },
+        "544558": {
+            "utcDate": "2026-05-10T00:00:00Z",
+            "homeTeamName": "Sevilla FC",
+            "awayTeamName": "Sevilla FC",
+            "homeTeamCrest": "https:\/\/crests.football-data.org\/559.png",
+            "awayTeamCrest": "https:\/\/crests.football-data.org\/80.png",
+            "scoreWinner": null,
+            "scoreFullTimeHome": null,
+            "scoreFullTimeAway": null
+        },
+        "544559": {
+            "utcDate": "2026-05-10T00:00:00Z",
+            "homeTeamName": "Real Oviedo",
+            "awayTeamName": "Real Oviedo",
+            "homeTeamCrest": "https:\/\/crests.football-data.org\/1048.png",
+            "awayTeamCrest": "https:\/\/crests.football-data.org\/82.png",
+            "scoreWinner": null,
+            "scoreFullTimeHome": null,
+            "scoreFullTimeAway": null
+        },
+        "544560": {
+            "utcDate": "2026-05-10T00:00:00Z",
+            "homeTeamName": "Rayo Vallecano de Madrid",
+            "awayTeamName": "Rayo Vallecano de Madrid",
+            "homeTeamCrest": "https:\/\/crests.football-data.org\/87.png",
+            "awayTeamCrest": "https:\/\/crests.football-data.org\/298.png",
+            "scoreWinner": null,
+            "scoreFullTimeHome": null,
+            "scoreFullTimeAway": null
+        },
+        "544561": {
+            "utcDate": "2026-05-13T00:00:00Z",
+            "homeTeamName": "Deportivo Alav\u00e9s",
+            "awayTeamName": "Deportivo Alav\u00e9s",
+            "homeTeamCrest": "https:\/\/crests.football-data.org\/263.png",
+            "awayTeamCrest": "https:\/\/crests.football-data.org\/81.png",
+            "scoreWinner": null,
+            "scoreFullTimeHome": null,
+            "scoreFullTimeAway": null
+        },
+        "544562": {
+            "utcDate": "2026-05-13T00:00:00Z",
+            "homeTeamName": "Real Betis Balompi\u00e9",
+            "awayTeamName": "Real Betis Balompi\u00e9",
+            "homeTeamCrest": "https:\/\/crests.football-data.org\/90.png",
+            "awayTeamCrest": "https:\/\/crests.football-data.org\/285.png",
+            "scoreWinner": null,
+            "scoreFullTimeHome": null,
+            "scoreFullTimeAway": null
+        },
+        "544563": {
+            "utcDate": "2026-05-13T00:00:00Z",
+            "homeTeamName": "RC Celta de Vigo",
+            "awayTeamName": "RC Celta de Vigo",
+            "homeTeamCrest": "https:\/\/crests.football-data.org\/558.png",
+            "awayTeamCrest": "https:\/\/crests.football-data.org\/88.png",
+            "scoreWinner": null,
+            "scoreFullTimeHome": null,
+            "scoreFullTimeAway": null
+        },
+        "544564": {
+            "utcDate": "2026-05-13T00:00:00Z",
+            "homeTeamName": "Getafe CF",
+            "awayTeamName": "Getafe CF",
+            "homeTeamCrest": "https:\/\/crests.football-data.org\/82.png",
+            "awayTeamCrest": "https:\/\/crests.football-data.org\/89.png",
+            "scoreWinner": null,
+            "scoreFullTimeHome": null,
+            "scoreFullTimeAway": null
+        },
+        "544565": {
+            "utcDate": "2026-05-13T00:00:00Z",
+            "homeTeamName": "Girona FC",
+            "awayTeamName": "Girona FC",
+            "homeTeamCrest": "https:\/\/crests.football-data.org\/298.png",
+            "awayTeamCrest": "https:\/\/crests.football-data.org\/92.png",
+            "scoreWinner": null,
+            "scoreFullTimeHome": null,
+            "scoreFullTimeAway": null
+        },
+        "544566": {
+            "utcDate": "2026-05-13T00:00:00Z",
+            "homeTeamName": "RCD Espanyol de Barcelona",
+            "awayTeamName": "RCD Espanyol de Barcelona",
+            "homeTeamCrest": "https:\/\/crests.football-data.org\/80.png",
+            "awayTeamCrest": "https:\/\/crests.football-data.org\/77.png",
+            "scoreWinner": null,
+            "scoreFullTimeHome": null,
+            "scoreFullTimeAway": null
+        },
+        "544567": {
+            "utcDate": "2026-05-13T00:00:00Z",
+            "homeTeamName": "CA Osasuna",
+            "awayTeamName": "CA Osasuna",
+            "homeTeamCrest": "https:\/\/crests.football-data.org\/79.png",
+            "awayTeamCrest": "https:\/\/crests.football-data.org\/78.png",
+            "scoreWinner": null,
+            "scoreFullTimeHome": null,
+            "scoreFullTimeAway": null
+        },
+        "544568": {
+            "utcDate": "2026-05-13T00:00:00Z",
+            "homeTeamName": "Valencia CF",
+            "awayTeamName": "Valencia CF",
+            "homeTeamCrest": "https:\/\/crests.football-data.org\/95.png",
+            "awayTeamCrest": "https:\/\/crests.football-data.org\/87.png",
+            "scoreWinner": null,
+            "scoreFullTimeHome": null,
+            "scoreFullTimeAway": null
+        },
+        "544569": {
+            "utcDate": "2026-05-13T00:00:00Z",
+            "homeTeamName": "Villarreal CF",
+            "awayTeamName": "Villarreal CF",
+            "homeTeamCrest": "https:\/\/crests.football-data.org\/94.png",
+            "awayTeamCrest": "https:\/\/crests.football-data.org\/559.png",
+            "scoreWinner": null,
+            "scoreFullTimeHome": null,
+            "scoreFullTimeAway": null
+        },
+        "544570": {
+            "utcDate": "2026-05-13T00:00:00Z",
+            "homeTeamName": "Real Madrid CF",
+            "awayTeamName": "Real Madrid CF",
+            "homeTeamCrest": "https:\/\/crests.football-data.org\/86.png",
+            "awayTeamCrest": "https:\/\/crests.football-data.org\/1048.png",
+            "scoreWinner": null,
+            "scoreFullTimeHome": null,
+            "scoreFullTimeAway": null
+        },
+        "544571": {
+            "utcDate": "2026-05-17T00:00:00Z",
+            "homeTeamName": "Athletic Club",
+            "awayTeamName": "Athletic Club",
+            "homeTeamCrest": "https:\/\/crests.football-data.org\/77.png",
+            "awayTeamCrest": "https:\/\/crests.football-data.org\/558.png",
+            "scoreWinner": null,
+            "scoreFullTimeHome": null,
+            "scoreFullTimeAway": null
+        },
+        "544572": {
+            "utcDate": "2026-05-17T00:00:00Z",
+            "homeTeamName": "Club Atl\u00e9tico de Madrid",
+            "awayTeamName": "Club Atl\u00e9tico de Madrid",
+            "homeTeamCrest": "https:\/\/crests.football-data.org\/78.png",
+            "awayTeamCrest": "https:\/\/crests.football-data.org\/298.png",
+            "scoreWinner": null,
+            "scoreFullTimeHome": null,
+            "scoreFullTimeAway": null
+        },
+        "544573": {
+            "utcDate": "2026-05-17T00:00:00Z",
+            "homeTeamName": "FC Barcelona",
+            "awayTeamName": "FC Barcelona",
+            "homeTeamCrest": "https:\/\/crests.football-data.org\/81.png",
+            "awayTeamCrest": "https:\/\/crests.football-data.org\/90.png",
+            "scoreWinner": null,
+            "scoreFullTimeHome": null,
+            "scoreFullTimeAway": null
+        },
+        "544574": {
+            "utcDate": "2026-05-17T00:00:00Z",
+            "homeTeamName": "Elche CF",
+            "awayTeamName": "Elche CF",
+            "homeTeamCrest": "https:\/\/crests.football-data.org\/285.png",
+            "awayTeamCrest": "https:\/\/crests.football-data.org\/82.png",
+            "scoreWinner": null,
+            "scoreFullTimeHome": null,
+            "scoreFullTimeAway": null
+        },
+        "544575": {
+            "utcDate": "2026-05-17T00:00:00Z",
+            "homeTeamName": "Levante UD",
+            "awayTeamName": "Levante UD",
+            "homeTeamCrest": "https:\/\/crests.football-data.org\/88.png",
+            "awayTeamCrest": "https:\/\/crests.football-data.org\/89.png",
+            "scoreWinner": null,
+            "scoreFullTimeHome": null,
+            "scoreFullTimeAway": null
+        },
+        "544576": {
+            "utcDate": "2026-05-17T00:00:00Z",
+            "homeTeamName": "Rayo Vallecano de Madrid",
+            "awayTeamName": "Rayo Vallecano de Madrid",
+            "homeTeamCrest": "https:\/\/crests.football-data.org\/87.png",
+            "awayTeamCrest": "https:\/\/crests.football-data.org\/94.png",
+            "scoreWinner": null,
+            "scoreFullTimeHome": null,
+            "scoreFullTimeAway": null
+        },
+        "544577": {
+            "utcDate": "2026-05-17T00:00:00Z",
+            "homeTeamName": "Real Sociedad de F\u00fatbol",
+            "awayTeamName": "Real Sociedad de F\u00fatbol",
+            "homeTeamCrest": "https:\/\/crests.football-data.org\/92.png",
+            "awayTeamCrest": "https:\/\/crests.football-data.org\/95.png",
+            "scoreWinner": null,
+            "scoreFullTimeHome": null,
+            "scoreFullTimeAway": null
+        },
+        "544578": {
+            "utcDate": "2026-05-17T00:00:00Z",
+            "homeTeamName": "Real Oviedo",
+            "awayTeamName": "Real Oviedo",
+            "homeTeamCrest": "https:\/\/crests.football-data.org\/1048.png",
+            "awayTeamCrest": "https:\/\/crests.football-data.org\/263.png",
+            "scoreWinner": null,
+            "scoreFullTimeHome": null,
+            "scoreFullTimeAway": null
+        },
+        "544579": {
+            "utcDate": "2026-05-17T00:00:00Z",
+            "homeTeamName": "CA Osasuna",
+            "awayTeamName": "CA Osasuna",
+            "homeTeamCrest": "https:\/\/crests.football-data.org\/79.png",
+            "awayTeamCrest": "https:\/\/crests.football-data.org\/80.png",
+            "scoreWinner": null,
+            "scoreFullTimeHome": null,
+            "scoreFullTimeAway": null
+        },
+        "544580": {
+            "utcDate": "2026-05-17T00:00:00Z",
+            "homeTeamName": "Sevilla FC",
+            "awayTeamName": "Sevilla FC",
+            "homeTeamCrest": "https:\/\/crests.football-data.org\/559.png",
+            "awayTeamCrest": "https:\/\/crests.football-data.org\/86.png",
+            "scoreWinner": null,
+            "scoreFullTimeHome": null,
+            "scoreFullTimeAway": null
+        },
+        "544581": {
+            "utcDate": "2026-05-24T00:00:00Z",
+            "homeTeamName": "Deportivo Alav\u00e9s",
+            "awayTeamName": "Deportivo Alav\u00e9s",
+            "homeTeamCrest": "https:\/\/crests.football-data.org\/263.png",
+            "awayTeamCrest": "https:\/\/crests.football-data.org\/87.png",
+            "scoreWinner": null,
+            "scoreFullTimeHome": null,
+            "scoreFullTimeAway": null
+        },
+        "544582": {
+            "utcDate": "2026-05-24T00:00:00Z",
+            "homeTeamName": "Real Betis Balompi\u00e9",
+            "awayTeamName": "Real Betis Balompi\u00e9",
+            "homeTeamCrest": "https:\/\/crests.football-data.org\/90.png",
+            "awayTeamCrest": "https:\/\/crests.football-data.org\/88.png",
+            "scoreWinner": null,
+            "scoreFullTimeHome": null,
+            "scoreFullTimeAway": null
+        },
+        "544583": {
+            "utcDate": "2026-05-24T00:00:00Z",
+            "homeTeamName": "RC Celta de Vigo",
+            "awayTeamName": "RC Celta de Vigo",
+            "homeTeamCrest": "https:\/\/crests.football-data.org\/558.png",
+            "awayTeamCrest": "https:\/\/crests.football-data.org\/559.png",
+            "scoreWinner": null,
+            "scoreFullTimeHome": null,
+            "scoreFullTimeAway": null
+        },
+        "544584": {
+            "utcDate": "2026-05-24T00:00:00Z",
+            "homeTeamName": "RCD Espanyol de Barcelona",
+            "awayTeamName": "RCD Espanyol de Barcelona",
+            "homeTeamCrest": "https:\/\/crests.football-data.org\/80.png",
+            "awayTeamCrest": "https:\/\/crests.football-data.org\/92.png",
+            "scoreWinner": null,
+            "scoreFullTimeHome": null,
+            "scoreFullTimeAway": null
+        },
+        "544585": {
+            "utcDate": "2026-05-24T00:00:00Z",
+            "homeTeamName": "Getafe CF",
+            "awayTeamName": "Getafe CF",
+            "homeTeamCrest": "https:\/\/crests.football-data.org\/82.png",
+            "awayTeamCrest": "https:\/\/crests.football-data.org\/79.png",
+            "scoreWinner": null,
+            "scoreFullTimeHome": null,
+            "scoreFullTimeAway": null
+        },
+        "544586": {
+            "utcDate": "2026-05-24T00:00:00Z",
+            "homeTeamName": "RCD Mallorca",
+            "awayTeamName": "RCD Mallorca",
+            "homeTeamCrest": "https:\/\/crests.football-data.org\/89.png",
+            "awayTeamCrest": "https:\/\/crests.football-data.org\/1048.png",
+            "scoreWinner": null,
+            "scoreFullTimeHome": null,
+            "scoreFullTimeAway": null
+        },
+        "544587": {
+            "utcDate": "2026-05-24T00:00:00Z",
+            "homeTeamName": "Real Madrid CF",
+            "awayTeamName": "Real Madrid CF",
+            "homeTeamCrest": "https:\/\/crests.football-data.org\/86.png",
+            "awayTeamCrest": "https:\/\/crests.football-data.org\/77.png",
+            "scoreWinner": null,
+            "scoreFullTimeHome": null,
+            "scoreFullTimeAway": null
+        },
+        "544588": {
+            "utcDate": "2026-05-24T00:00:00Z",
+            "homeTeamName": "Villarreal CF",
+            "awayTeamName": "Villarreal CF",
+            "homeTeamCrest": "https:\/\/crests.football-data.org\/94.png",
+            "awayTeamCrest": "https:\/\/crests.football-data.org\/78.png",
+            "scoreWinner": null,
+            "scoreFullTimeHome": null,
+            "scoreFullTimeAway": null
+        },
+        "544589": {
+            "utcDate": "2026-05-24T00:00:00Z",
+            "homeTeamName": "Valencia CF",
+            "awayTeamName": "Valencia CF",
+            "homeTeamCrest": "https:\/\/crests.football-data.org\/95.png",
+            "awayTeamCrest": "https:\/\/crests.football-data.org\/81.png",
+            "scoreWinner": null,
+            "scoreFullTimeHome": null,
+            "scoreFullTimeAway": null
+        },
+        "544590": {
+            "utcDate": "2026-05-24T00:00:00Z",
+            "homeTeamName": "Girona FC",
+            "awayTeamName": "Girona FC",
+            "homeTeamCrest": "https:\/\/crests.football-data.org\/298.png",
+            "awayTeamCrest": "https:\/\/crests.football-data.org\/285.png",
+            "scoreWinner": null,
+            "scoreFullTimeHome": null,
+            "scoreFullTimeAway": null
+        }
+    }
+}

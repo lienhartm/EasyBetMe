@@ -71,7 +71,10 @@
         <a href="index.php?action=infos" class="icon">INFOS</a>
         <a href="index.php?action=news" class="icon">ACTUS</a>
 
-    			
+        
+        
+                
+        
     	<a href="index.php?action=profile"><span  class="fa icon">&#xf007;</span></a>
 
         <a href="index.php?action=aide"><span class="fa icon">&#xf059;</span></a>
@@ -157,7 +160,7 @@
 
     function fetchMatches() {
 
-        const data = [];
+        const data = {"matches":[]};
 
 
     
@@ -312,7 +315,7 @@
                             <div class="team">
                                 <p class="intro">Votre pronostic :</p>
                                 <p class="score <br />
-<b>Notice</b>:  Undefined variable: class in <b>/var/www/html/view/home/home.php</b> on line <b>249</b><br />
+<b>Notice</b>:  Undefined variable: class in <b>/var/www/html/view/home/home.php</b> on line <b>246</b><br />
 ">${Check.score_d} - ${Check.score_v}</p>
                             </div>
                         `;

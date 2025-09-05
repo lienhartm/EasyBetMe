@@ -1,0 +1,94 @@
+{
+    "scorers": [
+        {
+            "firstName": "",
+            "lastName": "Adri Liso",
+            "playerTeamCrest": "https:\/\/crests.football-data.org\/82.png",
+            "playedMatches": 3,
+            "goals": 3,
+            "assists": null,
+            "penalties": null
+        },
+        {
+            "firstName": "Kylian",
+            "lastName": "Mbapp\u00e9",
+            "playerTeamCrest": "https:\/\/crests.football-data.org\/86.png",
+            "playedMatches": 3,
+            "goals": 3,
+            "assists": null,
+            "penalties": 1
+        },
+        {
+            "firstName": "Tajon",
+            "lastName": "Buchanan",
+            "playerTeamCrest": "https:\/\/crests.football-data.org\/94.png",
+            "playedMatches": 3,
+            "goals": 3,
+            "assists": null,
+            "penalties": null
+        },
+        {
+            "firstName": "",
+            "lastName": "Ferran Torres",
+            "playerTeamCrest": "https:\/\/crests.football-data.org\/81.png",
+            "playedMatches": 3,
+            "goals": 2,
+            "assists": null,
+            "penalties": null
+        },
+        {
+            "firstName": "",
+            "lastName": "Lamine Yamal",
+            "playerTeamCrest": "https:\/\/crests.football-data.org\/81.png",
+            "playedMatches": 3,
+            "goals": 2,
+            "assists": 2,
+            "penalties": 1
+        },
+        {
+            "firstName": "",
+            "lastName": "Pere Milla",
+            "playerTeamCrest": "https:\/\/crests.football-data.org\/80.png",
+            "playedMatches": 3,
+            "goals": 2,
+            "assists": null,
+            "penalties": null
+        },
+        {
+            "firstName": "",
+            "lastName": "Rafa Mir",
+            "playerTeamCrest": "https:\/\/crests.football-data.org\/285.png",
+            "playedMatches": 3,
+            "goals": 2,
+            "assists": null,
+            "penalties": null
+        },
+        {
+            "firstName": "Nicolas",
+            "lastName": "P\u00e9p\u00e9",
+            "playerTeamCrest": "https:\/\/crests.football-data.org\/94.png",
+            "playedMatches": 3,
+            "goals": 2,
+            "assists": 1,
+            "penalties": null
+        },
+        {
+            "firstName": "",
+            "lastName": "Vin\u00edcius Junior",
+            "playerTeamCrest": "https:\/\/crests.football-data.org\/86.png",
+            "playedMatches": 3,
+            "goals": 2,
+            "assists": 1,
+            "penalties": null
+        },
+        {
+            "firstName": "",
+            "lastName": "Jorge De Frutos",
+            "playerTeamCrest": "https:\/\/crests.football-data.org\/87.png",
+            "playedMatches": 3,
+            "goals": 1,
+            "assists": 1,
+            "penalties": null
+        }
+    ]
+}

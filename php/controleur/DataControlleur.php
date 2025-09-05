@@ -21,6 +21,15 @@ class DataControlleur {
         
     }
 
+    public function writeJson($path, $file) {
+
+        if(!file_put_contents($path, json_encode($file, JSON_PRETTY_PRINT))) {
+            throw new Exception("Erreur lors de l'écriture dans le fichier $filename");
+        }
+        return;
+
+    }
+
 }
 
 ?>

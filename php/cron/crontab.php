@@ -17,9 +17,9 @@ function logMessage($message) {
 
 // enregistrement
 logMessage(str_repeat("=", 49));
-logMessage(" - ##### Démarrage de la tâche cron - EasyBet Crontab ##### - ");
+logMessage("- ##### Démarrage de la tâche cron - EasyBet Crontab");
 logMessage(str_repeat("=", 49));
-logMessage(" - ##### Gestion des fichiers de logs ##### - ");
+logMessage("- ##### Gestion des fichiers de logs");
 $logDir = '/var/www/html/logfile/';
 $maxSize = 109400; // 100 Ko
 
@@ -75,11 +75,11 @@ try {
 } catch (Exception $e) {
     logMessage('Erreur : ' . $e->getMessage());
 } finally {
-    logMessage(" - ##### Fin de la gestion des fichiers de logs ##### - ");
+    logMessage("- ##### Fin de la gestion des fichiers de logs");
 }
 
     logMessage(str_repeat("=", 49));
-    logMessage(" - ##### Gestion des fichiers datas ##### - ");
+    logMessage("- ##### Gestion des fichiers datas");
 
     $a = 0;
     date_default_timezone_set('Europe/Paris');
@@ -127,11 +127,11 @@ try {
 } catch (Exception $e) {
     logMessage('Erreur : ' . $e->getMessage());
 } finally {
-    logMessage(" - ##### Fin de la gestion des fichiers datas ##### - ");
+    logMessage("- ##### Fin de la gestion des fichiers datas");
 }
 
 logMessage(str_repeat("=", 49));
-logMessage(" - ##### Récupération des données API ##### - ");
+logMessage("- ##### Récupération des données API");
 logMessage("| " . str_pad("Nb", 4) . " | " . str_pad("Url", 80) . " | " . str_pad("Filename", 40) . " | " . str_pad("Filesize", 10) . " | " . str_pad('Status', 8) . " |");
 
 // fonction pour les requêtes
@@ -161,19 +161,49 @@ function matches(&$a, $token, $url, $filename, $directory) {
                 $filtered = array_filter($data['competitions'], function($comp) {
                     return in_array($comp['code'], ['PL', 'CL', 'FL1', 'BL1', 'SA', 'PD', 'WC']);
                 });
-                $data['filters']['client'] = 'MonWebPro - EasyBet';
-                $data['count']  = count($filtered);
+
                 $data['competitions'] = array_values($filtered);
+
+                foreach($data['competitions'] as $competition) {
+                    $id = $competition['id'];
+                    $code = $competition['code'];
+                    $name = $competition['name'];
+                    $emblem = $competition['emblem'];
+                    $areaName = $competition['area']['name'];
+                    $areaFlag = $competition['area']['flag'];
+                    $startDate = $competition['currentSeason']['startDate'];
+                    $endDate = $competition['currentSeason']['endDate'];
+                    $currentMatchday = $competition['currentSeason']['currentMatchday'];
+
+                    $file["competitions"][$id] = array(
+                        "code" => $code,
+                        "name" => $name,
+                        "emblem" => $emblem,
+                        "areaName" => $areaName,
+                        "areaFlag" => $areaFlag,
+                        "startDate" => $startDate,
+                        "endDate" => $endDate,
+                        "currentMatchday" => $currentMatchday
+                    );
+
+                }
+
+                //$path = "../json/competitions.json";
+
+                //$ctrl->writeJson($path, $file);
+
                 break;
             default:
                 $filtered = array_filter($data['matches'], function($match) {
                     return in_array($match['competition']['code'], ['PL', 'CL', 'FL1', 'BL1', 'SA', 'PD', 'WC']);
                 });
-                $data['matches'] = array_values($filtered);
+                $file['matches'] = array_values($filtered);
                 break;
         }
+
+
         
-        if(!file_put_contents($directory . $filename, json_encode($data, JSON_PRETTY_PRINT))) {
+        if(!file_put_contents($directory . $filename, json_encode($file, JSON_PRETTY_PRINT))) {
             throw new Exception("Erreur lors de l'écriture dans le fichier $filename");
         }
 
@@ -203,10 +233,99 @@ function fetchData(&$a, $token, $url, $filename, $directory) {
         }
 
         ++$a;
-        $data = json_decode($response, true);
+        $json = json_decode($response, true);
 
         if (json_last_error() !== JSON_ERROR_NONE) {
             throw new Exception('Erreur lors du décodage du JSON : ' . json_last_error_msg());
+        }
+
+        $state = explode("-",$filename)[0];
+
+        switch($state) {
+            case 'standings':
+
+                $data['standings'] = $json['standings'][0]['table'];
+
+                break;
+            case 'scorers':
+                $date = null;
+                foreach($json['scorers'] as $scorer) {
+                    $firstName = $scorer['player']['firstName'];
+                    $lastName = $scorer['player']['lastName'];
+                    $playerTeamCrest = $scorer['team']['crest'];
+                    $playedMatches = $scorer['playedMatches'];
+                    $goals = $scorer['goals'];
+                    $assists = $scorer['assists'];
+                    $penalties = $scorer['penalties'];
+
+                    $data['scorers'][] = array(
+                        "firstName" => $firstName,
+                        "lastName" => $lastName,
+                        "playerTeamCrest" => $playerTeamCrest,
+                        "playedMatches" => $playedMatches,
+                        "goals" => $goals,
+                        "assists" => $assists,
+                        "penalties" => $penalties
+                    );
+                };
+
+                break;
+            case 'matches':
+
+                $date = null;
+                foreach($json['matches'] as $matche) {
+                    $id = $matche['id'];
+                    $utcDate = $matche['utcDate'];
+                    $homeTeamName = $matche['homeTeam']['name'];
+                    $awayTeamName = $matche['awayTeam']['name'];
+                    $homeTeamCrest = $matche['homeTeam']['crest'];
+                    $awayTeamCrest = $matche['awayTeam']['crest'];
+                    $scoreWinner = $matche['score']['winner'];
+                    $scoreFullTimeHome = $matche['score']['fullTime']['home'];
+                    $scoreFullTimeAway = $matche['score']['fullTime']['away'];
+
+                    $data['matches'][$id] = array(
+                        "utcDate" => $utcDate,
+                        "homeTeamName" => $homeTeamName,
+                        "awayTeamName" => $homeTeamName,
+                        "homeTeamCrest" => $homeTeamCrest,
+                        "awayTeamCrest" => $awayTeamCrest,
+                        "scoreWinner" => $scoreWinner,
+                        "scoreFullTimeHome" => $scoreFullTimeHome,
+                        "scoreFullTimeAway" => $scoreFullTimeAway
+                    );
+
+                }
+
+                break;
+            case 'info':
+
+                $date = null;
+                foreach($json['seasons'] as $season) {
+                    if($season['winner'] != null) {
+                        $startDate = $season['startDate'];
+                        $endDate = $season['endDate'];
+                        $winnerName = $season['winner']['name'];
+                        $winnerCrest = $season['winner']['crest'];
+
+                        $data['seasons'][] = array(
+                            "startDate" => $startDate,
+                            "endDate" => $endDate,
+                            "winnerName" => $winnerName,
+                            "winnerCrest" => $winnerCrest
+                        );
+
+                    }
+
+                }
+
+                //$path = "../json/seasons-". $code . ".json";
+
+                break;
+            default:
+                throw new Exception('No files');
+                break;
+
         }
 
         if(!file_put_contents($directory . $filename, json_encode($data, JSON_PRETTY_PRINT))) {
@@ -224,10 +343,10 @@ $competitions = ['PL', 'CL', 'FL1', 'BL1', 'SA', 'PD', 'WC'];
 
 // Fetch competition data
 foreach ($competitions as $code) {
-    fetchData($a, $token, "https://api.football-data.org/v4/competitions/$code", "competition-info-$code.json", $directory);
-    fetchData($a, $token, "https://api.football-data.org/v4/competitions/$code/matches?year=$year", "competition-matches-$code-$year.json", $directory);
-    fetchData($a, $token, "https://api.football-data.org/v4/competitions/$code/standings?year=$year", "competition-standings-$code-$year.json", $directory);
-    fetchData($a, $token, "https://api.football-data.org/v4/competitions/$code/scorers?year=$year", "competition-scorers-$code-$year.json", $directory);
+    fetchData($a, $token, "https://api.football-data.org/v4/competitions/$code", "info-$code.json", $directory);
+    fetchData($a, $token, "https://api.football-data.org/v4/competitions/$code/matches?year=$year", "matches-$code.json", $directory);
+    fetchData($a, $token, "https://api.football-data.org/v4/competitions/$code/standings?year=$year", "standings-$code.json", $directory);
+    fetchData($a, $token, "https://api.football-data.org/v4/competitions/$code/scorers?year=$year", "scorers-$code.json", $directory);
 }
 
 //// récupération des dernières nouvelles de football !
@@ -299,11 +418,14 @@ try {
 } catch (Exception $e) {
     logMessage('Erreur : ' . $e->getMessage());
 } finally {
-    logMessage(" - ##### Fin récupération des données API ##### - ");
+    logMessage("- ##### Fin récupération des données API");
 }
 
 logMessage(str_repeat("=", 49));
-logMessage(' - ##### Mise à jour de la base de données ##### - ');
+logMessage('- ##### Mise à jour de la base de données');
+
+/// wait 10 secondes
+sleep(10);
 
 /*
 Mettre à jour les données dans la base de données
@@ -316,6 +438,7 @@ $db_name = 'easybet';  // Nom de la base de données
 $db_login = 'monwebpro';  // Identifiant utilisateur
 $db_password = 'toor';  // Mot de passe8';
 
+// conexion à la base de données avec gestion des erreurs
 try {
 	$db = new PDO('mysql:host='.$db_server.';dbname='.$db_name.';charset=utf8', $db_login, $db_password);
 	$db->setAttribute(PDO::ATTR_ERRMODE, PDO::ERRMODE_EXCEPTION);
@@ -328,6 +451,7 @@ catch (PDOException $e) {
 
 $total = 0;
 
+// Récupérer les paris en attente de résultat
 try {
     $Paris = $db->query('SELECT * FROM easybet_bets WHERE result IS NULL AND DATE(date) != CURDATE()');
     $Paris = $Paris->fetchAll(PDO::FETCH_ASSOC);
@@ -337,6 +461,7 @@ try {
     die($errorMessage);
 }
 
+// Récupérer l'event en cours
 try {
     $currentDate = date('Y-m-d');
     $Events = $db->query('SELECT * FROM easybet_events ORDER BY datedebut ASC LIMIT 1');
@@ -347,6 +472,7 @@ try {
     die($errorMessage);
 }
 
+// Récupérer les gamers et leur classement
 try {    
     $Gamers = $db->query('SELECT * FROM easybet_gamers ORDER BY event_points DESC');
     $Gamers = $Gamers->fetchAll(PDO::FETCH_ASSOC);
@@ -380,12 +506,16 @@ try {
             $path = "/var/www/html/data/matches-" . date("Y-m-d", strtotime($Pari['date'])) . ".json";
         
             if (!file_exists($path)) {
+                continue;
+                // logMessage("Le fichier n'existe pas : " . $path);
                 throw new Exception("Le fichier n'existe pas : " . $path);
             }
             
             $myfile = fopen($path, "r");
 
             if (!$myfile) {
+                continue;
+                // logMessage("Impossible d'ouvrir le fichier $path !");
                 throw new Exception("Impossible d'ouvrir le fichier $path !");
             }
 
@@ -396,6 +526,8 @@ try {
             $data = $data['matches'];
             
             if (json_last_error() !== JSON_ERROR_NONE) {
+                continue;
+                // logMessage('Erreur lors du décodage du JSON : ' . json_last_error_msg());
                 throw new Exception('Erreur lors du décodage du JSON : ' . json_last_error_msg());
             }
 
@@ -484,17 +616,17 @@ if (isset($Events) && !empty($Events)) {
         try {
             // Supprimer les GAMERS
             $delete = $db->prepare('DELETE FROM easybet_gamers');
-            if($delete->execute()) {
+            if(!$delete->execute()) {
                 throw new Exception("Erreur lors de la suppression des gamers !");
             }
-            // Supprimer l' event
+            // Supprimer l' EVENTS
             $deleteEvent = $db->prepare('DELETE FROM easybet_events WHERE datefin < :datefin');
-            if($deleteEvent->execute([':datefin' => date('Y-m-d')])) {
+            if(!$deleteEvent->execute([':datefin' => date('Y-m-d')])) {
                 throw new Exception("Erreur lors de la suppression de l'event !");
             }
-            // Supprimer les paris < 15 jours
+            // Supprimer les BETS < 15 jours
             $deletePari = $db->prepare('DELETE FROM easybet_bets WHERE date < :date');
-            if($deletePari->execute([':date' => date('Y-m-d', strtotime('-15 days'))])) {
+            if(!$deletePari->execute([':date' => date('Y-m-d', strtotime('-15 days'))])) {
                 throw new Exception("Erreur lors de la suppression des paris !");
             }
         } catch (Exception $e) {
@@ -505,11 +637,13 @@ if (isset($Events) && !empty($Events)) {
     }
 }
 
-logMessage(" - ##### Fin mise à jour de la base de données ##### - ");
+logMessage("- ##### Fin mise à jour de la base de données");
 logMessage(str_repeat("=", 49));
 /* test response page */
-logMessage(' - ##### Test de la page d\'accueil ##### - ');
-sleep(60);
+logMessage('- ##### Test de la page d\'accueil');
+
+///// wait 10 secondes
+sleep(10);
 
 $url = "http://localhost/";
 
@@ -551,12 +685,7 @@ try {
         // Afficher les en-têtes de la réponse (si nécessaire)
         file_put_contents("/var/www/html/logfile/header.log", $headers);
         file_put_contents("/var/www/html/logfile/body.log", $body);
-
-        if ($httpCode >= 200 && $httpCode < 300) {
-            logMessage("La page d'accueil est accessible et a répondu avec succès.");
-        } else {
-            throw new Exception("La page d'accueil n'est pas accessible. Code HTTP : $httpCode");
-        }
+        
     }
 
     // Fermer la session cURL
@@ -564,14 +693,14 @@ try {
 } catch (Exception $e) {
     logMessage('Erreur : ' . $e->getMessage());
 } finally {
-    logMessage(" - ##### Fin test de la page d'accueil ##### - ");
+    logMessage("- ##### Fin test de la page d'accueil");
 }
 
 $response = null;
 $url = null;
 
 logMessage(str_repeat("=", 49));
-logMessage(" - ##### Fin de la tâche cron - EasyBet Crontab ##### - ");
+logMessage("- ##### Fin de la tâche cron - EasyBet Crontab");
 logMessage(str_repeat("=", 49));
 
 ?>

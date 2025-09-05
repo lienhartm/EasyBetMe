@@ -1,0 +1,3064 @@
+{
+    "matches": {
+        "542414": {
+            "utcDate": "2025-08-15T18:45:00Z",
+            "homeTeamName": "Stade Rennais FC 1901",
+            "awayTeamName": "Stade Rennais FC 1901",
+            "homeTeamCrest": "https:\/\/crests.football-data.org\/529.png",
+            "awayTeamCrest": "https:\/\/crests.football-data.org\/516.png",
+            "scoreWinner": "HOME_TEAM",
+            "scoreFullTimeHome": 1,
+            "scoreFullTimeAway": 0
+        },
+        "542411": {
+            "utcDate": "2025-08-16T15:00:00Z",
+            "homeTeamName": "Racing Club de Lens",
+            "awayTeamName": "Racing Club de Lens",
+            "homeTeamCrest": "https:\/\/crests.football-data.org\/546.png",
+            "awayTeamCrest": "https:\/\/crests.football-data.org\/523.png",
+            "scoreWinner": "AWAY_TEAM",
+            "scoreFullTimeHome": 0,
+            "scoreFullTimeAway": 1
+        },
+        "542407": {
+            "utcDate": "2025-08-16T17:00:00Z",
+            "homeTeamName": "AS Monaco FC",
+            "awayTeamName": "AS Monaco FC",
+            "homeTeamCrest": "https:\/\/crests.football-data.org\/548.png",
+            "awayTeamCrest": "https:\/\/crests.football-data.org\/533.png",
+            "scoreWinner": "HOME_TEAM",
+            "scoreFullTimeHome": 3,
+            "scoreFullTimeAway": 1
+        },
+        "542410": {
+            "utcDate": "2025-08-16T19:05:00Z",
+            "homeTeamName": "OGC Nice",
+            "awayTeamName": "OGC Nice",
+            "homeTeamCrest": "https:\/\/crests.football-data.org\/522.png",
+            "awayTeamCrest": "https:\/\/crests.football-data.org\/511.png",
+            "scoreWinner": "AWAY_TEAM",
+            "scoreFullTimeHome": 0,
+            "scoreFullTimeAway": 1
+        },
+        "542413": {
+            "utcDate": "2025-08-17T13:00:00Z",
+            "homeTeamName": "Stade Brestois 29",
+            "awayTeamName": "Stade Brestois 29",
+            "homeTeamCrest": "https:\/\/crests.football-data.org\/512.png",
+            "awayTeamCrest": "https:\/\/crests.football-data.org\/521.png",
+            "scoreWinner": "DRAW",
+            "scoreFullTimeHome": 3,
+            "scoreFullTimeAway": 3
+        },
+        "542406": {
+            "utcDate": "2025-08-17T15:15:00Z",
+            "homeTeamName": "AJ Auxerre",
+            "awayTeamName": "AJ Auxerre",
+            "homeTeamCrest": "https:\/\/crests.football-data.org\/519.png",
+            "awayTeamCrest": "https:\/\/crests.football-data.org\/525.png",
+            "scoreWinner": "HOME_TEAM",
+            "scoreFullTimeHome": 1,
+            "scoreFullTimeAway": 0
+        },
+        "542408": {
+            "utcDate": "2025-08-17T15:15:00Z",
+            "homeTeamName": "FC Metz",
+            "awayTeamName": "FC Metz",
+            "homeTeamCrest": "https:\/\/crests.football-data.org\/545.png",
+            "awayTeamCrest": "https:\/\/crests.football-data.org\/576.png",
+            "scoreWinner": "AWAY_TEAM",
+            "scoreFullTimeHome": 0,
+            "scoreFullTimeAway": 1
+        },
+        "542412": {
+            "utcDate": "2025-08-17T15:15:00Z",
+            "homeTeamName": "Angers SCO",
+            "awayTeamName": "Angers SCO",
+            "homeTeamCrest": "https:\/\/crests.football-data.org\/532.png",
+            "awayTeamCrest": "https:\/\/crests.football-data.org\/1045.png",
+            "scoreWinner": "HOME_TEAM",
+            "scoreFullTimeHome": 1,
+            "scoreFullTimeAway": 0
+        },
+        "542409": {
+            "utcDate": "2025-08-17T18:45:00Z",
+            "homeTeamName": "FC Nantes",
+            "awayTeamName": "FC Nantes",
+            "homeTeamCrest": "https:\/\/crests.football-data.org\/543.png",
+            "awayTeamCrest": "https:\/\/crests.football-data.org\/524.png",
+            "scoreWinner": "AWAY_TEAM",
+            "scoreFullTimeHome": 0,
+            "scoreFullTimeAway": 1
+        },
+        "542422": {
+            "utcDate": "2025-08-22T18:45:00Z",
+            "homeTeamName": "Paris Saint-Germain FC",
+            "awayTeamName": "Paris Saint-Germain FC",
+            "homeTeamCrest": "https:\/\/crests.football-data.org\/524.png",
+            "awayTeamCrest": "https:\/\/crests.football-data.org\/532.png",
+            "scoreWinner": "HOME_TEAM",
+            "scoreFullTimeHome": 1,
+            "scoreFullTimeAway": 0
+        },
+        "542420": {
+            "utcDate": "2025-08-23T15:00:00Z",
+            "homeTeamName": "Olympique de Marseille",
+            "awayTeamName": "Olympique de Marseille",
+            "homeTeamCrest": "https:\/\/crests.football-data.org\/516.png",
+            "awayTeamCrest": "https:\/\/crests.football-data.org\/1045.png",
+            "scoreWinner": "HOME_TEAM",
+            "scoreFullTimeHome": 5,
+            "scoreFullTimeAway": 2
+        },
+        "542418": {
+            "utcDate": "2025-08-23T17:00:00Z",
+            "homeTeamName": "OGC Nice",
+            "awayTeamName": "OGC Nice",
+            "homeTeamCrest": "https:\/\/crests.football-data.org\/522.png",
+            "awayTeamCrest": "https:\/\/crests.football-data.org\/519.png",
+            "scoreWinner": "HOME_TEAM",
+            "scoreFullTimeHome": 3,
+            "scoreFullTimeAway": 1
+        },
+        "542419": {
+            "utcDate": "2025-08-23T19:05:00Z",
+            "homeTeamName": "Olympique Lyonnais",
+            "awayTeamName": "Olympique Lyonnais",
+            "homeTeamCrest": "https:\/\/crests.football-data.org\/523.png",
+            "awayTeamCrest": "https:\/\/crests.football-data.org\/545.png",
+            "scoreWinner": "HOME_TEAM",
+            "scoreFullTimeHome": 3,
+            "scoreFullTimeAway": 0
+        },
+        "542416": {
+            "utcDate": "2025-08-24T13:00:00Z",
+            "homeTeamName": "FC Lorient",
+            "awayTeamName": "FC Lorient",
+            "homeTeamCrest": "https:\/\/crests.football-data.org\/525.png",
+            "awayTeamCrest": "https:\/\/crests.football-data.org\/529.png",
+            "scoreWinner": "HOME_TEAM",
+            "scoreFullTimeHome": 4,
+            "scoreFullTimeAway": 0
+        },
+        "542415": {
+            "utcDate": "2025-08-24T15:15:00Z",
+            "homeTeamName": "Le Havre AC",
+            "awayTeamName": "Le Havre AC",
+            "homeTeamCrest": "https:\/\/crests.football-data.org\/533.png",
+            "awayTeamCrest": "https:\/\/crests.football-data.org\/546.png",
+            "scoreWinner": "AWAY_TEAM",
+            "scoreFullTimeHome": 1,
+            "scoreFullTimeAway": 2
+        },
+        "542417": {
+            "utcDate": "2025-08-24T15:15:00Z",
+            "homeTeamName": "Toulouse FC",
+            "awayTeamName": "Toulouse FC",
+            "homeTeamCrest": "https:\/\/crests.football-data.org\/511.png",
+            "awayTeamCrest": "https:\/\/crests.football-data.org\/512.png",
+            "scoreWinner": "HOME_TEAM",
+            "scoreFullTimeHome": 2,
+            "scoreFullTimeAway": 0
+        },
+        "542423": {
+            "utcDate": "2025-08-24T15:15:00Z",
+            "homeTeamName": "RC Strasbourg Alsace",
+            "awayTeamName": "RC Strasbourg Alsace",
+            "homeTeamCrest": "https:\/\/crests.football-data.org\/576.png",
+            "awayTeamCrest": "https:\/\/crests.football-data.org\/543.png",
+            "scoreWinner": "HOME_TEAM",
+            "scoreFullTimeHome": 1,
+            "scoreFullTimeAway": 0
+        },
+        "542421": {
+            "utcDate": "2025-08-24T18:45:00Z",
+            "homeTeamName": "Lille OSC",
+            "awayTeamName": "Lille OSC",
+            "homeTeamCrest": "https:\/\/crests.football-data.org\/521.png",
+            "awayTeamCrest": "https:\/\/crests.football-data.org\/548.png",
+            "scoreWinner": "HOME_TEAM",
+            "scoreFullTimeHome": 1,
+            "scoreFullTimeAway": 0
+        },
+        "542431": {
+            "utcDate": "2025-08-29T18:45:00Z",
+            "homeTeamName": "Racing Club de Lens",
+            "awayTeamName": "Racing Club de Lens",
+            "homeTeamCrest": "https:\/\/crests.football-data.org\/546.png",
+            "awayTeamCrest": "https:\/\/crests.football-data.org\/512.png",
+            "scoreWinner": "HOME_TEAM",
+            "scoreFullTimeHome": 3,
+            "scoreFullTimeAway": 1
+        },
+        "542426": {
+            "utcDate": "2025-08-30T15:00:00Z",
+            "homeTeamName": "FC Lorient",
+            "awayTeamName": "FC Lorient",
+            "homeTeamCrest": "https:\/\/crests.football-data.org\/525.png",
+            "awayTeamCrest": "https:\/\/crests.football-data.org\/521.png",
+            "scoreWinner": "AWAY_TEAM",
+            "scoreFullTimeHome": 1,
+            "scoreFullTimeAway": 7
+        },
+        "542427": {
+            "utcDate": "2025-08-30T17:00:00Z",
+            "homeTeamName": "FC Nantes",
+            "awayTeamName": "FC Nantes",
+            "homeTeamCrest": "https:\/\/crests.football-data.org\/543.png",
+            "awayTeamCrest": "https:\/\/crests.football-data.org\/519.png",
+            "scoreWinner": "HOME_TEAM",
+            "scoreFullTimeHome": 1,
+            "scoreFullTimeAway": 0
+        },
+        "542429": {
+            "utcDate": "2025-08-30T19:05:00Z",
+            "homeTeamName": "Toulouse FC",
+            "awayTeamName": "Toulouse FC",
+            "homeTeamCrest": "https:\/\/crests.football-data.org\/511.png",
+            "awayTeamCrest": "https:\/\/crests.football-data.org\/524.png",
+            "scoreWinner": "AWAY_TEAM",
+            "scoreFullTimeHome": 3,
+            "scoreFullTimeAway": 6
+        },
+        "542432": {
+            "utcDate": "2025-08-31T13:00:00Z",
+            "homeTeamName": "Angers SCO",
+            "awayTeamName": "Angers SCO",
+            "homeTeamCrest": "https:\/\/crests.football-data.org\/532.png",
+            "awayTeamCrest": "https:\/\/crests.football-data.org\/529.png",
+            "scoreWinner": "DRAW",
+            "scoreFullTimeHome": 1,
+            "scoreFullTimeAway": 1
+        },
+        "542424": {
+            "utcDate": "2025-08-31T15:15:00Z",
+            "homeTeamName": "Le Havre AC",
+            "awayTeamName": "Le Havre AC",
+            "homeTeamCrest": "https:\/\/crests.football-data.org\/533.png",
+            "awayTeamCrest": "https:\/\/crests.football-data.org\/522.png",
+            "scoreWinner": "HOME_TEAM",
+            "scoreFullTimeHome": 3,
+            "scoreFullTimeAway": 1
+        },
+        "542425": {
+            "utcDate": "2025-08-31T15:15:00Z",
+            "homeTeamName": "AS Monaco FC",
+            "awayTeamName": "AS Monaco FC",
+            "homeTeamCrest": "https:\/\/crests.football-data.org\/548.png",
+            "awayTeamCrest": "https:\/\/crests.football-data.org\/576.png",
+            "scoreWinner": "HOME_TEAM",
+            "scoreFullTimeHome": 3,
+            "scoreFullTimeAway": 2
+        },
+        "542428": {
+            "utcDate": "2025-08-31T15:15:00Z",
+            "homeTeamName": "Paris FC",
+            "awayTeamName": "Paris FC",
+            "homeTeamCrest": "https:\/\/crests.football-data.org\/1045.png",
+            "awayTeamCrest": "https:\/\/crests.football-data.org\/545.png",
+            "scoreWinner": "HOME_TEAM",
+            "scoreFullTimeHome": 3,
+            "scoreFullTimeAway": 2
+        },
+        "542430": {
+            "utcDate": "2025-08-31T18:45:00Z",
+            "homeTeamName": "Olympique Lyonnais",
+            "awayTeamName": "Olympique Lyonnais",
+            "homeTeamCrest": "https:\/\/crests.football-data.org\/523.png",
+            "awayTeamCrest": "https:\/\/crests.football-data.org\/516.png",
+            "scoreWinner": "HOME_TEAM",
+            "scoreFullTimeHome": 1,
+            "scoreFullTimeAway": 0
+        },
+        "542436": {
+            "utcDate": "2025-09-12T18:45:00Z",
+            "homeTeamName": "Olympique de Marseille",
+            "awayTeamName": "Olympique de Marseille",
+            "homeTeamCrest": "https:\/\/crests.football-data.org\/516.png",
+            "awayTeamCrest": "https:\/\/crests.football-data.org\/525.png",
+            "scoreWinner": null,
+            "scoreFullTimeHome": null,
+            "scoreFullTimeAway": null
+        },
+        "542435": {
+            "utcDate": "2025-09-13T15:00:00Z",
+            "homeTeamName": "OGC Nice",
+            "awayTeamName": "OGC Nice",
+            "homeTeamCrest": "https:\/\/crests.football-data.org\/522.png",
+            "awayTeamCrest": "https:\/\/crests.football-data.org\/543.png",
+            "scoreWinner": null,
+            "scoreFullTimeHome": null,
+            "scoreFullTimeAway": null
+        },
+        "542439": {
+            "utcDate": "2025-09-13T17:00:00Z",
+            "homeTeamName": "RC Strasbourg Alsace",
+            "awayTeamName": "RC Strasbourg Alsace",
+            "homeTeamCrest": "https:\/\/crests.football-data.org\/576.png",
+            "awayTeamCrest": "https:\/\/crests.football-data.org\/533.png",
+            "scoreWinner": null,
+            "scoreFullTimeHome": null,
+            "scoreFullTimeAway": null
+        },
+        "542433": {
+            "utcDate": "2025-09-13T19:05:00Z",
+            "homeTeamName": "AJ Auxerre",
+            "awayTeamName": "AJ Auxerre",
+            "homeTeamCrest": "https:\/\/crests.football-data.org\/519.png",
+            "awayTeamCrest": "https:\/\/crests.football-data.org\/548.png",
+            "scoreWinner": null,
+            "scoreFullTimeHome": null,
+            "scoreFullTimeAway": null
+        },
+        "542437": {
+            "utcDate": "2025-09-14T13:00:00Z",
+            "homeTeamName": "Lille OSC",
+            "awayTeamName": "Lille OSC",
+            "homeTeamCrest": "https:\/\/crests.football-data.org\/521.png",
+            "awayTeamCrest": "https:\/\/crests.football-data.org\/511.png",
+            "scoreWinner": null,
+            "scoreFullTimeHome": null,
+            "scoreFullTimeAway": null
+        },
+        "542434": {
+            "utcDate": "2025-09-14T15:15:00Z",
+            "homeTeamName": "FC Metz",
+            "awayTeamName": "FC Metz",
+            "homeTeamCrest": "https:\/\/crests.football-data.org\/545.png",
+            "awayTeamCrest": "https:\/\/crests.football-data.org\/532.png",
+            "scoreWinner": null,
+            "scoreFullTimeHome": null,
+            "scoreFullTimeAway": null
+        },
+        "542438": {
+            "utcDate": "2025-09-14T15:15:00Z",
+            "homeTeamName": "Paris Saint-Germain FC",
+            "awayTeamName": "Paris Saint-Germain FC",
+            "homeTeamCrest": "https:\/\/crests.football-data.org\/524.png",
+            "awayTeamCrest": "https:\/\/crests.football-data.org\/546.png",
+            "scoreWinner": null,
+            "scoreFullTimeHome": null,
+            "scoreFullTimeAway": null
+        },
+        "542440": {
+            "utcDate": "2025-09-14T15:15:00Z",
+            "homeTeamName": "Stade Brestois 29",
+            "awayTeamName": "Stade Brestois 29",
+            "homeTeamCrest": "https:\/\/crests.football-data.org\/512.png",
+            "awayTeamCrest": "https:\/\/crests.football-data.org\/1045.png",
+            "scoreWinner": null,
+            "scoreFullTimeHome": null,
+            "scoreFullTimeAway": null
+        },
+        "542441": {
+            "utcDate": "2025-09-14T18:45:00Z",
+            "homeTeamName": "Stade Rennais FC 1901",
+            "awayTeamName": "Stade Rennais FC 1901",
+            "homeTeamCrest": "https:\/\/crests.football-data.org\/529.png",
+            "awayTeamCrest": "https:\/\/crests.football-data.org\/523.png",
+            "scoreWinner": null,
+            "scoreFullTimeHome": null,
+            "scoreFullTimeAway": null
+        },
+        "542448": {
+            "utcDate": "2025-09-19T18:45:00Z",
+            "homeTeamName": "Olympique Lyonnais",
+            "awayTeamName": "Olympique Lyonnais",
+            "homeTeamCrest": "https:\/\/crests.football-data.org\/523.png",
+            "awayTeamCrest": "https:\/\/crests.football-data.org\/532.png",
+            "scoreWinner": null,
+            "scoreFullTimeHome": null,
+            "scoreFullTimeAway": null
+        },
+        "542445": {
+            "utcDate": "2025-09-20T15:00:00Z",
+            "homeTeamName": "FC Nantes",
+            "awayTeamName": "FC Nantes",
+            "homeTeamCrest": "https:\/\/crests.football-data.org\/543.png",
+            "awayTeamCrest": "https:\/\/crests.football-data.org\/529.png",
+            "scoreWinner": null,
+            "scoreFullTimeHome": null,
+            "scoreFullTimeAway": null
+        },
+        "542450": {
+            "utcDate": "2025-09-20T17:00:00Z",
+            "homeTeamName": "Stade Brestois 29",
+            "awayTeamName": "Stade Brestois 29",
+            "homeTeamCrest": "https:\/\/crests.football-data.org\/512.png",
+            "awayTeamCrest": "https:\/\/crests.football-data.org\/522.png",
+            "scoreWinner": null,
+            "scoreFullTimeHome": null,
+            "scoreFullTimeAway": null
+        },
+        "542449": {
+            "utcDate": "2025-09-20T19:05:00Z",
+            "homeTeamName": "Racing Club de Lens",
+            "awayTeamName": "Racing Club de Lens",
+            "homeTeamCrest": "https:\/\/crests.football-data.org\/546.png",
+            "awayTeamCrest": "https:\/\/crests.football-data.org\/521.png",
+            "scoreWinner": null,
+            "scoreFullTimeHome": null,
+            "scoreFullTimeAway": null
+        },
+        "542446": {
+            "utcDate": "2025-09-21T13:00:00Z",
+            "homeTeamName": "Paris FC",
+            "awayTeamName": "Paris FC",
+            "homeTeamCrest": "https:\/\/crests.football-data.org\/1045.png",
+            "awayTeamCrest": "https:\/\/crests.football-data.org\/576.png",
+            "scoreWinner": null,
+            "scoreFullTimeHome": null,
+            "scoreFullTimeAway": null
+        },
+        "542442": {
+            "utcDate": "2025-09-21T15:15:00Z",
+            "homeTeamName": "Le Havre AC",
+            "awayTeamName": "Le Havre AC",
+            "homeTeamCrest": "https:\/\/crests.football-data.org\/533.png",
+            "awayTeamCrest": "https:\/\/crests.football-data.org\/525.png",
+            "scoreWinner": null,
+            "scoreFullTimeHome": null,
+            "scoreFullTimeAway": null
+        },
+        "542443": {
+            "utcDate": "2025-09-21T15:15:00Z",
+            "homeTeamName": "AJ Auxerre",
+            "awayTeamName": "AJ Auxerre",
+            "homeTeamCrest": "https:\/\/crests.football-data.org\/519.png",
+            "awayTeamCrest": "https:\/\/crests.football-data.org\/511.png",
+            "scoreWinner": null,
+            "scoreFullTimeHome": null,
+            "scoreFullTimeAway": null
+        },
+        "542444": {
+            "utcDate": "2025-09-21T15:15:00Z",
+            "homeTeamName": "AS Monaco FC",
+            "awayTeamName": "AS Monaco FC",
+            "homeTeamCrest": "https:\/\/crests.football-data.org\/548.png",
+            "awayTeamCrest": "https:\/\/crests.football-data.org\/545.png",
+            "scoreWinner": null,
+            "scoreFullTimeHome": null,
+            "scoreFullTimeAway": null
+        },
+        "542447": {
+            "utcDate": "2025-09-21T18:45:00Z",
+            "homeTeamName": "Olympique de Marseille",
+            "awayTeamName": "Olympique de Marseille",
+            "homeTeamCrest": "https:\/\/crests.football-data.org\/516.png",
+            "awayTeamCrest": "https:\/\/crests.football-data.org\/524.png",
+            "scoreWinner": null,
+            "scoreFullTimeHome": null,
+            "scoreFullTimeAway": null
+        },
+        "542451": {
+            "utcDate": "2025-09-28T00:00:00Z",
+            "homeTeamName": "FC Lorient",
+            "awayTeamName": "FC Lorient",
+            "homeTeamCrest": "https:\/\/crests.football-data.org\/525.png",
+            "awayTeamCrest": "https:\/\/crests.football-data.org\/548.png",
+            "scoreWinner": null,
+            "scoreFullTimeHome": null,
+            "scoreFullTimeAway": null
+        },
+        "542452": {
+            "utcDate": "2025-09-28T00:00:00Z",
+            "homeTeamName": "FC Metz",
+            "awayTeamName": "FC Metz",
+            "homeTeamCrest": "https:\/\/crests.football-data.org\/545.png",
+            "awayTeamCrest": "https:\/\/crests.football-data.org\/533.png",
+            "scoreWinner": null,
+            "scoreFullTimeHome": null,
+            "scoreFullTimeAway": null
+        },
+        "542453": {
+            "utcDate": "2025-09-28T00:00:00Z",
+            "homeTeamName": "Toulouse FC",
+            "awayTeamName": "Toulouse FC",
+            "homeTeamCrest": "https:\/\/crests.football-data.org\/511.png",
+            "awayTeamCrest": "https:\/\/crests.football-data.org\/543.png",
+            "scoreWinner": null,
+            "scoreFullTimeHome": null,
+            "scoreFullTimeAway": null
+        },
+        "542454": {
+            "utcDate": "2025-09-28T00:00:00Z",
+            "homeTeamName": "OGC Nice",
+            "awayTeamName": "OGC Nice",
+            "homeTeamCrest": "https:\/\/crests.football-data.org\/522.png",
+            "awayTeamCrest": "https:\/\/crests.football-data.org\/1045.png",
+            "scoreWinner": null,
+            "scoreFullTimeHome": null,
+            "scoreFullTimeAway": null
+        },
+        "542455": {
+            "utcDate": "2025-09-28T00:00:00Z",
+            "homeTeamName": "Lille OSC",
+            "awayTeamName": "Lille OSC",
+            "homeTeamCrest": "https:\/\/crests.football-data.org\/521.png",
+            "awayTeamCrest": "https:\/\/crests.football-data.org\/523.png",
+            "scoreWinner": null,
+            "scoreFullTimeHome": null,
+            "scoreFullTimeAway": null
+        },
+        "542456": {
+            "utcDate": "2025-09-28T00:00:00Z",
+            "homeTeamName": "Paris Saint-Germain FC",
+            "awayTeamName": "Paris Saint-Germain FC",
+            "homeTeamCrest": "https:\/\/crests.football-data.org\/524.png",
+            "awayTeamCrest": "https:\/\/crests.football-data.org\/519.png",
+            "scoreWinner": null,
+            "scoreFullTimeHome": null,
+            "scoreFullTimeAway": null
+        },
+        "542457": {
+            "utcDate": "2025-09-28T00:00:00Z",
+            "homeTeamName": "RC Strasbourg Alsace",
+            "awayTeamName": "RC Strasbourg Alsace",
+            "homeTeamCrest": "https:\/\/crests.football-data.org\/576.png",
+            "awayTeamCrest": "https:\/\/crests.football-data.org\/516.png",
+            "scoreWinner": null,
+            "scoreFullTimeHome": null,
+            "scoreFullTimeAway": null
+        },
+        "542458": {
+            "utcDate": "2025-09-28T00:00:00Z",
+            "homeTeamName": "Angers SCO",
+            "awayTeamName": "Angers SCO",
+            "homeTeamCrest": "https:\/\/crests.football-data.org\/532.png",
+            "awayTeamCrest": "https:\/\/crests.football-data.org\/512.png",
+            "scoreWinner": null,
+            "scoreFullTimeHome": null,
+            "scoreFullTimeAway": null
+        },
+        "542459": {
+            "utcDate": "2025-09-28T00:00:00Z",
+            "homeTeamName": "Stade Rennais FC 1901",
+            "awayTeamName": "Stade Rennais FC 1901",
+            "homeTeamCrest": "https:\/\/crests.football-data.org\/529.png",
+            "awayTeamCrest": "https:\/\/crests.football-data.org\/546.png",
+            "scoreWinner": null,
+            "scoreFullTimeHome": null,
+            "scoreFullTimeAway": null
+        },
+        "542464": {
+            "utcDate": "2025-10-03T18:45:00Z",
+            "homeTeamName": "Paris FC",
+            "awayTeamName": "Paris FC",
+            "homeTeamCrest": "https:\/\/crests.football-data.org\/1045.png",
+            "awayTeamCrest": "https:\/\/crests.football-data.org\/525.png",
+            "scoreWinner": null,
+            "scoreFullTimeHome": null,
+            "scoreFullTimeAway": null
+        },
+        "542463": {
+            "utcDate": "2025-10-04T15:00:00Z",
+            "homeTeamName": "FC Metz",
+            "awayTeamName": "FC Metz",
+            "homeTeamCrest": "https:\/\/crests.football-data.org\/545.png",
+            "awayTeamCrest": "https:\/\/crests.football-data.org\/516.png",
+            "scoreWinner": null,
+            "scoreFullTimeHome": null,
+            "scoreFullTimeAway": null
+        },
+        "542468": {
+            "utcDate": "2025-10-04T17:00:00Z",
+            "homeTeamName": "Stade Brestois 29",
+            "awayTeamName": "Stade Brestois 29",
+            "homeTeamCrest": "https:\/\/crests.football-data.org\/512.png",
+            "awayTeamCrest": "https:\/\/crests.football-data.org\/543.png",
+            "scoreWinner": null,
+            "scoreFullTimeHome": null,
+            "scoreFullTimeAway": null
+        },
+        "542461": {
+            "utcDate": "2025-10-04T19:05:00Z",
+            "homeTeamName": "AJ Auxerre",
+            "awayTeamName": "AJ Auxerre",
+            "homeTeamCrest": "https:\/\/crests.football-data.org\/519.png",
+            "awayTeamCrest": "https:\/\/crests.football-data.org\/546.png",
+            "scoreWinner": null,
+            "scoreFullTimeHome": null,
+            "scoreFullTimeAway": null
+        },
+        "542465": {
+            "utcDate": "2025-10-05T13:00:00Z",
+            "homeTeamName": "Olympique Lyonnais",
+            "awayTeamName": "Olympique Lyonnais",
+            "homeTeamCrest": "https:\/\/crests.football-data.org\/523.png",
+            "awayTeamCrest": "https:\/\/crests.football-data.org\/511.png",
+            "scoreWinner": null,
+            "scoreFullTimeHome": null,
+            "scoreFullTimeAway": null
+        },
+        "542467": {
+            "utcDate": "2025-10-05T15:15:00Z",
+            "homeTeamName": "RC Strasbourg Alsace",
+            "awayTeamName": "RC Strasbourg Alsace",
+            "homeTeamCrest": "https:\/\/crests.football-data.org\/576.png",
+            "awayTeamCrest": "https:\/\/crests.football-data.org\/532.png",
+            "scoreWinner": null,
+            "scoreFullTimeHome": null,
+            "scoreFullTimeAway": null
+        },
+        "542460": {
+            "utcDate": "2025-10-05T15:15:00Z",
+            "homeTeamName": "Le Havre AC",
+            "awayTeamName": "Le Havre AC",
+            "homeTeamCrest": "https:\/\/crests.football-data.org\/533.png",
+            "awayTeamCrest": "https:\/\/crests.football-data.org\/529.png",
+            "scoreWinner": null,
+            "scoreFullTimeHome": null,
+            "scoreFullTimeAway": null
+        },
+        "542462": {
+            "utcDate": "2025-10-05T15:15:00Z",
+            "homeTeamName": "AS Monaco FC",
+            "awayTeamName": "AS Monaco FC",
+            "homeTeamCrest": "https:\/\/crests.football-data.org\/548.png",
+            "awayTeamCrest": "https:\/\/crests.football-data.org\/522.png",
+            "scoreWinner": null,
+            "scoreFullTimeHome": null,
+            "scoreFullTimeAway": null
+        },
+        "542466": {
+            "utcDate": "2025-10-05T18:45:00Z",
+            "homeTeamName": "Lille OSC",
+            "awayTeamName": "Lille OSC",
+            "homeTeamCrest": "https:\/\/crests.football-data.org\/521.png",
+            "awayTeamCrest": "https:\/\/crests.football-data.org\/524.png",
+            "scoreWinner": null,
+            "scoreFullTimeHome": null,
+            "scoreFullTimeAway": null
+        },
+        "542469": {
+            "utcDate": "2025-10-19T00:00:00Z",
+            "homeTeamName": "FC Lorient",
+            "awayTeamName": "FC Lorient",
+            "homeTeamCrest": "https:\/\/crests.football-data.org\/525.png",
+            "awayTeamCrest": "https:\/\/crests.football-data.org\/512.png",
+            "scoreWinner": null,
+            "scoreFullTimeHome": null,
+            "scoreFullTimeAway": null
+        },
+        "542470": {
+            "utcDate": "2025-10-19T00:00:00Z",
+            "homeTeamName": "FC Nantes",
+            "awayTeamName": "FC Nantes",
+            "homeTeamCrest": "https:\/\/crests.football-data.org\/543.png",
+            "awayTeamCrest": "https:\/\/crests.football-data.org\/521.png",
+            "scoreWinner": null,
+            "scoreFullTimeHome": null,
+            "scoreFullTimeAway": null
+        },
+        "542471": {
+            "utcDate": "2025-10-19T00:00:00Z",
+            "homeTeamName": "Toulouse FC",
+            "awayTeamName": "Toulouse FC",
+            "homeTeamCrest": "https:\/\/crests.football-data.org\/511.png",
+            "awayTeamCrest": "https:\/\/crests.football-data.org\/545.png",
+            "scoreWinner": null,
+            "scoreFullTimeHome": null,
+            "scoreFullTimeAway": null
+        },
+        "542472": {
+            "utcDate": "2025-10-19T00:00:00Z",
+            "homeTeamName": "OGC Nice",
+            "awayTeamName": "OGC Nice",
+            "homeTeamCrest": "https:\/\/crests.football-data.org\/522.png",
+            "awayTeamCrest": "https:\/\/crests.football-data.org\/523.png",
+            "scoreWinner": null,
+            "scoreFullTimeHome": null,
+            "scoreFullTimeAway": null
+        },
+        "542473": {
+            "utcDate": "2025-10-19T00:00:00Z",
+            "homeTeamName": "Olympique de Marseille",
+            "awayTeamName": "Olympique de Marseille",
+            "homeTeamCrest": "https:\/\/crests.football-data.org\/516.png",
+            "awayTeamCrest": "https:\/\/crests.football-data.org\/533.png",
+            "scoreWinner": null,
+            "scoreFullTimeHome": null,
+            "scoreFullTimeAway": null
+        },
+        "542474": {
+            "utcDate": "2025-10-19T00:00:00Z",
+            "homeTeamName": "Paris Saint-Germain FC",
+            "awayTeamName": "Paris Saint-Germain FC",
+            "homeTeamCrest": "https:\/\/crests.football-data.org\/524.png",
+            "awayTeamCrest": "https:\/\/crests.football-data.org\/576.png",
+            "scoreWinner": null,
+            "scoreFullTimeHome": null,
+            "scoreFullTimeAway": null
+        },
+        "542475": {
+            "utcDate": "2025-10-19T00:00:00Z",
+            "homeTeamName": "Racing Club de Lens",
+            "awayTeamName": "Racing Club de Lens",
+            "homeTeamCrest": "https:\/\/crests.football-data.org\/546.png",
+            "awayTeamCrest": "https:\/\/crests.football-data.org\/1045.png",
+            "scoreWinner": null,
+            "scoreFullTimeHome": null,
+            "scoreFullTimeAway": null
+        },
+        "542476": {
+            "utcDate": "2025-10-19T00:00:00Z",
+            "homeTeamName": "Angers SCO",
+            "awayTeamName": "Angers SCO",
+            "homeTeamCrest": "https:\/\/crests.football-data.org\/532.png",
+            "awayTeamCrest": "https:\/\/crests.football-data.org\/548.png",
+            "scoreWinner": null,
+            "scoreFullTimeHome": null,
+            "scoreFullTimeAway": null
+        },
+        "542477": {
+            "utcDate": "2025-10-19T00:00:00Z",
+            "homeTeamName": "Stade Rennais FC 1901",
+            "awayTeamName": "Stade Rennais FC 1901",
+            "homeTeamCrest": "https:\/\/crests.football-data.org\/529.png",
+            "awayTeamCrest": "https:\/\/crests.football-data.org\/519.png",
+            "scoreWinner": null,
+            "scoreFullTimeHome": null,
+            "scoreFullTimeAway": null
+        },
+        "542478": {
+            "utcDate": "2025-10-26T00:00:00Z",
+            "homeTeamName": "AJ Auxerre",
+            "awayTeamName": "AJ Auxerre",
+            "homeTeamCrest": "https:\/\/crests.football-data.org\/519.png",
+            "awayTeamCrest": "https:\/\/crests.football-data.org\/533.png",
+            "scoreWinner": null,
+            "scoreFullTimeHome": null,
+            "scoreFullTimeAway": null
+        },
+        "542479": {
+            "utcDate": "2025-10-26T00:00:00Z",
+            "homeTeamName": "AS Monaco FC",
+            "awayTeamName": "AS Monaco FC",
+            "homeTeamCrest": "https:\/\/crests.football-data.org\/548.png",
+            "awayTeamCrest": "https:\/\/crests.football-data.org\/511.png",
+            "scoreWinner": null,
+            "scoreFullTimeHome": null,
+            "scoreFullTimeAway": null
+        },
+        "542480": {
+            "utcDate": "2025-10-26T00:00:00Z",
+            "homeTeamName": "Paris FC",
+            "awayTeamName": "Paris FC",
+            "homeTeamCrest": "https:\/\/crests.football-data.org\/1045.png",
+            "awayTeamCrest": "https:\/\/crests.football-data.org\/543.png",
+            "scoreWinner": null,
+            "scoreFullTimeHome": null,
+            "scoreFullTimeAway": null
+        },
+        "542481": {
+            "utcDate": "2025-10-26T00:00:00Z",
+            "homeTeamName": "Olympique Lyonnais",
+            "awayTeamName": "Olympique Lyonnais",
+            "homeTeamCrest": "https:\/\/crests.football-data.org\/523.png",
+            "awayTeamCrest": "https:\/\/crests.football-data.org\/576.png",
+            "scoreWinner": null,
+            "scoreFullTimeHome": null,
+            "scoreFullTimeAway": null
+        },
+        "542482": {
+            "utcDate": "2025-10-26T00:00:00Z",
+            "homeTeamName": "Lille OSC",
+            "awayTeamName": "Lille OSC",
+            "homeTeamCrest": "https:\/\/crests.football-data.org\/521.png",
+            "awayTeamCrest": "https:\/\/crests.football-data.org\/545.png",
+            "scoreWinner": null,
+            "scoreFullTimeHome": null,
+            "scoreFullTimeAway": null
+        },
+        "542483": {
+            "utcDate": "2025-10-26T00:00:00Z",
+            "homeTeamName": "Racing Club de Lens",
+            "awayTeamName": "Racing Club de Lens",
+            "homeTeamCrest": "https:\/\/crests.football-data.org\/546.png",
+            "awayTeamCrest": "https:\/\/crests.football-data.org\/516.png",
+            "scoreWinner": null,
+            "scoreFullTimeHome": null,
+            "scoreFullTimeAway": null
+        },
+        "542484": {
+            "utcDate": "2025-10-26T00:00:00Z",
+            "homeTeamName": "Angers SCO",
+            "awayTeamName": "Angers SCO",
+            "homeTeamCrest": "https:\/\/crests.football-data.org\/532.png",
+            "awayTeamCrest": "https:\/\/crests.football-data.org\/525.png",
+            "scoreWinner": null,
+            "scoreFullTimeHome": null,
+            "scoreFullTimeAway": null
+        },
+        "542485": {
+            "utcDate": "2025-10-26T00:00:00Z",
+            "homeTeamName": "Stade Brestois 29",
+            "awayTeamName": "Stade Brestois 29",
+            "homeTeamCrest": "https:\/\/crests.football-data.org\/512.png",
+            "awayTeamCrest": "https:\/\/crests.football-data.org\/524.png",
+            "scoreWinner": null,
+            "scoreFullTimeHome": null,
+            "scoreFullTimeAway": null
+        },
+        "542486": {
+            "utcDate": "2025-10-26T00:00:00Z",
+            "homeTeamName": "Stade Rennais FC 1901",
+            "awayTeamName": "Stade Rennais FC 1901",
+            "homeTeamCrest": "https:\/\/crests.football-data.org\/529.png",
+            "awayTeamCrest": "https:\/\/crests.football-data.org\/522.png",
+            "scoreWinner": null,
+            "scoreFullTimeHome": null,
+            "scoreFullTimeAway": null
+        },
+        "542487": {
+            "utcDate": "2025-10-29T00:00:00Z",
+            "homeTeamName": "Le Havre AC",
+            "awayTeamName": "Le Havre AC",
+            "homeTeamCrest": "https:\/\/crests.football-data.org\/533.png",
+            "awayTeamCrest": "https:\/\/crests.football-data.org\/512.png",
+            "scoreWinner": null,
+            "scoreFullTimeHome": null,
+            "scoreFullTimeAway": null
+        },
+        "542488": {
+            "utcDate": "2025-10-29T00:00:00Z",
+            "homeTeamName": "FC Lorient",
+            "awayTeamName": "FC Lorient",
+            "homeTeamCrest": "https:\/\/crests.football-data.org\/525.png",
+            "awayTeamCrest": "https:\/\/crests.football-data.org\/524.png",
+            "scoreWinner": null,
+            "scoreFullTimeHome": null,
+            "scoreFullTimeAway": null
+        },
+        "542489": {
+            "utcDate": "2025-10-29T00:00:00Z",
+            "homeTeamName": "FC Metz",
+            "awayTeamName": "FC Metz",
+            "homeTeamCrest": "https:\/\/crests.football-data.org\/545.png",
+            "awayTeamCrest": "https:\/\/crests.football-data.org\/546.png",
+            "scoreWinner": null,
+            "scoreFullTimeHome": null,
+            "scoreFullTimeAway": null
+        },
+        "542490": {
+            "utcDate": "2025-10-29T00:00:00Z",
+            "homeTeamName": "FC Nantes",
+            "awayTeamName": "FC Nantes",
+            "homeTeamCrest": "https:\/\/crests.football-data.org\/543.png",
+            "awayTeamCrest": "https:\/\/crests.football-data.org\/548.png",
+            "scoreWinner": null,
+            "scoreFullTimeHome": null,
+            "scoreFullTimeAway": null
+        },
+        "542491": {
+            "utcDate": "2025-10-29T00:00:00Z",
+            "homeTeamName": "Paris FC",
+            "awayTeamName": "Paris FC",
+            "homeTeamCrest": "https:\/\/crests.football-data.org\/1045.png",
+            "awayTeamCrest": "https:\/\/crests.football-data.org\/523.png",
+            "scoreWinner": null,
+            "scoreFullTimeHome": null,
+            "scoreFullTimeAway": null
+        },
+        "542492": {
+            "utcDate": "2025-10-29T00:00:00Z",
+            "homeTeamName": "Toulouse FC",
+            "awayTeamName": "Toulouse FC",
+            "homeTeamCrest": "https:\/\/crests.football-data.org\/511.png",
+            "awayTeamCrest": "https:\/\/crests.football-data.org\/529.png",
+            "scoreWinner": null,
+            "scoreFullTimeHome": null,
+            "scoreFullTimeAway": null
+        },
+        "542493": {
+            "utcDate": "2025-10-29T00:00:00Z",
+            "homeTeamName": "OGC Nice",
+            "awayTeamName": "OGC Nice",
+            "homeTeamCrest": "https:\/\/crests.football-data.org\/522.png",
+            "awayTeamCrest": "https:\/\/crests.football-data.org\/521.png",
+            "scoreWinner": null,
+            "scoreFullTimeHome": null,
+            "scoreFullTimeAway": null
+        },
+        "542494": {
+            "utcDate": "2025-10-29T00:00:00Z",
+            "homeTeamName": "Olympique de Marseille",
+            "awayTeamName": "Olympique de Marseille",
+            "homeTeamCrest": "https:\/\/crests.football-data.org\/516.png",
+            "awayTeamCrest": "https:\/\/crests.football-data.org\/532.png",
+            "scoreWinner": null,
+            "scoreFullTimeHome": null,
+            "scoreFullTimeAway": null
+        },
+        "542495": {
+            "utcDate": "2025-10-29T00:00:00Z",
+            "homeTeamName": "RC Strasbourg Alsace",
+            "awayTeamName": "RC Strasbourg Alsace",
+            "homeTeamCrest": "https:\/\/crests.football-data.org\/576.png",
+            "awayTeamCrest": "https:\/\/crests.football-data.org\/519.png",
+            "scoreWinner": null,
+            "scoreFullTimeHome": null,
+            "scoreFullTimeAway": null
+        },
+        "542496": {
+            "utcDate": "2025-11-02T00:00:00Z",
+            "homeTeamName": "AJ Auxerre",
+            "awayTeamName": "AJ Auxerre",
+            "homeTeamCrest": "https:\/\/crests.football-data.org\/519.png",
+            "awayTeamCrest": "https:\/\/crests.football-data.org\/516.png",
+            "scoreWinner": null,
+            "scoreFullTimeHome": null,
+            "scoreFullTimeAway": null
+        },
+        "542497": {
+            "utcDate": "2025-11-02T00:00:00Z",
+            "homeTeamName": "AS Monaco FC",
+            "awayTeamName": "AS Monaco FC",
+            "homeTeamCrest": "https:\/\/crests.football-data.org\/548.png",
+            "awayTeamCrest": "https:\/\/crests.football-data.org\/1045.png",
+            "scoreWinner": null,
+            "scoreFullTimeHome": null,
+            "scoreFullTimeAway": null
+        },
+        "542498": {
+            "utcDate": "2025-11-02T00:00:00Z",
+            "homeTeamName": "FC Nantes",
+            "awayTeamName": "FC Nantes",
+            "homeTeamCrest": "https:\/\/crests.football-data.org\/543.png",
+            "awayTeamCrest": "https:\/\/crests.football-data.org\/545.png",
+            "scoreWinner": null,
+            "scoreFullTimeHome": null,
+            "scoreFullTimeAway": null
+        },
+        "542499": {
+            "utcDate": "2025-11-02T00:00:00Z",
+            "homeTeamName": "Toulouse FC",
+            "awayTeamName": "Toulouse FC",
+            "homeTeamCrest": "https:\/\/crests.football-data.org\/511.png",
+            "awayTeamCrest": "https:\/\/crests.football-data.org\/533.png",
+            "scoreWinner": null,
+            "scoreFullTimeHome": null,
+            "scoreFullTimeAway": null
+        },
+        "542500": {
+            "utcDate": "2025-11-02T00:00:00Z",
+            "homeTeamName": "Lille OSC",
+            "awayTeamName": "Lille OSC",
+            "homeTeamCrest": "https:\/\/crests.football-data.org\/521.png",
+            "awayTeamCrest": "https:\/\/crests.football-data.org\/532.png",
+            "scoreWinner": null,
+            "scoreFullTimeHome": null,
+            "scoreFullTimeAway": null
+        },
+        "542501": {
+            "utcDate": "2025-11-02T00:00:00Z",
+            "homeTeamName": "Paris Saint-Germain FC",
+            "awayTeamName": "Paris Saint-Germain FC",
+            "homeTeamCrest": "https:\/\/crests.football-data.org\/524.png",
+            "awayTeamCrest": "https:\/\/crests.football-data.org\/522.png",
+            "scoreWinner": null,
+            "scoreFullTimeHome": null,
+            "scoreFullTimeAway": null
+        },
+        "542502": {
+            "utcDate": "2025-11-02T00:00:00Z",
+            "homeTeamName": "Racing Club de Lens",
+            "awayTeamName": "Racing Club de Lens",
+            "homeTeamCrest": "https:\/\/crests.football-data.org\/546.png",
+            "awayTeamCrest": "https:\/\/crests.football-data.org\/525.png",
+            "scoreWinner": null,
+            "scoreFullTimeHome": null,
+            "scoreFullTimeAway": null
+        },
+        "542503": {
+            "utcDate": "2025-11-02T00:00:00Z",
+            "homeTeamName": "Stade Brestois 29",
+            "awayTeamName": "Stade Brestois 29",
+            "homeTeamCrest": "https:\/\/crests.football-data.org\/512.png",
+            "awayTeamCrest": "https:\/\/crests.football-data.org\/523.png",
+            "scoreWinner": null,
+            "scoreFullTimeHome": null,
+            "scoreFullTimeAway": null
+        },
+        "542504": {
+            "utcDate": "2025-11-02T00:00:00Z",
+            "homeTeamName": "Stade Rennais FC 1901",
+            "awayTeamName": "Stade Rennais FC 1901",
+            "homeTeamCrest": "https:\/\/crests.football-data.org\/529.png",
+            "awayTeamCrest": "https:\/\/crests.football-data.org\/576.png",
+            "scoreWinner": null,
+            "scoreFullTimeHome": null,
+            "scoreFullTimeAway": null
+        },
+        "542505": {
+            "utcDate": "2025-11-09T00:00:00Z",
+            "homeTeamName": "Le Havre AC",
+            "awayTeamName": "Le Havre AC",
+            "homeTeamCrest": "https:\/\/crests.football-data.org\/533.png",
+            "awayTeamCrest": "https:\/\/crests.football-data.org\/543.png",
+            "scoreWinner": null,
+            "scoreFullTimeHome": null,
+            "scoreFullTimeAway": null
+        },
+        "542506": {
+            "utcDate": "2025-11-09T00:00:00Z",
+            "homeTeamName": "AS Monaco FC",
+            "awayTeamName": "AS Monaco FC",
+            "homeTeamCrest": "https:\/\/crests.football-data.org\/548.png",
+            "awayTeamCrest": "https:\/\/crests.football-data.org\/546.png",
+            "scoreWinner": null,
+            "scoreFullTimeHome": null,
+            "scoreFullTimeAway": null
+        },
+        "542507": {
+            "utcDate": "2025-11-09T00:00:00Z",
+            "homeTeamName": "FC Lorient",
+            "awayTeamName": "FC Lorient",
+            "homeTeamCrest": "https:\/\/crests.football-data.org\/525.png",
+            "awayTeamCrest": "https:\/\/crests.football-data.org\/511.png",
+            "scoreWinner": null,
+            "scoreFullTimeHome": null,
+            "scoreFullTimeAway": null
+        },
+        "542508": {
+            "utcDate": "2025-11-09T00:00:00Z",
+            "homeTeamName": "FC Metz",
+            "awayTeamName": "FC Metz",
+            "homeTeamCrest": "https:\/\/crests.football-data.org\/545.png",
+            "awayTeamCrest": "https:\/\/crests.football-data.org\/522.png",
+            "scoreWinner": null,
+            "scoreFullTimeHome": null,
+            "scoreFullTimeAway": null
+        },
+        "542509": {
+            "utcDate": "2025-11-09T00:00:00Z",
+            "homeTeamName": "Paris FC",
+            "awayTeamName": "Paris FC",
+            "homeTeamCrest": "https:\/\/crests.football-data.org\/1045.png",
+            "awayTeamCrest": "https:\/\/crests.football-data.org\/529.png",
+            "scoreWinner": null,
+            "scoreFullTimeHome": null,
+            "scoreFullTimeAway": null
+        },
+        "542510": {
+            "utcDate": "2025-11-09T00:00:00Z",
+            "homeTeamName": "Olympique Lyonnais",
+            "awayTeamName": "Olympique Lyonnais",
+            "homeTeamCrest": "https:\/\/crests.football-data.org\/523.png",
+            "awayTeamCrest": "https:\/\/crests.football-data.org\/524.png",
+            "scoreWinner": null,
+            "scoreFullTimeHome": null,
+            "scoreFullTimeAway": null
+        },
+        "542511": {
+            "utcDate": "2025-11-09T00:00:00Z",
+            "homeTeamName": "Olympique de Marseille",
+            "awayTeamName": "Olympique de Marseille",
+            "homeTeamCrest": "https:\/\/crests.football-data.org\/516.png",
+            "awayTeamCrest": "https:\/\/crests.football-data.org\/512.png",
+            "scoreWinner": null,
+            "scoreFullTimeHome": null,
+            "scoreFullTimeAway": null
+        },
+        "542512": {
+            "utcDate": "2025-11-09T00:00:00Z",
+            "homeTeamName": "RC Strasbourg Alsace",
+            "awayTeamName": "RC Strasbourg Alsace",
+            "homeTeamCrest": "https:\/\/crests.football-data.org\/576.png",
+            "awayTeamCrest": "https:\/\/crests.football-data.org\/521.png",
+            "scoreWinner": null,
+            "scoreFullTimeHome": null,
+            "scoreFullTimeAway": null
+        },
+        "542513": {
+            "utcDate": "2025-11-09T00:00:00Z",
+            "homeTeamName": "Angers SCO",
+            "awayTeamName": "Angers SCO",
+            "homeTeamCrest": "https:\/\/crests.football-data.org\/532.png",
+            "awayTeamCrest": "https:\/\/crests.football-data.org\/519.png",
+            "scoreWinner": null,
+            "scoreFullTimeHome": null,
+            "scoreFullTimeAway": null
+        },
+        "542514": {
+            "utcDate": "2025-11-23T00:00:00Z",
+            "homeTeamName": "AJ Auxerre",
+            "awayTeamName": "AJ Auxerre",
+            "homeTeamCrest": "https:\/\/crests.football-data.org\/519.png",
+            "awayTeamCrest": "https:\/\/crests.football-data.org\/523.png",
+            "scoreWinner": null,
+            "scoreFullTimeHome": null,
+            "scoreFullTimeAway": null
+        },
+        "542515": {
+            "utcDate": "2025-11-23T00:00:00Z",
+            "homeTeamName": "FC Nantes",
+            "awayTeamName": "FC Nantes",
+            "homeTeamCrest": "https:\/\/crests.football-data.org\/543.png",
+            "awayTeamCrest": "https:\/\/crests.football-data.org\/525.png",
+            "scoreWinner": null,
+            "scoreFullTimeHome": null,
+            "scoreFullTimeAway": null
+        },
+        "542516": {
+            "utcDate": "2025-11-23T00:00:00Z",
+            "homeTeamName": "Toulouse FC",
+            "awayTeamName": "Toulouse FC",
+            "homeTeamCrest": "https:\/\/crests.football-data.org\/511.png",
+            "awayTeamCrest": "https:\/\/crests.football-data.org\/532.png",
+            "scoreWinner": null,
+            "scoreFullTimeHome": null,
+            "scoreFullTimeAway": null
+        },
+        "542517": {
+            "utcDate": "2025-11-23T00:00:00Z",
+            "homeTeamName": "OGC Nice",
+            "awayTeamName": "OGC Nice",
+            "homeTeamCrest": "https:\/\/crests.football-data.org\/522.png",
+            "awayTeamCrest": "https:\/\/crests.football-data.org\/516.png",
+            "scoreWinner": null,
+            "scoreFullTimeHome": null,
+            "scoreFullTimeAway": null
+        },
+        "542518": {
+            "utcDate": "2025-11-23T00:00:00Z",
+            "homeTeamName": "Lille OSC",
+            "awayTeamName": "Lille OSC",
+            "homeTeamCrest": "https:\/\/crests.football-data.org\/521.png",
+            "awayTeamCrest": "https:\/\/crests.football-data.org\/1045.png",
+            "scoreWinner": null,
+            "scoreFullTimeHome": null,
+            "scoreFullTimeAway": null
+        },
+        "542519": {
+            "utcDate": "2025-11-23T00:00:00Z",
+            "homeTeamName": "Paris Saint-Germain FC",
+            "awayTeamName": "Paris Saint-Germain FC",
+            "homeTeamCrest": "https:\/\/crests.football-data.org\/524.png",
+            "awayTeamCrest": "https:\/\/crests.football-data.org\/533.png",
+            "scoreWinner": null,
+            "scoreFullTimeHome": null,
+            "scoreFullTimeAway": null
+        },
+        "542520": {
+            "utcDate": "2025-11-23T00:00:00Z",
+            "homeTeamName": "Racing Club de Lens",
+            "awayTeamName": "Racing Club de Lens",
+            "homeTeamCrest": "https:\/\/crests.football-data.org\/546.png",
+            "awayTeamCrest": "https:\/\/crests.football-data.org\/576.png",
+            "scoreWinner": null,
+            "scoreFullTimeHome": null,
+            "scoreFullTimeAway": null
+        },
+        "542521": {
+            "utcDate": "2025-11-23T00:00:00Z",
+            "homeTeamName": "Stade Brestois 29",
+            "awayTeamName": "Stade Brestois 29",
+            "homeTeamCrest": "https:\/\/crests.football-data.org\/512.png",
+            "awayTeamCrest": "https:\/\/crests.football-data.org\/545.png",
+            "scoreWinner": null,
+            "scoreFullTimeHome": null,
+            "scoreFullTimeAway": null
+        },
+        "542522": {
+            "utcDate": "2025-11-23T00:00:00Z",
+            "homeTeamName": "Stade Rennais FC 1901",
+            "awayTeamName": "Stade Rennais FC 1901",
+            "homeTeamCrest": "https:\/\/crests.football-data.org\/529.png",
+            "awayTeamCrest": "https:\/\/crests.football-data.org\/548.png",
+            "scoreWinner": null,
+            "scoreFullTimeHome": null,
+            "scoreFullTimeAway": null
+        },
+        "542523": {
+            "utcDate": "2025-11-30T00:00:00Z",
+            "homeTeamName": "Le Havre AC",
+            "awayTeamName": "Le Havre AC",
+            "homeTeamCrest": "https:\/\/crests.football-data.org\/533.png",
+            "awayTeamCrest": "https:\/\/crests.football-data.org\/521.png",
+            "scoreWinner": null,
+            "scoreFullTimeHome": null,
+            "scoreFullTimeAway": null
+        },
+        "542524": {
+            "utcDate": "2025-11-30T00:00:00Z",
+            "homeTeamName": "AS Monaco FC",
+            "awayTeamName": "AS Monaco FC",
+            "homeTeamCrest": "https:\/\/crests.football-data.org\/548.png",
+            "awayTeamCrest": "https:\/\/crests.football-data.org\/524.png",
+            "scoreWinner": null,
+            "scoreFullTimeHome": null,
+            "scoreFullTimeAway": null
+        },
+        "542525": {
+            "utcDate": "2025-11-30T00:00:00Z",
+            "homeTeamName": "FC Lorient",
+            "awayTeamName": "FC Lorient",
+            "homeTeamCrest": "https:\/\/crests.football-data.org\/525.png",
+            "awayTeamCrest": "https:\/\/crests.football-data.org\/522.png",
+            "scoreWinner": null,
+            "scoreFullTimeHome": null,
+            "scoreFullTimeAway": null
+        },
+        "542526": {
+            "utcDate": "2025-11-30T00:00:00Z",
+            "homeTeamName": "FC Metz",
+            "awayTeamName": "FC Metz",
+            "homeTeamCrest": "https:\/\/crests.football-data.org\/545.png",
+            "awayTeamCrest": "https:\/\/crests.football-data.org\/529.png",
+            "scoreWinner": null,
+            "scoreFullTimeHome": null,
+            "scoreFullTimeAway": null
+        },
+        "542527": {
+            "utcDate": "2025-11-30T00:00:00Z",
+            "homeTeamName": "Paris FC",
+            "awayTeamName": "Paris FC",
+            "homeTeamCrest": "https:\/\/crests.football-data.org\/1045.png",
+            "awayTeamCrest": "https:\/\/crests.football-data.org\/519.png",
+            "scoreWinner": null,
+            "scoreFullTimeHome": null,
+            "scoreFullTimeAway": null
+        },
+        "542528": {
+            "utcDate": "2025-11-30T00:00:00Z",
+            "homeTeamName": "Olympique Lyonnais",
+            "awayTeamName": "Olympique Lyonnais",
+            "homeTeamCrest": "https:\/\/crests.football-data.org\/523.png",
+            "awayTeamCrest": "https:\/\/crests.football-data.org\/543.png",
+            "scoreWinner": null,
+            "scoreFullTimeHome": null,
+            "scoreFullTimeAway": null
+        },
+        "542529": {
+            "utcDate": "2025-11-30T00:00:00Z",
+            "homeTeamName": "Olympique de Marseille",
+            "awayTeamName": "Olympique de Marseille",
+            "homeTeamCrest": "https:\/\/crests.football-data.org\/516.png",
+            "awayTeamCrest": "https:\/\/crests.football-data.org\/511.png",
+            "scoreWinner": null,
+            "scoreFullTimeHome": null,
+            "scoreFullTimeAway": null
+        },
+        "542530": {
+            "utcDate": "2025-11-30T00:00:00Z",
+            "homeTeamName": "RC Strasbourg Alsace",
+            "awayTeamName": "RC Strasbourg Alsace",
+            "homeTeamCrest": "https:\/\/crests.football-data.org\/576.png",
+            "awayTeamCrest": "https:\/\/crests.football-data.org\/512.png",
+            "scoreWinner": null,
+            "scoreFullTimeHome": null,
+            "scoreFullTimeAway": null
+        },
+        "542531": {
+            "utcDate": "2025-11-30T00:00:00Z",
+            "homeTeamName": "Angers SCO",
+            "awayTeamName": "Angers SCO",
+            "homeTeamCrest": "https:\/\/crests.football-data.org\/532.png",
+            "awayTeamCrest": "https:\/\/crests.football-data.org\/546.png",
+            "scoreWinner": null,
+            "scoreFullTimeHome": null,
+            "scoreFullTimeAway": null
+        },
+        "542532": {
+            "utcDate": "2025-12-07T00:00:00Z",
+            "homeTeamName": "Le Havre AC",
+            "awayTeamName": "Le Havre AC",
+            "homeTeamCrest": "https:\/\/crests.football-data.org\/533.png",
+            "awayTeamCrest": "https:\/\/crests.football-data.org\/1045.png",
+            "scoreWinner": null,
+            "scoreFullTimeHome": null,
+            "scoreFullTimeAway": null
+        },
+        "542533": {
+            "utcDate": "2025-12-07T00:00:00Z",
+            "homeTeamName": "AJ Auxerre",
+            "awayTeamName": "AJ Auxerre",
+            "homeTeamCrest": "https:\/\/crests.football-data.org\/519.png",
+            "awayTeamCrest": "https:\/\/crests.football-data.org\/545.png",
+            "scoreWinner": null,
+            "scoreFullTimeHome": null,
+            "scoreFullTimeAway": null
+        },
+        "542534": {
+            "utcDate": "2025-12-07T00:00:00Z",
+            "homeTeamName": "FC Lorient",
+            "awayTeamName": "FC Lorient",
+            "homeTeamCrest": "https:\/\/crests.football-data.org\/525.png",
+            "awayTeamCrest": "https:\/\/crests.football-data.org\/523.png",
+            "scoreWinner": null,
+            "scoreFullTimeHome": null,
+            "scoreFullTimeAway": null
+        },
+        "542535": {
+            "utcDate": "2025-12-07T00:00:00Z",
+            "homeTeamName": "FC Nantes",
+            "awayTeamName": "FC Nantes",
+            "homeTeamCrest": "https:\/\/crests.football-data.org\/543.png",
+            "awayTeamCrest": "https:\/\/crests.football-data.org\/546.png",
+            "scoreWinner": null,
+            "scoreFullTimeHome": null,
+            "scoreFullTimeAway": null
+        },
+        "542536": {
+            "utcDate": "2025-12-07T00:00:00Z",
+            "homeTeamName": "Toulouse FC",
+            "awayTeamName": "Toulouse FC",
+            "homeTeamCrest": "https:\/\/crests.football-data.org\/511.png",
+            "awayTeamCrest": "https:\/\/crests.football-data.org\/576.png",
+            "scoreWinner": null,
+            "scoreFullTimeHome": null,
+            "scoreFullTimeAway": null
+        },
+        "542537": {
+            "utcDate": "2025-12-07T00:00:00Z",
+            "homeTeamName": "OGC Nice",
+            "awayTeamName": "OGC Nice",
+            "homeTeamCrest": "https:\/\/crests.football-data.org\/522.png",
+            "awayTeamCrest": "https:\/\/crests.football-data.org\/532.png",
+            "scoreWinner": null,
+            "scoreFullTimeHome": null,
+            "scoreFullTimeAway": null
+        },
+        "542538": {
+            "utcDate": "2025-12-07T00:00:00Z",
+            "homeTeamName": "Lille OSC",
+            "awayTeamName": "Lille OSC",
+            "homeTeamCrest": "https:\/\/crests.football-data.org\/521.png",
+            "awayTeamCrest": "https:\/\/crests.football-data.org\/516.png",
+            "scoreWinner": null,
+            "scoreFullTimeHome": null,
+            "scoreFullTimeAway": null
+        },
+        "542539": {
+            "utcDate": "2025-12-07T00:00:00Z",
+            "homeTeamName": "Paris Saint-Germain FC",
+            "awayTeamName": "Paris Saint-Germain FC",
+            "homeTeamCrest": "https:\/\/crests.football-data.org\/524.png",
+            "awayTeamCrest": "https:\/\/crests.football-data.org\/529.png",
+            "scoreWinner": null,
+            "scoreFullTimeHome": null,
+            "scoreFullTimeAway": null
+        },
+        "542540": {
+            "utcDate": "2025-12-07T00:00:00Z",
+            "homeTeamName": "Stade Brestois 29",
+            "awayTeamName": "Stade Brestois 29",
+            "homeTeamCrest": "https:\/\/crests.football-data.org\/512.png",
+            "awayTeamCrest": "https:\/\/crests.football-data.org\/548.png",
+            "scoreWinner": null,
+            "scoreFullTimeHome": null,
+            "scoreFullTimeAway": null
+        },
+        "542541": {
+            "utcDate": "2025-12-14T00:00:00Z",
+            "homeTeamName": "AJ Auxerre",
+            "awayTeamName": "AJ Auxerre",
+            "homeTeamCrest": "https:\/\/crests.football-data.org\/519.png",
+            "awayTeamCrest": "https:\/\/crests.football-data.org\/521.png",
+            "scoreWinner": null,
+            "scoreFullTimeHome": null,
+            "scoreFullTimeAway": null
+        },
+        "542542": {
+            "utcDate": "2025-12-14T00:00:00Z",
+            "homeTeamName": "FC Metz",
+            "awayTeamName": "FC Metz",
+            "homeTeamCrest": "https:\/\/crests.football-data.org\/545.png",
+            "awayTeamCrest": "https:\/\/crests.football-data.org\/524.png",
+            "scoreWinner": null,
+            "scoreFullTimeHome": null,
+            "scoreFullTimeAway": null
+        },
+        "542543": {
+            "utcDate": "2025-12-14T00:00:00Z",
+            "homeTeamName": "Paris FC",
+            "awayTeamName": "Paris FC",
+            "homeTeamCrest": "https:\/\/crests.football-data.org\/1045.png",
+            "awayTeamCrest": "https:\/\/crests.football-data.org\/511.png",
+            "scoreWinner": null,
+            "scoreFullTimeHome": null,
+            "scoreFullTimeAway": null
+        },
+        "542544": {
+            "utcDate": "2025-12-14T00:00:00Z",
+            "homeTeamName": "Olympique Lyonnais",
+            "awayTeamName": "Olympique Lyonnais",
+            "homeTeamCrest": "https:\/\/crests.football-data.org\/523.png",
+            "awayTeamCrest": "https:\/\/crests.football-data.org\/533.png",
+            "scoreWinner": null,
+            "scoreFullTimeHome": null,
+            "scoreFullTimeAway": null
+        },
+        "542545": {
+            "utcDate": "2025-12-14T00:00:00Z",
+            "homeTeamName": "Olympique de Marseille",
+            "awayTeamName": "Olympique de Marseille",
+            "homeTeamCrest": "https:\/\/crests.football-data.org\/516.png",
+            "awayTeamCrest": "https:\/\/crests.football-data.org\/548.png",
+            "scoreWinner": null,
+            "scoreFullTimeHome": null,
+            "scoreFullTimeAway": null
+        },
+        "542546": {
+            "utcDate": "2025-12-14T00:00:00Z",
+            "homeTeamName": "RC Strasbourg Alsace",
+            "awayTeamName": "RC Strasbourg Alsace",
+            "homeTeamCrest": "https:\/\/crests.football-data.org\/576.png",
+            "awayTeamCrest": "https:\/\/crests.football-data.org\/525.png",
+            "scoreWinner": null,
+            "scoreFullTimeHome": null,
+            "scoreFullTimeAway": null
+        },
+        "542547": {
+            "utcDate": "2025-12-14T00:00:00Z",
+            "homeTeamName": "Racing Club de Lens",
+            "awayTeamName": "Racing Club de Lens",
+            "homeTeamCrest": "https:\/\/crests.football-data.org\/546.png",
+            "awayTeamCrest": "https:\/\/crests.football-data.org\/522.png",
+            "scoreWinner": null,
+            "scoreFullTimeHome": null,
+            "scoreFullTimeAway": null
+        },
+        "542548": {
+            "utcDate": "2025-12-14T00:00:00Z",
+            "homeTeamName": "Angers SCO",
+            "awayTeamName": "Angers SCO",
+            "homeTeamCrest": "https:\/\/crests.football-data.org\/532.png",
+            "awayTeamCrest": "https:\/\/crests.football-data.org\/543.png",
+            "scoreWinner": null,
+            "scoreFullTimeHome": null,
+            "scoreFullTimeAway": null
+        },
+        "542549": {
+            "utcDate": "2025-12-14T00:00:00Z",
+            "homeTeamName": "Stade Rennais FC 1901",
+            "awayTeamName": "Stade Rennais FC 1901",
+            "homeTeamCrest": "https:\/\/crests.football-data.org\/529.png",
+            "awayTeamCrest": "https:\/\/crests.football-data.org\/512.png",
+            "scoreWinner": null,
+            "scoreFullTimeHome": null,
+            "scoreFullTimeAway": null
+        },
+        "542550": {
+            "utcDate": "2026-01-04T00:00:00Z",
+            "homeTeamName": "Le Havre AC",
+            "awayTeamName": "Le Havre AC",
+            "homeTeamCrest": "https:\/\/crests.football-data.org\/533.png",
+            "awayTeamCrest": "https:\/\/crests.football-data.org\/532.png",
+            "scoreWinner": null,
+            "scoreFullTimeHome": null,
+            "scoreFullTimeAway": null
+        },
+        "542551": {
+            "utcDate": "2026-01-04T00:00:00Z",
+            "homeTeamName": "AS Monaco FC",
+            "awayTeamName": "AS Monaco FC",
+            "homeTeamCrest": "https:\/\/crests.football-data.org\/548.png",
+            "awayTeamCrest": "https:\/\/crests.football-data.org\/523.png",
+            "scoreWinner": null,
+            "scoreFullTimeHome": null,
+            "scoreFullTimeAway": null
+        },
+        "542552": {
+            "utcDate": "2026-01-04T00:00:00Z",
+            "homeTeamName": "FC Lorient",
+            "awayTeamName": "FC Lorient",
+            "homeTeamCrest": "https:\/\/crests.football-data.org\/525.png",
+            "awayTeamCrest": "https:\/\/crests.football-data.org\/545.png",
+            "scoreWinner": null,
+            "scoreFullTimeHome": null,
+            "scoreFullTimeAway": null
+        },
+        "542553": {
+            "utcDate": "2026-01-04T00:00:00Z",
+            "homeTeamName": "Toulouse FC",
+            "awayTeamName": "Toulouse FC",
+            "homeTeamCrest": "https:\/\/crests.football-data.org\/511.png",
+            "awayTeamCrest": "https:\/\/crests.football-data.org\/546.png",
+            "scoreWinner": null,
+            "scoreFullTimeHome": null,
+            "scoreFullTimeAway": null
+        },
+        "542554": {
+            "utcDate": "2026-01-04T00:00:00Z",
+            "homeTeamName": "OGC Nice",
+            "awayTeamName": "OGC Nice",
+            "homeTeamCrest": "https:\/\/crests.football-data.org\/522.png",
+            "awayTeamCrest": "https:\/\/crests.football-data.org\/576.png",
+            "scoreWinner": null,
+            "scoreFullTimeHome": null,
+            "scoreFullTimeAway": null
+        },
+        "542555": {
+            "utcDate": "2026-01-04T00:00:00Z",
+            "homeTeamName": "Olympique de Marseille",
+            "awayTeamName": "Olympique de Marseille",
+            "homeTeamCrest": "https:\/\/crests.football-data.org\/516.png",
+            "awayTeamCrest": "https:\/\/crests.football-data.org\/543.png",
+            "scoreWinner": null,
+            "scoreFullTimeHome": null,
+            "scoreFullTimeAway": null
+        },
+        "542556": {
+            "utcDate": "2026-01-04T00:00:00Z",
+            "homeTeamName": "Lille OSC",
+            "awayTeamName": "Lille OSC",
+            "homeTeamCrest": "https:\/\/crests.football-data.org\/521.png",
+            "awayTeamCrest": "https:\/\/crests.football-data.org\/529.png",
+            "scoreWinner": null,
+            "scoreFullTimeHome": null,
+            "scoreFullTimeAway": null
+        },
+        "542557": {
+            "utcDate": "2026-01-04T00:00:00Z",
+            "homeTeamName": "Paris Saint-Germain FC",
+            "awayTeamName": "Paris Saint-Germain FC",
+            "homeTeamCrest": "https:\/\/crests.football-data.org\/524.png",
+            "awayTeamCrest": "https:\/\/crests.football-data.org\/1045.png",
+            "scoreWinner": null,
+            "scoreFullTimeHome": null,
+            "scoreFullTimeAway": null
+        },
+        "542558": {
+            "utcDate": "2026-01-04T00:00:00Z",
+            "homeTeamName": "Stade Brestois 29",
+            "awayTeamName": "Stade Brestois 29",
+            "homeTeamCrest": "https:\/\/crests.football-data.org\/512.png",
+            "awayTeamCrest": "https:\/\/crests.football-data.org\/519.png",
+            "scoreWinner": null,
+            "scoreFullTimeHome": null,
+            "scoreFullTimeAway": null
+        },
+        "542559": {
+            "utcDate": "2026-01-18T00:00:00Z",
+            "homeTeamName": "AS Monaco FC",
+            "awayTeamName": "AS Monaco FC",
+            "homeTeamCrest": "https:\/\/crests.football-data.org\/548.png",
+            "awayTeamCrest": "https:\/\/crests.football-data.org\/525.png",
+            "scoreWinner": null,
+            "scoreFullTimeHome": null,
+            "scoreFullTimeAway": null
+        },
+        "542560": {
+            "utcDate": "2026-01-18T00:00:00Z",
+            "homeTeamName": "FC Nantes",
+            "awayTeamName": "FC Nantes",
+            "homeTeamCrest": "https:\/\/crests.football-data.org\/543.png",
+            "awayTeamCrest": "https:\/\/crests.football-data.org\/1045.png",
+            "scoreWinner": null,
+            "scoreFullTimeHome": null,
+            "scoreFullTimeAway": null
+        },
+        "542561": {
+            "utcDate": "2026-01-18T00:00:00Z",
+            "homeTeamName": "Toulouse FC",
+            "awayTeamName": "Toulouse FC",
+            "homeTeamCrest": "https:\/\/crests.football-data.org\/511.png",
+            "awayTeamCrest": "https:\/\/crests.football-data.org\/522.png",
+            "scoreWinner": null,
+            "scoreFullTimeHome": null,
+            "scoreFullTimeAway": null
+        },
+        "542562": {
+            "utcDate": "2026-01-18T00:00:00Z",
+            "homeTeamName": "Olympique Lyonnais",
+            "awayTeamName": "Olympique Lyonnais",
+            "homeTeamCrest": "https:\/\/crests.football-data.org\/523.png",
+            "awayTeamCrest": "https:\/\/crests.football-data.org\/512.png",
+            "scoreWinner": null,
+            "scoreFullTimeHome": null,
+            "scoreFullTimeAway": null
+        },
+        "542563": {
+            "utcDate": "2026-01-18T00:00:00Z",
+            "homeTeamName": "Paris Saint-Germain FC",
+            "awayTeamName": "Paris Saint-Germain FC",
+            "homeTeamCrest": "https:\/\/crests.football-data.org\/524.png",
+            "awayTeamCrest": "https:\/\/crests.football-data.org\/521.png",
+            "scoreWinner": null,
+            "scoreFullTimeHome": null,
+            "scoreFullTimeAway": null
+        },
+        "542564": {
+            "utcDate": "2026-01-18T00:00:00Z",
+            "homeTeamName": "RC Strasbourg Alsace",
+            "awayTeamName": "RC Strasbourg Alsace",
+            "homeTeamCrest": "https:\/\/crests.football-data.org\/576.png",
+            "awayTeamCrest": "https:\/\/crests.football-data.org\/545.png",
+            "scoreWinner": null,
+            "scoreFullTimeHome": null,
+            "scoreFullTimeAway": null
+        },
+        "542565": {
+            "utcDate": "2026-01-18T00:00:00Z",
+            "homeTeamName": "Racing Club de Lens",
+            "awayTeamName": "Racing Club de Lens",
+            "homeTeamCrest": "https:\/\/crests.football-data.org\/546.png",
+            "awayTeamCrest": "https:\/\/crests.football-data.org\/519.png",
+            "scoreWinner": null,
+            "scoreFullTimeHome": null,
+            "scoreFullTimeAway": null
+        },
+        "542566": {
+            "utcDate": "2026-01-18T00:00:00Z",
+            "homeTeamName": "Angers SCO",
+            "awayTeamName": "Angers SCO",
+            "homeTeamCrest": "https:\/\/crests.football-data.org\/532.png",
+            "awayTeamCrest": "https:\/\/crests.football-data.org\/516.png",
+            "scoreWinner": null,
+            "scoreFullTimeHome": null,
+            "scoreFullTimeAway": null
+        },
+        "542567": {
+            "utcDate": "2026-01-18T00:00:00Z",
+            "homeTeamName": "Stade Rennais FC 1901",
+            "awayTeamName": "Stade Rennais FC 1901",
+            "homeTeamCrest": "https:\/\/crests.football-data.org\/529.png",
+            "awayTeamCrest": "https:\/\/crests.football-data.org\/533.png",
+            "scoreWinner": null,
+            "scoreFullTimeHome": null,
+            "scoreFullTimeAway": null
+        },
+        "542568": {
+            "utcDate": "2026-01-25T00:00:00Z",
+            "homeTeamName": "Le Havre AC",
+            "awayTeamName": "Le Havre AC",
+            "homeTeamCrest": "https:\/\/crests.football-data.org\/533.png",
+            "awayTeamCrest": "https:\/\/crests.football-data.org\/548.png",
+            "scoreWinner": null,
+            "scoreFullTimeHome": null,
+            "scoreFullTimeAway": null
+        },
+        "542569": {
+            "utcDate": "2026-01-25T00:00:00Z",
+            "homeTeamName": "AJ Auxerre",
+            "awayTeamName": "AJ Auxerre",
+            "homeTeamCrest": "https:\/\/crests.football-data.org\/519.png",
+            "awayTeamCrest": "https:\/\/crests.football-data.org\/524.png",
+            "scoreWinner": null,
+            "scoreFullTimeHome": null,
+            "scoreFullTimeAway": null
+        },
+        "542570": {
+            "utcDate": "2026-01-25T00:00:00Z",
+            "homeTeamName": "FC Metz",
+            "awayTeamName": "FC Metz",
+            "homeTeamCrest": "https:\/\/crests.football-data.org\/545.png",
+            "awayTeamCrest": "https:\/\/crests.football-data.org\/523.png",
+            "scoreWinner": null,
+            "scoreFullTimeHome": null,
+            "scoreFullTimeAway": null
+        },
+        "542571": {
+            "utcDate": "2026-01-25T00:00:00Z",
+            "homeTeamName": "FC Nantes",
+            "awayTeamName": "FC Nantes",
+            "homeTeamCrest": "https:\/\/crests.football-data.org\/543.png",
+            "awayTeamCrest": "https:\/\/crests.football-data.org\/522.png",
+            "scoreWinner": null,
+            "scoreFullTimeHome": null,
+            "scoreFullTimeAway": null
+        },
+        "542572": {
+            "utcDate": "2026-01-25T00:00:00Z",
+            "homeTeamName": "Paris FC",
+            "awayTeamName": "Paris FC",
+            "homeTeamCrest": "https:\/\/crests.football-data.org\/1045.png",
+            "awayTeamCrest": "https:\/\/crests.football-data.org\/532.png",
+            "scoreWinner": null,
+            "scoreFullTimeHome": null,
+            "scoreFullTimeAway": null
+        },
+        "542573": {
+            "utcDate": "2026-01-25T00:00:00Z",
+            "homeTeamName": "Olympique de Marseille",
+            "awayTeamName": "Olympique de Marseille",
+            "homeTeamCrest": "https:\/\/crests.football-data.org\/516.png",
+            "awayTeamCrest": "https:\/\/crests.football-data.org\/546.png",
+            "scoreWinner": null,
+            "scoreFullTimeHome": null,
+            "scoreFullTimeAway": null
+        },
+        "542574": {
+            "utcDate": "2026-01-25T00:00:00Z",
+            "homeTeamName": "Lille OSC",
+            "awayTeamName": "Lille OSC",
+            "homeTeamCrest": "https:\/\/crests.football-data.org\/521.png",
+            "awayTeamCrest": "https:\/\/crests.football-data.org\/576.png",
+            "scoreWinner": null,
+            "scoreFullTimeHome": null,
+            "scoreFullTimeAway": null
+        },
+        "542575": {
+            "utcDate": "2026-01-25T00:00:00Z",
+            "homeTeamName": "Stade Brestois 29",
+            "awayTeamName": "Stade Brestois 29",
+            "homeTeamCrest": "https:\/\/crests.football-data.org\/512.png",
+            "awayTeamCrest": "https:\/\/crests.football-data.org\/511.png",
+            "scoreWinner": null,
+            "scoreFullTimeHome": null,
+            "scoreFullTimeAway": null
+        },
+        "542576": {
+            "utcDate": "2026-01-25T00:00:00Z",
+            "homeTeamName": "Stade Rennais FC 1901",
+            "awayTeamName": "Stade Rennais FC 1901",
+            "homeTeamCrest": "https:\/\/crests.football-data.org\/529.png",
+            "awayTeamCrest": "https:\/\/crests.football-data.org\/525.png",
+            "scoreWinner": null,
+            "scoreFullTimeHome": null,
+            "scoreFullTimeAway": null
+        },
+        "542577": {
+            "utcDate": "2026-02-01T00:00:00Z",
+            "homeTeamName": "AS Monaco FC",
+            "awayTeamName": "AS Monaco FC",
+            "homeTeamCrest": "https:\/\/crests.football-data.org\/548.png",
+            "awayTeamCrest": "https:\/\/crests.football-data.org\/529.png",
+            "scoreWinner": null,
+            "scoreFullTimeHome": null,
+            "scoreFullTimeAway": null
+        },
+        "542578": {
+            "utcDate": "2026-02-01T00:00:00Z",
+            "homeTeamName": "FC Lorient",
+            "awayTeamName": "FC Lorient",
+            "homeTeamCrest": "https:\/\/crests.football-data.org\/525.png",
+            "awayTeamCrest": "https:\/\/crests.football-data.org\/543.png",
+            "scoreWinner": null,
+            "scoreFullTimeHome": null,
+            "scoreFullTimeAway": null
+        },
+        "542579": {
+            "utcDate": "2026-02-01T00:00:00Z",
+            "homeTeamName": "Paris FC",
+            "awayTeamName": "Paris FC",
+            "homeTeamCrest": "https:\/\/crests.football-data.org\/1045.png",
+            "awayTeamCrest": "https:\/\/crests.football-data.org\/516.png",
+            "scoreWinner": null,
+            "scoreFullTimeHome": null,
+            "scoreFullTimeAway": null
+        },
+        "542580": {
+            "utcDate": "2026-02-01T00:00:00Z",
+            "homeTeamName": "Toulouse FC",
+            "awayTeamName": "Toulouse FC",
+            "homeTeamCrest": "https:\/\/crests.football-data.org\/511.png",
+            "awayTeamCrest": "https:\/\/crests.football-data.org\/519.png",
+            "scoreWinner": null,
+            "scoreFullTimeHome": null,
+            "scoreFullTimeAway": null
+        },
+        "542581": {
+            "utcDate": "2026-02-01T00:00:00Z",
+            "homeTeamName": "OGC Nice",
+            "awayTeamName": "OGC Nice",
+            "homeTeamCrest": "https:\/\/crests.football-data.org\/522.png",
+            "awayTeamCrest": "https:\/\/crests.football-data.org\/512.png",
+            "scoreWinner": null,
+            "scoreFullTimeHome": null,
+            "scoreFullTimeAway": null
+        },
+        "542582": {
+            "utcDate": "2026-02-01T00:00:00Z",
+            "homeTeamName": "Olympique Lyonnais",
+            "awayTeamName": "Olympique Lyonnais",
+            "homeTeamCrest": "https:\/\/crests.football-data.org\/523.png",
+            "awayTeamCrest": "https:\/\/crests.football-data.org\/521.png",
+            "scoreWinner": null,
+            "scoreFullTimeHome": null,
+            "scoreFullTimeAway": null
+        },
+        "542583": {
+            "utcDate": "2026-02-01T00:00:00Z",
+            "homeTeamName": "RC Strasbourg Alsace",
+            "awayTeamName": "RC Strasbourg Alsace",
+            "homeTeamCrest": "https:\/\/crests.football-data.org\/576.png",
+            "awayTeamCrest": "https:\/\/crests.football-data.org\/524.png",
+            "scoreWinner": null,
+            "scoreFullTimeHome": null,
+            "scoreFullTimeAway": null
+        },
+        "542584": {
+            "utcDate": "2026-02-01T00:00:00Z",
+            "homeTeamName": "Racing Club de Lens",
+            "awayTeamName": "Racing Club de Lens",
+            "homeTeamCrest": "https:\/\/crests.football-data.org\/546.png",
+            "awayTeamCrest": "https:\/\/crests.football-data.org\/533.png",
+            "scoreWinner": null,
+            "scoreFullTimeHome": null,
+            "scoreFullTimeAway": null
+        },
+        "542585": {
+            "utcDate": "2026-02-01T00:00:00Z",
+            "homeTeamName": "Angers SCO",
+            "awayTeamName": "Angers SCO",
+            "homeTeamCrest": "https:\/\/crests.football-data.org\/532.png",
+            "awayTeamCrest": "https:\/\/crests.football-data.org\/545.png",
+            "scoreWinner": null,
+            "scoreFullTimeHome": null,
+            "scoreFullTimeAway": null
+        },
+        "542586": {
+            "utcDate": "2026-02-08T00:00:00Z",
+            "homeTeamName": "Le Havre AC",
+            "awayTeamName": "Le Havre AC",
+            "homeTeamCrest": "https:\/\/crests.football-data.org\/533.png",
+            "awayTeamCrest": "https:\/\/crests.football-data.org\/576.png",
+            "scoreWinner": null,
+            "scoreFullTimeHome": null,
+            "scoreFullTimeAway": null
+        },
+        "542587": {
+            "utcDate": "2026-02-08T00:00:00Z",
+            "homeTeamName": "AJ Auxerre",
+            "awayTeamName": "AJ Auxerre",
+            "homeTeamCrest": "https:\/\/crests.football-data.org\/519.png",
+            "awayTeamCrest": "https:\/\/crests.football-data.org\/1045.png",
+            "scoreWinner": null,
+            "scoreFullTimeHome": null,
+            "scoreFullTimeAway": null
+        },
+        "542588": {
+            "utcDate": "2026-02-08T00:00:00Z",
+            "homeTeamName": "FC Metz",
+            "awayTeamName": "FC Metz",
+            "homeTeamCrest": "https:\/\/crests.football-data.org\/545.png",
+            "awayTeamCrest": "https:\/\/crests.football-data.org\/521.png",
+            "scoreWinner": null,
+            "scoreFullTimeHome": null,
+            "scoreFullTimeAway": null
+        },
+        "542589": {
+            "utcDate": "2026-02-08T00:00:00Z",
+            "homeTeamName": "FC Nantes",
+            "awayTeamName": "FC Nantes",
+            "homeTeamCrest": "https:\/\/crests.football-data.org\/543.png",
+            "awayTeamCrest": "https:\/\/crests.football-data.org\/523.png",
+            "scoreWinner": null,
+            "scoreFullTimeHome": null,
+            "scoreFullTimeAway": null
+        },
+        "542590": {
+            "utcDate": "2026-02-08T00:00:00Z",
+            "homeTeamName": "OGC Nice",
+            "awayTeamName": "OGC Nice",
+            "homeTeamCrest": "https:\/\/crests.football-data.org\/522.png",
+            "awayTeamCrest": "https:\/\/crests.football-data.org\/548.png",
+            "scoreWinner": null,
+            "scoreFullTimeHome": null,
+            "scoreFullTimeAway": null
+        },
+        "542591": {
+            "utcDate": "2026-02-08T00:00:00Z",
+            "homeTeamName": "Paris Saint-Germain FC",
+            "awayTeamName": "Paris Saint-Germain FC",
+            "homeTeamCrest": "https:\/\/crests.football-data.org\/524.png",
+            "awayTeamCrest": "https:\/\/crests.football-data.org\/516.png",
+            "scoreWinner": null,
+            "scoreFullTimeHome": null,
+            "scoreFullTimeAway": null
+        },
+        "542592": {
+            "utcDate": "2026-02-08T00:00:00Z",
+            "homeTeamName": "Racing Club de Lens",
+            "awayTeamName": "Racing Club de Lens",
+            "homeTeamCrest": "https:\/\/crests.football-data.org\/546.png",
+            "awayTeamCrest": "https:\/\/crests.football-data.org\/529.png",
+            "scoreWinner": null,
+            "scoreFullTimeHome": null,
+            "scoreFullTimeAway": null
+        },
+        "542593": {
+            "utcDate": "2026-02-08T00:00:00Z",
+            "homeTeamName": "Angers SCO",
+            "awayTeamName": "Angers SCO",
+            "homeTeamCrest": "https:\/\/crests.football-data.org\/532.png",
+            "awayTeamCrest": "https:\/\/crests.football-data.org\/511.png",
+            "scoreWinner": null,
+            "scoreFullTimeHome": null,
+            "scoreFullTimeAway": null
+        },
+        "542594": {
+            "utcDate": "2026-02-08T00:00:00Z",
+            "homeTeamName": "Stade Brestois 29",
+            "awayTeamName": "Stade Brestois 29",
+            "homeTeamCrest": "https:\/\/crests.football-data.org\/512.png",
+            "awayTeamCrest": "https:\/\/crests.football-data.org\/525.png",
+            "scoreWinner": null,
+            "scoreFullTimeHome": null,
+            "scoreFullTimeAway": null
+        },
+        "542595": {
+            "utcDate": "2026-02-15T00:00:00Z",
+            "homeTeamName": "Le Havre AC",
+            "awayTeamName": "Le Havre AC",
+            "homeTeamCrest": "https:\/\/crests.football-data.org\/533.png",
+            "awayTeamCrest": "https:\/\/crests.football-data.org\/511.png",
+            "scoreWinner": null,
+            "scoreFullTimeHome": null,
+            "scoreFullTimeAway": null
+        },
+        "542596": {
+            "utcDate": "2026-02-15T00:00:00Z",
+            "homeTeamName": "AS Monaco FC",
+            "awayTeamName": "AS Monaco FC",
+            "homeTeamCrest": "https:\/\/crests.football-data.org\/548.png",
+            "awayTeamCrest": "https:\/\/crests.football-data.org\/543.png",
+            "scoreWinner": null,
+            "scoreFullTimeHome": null,
+            "scoreFullTimeAway": null
+        },
+        "542597": {
+            "utcDate": "2026-02-15T00:00:00Z",
+            "homeTeamName": "FC Lorient",
+            "awayTeamName": "FC Lorient",
+            "homeTeamCrest": "https:\/\/crests.football-data.org\/525.png",
+            "awayTeamCrest": "https:\/\/crests.football-data.org\/532.png",
+            "scoreWinner": null,
+            "scoreFullTimeHome": null,
+            "scoreFullTimeAway": null
+        },
+        "542598": {
+            "utcDate": "2026-02-15T00:00:00Z",
+            "homeTeamName": "FC Metz",
+            "awayTeamName": "FC Metz",
+            "homeTeamCrest": "https:\/\/crests.football-data.org\/545.png",
+            "awayTeamCrest": "https:\/\/crests.football-data.org\/519.png",
+            "scoreWinner": null,
+            "scoreFullTimeHome": null,
+            "scoreFullTimeAway": null
+        },
+        "542599": {
+            "utcDate": "2026-02-15T00:00:00Z",
+            "homeTeamName": "Paris FC",
+            "awayTeamName": "Paris FC",
+            "homeTeamCrest": "https:\/\/crests.football-data.org\/1045.png",
+            "awayTeamCrest": "https:\/\/crests.football-data.org\/546.png",
+            "scoreWinner": null,
+            "scoreFullTimeHome": null,
+            "scoreFullTimeAway": null
+        },
+        "542600": {
+            "utcDate": "2026-02-15T00:00:00Z",
+            "homeTeamName": "Olympique Lyonnais",
+            "awayTeamName": "Olympique Lyonnais",
+            "homeTeamCrest": "https:\/\/crests.football-data.org\/523.png",
+            "awayTeamCrest": "https:\/\/crests.football-data.org\/522.png",
+            "scoreWinner": null,
+            "scoreFullTimeHome": null,
+            "scoreFullTimeAway": null
+        },
+        "542601": {
+            "utcDate": "2026-02-15T00:00:00Z",
+            "homeTeamName": "Olympique de Marseille",
+            "awayTeamName": "Olympique de Marseille",
+            "homeTeamCrest": "https:\/\/crests.football-data.org\/516.png",
+            "awayTeamCrest": "https:\/\/crests.football-data.org\/576.png",
+            "scoreWinner": null,
+            "scoreFullTimeHome": null,
+            "scoreFullTimeAway": null
+        },
+        "542602": {
+            "utcDate": "2026-02-15T00:00:00Z",
+            "homeTeamName": "Lille OSC",
+            "awayTeamName": "Lille OSC",
+            "homeTeamCrest": "https:\/\/crests.football-data.org\/521.png",
+            "awayTeamCrest": "https:\/\/crests.football-data.org\/512.png",
+            "scoreWinner": null,
+            "scoreFullTimeHome": null,
+            "scoreFullTimeAway": null
+        },
+        "542603": {
+            "utcDate": "2026-02-15T00:00:00Z",
+            "homeTeamName": "Stade Rennais FC 1901",
+            "awayTeamName": "Stade Rennais FC 1901",
+            "homeTeamCrest": "https:\/\/crests.football-data.org\/529.png",
+            "awayTeamCrest": "https:\/\/crests.football-data.org\/524.png",
+            "scoreWinner": null,
+            "scoreFullTimeHome": null,
+            "scoreFullTimeAway": null
+        },
+        "542604": {
+            "utcDate": "2026-02-22T00:00:00Z",
+            "homeTeamName": "AJ Auxerre",
+            "awayTeamName": "AJ Auxerre",
+            "homeTeamCrest": "https:\/\/crests.football-data.org\/519.png",
+            "awayTeamCrest": "https:\/\/crests.football-data.org\/529.png",
+            "scoreWinner": null,
+            "scoreFullTimeHome": null,
+            "scoreFullTimeAway": null
+        },
+        "542605": {
+            "utcDate": "2026-02-22T00:00:00Z",
+            "homeTeamName": "FC Nantes",
+            "awayTeamName": "FC Nantes",
+            "homeTeamCrest": "https:\/\/crests.football-data.org\/543.png",
+            "awayTeamCrest": "https:\/\/crests.football-data.org\/533.png",
+            "scoreWinner": null,
+            "scoreFullTimeHome": null,
+            "scoreFullTimeAway": null
+        },
+        "542606": {
+            "utcDate": "2026-02-22T00:00:00Z",
+            "homeTeamName": "Toulouse FC",
+            "awayTeamName": "Toulouse FC",
+            "homeTeamCrest": "https:\/\/crests.football-data.org\/511.png",
+            "awayTeamCrest": "https:\/\/crests.football-data.org\/1045.png",
+            "scoreWinner": null,
+            "scoreFullTimeHome": null,
+            "scoreFullTimeAway": null
+        },
+        "542607": {
+            "utcDate": "2026-02-22T00:00:00Z",
+            "homeTeamName": "OGC Nice",
+            "awayTeamName": "OGC Nice",
+            "homeTeamCrest": "https:\/\/crests.football-data.org\/522.png",
+            "awayTeamCrest": "https:\/\/crests.football-data.org\/525.png",
+            "scoreWinner": null,
+            "scoreFullTimeHome": null,
+            "scoreFullTimeAway": null
+        },
+        "542608": {
+            "utcDate": "2026-02-22T00:00:00Z",
+            "homeTeamName": "Paris Saint-Germain FC",
+            "awayTeamName": "Paris Saint-Germain FC",
+            "homeTeamCrest": "https:\/\/crests.football-data.org\/524.png",
+            "awayTeamCrest": "https:\/\/crests.football-data.org\/545.png",
+            "scoreWinner": null,
+            "scoreFullTimeHome": null,
+            "scoreFullTimeAway": null
+        },
+        "542609": {
+            "utcDate": "2026-02-22T00:00:00Z",
+            "homeTeamName": "RC Strasbourg Alsace",
+            "awayTeamName": "RC Strasbourg Alsace",
+            "homeTeamCrest": "https:\/\/crests.football-data.org\/576.png",
+            "awayTeamCrest": "https:\/\/crests.football-data.org\/523.png",
+            "scoreWinner": null,
+            "scoreFullTimeHome": null,
+            "scoreFullTimeAway": null
+        },
+        "542610": {
+            "utcDate": "2026-02-22T00:00:00Z",
+            "homeTeamName": "Racing Club de Lens",
+            "awayTeamName": "Racing Club de Lens",
+            "homeTeamCrest": "https:\/\/crests.football-data.org\/546.png",
+            "awayTeamCrest": "https:\/\/crests.football-data.org\/548.png",
+            "scoreWinner": null,
+            "scoreFullTimeHome": null,
+            "scoreFullTimeAway": null
+        },
+        "542611": {
+            "utcDate": "2026-02-22T00:00:00Z",
+            "homeTeamName": "Angers SCO",
+            "awayTeamName": "Angers SCO",
+            "homeTeamCrest": "https:\/\/crests.football-data.org\/532.png",
+            "awayTeamCrest": "https:\/\/crests.football-data.org\/521.png",
+            "scoreWinner": null,
+            "scoreFullTimeHome": null,
+            "scoreFullTimeAway": null
+        },
+        "542612": {
+            "utcDate": "2026-02-22T00:00:00Z",
+            "homeTeamName": "Stade Brestois 29",
+            "awayTeamName": "Stade Brestois 29",
+            "homeTeamCrest": "https:\/\/crests.football-data.org\/512.png",
+            "awayTeamCrest": "https:\/\/crests.football-data.org\/516.png",
+            "scoreWinner": null,
+            "scoreFullTimeHome": null,
+            "scoreFullTimeAway": null
+        },
+        "542613": {
+            "utcDate": "2026-03-01T00:00:00Z",
+            "homeTeamName": "Le Havre AC",
+            "awayTeamName": "Le Havre AC",
+            "homeTeamCrest": "https:\/\/crests.football-data.org\/533.png",
+            "awayTeamCrest": "https:\/\/crests.football-data.org\/524.png",
+            "scoreWinner": null,
+            "scoreFullTimeHome": null,
+            "scoreFullTimeAway": null
+        },
+        "542614": {
+            "utcDate": "2026-03-01T00:00:00Z",
+            "homeTeamName": "AS Monaco FC",
+            "awayTeamName": "AS Monaco FC",
+            "homeTeamCrest": "https:\/\/crests.football-data.org\/548.png",
+            "awayTeamCrest": "https:\/\/crests.football-data.org\/532.png",
+            "scoreWinner": null,
+            "scoreFullTimeHome": null,
+            "scoreFullTimeAway": null
+        },
+        "542615": {
+            "utcDate": "2026-03-01T00:00:00Z",
+            "homeTeamName": "FC Lorient",
+            "awayTeamName": "FC Lorient",
+            "homeTeamCrest": "https:\/\/crests.football-data.org\/525.png",
+            "awayTeamCrest": "https:\/\/crests.football-data.org\/519.png",
+            "scoreWinner": null,
+            "scoreFullTimeHome": null,
+            "scoreFullTimeAway": null
+        },
+        "542616": {
+            "utcDate": "2026-03-01T00:00:00Z",
+            "homeTeamName": "FC Metz",
+            "awayTeamName": "FC Metz",
+            "homeTeamCrest": "https:\/\/crests.football-data.org\/545.png",
+            "awayTeamCrest": "https:\/\/crests.football-data.org\/512.png",
+            "scoreWinner": null,
+            "scoreFullTimeHome": null,
+            "scoreFullTimeAway": null
+        },
+        "542617": {
+            "utcDate": "2026-03-01T00:00:00Z",
+            "homeTeamName": "Paris FC",
+            "awayTeamName": "Paris FC",
+            "homeTeamCrest": "https:\/\/crests.football-data.org\/1045.png",
+            "awayTeamCrest": "https:\/\/crests.football-data.org\/522.png",
+            "scoreWinner": null,
+            "scoreFullTimeHome": null,
+            "scoreFullTimeAway": null
+        },
+        "542618": {
+            "utcDate": "2026-03-01T00:00:00Z",
+            "homeTeamName": "Olympique de Marseille",
+            "awayTeamName": "Olympique de Marseille",
+            "homeTeamCrest": "https:\/\/crests.football-data.org\/516.png",
+            "awayTeamCrest": "https:\/\/crests.football-data.org\/523.png",
+            "scoreWinner": null,
+            "scoreFullTimeHome": null,
+            "scoreFullTimeAway": null
+        },
+        "542619": {
+            "utcDate": "2026-03-01T00:00:00Z",
+            "homeTeamName": "Lille OSC",
+            "awayTeamName": "Lille OSC",
+            "homeTeamCrest": "https:\/\/crests.football-data.org\/521.png",
+            "awayTeamCrest": "https:\/\/crests.football-data.org\/543.png",
+            "scoreWinner": null,
+            "scoreFullTimeHome": null,
+            "scoreFullTimeAway": null
+        },
+        "542620": {
+            "utcDate": "2026-03-01T00:00:00Z",
+            "homeTeamName": "RC Strasbourg Alsace",
+            "awayTeamName": "RC Strasbourg Alsace",
+            "homeTeamCrest": "https:\/\/crests.football-data.org\/576.png",
+            "awayTeamCrest": "https:\/\/crests.football-data.org\/546.png",
+            "scoreWinner": null,
+            "scoreFullTimeHome": null,
+            "scoreFullTimeAway": null
+        },
+        "542621": {
+            "utcDate": "2026-03-01T00:00:00Z",
+            "homeTeamName": "Stade Rennais FC 1901",
+            "awayTeamName": "Stade Rennais FC 1901",
+            "homeTeamCrest": "https:\/\/crests.football-data.org\/529.png",
+            "awayTeamCrest": "https:\/\/crests.football-data.org\/511.png",
+            "scoreWinner": null,
+            "scoreFullTimeHome": null,
+            "scoreFullTimeAway": null
+        },
+        "542622": {
+            "utcDate": "2026-03-08T00:00:00Z",
+            "homeTeamName": "AJ Auxerre",
+            "awayTeamName": "AJ Auxerre",
+            "homeTeamCrest": "https:\/\/crests.football-data.org\/519.png",
+            "awayTeamCrest": "https:\/\/crests.football-data.org\/576.png",
+            "scoreWinner": null,
+            "scoreFullTimeHome": null,
+            "scoreFullTimeAway": null
+        },
+        "542623": {
+            "utcDate": "2026-03-08T00:00:00Z",
+            "homeTeamName": "FC Nantes",
+            "awayTeamName": "FC Nantes",
+            "homeTeamCrest": "https:\/\/crests.football-data.org\/543.png",
+            "awayTeamCrest": "https:\/\/crests.football-data.org\/532.png",
+            "scoreWinner": null,
+            "scoreFullTimeHome": null,
+            "scoreFullTimeAway": null
+        },
+        "542624": {
+            "utcDate": "2026-03-08T00:00:00Z",
+            "homeTeamName": "Toulouse FC",
+            "awayTeamName": "Toulouse FC",
+            "homeTeamCrest": "https:\/\/crests.football-data.org\/511.png",
+            "awayTeamCrest": "https:\/\/crests.football-data.org\/516.png",
+            "scoreWinner": null,
+            "scoreFullTimeHome": null,
+            "scoreFullTimeAway": null
+        },
+        "542625": {
+            "utcDate": "2026-03-08T00:00:00Z",
+            "homeTeamName": "OGC Nice",
+            "awayTeamName": "OGC Nice",
+            "homeTeamCrest": "https:\/\/crests.football-data.org\/522.png",
+            "awayTeamCrest": "https:\/\/crests.football-data.org\/529.png",
+            "scoreWinner": null,
+            "scoreFullTimeHome": null,
+            "scoreFullTimeAway": null
+        },
+        "542626": {
+            "utcDate": "2026-03-08T00:00:00Z",
+            "homeTeamName": "Olympique Lyonnais",
+            "awayTeamName": "Olympique Lyonnais",
+            "homeTeamCrest": "https:\/\/crests.football-data.org\/523.png",
+            "awayTeamCrest": "https:\/\/crests.football-data.org\/1045.png",
+            "scoreWinner": null,
+            "scoreFullTimeHome": null,
+            "scoreFullTimeAway": null
+        },
+        "542627": {
+            "utcDate": "2026-03-08T00:00:00Z",
+            "homeTeamName": "Lille OSC",
+            "awayTeamName": "Lille OSC",
+            "homeTeamCrest": "https:\/\/crests.football-data.org\/521.png",
+            "awayTeamCrest": "https:\/\/crests.football-data.org\/525.png",
+            "scoreWinner": null,
+            "scoreFullTimeHome": null,
+            "scoreFullTimeAway": null
+        },
+        "542628": {
+            "utcDate": "2026-03-08T00:00:00Z",
+            "homeTeamName": "Paris Saint-Germain FC",
+            "awayTeamName": "Paris Saint-Germain FC",
+            "homeTeamCrest": "https:\/\/crests.football-data.org\/524.png",
+            "awayTeamCrest": "https:\/\/crests.football-data.org\/548.png",
+            "scoreWinner": null,
+            "scoreFullTimeHome": null,
+            "scoreFullTimeAway": null
+        },
+        "542629": {
+            "utcDate": "2026-03-08T00:00:00Z",
+            "homeTeamName": "Racing Club de Lens",
+            "awayTeamName": "Racing Club de Lens",
+            "homeTeamCrest": "https:\/\/crests.football-data.org\/546.png",
+            "awayTeamCrest": "https:\/\/crests.football-data.org\/545.png",
+            "scoreWinner": null,
+            "scoreFullTimeHome": null,
+            "scoreFullTimeAway": null
+        },
+        "542630": {
+            "utcDate": "2026-03-08T00:00:00Z",
+            "homeTeamName": "Stade Brestois 29",
+            "awayTeamName": "Stade Brestois 29",
+            "homeTeamCrest": "https:\/\/crests.football-data.org\/512.png",
+            "awayTeamCrest": "https:\/\/crests.football-data.org\/533.png",
+            "scoreWinner": null,
+            "scoreFullTimeHome": null,
+            "scoreFullTimeAway": null
+        },
+        "542631": {
+            "utcDate": "2026-03-15T00:00:00Z",
+            "homeTeamName": "Le Havre AC",
+            "awayTeamName": "Le Havre AC",
+            "homeTeamCrest": "https:\/\/crests.football-data.org\/533.png",
+            "awayTeamCrest": "https:\/\/crests.football-data.org\/523.png",
+            "scoreWinner": null,
+            "scoreFullTimeHome": null,
+            "scoreFullTimeAway": null
+        },
+        "542632": {
+            "utcDate": "2026-03-15T00:00:00Z",
+            "homeTeamName": "AS Monaco FC",
+            "awayTeamName": "AS Monaco FC",
+            "homeTeamCrest": "https:\/\/crests.football-data.org\/548.png",
+            "awayTeamCrest": "https:\/\/crests.football-data.org\/512.png",
+            "scoreWinner": null,
+            "scoreFullTimeHome": null,
+            "scoreFullTimeAway": null
+        },
+        "542633": {
+            "utcDate": "2026-03-15T00:00:00Z",
+            "homeTeamName": "FC Lorient",
+            "awayTeamName": "FC Lorient",
+            "homeTeamCrest": "https:\/\/crests.football-data.org\/525.png",
+            "awayTeamCrest": "https:\/\/crests.football-data.org\/546.png",
+            "scoreWinner": null,
+            "scoreFullTimeHome": null,
+            "scoreFullTimeAway": null
+        },
+        "542634": {
+            "utcDate": "2026-03-15T00:00:00Z",
+            "homeTeamName": "FC Metz",
+            "awayTeamName": "FC Metz",
+            "homeTeamCrest": "https:\/\/crests.football-data.org\/545.png",
+            "awayTeamCrest": "https:\/\/crests.football-data.org\/511.png",
+            "scoreWinner": null,
+            "scoreFullTimeHome": null,
+            "scoreFullTimeAway": null
+        },
+        "542635": {
+            "utcDate": "2026-03-15T00:00:00Z",
+            "homeTeamName": "Olympique de Marseille",
+            "awayTeamName": "Olympique de Marseille",
+            "homeTeamCrest": "https:\/\/crests.football-data.org\/516.png",
+            "awayTeamCrest": "https:\/\/crests.football-data.org\/519.png",
+            "scoreWinner": null,
+            "scoreFullTimeHome": null,
+            "scoreFullTimeAway": null
+        },
+        "542636": {
+            "utcDate": "2026-03-15T00:00:00Z",
+            "homeTeamName": "Paris Saint-Germain FC",
+            "awayTeamName": "Paris Saint-Germain FC",
+            "homeTeamCrest": "https:\/\/crests.football-data.org\/524.png",
+            "awayTeamCrest": "https:\/\/crests.football-data.org\/543.png",
+            "scoreWinner": null,
+            "scoreFullTimeHome": null,
+            "scoreFullTimeAway": null
+        },
+        "542637": {
+            "utcDate": "2026-03-15T00:00:00Z",
+            "homeTeamName": "RC Strasbourg Alsace",
+            "awayTeamName": "RC Strasbourg Alsace",
+            "homeTeamCrest": "https:\/\/crests.football-data.org\/576.png",
+            "awayTeamCrest": "https:\/\/crests.football-data.org\/1045.png",
+            "scoreWinner": null,
+            "scoreFullTimeHome": null,
+            "scoreFullTimeAway": null
+        },
+        "542638": {
+            "utcDate": "2026-03-15T00:00:00Z",
+            "homeTeamName": "Angers SCO",
+            "awayTeamName": "Angers SCO",
+            "homeTeamCrest": "https:\/\/crests.football-data.org\/532.png",
+            "awayTeamCrest": "https:\/\/crests.football-data.org\/522.png",
+            "scoreWinner": null,
+            "scoreFullTimeHome": null,
+            "scoreFullTimeAway": null
+        },
+        "542639": {
+            "utcDate": "2026-03-15T00:00:00Z",
+            "homeTeamName": "Stade Rennais FC 1901",
+            "awayTeamName": "Stade Rennais FC 1901",
+            "homeTeamCrest": "https:\/\/crests.football-data.org\/529.png",
+            "awayTeamCrest": "https:\/\/crests.football-data.org\/521.png",
+            "scoreWinner": null,
+            "scoreFullTimeHome": null,
+            "scoreFullTimeAway": null
+        },
+        "542640": {
+            "utcDate": "2026-03-22T00:00:00Z",
+            "homeTeamName": "AJ Auxerre",
+            "awayTeamName": "AJ Auxerre",
+            "homeTeamCrest": "https:\/\/crests.football-data.org\/519.png",
+            "awayTeamCrest": "https:\/\/crests.football-data.org\/512.png",
+            "scoreWinner": null,
+            "scoreFullTimeHome": null,
+            "scoreFullTimeAway": null
+        },
+        "542641": {
+            "utcDate": "2026-03-22T00:00:00Z",
+            "homeTeamName": "FC Nantes",
+            "awayTeamName": "FC Nantes",
+            "homeTeamCrest": "https:\/\/crests.football-data.org\/543.png",
+            "awayTeamCrest": "https:\/\/crests.football-data.org\/576.png",
+            "scoreWinner": null,
+            "scoreFullTimeHome": null,
+            "scoreFullTimeAway": null
+        },
+        "542642": {
+            "utcDate": "2026-03-22T00:00:00Z",
+            "homeTeamName": "Paris FC",
+            "awayTeamName": "Paris FC",
+            "homeTeamCrest": "https:\/\/crests.football-data.org\/1045.png",
+            "awayTeamCrest": "https:\/\/crests.football-data.org\/533.png",
+            "scoreWinner": null,
+            "scoreFullTimeHome": null,
+            "scoreFullTimeAway": null
+        },
+        "542643": {
+            "utcDate": "2026-03-22T00:00:00Z",
+            "homeTeamName": "Toulouse FC",
+            "awayTeamName": "Toulouse FC",
+            "homeTeamCrest": "https:\/\/crests.football-data.org\/511.png",
+            "awayTeamCrest": "https:\/\/crests.football-data.org\/525.png",
+            "scoreWinner": null,
+            "scoreFullTimeHome": null,
+            "scoreFullTimeAway": null
+        },
+        "542644": {
+            "utcDate": "2026-03-22T00:00:00Z",
+            "homeTeamName": "OGC Nice",
+            "awayTeamName": "OGC Nice",
+            "homeTeamCrest": "https:\/\/crests.football-data.org\/522.png",
+            "awayTeamCrest": "https:\/\/crests.football-data.org\/524.png",
+            "scoreWinner": null,
+            "scoreFullTimeHome": null,
+            "scoreFullTimeAway": null
+        },
+        "542645": {
+            "utcDate": "2026-03-22T00:00:00Z",
+            "homeTeamName": "Olympique Lyonnais",
+            "awayTeamName": "Olympique Lyonnais",
+            "homeTeamCrest": "https:\/\/crests.football-data.org\/523.png",
+            "awayTeamCrest": "https:\/\/crests.football-data.org\/548.png",
+            "scoreWinner": null,
+            "scoreFullTimeHome": null,
+            "scoreFullTimeAway": null
+        },
+        "542646": {
+            "utcDate": "2026-03-22T00:00:00Z",
+            "homeTeamName": "Olympique de Marseille",
+            "awayTeamName": "Olympique de Marseille",
+            "homeTeamCrest": "https:\/\/crests.football-data.org\/516.png",
+            "awayTeamCrest": "https:\/\/crests.football-data.org\/521.png",
+            "scoreWinner": null,
+            "scoreFullTimeHome": null,
+            "scoreFullTimeAway": null
+        },
+        "542647": {
+            "utcDate": "2026-03-22T00:00:00Z",
+            "homeTeamName": "Racing Club de Lens",
+            "awayTeamName": "Racing Club de Lens",
+            "homeTeamCrest": "https:\/\/crests.football-data.org\/546.png",
+            "awayTeamCrest": "https:\/\/crests.football-data.org\/532.png",
+            "scoreWinner": null,
+            "scoreFullTimeHome": null,
+            "scoreFullTimeAway": null
+        },
+        "542648": {
+            "utcDate": "2026-03-22T00:00:00Z",
+            "homeTeamName": "Stade Rennais FC 1901",
+            "awayTeamName": "Stade Rennais FC 1901",
+            "homeTeamCrest": "https:\/\/crests.football-data.org\/529.png",
+            "awayTeamCrest": "https:\/\/crests.football-data.org\/545.png",
+            "scoreWinner": null,
+            "scoreFullTimeHome": null,
+            "scoreFullTimeAway": null
+        },
+        "542649": {
+            "utcDate": "2026-04-05T00:00:00Z",
+            "homeTeamName": "Le Havre AC",
+            "awayTeamName": "Le Havre AC",
+            "homeTeamCrest": "https:\/\/crests.football-data.org\/533.png",
+            "awayTeamCrest": "https:\/\/crests.football-data.org\/519.png",
+            "scoreWinner": null,
+            "scoreFullTimeHome": null,
+            "scoreFullTimeAway": null
+        },
+        "542650": {
+            "utcDate": "2026-04-05T00:00:00Z",
+            "homeTeamName": "AS Monaco FC",
+            "awayTeamName": "AS Monaco FC",
+            "homeTeamCrest": "https:\/\/crests.football-data.org\/548.png",
+            "awayTeamCrest": "https:\/\/crests.football-data.org\/516.png",
+            "scoreWinner": null,
+            "scoreFullTimeHome": null,
+            "scoreFullTimeAway": null
+        },
+        "542651": {
+            "utcDate": "2026-04-05T00:00:00Z",
+            "homeTeamName": "FC Lorient",
+            "awayTeamName": "FC Lorient",
+            "homeTeamCrest": "https:\/\/crests.football-data.org\/525.png",
+            "awayTeamCrest": "https:\/\/crests.football-data.org\/1045.png",
+            "scoreWinner": null,
+            "scoreFullTimeHome": null,
+            "scoreFullTimeAway": null
+        },
+        "542652": {
+            "utcDate": "2026-04-05T00:00:00Z",
+            "homeTeamName": "FC Metz",
+            "awayTeamName": "FC Metz",
+            "homeTeamCrest": "https:\/\/crests.football-data.org\/545.png",
+            "awayTeamCrest": "https:\/\/crests.football-data.org\/543.png",
+            "scoreWinner": null,
+            "scoreFullTimeHome": null,
+            "scoreFullTimeAway": null
+        },
+        "542653": {
+            "utcDate": "2026-04-05T00:00:00Z",
+            "homeTeamName": "Lille OSC",
+            "awayTeamName": "Lille OSC",
+            "homeTeamCrest": "https:\/\/crests.football-data.org\/521.png",
+            "awayTeamCrest": "https:\/\/crests.football-data.org\/546.png",
+            "scoreWinner": null,
+            "scoreFullTimeHome": null,
+            "scoreFullTimeAway": null
+        },
+        "542654": {
+            "utcDate": "2026-04-05T00:00:00Z",
+            "homeTeamName": "Paris Saint-Germain FC",
+            "awayTeamName": "Paris Saint-Germain FC",
+            "homeTeamCrest": "https:\/\/crests.football-data.org\/524.png",
+            "awayTeamCrest": "https:\/\/crests.football-data.org\/511.png",
+            "scoreWinner": null,
+            "scoreFullTimeHome": null,
+            "scoreFullTimeAway": null
+        },
+        "542655": {
+            "utcDate": "2026-04-05T00:00:00Z",
+            "homeTeamName": "RC Strasbourg Alsace",
+            "awayTeamName": "RC Strasbourg Alsace",
+            "homeTeamCrest": "https:\/\/crests.football-data.org\/576.png",
+            "awayTeamCrest": "https:\/\/crests.football-data.org\/522.png",
+            "scoreWinner": null,
+            "scoreFullTimeHome": null,
+            "scoreFullTimeAway": null
+        },
+        "542656": {
+            "utcDate": "2026-04-05T00:00:00Z",
+            "homeTeamName": "Angers SCO",
+            "awayTeamName": "Angers SCO",
+            "homeTeamCrest": "https:\/\/crests.football-data.org\/532.png",
+            "awayTeamCrest": "https:\/\/crests.football-data.org\/523.png",
+            "scoreWinner": null,
+            "scoreFullTimeHome": null,
+            "scoreFullTimeAway": null
+        },
+        "542657": {
+            "utcDate": "2026-04-05T00:00:00Z",
+            "homeTeamName": "Stade Brestois 29",
+            "awayTeamName": "Stade Brestois 29",
+            "homeTeamCrest": "https:\/\/crests.football-data.org\/512.png",
+            "awayTeamCrest": "https:\/\/crests.football-data.org\/529.png",
+            "scoreWinner": null,
+            "scoreFullTimeHome": null,
+            "scoreFullTimeAway": null
+        },
+        "542658": {
+            "utcDate": "2026-04-12T00:00:00Z",
+            "homeTeamName": "AJ Auxerre",
+            "awayTeamName": "AJ Auxerre",
+            "homeTeamCrest": "https:\/\/crests.football-data.org\/519.png",
+            "awayTeamCrest": "https:\/\/crests.football-data.org\/543.png",
+            "scoreWinner": null,
+            "scoreFullTimeHome": null,
+            "scoreFullTimeAway": null
+        },
+        "542659": {
+            "utcDate": "2026-04-12T00:00:00Z",
+            "homeTeamName": "Paris FC",
+            "awayTeamName": "Paris FC",
+            "homeTeamCrest": "https:\/\/crests.football-data.org\/1045.png",
+            "awayTeamCrest": "https:\/\/crests.football-data.org\/548.png",
+            "scoreWinner": null,
+            "scoreFullTimeHome": null,
+            "scoreFullTimeAway": null
+        },
+        "542660": {
+            "utcDate": "2026-04-12T00:00:00Z",
+            "homeTeamName": "Toulouse FC",
+            "awayTeamName": "Toulouse FC",
+            "homeTeamCrest": "https:\/\/crests.football-data.org\/511.png",
+            "awayTeamCrest": "https:\/\/crests.football-data.org\/521.png",
+            "scoreWinner": null,
+            "scoreFullTimeHome": null,
+            "scoreFullTimeAway": null
+        },
+        "542661": {
+            "utcDate": "2026-04-12T00:00:00Z",
+            "homeTeamName": "OGC Nice",
+            "awayTeamName": "OGC Nice",
+            "homeTeamCrest": "https:\/\/crests.football-data.org\/522.png",
+            "awayTeamCrest": "https:\/\/crests.football-data.org\/533.png",
+            "scoreWinner": null,
+            "scoreFullTimeHome": null,
+            "scoreFullTimeAway": null
+        },
+        "542662": {
+            "utcDate": "2026-04-12T00:00:00Z",
+            "homeTeamName": "Olympique Lyonnais",
+            "awayTeamName": "Olympique Lyonnais",
+            "homeTeamCrest": "https:\/\/crests.football-data.org\/523.png",
+            "awayTeamCrest": "https:\/\/crests.football-data.org\/525.png",
+            "scoreWinner": null,
+            "scoreFullTimeHome": null,
+            "scoreFullTimeAway": null
+        },
+        "542663": {
+            "utcDate": "2026-04-12T00:00:00Z",
+            "homeTeamName": "Olympique de Marseille",
+            "awayTeamName": "Olympique de Marseille",
+            "homeTeamCrest": "https:\/\/crests.football-data.org\/516.png",
+            "awayTeamCrest": "https:\/\/crests.football-data.org\/545.png",
+            "scoreWinner": null,
+            "scoreFullTimeHome": null,
+            "scoreFullTimeAway": null
+        },
+        "542664": {
+            "utcDate": "2026-04-12T00:00:00Z",
+            "homeTeamName": "Racing Club de Lens",
+            "awayTeamName": "Racing Club de Lens",
+            "homeTeamCrest": "https:\/\/crests.football-data.org\/546.png",
+            "awayTeamCrest": "https:\/\/crests.football-data.org\/524.png",
+            "scoreWinner": null,
+            "scoreFullTimeHome": null,
+            "scoreFullTimeAway": null
+        },
+        "542665": {
+            "utcDate": "2026-04-12T00:00:00Z",
+            "homeTeamName": "Stade Brestois 29",
+            "awayTeamName": "Stade Brestois 29",
+            "homeTeamCrest": "https:\/\/crests.football-data.org\/512.png",
+            "awayTeamCrest": "https:\/\/crests.football-data.org\/576.png",
+            "scoreWinner": null,
+            "scoreFullTimeHome": null,
+            "scoreFullTimeAway": null
+        },
+        "542666": {
+            "utcDate": "2026-04-12T00:00:00Z",
+            "homeTeamName": "Stade Rennais FC 1901",
+            "awayTeamName": "Stade Rennais FC 1901",
+            "homeTeamCrest": "https:\/\/crests.football-data.org\/529.png",
+            "awayTeamCrest": "https:\/\/crests.football-data.org\/532.png",
+            "scoreWinner": null,
+            "scoreFullTimeHome": null,
+            "scoreFullTimeAway": null
+        },
+        "542667": {
+            "utcDate": "2026-04-19T00:00:00Z",
+            "homeTeamName": "AS Monaco FC",
+            "awayTeamName": "AS Monaco FC",
+            "homeTeamCrest": "https:\/\/crests.football-data.org\/548.png",
+            "awayTeamCrest": "https:\/\/crests.football-data.org\/519.png",
+            "scoreWinner": null,
+            "scoreFullTimeHome": null,
+            "scoreFullTimeAway": null
+        },
+        "542668": {
+            "utcDate": "2026-04-19T00:00:00Z",
+            "homeTeamName": "FC Lorient",
+            "awayTeamName": "FC Lorient",
+            "homeTeamCrest": "https:\/\/crests.football-data.org\/525.png",
+            "awayTeamCrest": "https:\/\/crests.football-data.org\/516.png",
+            "scoreWinner": null,
+            "scoreFullTimeHome": null,
+            "scoreFullTimeAway": null
+        },
+        "542669": {
+            "utcDate": "2026-04-19T00:00:00Z",
+            "homeTeamName": "FC Metz",
+            "awayTeamName": "FC Metz",
+            "homeTeamCrest": "https:\/\/crests.football-data.org\/545.png",
+            "awayTeamCrest": "https:\/\/crests.football-data.org\/1045.png",
+            "scoreWinner": null,
+            "scoreFullTimeHome": null,
+            "scoreFullTimeAway": null
+        },
+        "542670": {
+            "utcDate": "2026-04-19T00:00:00Z",
+            "homeTeamName": "FC Nantes",
+            "awayTeamName": "FC Nantes",
+            "homeTeamCrest": "https:\/\/crests.football-data.org\/543.png",
+            "awayTeamCrest": "https:\/\/crests.football-data.org\/512.png",
+            "scoreWinner": null,
+            "scoreFullTimeHome": null,
+            "scoreFullTimeAway": null
+        },
+        "542671": {
+            "utcDate": "2026-04-19T00:00:00Z",
+            "homeTeamName": "Lille OSC",
+            "awayTeamName": "Lille OSC",
+            "homeTeamCrest": "https:\/\/crests.football-data.org\/521.png",
+            "awayTeamCrest": "https:\/\/crests.football-data.org\/522.png",
+            "scoreWinner": null,
+            "scoreFullTimeHome": null,
+            "scoreFullTimeAway": null
+        },
+        "542672": {
+            "utcDate": "2026-04-19T00:00:00Z",
+            "homeTeamName": "Paris Saint-Germain FC",
+            "awayTeamName": "Paris Saint-Germain FC",
+            "homeTeamCrest": "https:\/\/crests.football-data.org\/524.png",
+            "awayTeamCrest": "https:\/\/crests.football-data.org\/523.png",
+            "scoreWinner": null,
+            "scoreFullTimeHome": null,
+            "scoreFullTimeAway": null
+        },
+        "542673": {
+            "utcDate": "2026-04-19T00:00:00Z",
+            "homeTeamName": "RC Strasbourg Alsace",
+            "awayTeamName": "RC Strasbourg Alsace",
+            "homeTeamCrest": "https:\/\/crests.football-data.org\/576.png",
+            "awayTeamCrest": "https:\/\/crests.football-data.org\/529.png",
+            "scoreWinner": null,
+            "scoreFullTimeHome": null,
+            "scoreFullTimeAway": null
+        },
+        "542674": {
+            "utcDate": "2026-04-19T00:00:00Z",
+            "homeTeamName": "Racing Club de Lens",
+            "awayTeamName": "Racing Club de Lens",
+            "homeTeamCrest": "https:\/\/crests.football-data.org\/546.png",
+            "awayTeamCrest": "https:\/\/crests.football-data.org\/511.png",
+            "scoreWinner": null,
+            "scoreFullTimeHome": null,
+            "scoreFullTimeAway": null
+        },
+        "542675": {
+            "utcDate": "2026-04-19T00:00:00Z",
+            "homeTeamName": "Angers SCO",
+            "awayTeamName": "Angers SCO",
+            "homeTeamCrest": "https:\/\/crests.football-data.org\/532.png",
+            "awayTeamCrest": "https:\/\/crests.football-data.org\/533.png",
+            "scoreWinner": null,
+            "scoreFullTimeHome": null,
+            "scoreFullTimeAway": null
+        },
+        "542676": {
+            "utcDate": "2026-04-26T00:00:00Z",
+            "homeTeamName": "Le Havre AC",
+            "awayTeamName": "Le Havre AC",
+            "homeTeamCrest": "https:\/\/crests.football-data.org\/533.png",
+            "awayTeamCrest": "https:\/\/crests.football-data.org\/545.png",
+            "scoreWinner": null,
+            "scoreFullTimeHome": null,
+            "scoreFullTimeAway": null
+        },
+        "542677": {
+            "utcDate": "2026-04-26T00:00:00Z",
+            "homeTeamName": "FC Lorient",
+            "awayTeamName": "FC Lorient",
+            "homeTeamCrest": "https:\/\/crests.football-data.org\/525.png",
+            "awayTeamCrest": "https:\/\/crests.football-data.org\/576.png",
+            "scoreWinner": null,
+            "scoreFullTimeHome": null,
+            "scoreFullTimeAway": null
+        },
+        "542678": {
+            "utcDate": "2026-04-26T00:00:00Z",
+            "homeTeamName": "Paris FC",
+            "awayTeamName": "Paris FC",
+            "homeTeamCrest": "https:\/\/crests.football-data.org\/1045.png",
+            "awayTeamCrest": "https:\/\/crests.football-data.org\/521.png",
+            "scoreWinner": null,
+            "scoreFullTimeHome": null,
+            "scoreFullTimeAway": null
+        },
+        "542679": {
+            "utcDate": "2026-04-26T00:00:00Z",
+            "homeTeamName": "Toulouse FC",
+            "awayTeamName": "Toulouse FC",
+            "homeTeamCrest": "https:\/\/crests.football-data.org\/511.png",
+            "awayTeamCrest": "https:\/\/crests.football-data.org\/548.png",
+            "scoreWinner": null,
+            "scoreFullTimeHome": null,
+            "scoreFullTimeAway": null
+        },
+        "542680": {
+            "utcDate": "2026-04-26T00:00:00Z",
+            "homeTeamName": "Olympique Lyonnais",
+            "awayTeamName": "Olympique Lyonnais",
+            "homeTeamCrest": "https:\/\/crests.football-data.org\/523.png",
+            "awayTeamCrest": "https:\/\/crests.football-data.org\/519.png",
+            "scoreWinner": null,
+            "scoreFullTimeHome": null,
+            "scoreFullTimeAway": null
+        },
+        "542681": {
+            "utcDate": "2026-04-26T00:00:00Z",
+            "homeTeamName": "Olympique de Marseille",
+            "awayTeamName": "Olympique de Marseille",
+            "homeTeamCrest": "https:\/\/crests.football-data.org\/516.png",
+            "awayTeamCrest": "https:\/\/crests.football-data.org\/522.png",
+            "scoreWinner": null,
+            "scoreFullTimeHome": null,
+            "scoreFullTimeAway": null
+        },
+        "542682": {
+            "utcDate": "2026-04-26T00:00:00Z",
+            "homeTeamName": "Angers SCO",
+            "awayTeamName": "Angers SCO",
+            "homeTeamCrest": "https:\/\/crests.football-data.org\/532.png",
+            "awayTeamCrest": "https:\/\/crests.football-data.org\/524.png",
+            "scoreWinner": null,
+            "scoreFullTimeHome": null,
+            "scoreFullTimeAway": null
+        },
+        "542683": {
+            "utcDate": "2026-04-26T00:00:00Z",
+            "homeTeamName": "Stade Brestois 29",
+            "awayTeamName": "Stade Brestois 29",
+            "homeTeamCrest": "https:\/\/crests.football-data.org\/512.png",
+            "awayTeamCrest": "https:\/\/crests.football-data.org\/546.png",
+            "scoreWinner": null,
+            "scoreFullTimeHome": null,
+            "scoreFullTimeAway": null
+        },
+        "542684": {
+            "utcDate": "2026-04-26T00:00:00Z",
+            "homeTeamName": "Stade Rennais FC 1901",
+            "awayTeamName": "Stade Rennais FC 1901",
+            "homeTeamCrest": "https:\/\/crests.football-data.org\/529.png",
+            "awayTeamCrest": "https:\/\/crests.football-data.org\/543.png",
+            "scoreWinner": null,
+            "scoreFullTimeHome": null,
+            "scoreFullTimeAway": null
+        },
+        "542685": {
+            "utcDate": "2026-05-03T00:00:00Z",
+            "homeTeamName": "AJ Auxerre",
+            "awayTeamName": "AJ Auxerre",
+            "homeTeamCrest": "https:\/\/crests.football-data.org\/519.png",
+            "awayTeamCrest": "https:\/\/crests.football-data.org\/532.png",
+            "scoreWinner": null,
+            "scoreFullTimeHome": null,
+            "scoreFullTimeAway": null
+        },
+        "542686": {
+            "utcDate": "2026-05-03T00:00:00Z",
+            "homeTeamName": "FC Metz",
+            "awayTeamName": "FC Metz",
+            "homeTeamCrest": "https:\/\/crests.football-data.org\/545.png",
+            "awayTeamCrest": "https:\/\/crests.football-data.org\/548.png",
+            "scoreWinner": null,
+            "scoreFullTimeHome": null,
+            "scoreFullTimeAway": null
+        },
+        "542687": {
+            "utcDate": "2026-05-03T00:00:00Z",
+            "homeTeamName": "FC Nantes",
+            "awayTeamName": "FC Nantes",
+            "homeTeamCrest": "https:\/\/crests.football-data.org\/543.png",
+            "awayTeamCrest": "https:\/\/crests.football-data.org\/516.png",
+            "scoreWinner": null,
+            "scoreFullTimeHome": null,
+            "scoreFullTimeAway": null
+        },
+        "542688": {
+            "utcDate": "2026-05-03T00:00:00Z",
+            "homeTeamName": "Paris FC",
+            "awayTeamName": "Paris FC",
+            "homeTeamCrest": "https:\/\/crests.football-data.org\/1045.png",
+            "awayTeamCrest": "https:\/\/crests.football-data.org\/512.png",
+            "scoreWinner": null,
+            "scoreFullTimeHome": null,
+            "scoreFullTimeAway": null
+        },
+        "542689": {
+            "utcDate": "2026-05-03T00:00:00Z",
+            "homeTeamName": "OGC Nice",
+            "awayTeamName": "OGC Nice",
+            "homeTeamCrest": "https:\/\/crests.football-data.org\/522.png",
+            "awayTeamCrest": "https:\/\/crests.football-data.org\/546.png",
+            "scoreWinner": null,
+            "scoreFullTimeHome": null,
+            "scoreFullTimeAway": null
+        },
+        "542690": {
+            "utcDate": "2026-05-03T00:00:00Z",
+            "homeTeamName": "Olympique Lyonnais",
+            "awayTeamName": "Olympique Lyonnais",
+            "homeTeamCrest": "https:\/\/crests.football-data.org\/523.png",
+            "awayTeamCrest": "https:\/\/crests.football-data.org\/529.png",
+            "scoreWinner": null,
+            "scoreFullTimeHome": null,
+            "scoreFullTimeAway": null
+        },
+        "542691": {
+            "utcDate": "2026-05-03T00:00:00Z",
+            "homeTeamName": "Lille OSC",
+            "awayTeamName": "Lille OSC",
+            "homeTeamCrest": "https:\/\/crests.football-data.org\/521.png",
+            "awayTeamCrest": "https:\/\/crests.football-data.org\/533.png",
+            "scoreWinner": null,
+            "scoreFullTimeHome": null,
+            "scoreFullTimeAway": null
+        },
+        "542692": {
+            "utcDate": "2026-05-03T00:00:00Z",
+            "homeTeamName": "Paris Saint-Germain FC",
+            "awayTeamName": "Paris Saint-Germain FC",
+            "homeTeamCrest": "https:\/\/crests.football-data.org\/524.png",
+            "awayTeamCrest": "https:\/\/crests.football-data.org\/525.png",
+            "scoreWinner": null,
+            "scoreFullTimeHome": null,
+            "scoreFullTimeAway": null
+        },
+        "542693": {
+            "utcDate": "2026-05-03T00:00:00Z",
+            "homeTeamName": "RC Strasbourg Alsace",
+            "awayTeamName": "RC Strasbourg Alsace",
+            "homeTeamCrest": "https:\/\/crests.football-data.org\/576.png",
+            "awayTeamCrest": "https:\/\/crests.football-data.org\/511.png",
+            "scoreWinner": null,
+            "scoreFullTimeHome": null,
+            "scoreFullTimeAway": null
+        },
+        "542694": {
+            "utcDate": "2026-05-09T00:00:00Z",
+            "homeTeamName": "Le Havre AC",
+            "awayTeamName": "Le Havre AC",
+            "homeTeamCrest": "https:\/\/crests.football-data.org\/533.png",
+            "awayTeamCrest": "https:\/\/crests.football-data.org\/516.png",
+            "scoreWinner": null,
+            "scoreFullTimeHome": null,
+            "scoreFullTimeAway": null
+        },
+        "542695": {
+            "utcDate": "2026-05-09T00:00:00Z",
+            "homeTeamName": "AJ Auxerre",
+            "awayTeamName": "AJ Auxerre",
+            "homeTeamCrest": "https:\/\/crests.football-data.org\/519.png",
+            "awayTeamCrest": "https:\/\/crests.football-data.org\/522.png",
+            "scoreWinner": null,
+            "scoreFullTimeHome": null,
+            "scoreFullTimeAway": null
+        },
+        "542696": {
+            "utcDate": "2026-05-09T00:00:00Z",
+            "homeTeamName": "AS Monaco FC",
+            "awayTeamName": "AS Monaco FC",
+            "homeTeamCrest": "https:\/\/crests.football-data.org\/548.png",
+            "awayTeamCrest": "https:\/\/crests.football-data.org\/521.png",
+            "scoreWinner": null,
+            "scoreFullTimeHome": null,
+            "scoreFullTimeAway": null
+        },
+        "542697": {
+            "utcDate": "2026-05-09T00:00:00Z",
+            "homeTeamName": "FC Metz",
+            "awayTeamName": "FC Metz",
+            "homeTeamCrest": "https:\/\/crests.football-data.org\/545.png",
+            "awayTeamCrest": "https:\/\/crests.football-data.org\/525.png",
+            "scoreWinner": null,
+            "scoreFullTimeHome": null,
+            "scoreFullTimeAway": null
+        },
+        "542698": {
+            "utcDate": "2026-05-09T00:00:00Z",
+            "homeTeamName": "Toulouse FC",
+            "awayTeamName": "Toulouse FC",
+            "homeTeamCrest": "https:\/\/crests.football-data.org\/511.png",
+            "awayTeamCrest": "https:\/\/crests.football-data.org\/523.png",
+            "scoreWinner": null,
+            "scoreFullTimeHome": null,
+            "scoreFullTimeAway": null
+        },
+        "542699": {
+            "utcDate": "2026-05-09T00:00:00Z",
+            "homeTeamName": "Paris Saint-Germain FC",
+            "awayTeamName": "Paris Saint-Germain FC",
+            "homeTeamCrest": "https:\/\/crests.football-data.org\/524.png",
+            "awayTeamCrest": "https:\/\/crests.football-data.org\/512.png",
+            "scoreWinner": null,
+            "scoreFullTimeHome": null,
+            "scoreFullTimeAway": null
+        },
+        "542700": {
+            "utcDate": "2026-05-09T00:00:00Z",
+            "homeTeamName": "Racing Club de Lens",
+            "awayTeamName": "Racing Club de Lens",
+            "homeTeamCrest": "https:\/\/crests.football-data.org\/546.png",
+            "awayTeamCrest": "https:\/\/crests.football-data.org\/543.png",
+            "scoreWinner": null,
+            "scoreFullTimeHome": null,
+            "scoreFullTimeAway": null
+        },
+        "542701": {
+            "utcDate": "2026-05-09T00:00:00Z",
+            "homeTeamName": "Angers SCO",
+            "awayTeamName": "Angers SCO",
+            "homeTeamCrest": "https:\/\/crests.football-data.org\/532.png",
+            "awayTeamCrest": "https:\/\/crests.football-data.org\/576.png",
+            "scoreWinner": null,
+            "scoreFullTimeHome": null,
+            "scoreFullTimeAway": null
+        },
+        "542702": {
+            "utcDate": "2026-05-09T00:00:00Z",
+            "homeTeamName": "Stade Rennais FC 1901",
+            "awayTeamName": "Stade Rennais FC 1901",
+            "homeTeamCrest": "https:\/\/crests.football-data.org\/529.png",
+            "awayTeamCrest": "https:\/\/crests.football-data.org\/1045.png",
+            "scoreWinner": null,
+            "scoreFullTimeHome": null,
+            "scoreFullTimeAway": null
+        },
+        "542703": {
+            "utcDate": "2026-05-16T00:00:00Z",
+            "homeTeamName": "FC Lorient",
+            "awayTeamName": "FC Lorient",
+            "homeTeamCrest": "https:\/\/crests.football-data.org\/525.png",
+            "awayTeamCrest": "https:\/\/crests.football-data.org\/533.png",
+            "scoreWinner": null,
+            "scoreFullTimeHome": null,
+            "scoreFullTimeAway": null
+        },
+        "542704": {
+            "utcDate": "2026-05-16T00:00:00Z",
+            "homeTeamName": "FC Nantes",
+            "awayTeamName": "FC Nantes",
+            "homeTeamCrest": "https:\/\/crests.football-data.org\/543.png",
+            "awayTeamCrest": "https:\/\/crests.football-data.org\/511.png",
+            "scoreWinner": null,
+            "scoreFullTimeHome": null,
+            "scoreFullTimeAway": null
+        },
+        "542705": {
+            "utcDate": "2026-05-16T00:00:00Z",
+            "homeTeamName": "Paris FC",
+            "awayTeamName": "Paris FC",
+            "homeTeamCrest": "https:\/\/crests.football-data.org\/1045.png",
+            "awayTeamCrest": "https:\/\/crests.football-data.org\/524.png",
+            "scoreWinner": null,
+            "scoreFullTimeHome": null,
+            "scoreFullTimeAway": null
+        },
+        "542706": {
+            "utcDate": "2026-05-16T00:00:00Z",
+            "homeTeamName": "OGC Nice",
+            "awayTeamName": "OGC Nice",
+            "homeTeamCrest": "https:\/\/crests.football-data.org\/522.png",
+            "awayTeamCrest": "https:\/\/crests.football-data.org\/545.png",
+            "scoreWinner": null,
+            "scoreFullTimeHome": null,
+            "scoreFullTimeAway": null
+        },
+        "542707": {
+            "utcDate": "2026-05-16T00:00:00Z",
+            "homeTeamName": "Olympique Lyonnais",
+            "awayTeamName": "Olympique Lyonnais",
+            "homeTeamCrest": "https:\/\/crests.football-data.org\/523.png",
+            "awayTeamCrest": "https:\/\/crests.football-data.org\/546.png",
+            "scoreWinner": null,
+            "scoreFullTimeHome": null,
+            "scoreFullTimeAway": null
+        },
+        "542708": {
+            "utcDate": "2026-05-16T00:00:00Z",
+            "homeTeamName": "Olympique de Marseille",
+            "awayTeamName": "Olympique de Marseille",
+            "homeTeamCrest": "https:\/\/crests.football-data.org\/516.png",
+            "awayTeamCrest": "https:\/\/crests.football-data.org\/529.png",
+            "scoreWinner": null,
+            "scoreFullTimeHome": null,
+            "scoreFullTimeAway": null
+        },
+        "542709": {
+            "utcDate": "2026-05-16T00:00:00Z",
+            "homeTeamName": "Lille OSC",
+            "awayTeamName": "Lille OSC",
+            "homeTeamCrest": "https:\/\/crests.football-data.org\/521.png",
+            "awayTeamCrest": "https:\/\/crests.football-data.org\/519.png",
+            "scoreWinner": null,
+            "scoreFullTimeHome": null,
+            "scoreFullTimeAway": null
+        },
+        "542710": {
+            "utcDate": "2026-05-16T00:00:00Z",
+            "homeTeamName": "RC Strasbourg Alsace",
+            "awayTeamName": "RC Strasbourg Alsace",
+            "homeTeamCrest": "https:\/\/crests.football-data.org\/576.png",
+            "awayTeamCrest": "https:\/\/crests.football-data.org\/548.png",
+            "scoreWinner": null,
+            "scoreFullTimeHome": null,
+            "scoreFullTimeAway": null
+        },
+        "542711": {
+            "utcDate": "2026-05-16T00:00:00Z",
+            "homeTeamName": "Stade Brestois 29",
+            "awayTeamName": "Stade Brestois 29",
+            "homeTeamCrest": "https:\/\/crests.football-data.org\/512.png",
+            "awayTeamCrest": "https:\/\/crests.football-data.org\/532.png",
+            "scoreWinner": null,
+            "scoreFullTimeHome": null,
+            "scoreFullTimeAway": null
+        }
+    }
+}

@@ -1,169 +1,74 @@
 {
-    "count": 7,
-    "filters": {
-        "client": "MonWebPro - EasyBet"
-    },
-    "competitions": [
-        {
-            "id": 2021,
-            "area": {
-                "id": 2072,
-                "name": "England",
-                "code": "ENG",
-                "flag": "https:\/\/crests.football-data.org\/770.svg"
-            },
-            "name": "Premier League",
+    "competitions": {
+        "2021": {
             "code": "PL",
-            "type": "LEAGUE",
+            "name": "Premier League",
             "emblem": "https:\/\/crests.football-data.org\/PL.png",
-            "plan": "TIER_ONE",
-            "currentSeason": {
-                "id": 2403,
-                "startDate": "2025-08-15",
-                "endDate": "2026-05-24",
-                "currentMatchday": 4,
-                "winner": null
-            },
-            "numberOfAvailableSeasons": 127,
-            "lastUpdated": "2024-09-13T16:51:24Z"
+            "areaName": "England",
+            "areaFlag": "https:\/\/crests.football-data.org\/770.svg",
+            "startDate": "2025-08-15",
+            "endDate": "2026-05-24",
+            "currentMatchday": 4
         },
-        {
-            "id": 2001,
-            "area": {
-                "id": 2077,
-                "name": "Europe",
-                "code": "EUR",
-                "flag": "https:\/\/crests.football-data.org\/EUR.svg"
-            },
-            "name": "UEFA Champions League",
+        "2001": {
             "code": "CL",
-            "type": "CUP",
+            "name": "UEFA Champions League",
             "emblem": "https:\/\/crests.football-data.org\/CL.png",
-            "plan": "TIER_ONE",
-            "currentSeason": {
-                "id": 2454,
-                "startDate": "2025-09-16",
-                "endDate": "2026-05-30",
-                "currentMatchday": 1,
-                "winner": null
-            },
-            "numberOfAvailableSeasons": 46,
-            "lastUpdated": "2024-09-13T16:53:48Z"
+            "areaName": "Europe",
+            "areaFlag": "https:\/\/crests.football-data.org\/EUR.svg",
+            "startDate": "2025-09-16",
+            "endDate": "2026-05-30",
+            "currentMatchday": 1
         },
-        {
-            "id": 2015,
-            "area": {
-                "id": 2081,
-                "name": "France",
-                "code": "FRA",
-                "flag": "https:\/\/crests.football-data.org\/773.svg"
-            },
-            "name": "Ligue 1",
+        "2015": {
             "code": "FL1",
-            "type": "LEAGUE",
+            "name": "Ligue 1",
             "emblem": "https:\/\/crests.football-data.org\/FL1.png",
-            "plan": "TIER_ONE",
-            "currentSeason": {
-                "id": 2420,
-                "startDate": "2025-08-17",
-                "endDate": "2026-05-16",
-                "currentMatchday": 4,
-                "winner": null
-            },
-            "numberOfAvailableSeasons": 82,
-            "lastUpdated": "2024-09-13T16:49:18Z"
+            "areaName": "France",
+            "areaFlag": "https:\/\/crests.football-data.org\/773.svg",
+            "startDate": "2025-08-17",
+            "endDate": "2026-05-16",
+            "currentMatchday": 4
         },
-        {
-            "id": 2002,
-            "area": {
-                "id": 2088,
-                "name": "Germany",
-                "code": "DEU",
-                "flag": "https:\/\/crests.football-data.org\/759.svg"
-            },
-            "name": "Bundesliga",
+        "2002": {
             "code": "BL1",
-            "type": "LEAGUE",
+            "name": "Bundesliga",
             "emblem": "https:\/\/crests.football-data.org\/BL1.png",
-            "plan": "TIER_ONE",
-            "currentSeason": {
-                "id": 2414,
-                "startDate": "2025-08-22",
-                "endDate": "2026-05-16",
-                "currentMatchday": 3,
-                "winner": null
-            },
-            "numberOfAvailableSeasons": 63,
-            "lastUpdated": "2024-09-13T16:48:00Z"
+            "areaName": "Germany",
+            "areaFlag": "https:\/\/crests.football-data.org\/759.svg",
+            "startDate": "2025-08-22",
+            "endDate": "2026-05-16",
+            "currentMatchday": 3
         },
-        {
-            "id": 2019,
-            "area": {
-                "id": 2114,
-                "name": "Italy",
-                "code": "ITA",
-                "flag": "https:\/\/crests.football-data.org\/784.svg"
-            },
-            "name": "Serie A",
+        "2019": {
             "code": "SA",
-            "type": "LEAGUE",
+            "name": "Serie A",
             "emblem": "https:\/\/crests.football-data.org\/SA.png",
-            "plan": "TIER_ONE",
-            "currentSeason": {
-                "id": 2395,
-                "startDate": "2025-08-24",
-                "endDate": "2026-05-24",
-                "currentMatchday": 3,
-                "winner": null
-            },
-            "numberOfAvailableSeasons": 94,
-            "lastUpdated": "2024-09-13T16:50:07Z"
+            "areaName": "Italy",
+            "areaFlag": "https:\/\/crests.football-data.org\/784.svg",
+            "startDate": "2025-08-24",
+            "endDate": "2026-05-24",
+            "currentMatchday": 3
         },
-        {
-            "id": 2014,
-            "area": {
-                "id": 2224,
-                "name": "Spain",
-                "code": "ESP",
-                "flag": "https:\/\/crests.football-data.org\/760.svg"
-            },
-            "name": "Primera Division",
+        "2014": {
             "code": "PD",
-            "type": "LEAGUE",
+            "name": "Primera Division",
             "emblem": "https:\/\/crests.football-data.org\/laliga.png",
-            "plan": "TIER_ONE",
-            "currentSeason": {
-                "id": 2429,
-                "startDate": "2025-08-17",
-                "endDate": "2026-05-24",
-                "currentMatchday": 4,
-                "winner": null
-            },
-            "numberOfAvailableSeasons": 95,
-            "lastUpdated": "2024-09-13T16:52:33Z"
+            "areaName": "Spain",
+            "areaFlag": "https:\/\/crests.football-data.org\/760.svg",
+            "startDate": "2025-08-17",
+            "endDate": "2026-05-24",
+            "currentMatchday": 4
         },
-        {
-            "id": 2000,
-            "area": {
-                "id": 2267,
-                "name": "World",
-                "code": "INT",
-                "flag": null
-            },
-            "name": "FIFA World Cup",
+        "2000": {
             "code": "WC",
-            "type": "CUP",
+            "name": "FIFA World Cup",
             "emblem": "https:\/\/crests.football-data.org\/qatar.png",
-            "plan": "TIER_ONE",
-            "currentSeason": {
-                "id": 2398,
-                "startDate": "2026-06-11",
-                "endDate": "2026-07-19",
-                "currentMatchday": 1,
-                "winner": null
-            },
-            "numberOfAvailableSeasons": 23,
-            "lastUpdated": "2024-09-13T17:04:20Z"
+            "areaName": "World",
+            "areaFlag": null,
+            "startDate": "2026-06-11",
+            "endDate": "2026-07-19",
+            "currentMatchday": 1
         }
-    ]
+    }
 }
