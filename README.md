@@ -262,6 +262,18 @@ Crontab
     - Du traitement des événements (gain de points, gestions des participants)
 - Un test pour obtenir les résultats pour atteindre la pag d'acceuil
 
+Feuilles de styles
+: Les feuilles de styles sont totalement réécritent.
+
+Actus & Infos
+: Les pages *Actus & Infos* ont également subis des modifications :
+- Actus :
+    - Il est possible de faire une recherche par l'éditeur de l'article (ex: 20Minutes, LeMonde, etc...).
+    - La recherche par mot clé qui est contenu dans le titre et dans contenu de l'article.
+    - Il est possible de modifier l'apparence de l'affichage (grid, column).
+- Infos :
+    - Il est possible d'interagir avec les différents tableaux diponible (gagnants, matches récent et à venir, classement équipes et meilleurs joueurs), ce qui évite de scroller sur la page.
+  
 ### 5. Aspect Technique
 
 #### 5.1. Architecture
