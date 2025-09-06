@@ -21,7 +21,7 @@
                                 <img class='emblem' src='".$competition['emblem']."' alt='competition flag' />
                                 <figcaption>
                                     <p class='name'>".$competition['name']."</p>
-                                    <p class='areaname'><img class='flag' src='".$competition['area']['flag']."' alt='logo area' width='20px' height='20px' />".$competition['area']['name']."</p>
+                                    <p class='areaname'><img class='flag' src='".$competition['areaFlag']."' alt='logo area' width='20px' height='20px' />".$competition['areaName']."</p>
                                 </figcaption>
                             </figure>
                         </div>

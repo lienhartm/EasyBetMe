@@ -276,6 +276,7 @@ function fetchData(&$a, $token, $url, $filename, $directory) {
                 foreach($json['matches'] as $matche) {
                     $id = $matche['id'];
                     $utcDate = $matche['utcDate'];
+                    $status = $matche['status'];
                     $homeTeamName = $matche['homeTeam']['name'];
                     $awayTeamName = $matche['awayTeam']['name'];
                     $homeTeamCrest = $matche['homeTeam']['crest'];
@@ -286,6 +287,7 @@ function fetchData(&$a, $token, $url, $filename, $directory) {
 
                     $data['matches'][$id] = array(
                         "utcDate" => $utcDate,
+                        "status" => $status,
                         "homeTeamName" => $homeTeamName,
                         "awayTeamName" => $homeTeamName,
                         "homeTeamCrest" => $homeTeamCrest,
@@ -685,7 +687,7 @@ try {
         // Afficher les en-têtes de la réponse (si nécessaire)
         file_put_contents("/var/www/html/logfile/header.log", $headers);
         file_put_contents("/var/www/html/logfile/body.log", $body);
-        
+
     }
 
     // Fermer la session cURL

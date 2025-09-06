@@ -81,3 +81,33 @@
 2025-09-05 20:02:16 - | 13   | https://api.football-data.org/v4/competitions/FL1/standings?year=2025            | standings-FL1.json                       | 9663       | ok       |
 2025-09-05 20:02:27 - | 14   | https://api.football-data.org/v4/competitions/FL1/scorers?year=2025              | scorers-FL1.json                         | 2872       | ok       |
 2025-09-05 20:02:37 - | 15   | https://api.football-data.org/v4/competitions/BL1                                | info-BL1.json                            | 6365       | ok       |
+2025-09-05 20:02:48 - | 16   | https://api.football-data.org/v4/competitions/BL1/matches?year=2025              | matches-BL1.json                         | 132963     | ok       |
+2025-09-05 20:02:58 - | 17   | https://api.football-data.org/v4/competitions/BL1/standings?year=2025            | standings-BL1.json                       | 9688       | ok       |
+2025-09-05 20:03:08 - | 18   | https://api.football-data.org/v4/competitions/BL1/scorers?year=2025              | scorers-BL1.json                         | 2827       | ok       |
+2025-09-05 20:03:18 - | 19   | https://api.football-data.org/v4/competitions/SA                                 | info-SA.json                             | 882        | ok       |
+2025-09-05 20:03:29 - | 20   | https://api.football-data.org/v4/competitions/SA/matches?year=2025               | matches-SA.json                          | 162921     | ok       |
+2025-09-06 06:36:24 - Erreur : Erreur lors de l'accès à l'URL: https://api.football-data.org/v4/competitions/SA/standings?year=2025
+2025-09-06 06:36:24 - Erreur : Erreur lors de l'accès à l'URL: https://api.football-data.org/v4/competitions/SA/scorers?year=2025
+2025-09-06 06:36:24 - Erreur : Erreur lors de l'accès à l'URL: https://api.football-data.org/v4/competitions/PD
+2025-09-06 06:36:24 - Erreur : Erreur lors de l'accès à l'URL: https://api.football-data.org/v4/competitions/PD/matches?year=2025
+2025-09-06 06:36:24 - Erreur : Erreur lors de l'accès à l'URL: https://api.football-data.org/v4/competitions/PD/standings?year=2025
+2025-09-06 06:36:24 - Erreur : Erreur lors de l'accès à l'URL: https://api.football-data.org/v4/competitions/PD/scorers?year=2025
+2025-09-06 06:36:24 - Erreur : Erreur lors de l'accès à l'URL: https://api.football-data.org/v4/competitions/WC
+2025-09-06 06:36:24 - Erreur : Erreur lors de l'accès à l'URL: https://api.football-data.org/v4/competitions/WC/matches?year=2025
+2025-09-06 06:36:24 - Erreur : Erreur lors de l'accès à l'URL: https://api.football-data.org/v4/competitions/WC/standings?year=2025
+2025-09-06 06:36:24 - Erreur : Erreur lors de l'accès à l'URL: https://api.football-data.org/v4/competitions/WC/scorers?year=2025
+2025-09-06 06:36:24 - Erreur : Erreur cURL : Could not resolve host: newsapi.org
+2025-09-06 06:36:24 - - ##### Fin récupération des données API
+2025-09-06 06:36:24 - =================================================
+2025-09-06 06:36:24 - - ##### Mise à jour de la base de données
+2025-09-06 06:36:34 - - ##### Fin mise à jour de la base de données
+2025-09-06 06:36:34 - =================================================
+2025-09-06 06:36:34 - - ##### Test de la page d'accueil
+2025-09-06 06:36:44 - Réponse du serveur :      Code HTTP = 200
+2025-09-06 06:36:44 - Temps de réponse total :  0.00622 secondes
+2025-09-06 06:36:44 - Temps de connexion :       0.00132 secondes
+2025-09-06 06:36:44 - Taille des données :      13798 octets téléchargés
+2025-09-06 06:36:44 - - ##### Fin test de la page d'accueil
+2025-09-06 06:36:44 - =================================================
+2025-09-06 06:36:44 - - ##### Fin de la tâche cron - EasyBet Crontab
+2025-09-06 06:36:44 - =================================================

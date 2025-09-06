@@ -32,11 +32,11 @@
     <h2 class="titre align"><img src='<?= $competitions['emblem'] ?>' alt='emblem' width='100px' height='100px' />  <?= $competitions['name'] ?></h2>
     <div class="ligne">
         <div class="info">
-            <img src='<?= $competitions['area']['flag'] ?>' alt='area flag' width='50px' height='50px' />
-            <h3><?= $competitions['area']['name'] ?></h3>
+            <img src='<?= $competitions['areaFlag'] ?>' alt='area flag' width='50px' height='50px' />
+            <h3><?= $competitions['areaName'] ?></h3>
         </div>
-        <h3><b>Journée: </b><?= $competitions['currentSeason']['currentMatchday'] ?></h3>
-        <h3><b>Saison: </b><?= $competitions['currentSeason']['startDate'] ?> - <?= $competitions['currentSeason']['endDate'] ?></h3>
+        <h3><b>Journée: </b><?= $competitions['currentMatchday'] ?></h3>
+        <h3><b>Saison: </b><?= $competitions['startDate'] ?> - <?= $competitions['endDate'] ?></h3>
     </div>
 </div>
 
@@ -126,13 +126,13 @@
                 <tbody>
                     <?php
 
-                        foreach($standings['standings'][0]['table'] as $standing) {
+                        foreach($standings['standings'] as $standing) {
                             echo "
                                 <tr>
                                     <td style='text-align:center;'>".$standing['position']."</td>
                                     <td style='margin-left:10px;'>
-                                        <img src='".$standing['team']['crest']."' alt='image club' width='20px' height='20px' />
-                                        <span class='name'>".$standing['team']['name']."</span>
+                                        <img src='".$standing['teamCrest']."' alt='image club' width='20px' height='20px' />
+                                        <span class='name'>".$standing['teamName']."</span>
                                     </td>
                                     <td style='text-align:center;'>".$standing['playedGames']."</td>
                                     <td style='text-align:center;'>".$standing['won']."</td>
@@ -177,8 +177,8 @@
                                     <tr>
                                         <td style='text-align:center;width:20px;'>".++$k."</td>
                                         <td style='margin-left:20px;width:100px;'>
-                                            <img src='".$scorer['team']['crest']."' alt='image équipe' width='20px' height='20px' />
-                                            ".$scorer['player']['firstName']." ".$scorer['player']['lastName']."
+                                            <img src='".$scorer['teamCrest']."' alt='image équipe' width='20px' height='20px' />
+                                            ".$scorer['firstName']." ".$scorer['lastName']."
                                         </td>
                                         <td style='text-align:center;'>" .($scorer['playedMatches'] ? $scorer['playedMatches'] : '0')."</td>
                                         <td style='text-align:center;'>".($scorer['goals'] ? $scorer['goals'] : '0')."</td>
@@ -281,8 +281,8 @@
                 matchDiv.innerHTML = `
                     <td class='align'>${yearSeason(season.startDate)} - ${yearSeason(season.endDate)}</td>
                     <td class='align'>
-                        <img src='${season.winner.crest}' alt='logo winner' width='20px' height='20px' />
-                        ${season.winner.name}
+                        <img src='${season.winnerCrest}' alt='logo winner' width='20px' height='20px' />
+                        ${season.winnerName}
                     </td>
                 `;
                 resultsContainer.appendChild(matchDiv);
@@ -325,7 +325,7 @@
             const matchDiv = document.createElement('tr');
             matchDiv.className = 'match';
             matchDiv.innerHTML = `
-                <td style='width:60px;'>${formatDate(match.utcDate)}</td><td style='text-align:right;'><img src='${match.homeTeam.crest}' alt='logo homeTeam' width='20px' height='20px' />${match.homeTeam.name}</td><td style='width:10px;text-align:center;'> - </td><td><img src='${match.awayTeam.crest}' alt='logo homeTeam' width='20px' height='20px' />${match.awayTeam.name}</td><td style='text-align:center;width:30px;'>${match.score.fullTime.home}:${match.score.fullTime.away}</td>
+                <td style='width:60px;'>${formatDate(match.utcDate)}</td><td style='text-align:right;'><img src='${match.homeTeamCrest}' alt='logo homeTeam' width='20px' height='20px' />${match.homeTeamName}</td><td style='width:10px;text-align:center;'> - </td><td><img src='${match.awayTeamCrest}' alt='logo homeTeam' width='20px' height='20px' />${match.awayTeamName}</td><td style='text-align:center;width:30px;'>${match.scoreFullTimeHome}:${match.scoreFullTimeAway}</td>
             `;
             resultsContainer.appendChild(matchDiv);
         }
@@ -366,7 +366,7 @@
             const matchDiv = document.createElement('tr');
             matchDiv.className = 'match';
             matchDiv.innerHTML = `
-                <td>${formatDate(match.utcDate)}</td><td style='text-align:right;'><img src='${match.homeTeam.crest}' alt='logo homeTeam' width='20px' height='20px' />${match.homeTeam.name}</td><td style='width:10px;text-align:center;'> - </td><td><img src='${match.awayTeam.crest}' alt='logo awayTeam' width='20px' height='20px' />${match.awayTeam.name}</td>
+                <td>${formatDate(match.utcDate)}</td><td style='text-align:right;'><img src='${match.homeTeamCrest}' alt='logo homeTeam' width='20px' height='20px' />${match.homeTeamName}</td><td style='width:10px;text-align:center;'> - </td><td><img src='${match.awayTeamCrest}' alt='logo awayTeam' width='20px' height='20px' />${match.awayTeamName}</td>
             `;
             resultsContainer.appendChild(matchDiv);
         }
