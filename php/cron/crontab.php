@@ -303,6 +303,14 @@ function fetchData(&$a, $token, $url, $filename, $directory) {
             case 'info':
 
                 $date = null;
+                $data["areaName"] = $json['area']['name'];
+                $data["areaFlag"] = $json['area']['flag'];
+                $data["name"] = $json['name'];
+                $data["emblem"] = $json['emblem'];
+                $data["currentMatchday"] = $json['currentSeason']['currentMatchday'];
+                $data["startDate"] = $json['currentSeason']['startDate'];
+                $data["endDate"] = $json['currentSeason']['endDate'];
+
                 foreach($json['seasons'] as $season) {
                     if($season['winner'] != null) {
                         $startDate = $season['startDate'];

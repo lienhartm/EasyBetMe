@@ -131,8 +131,8 @@
                                 <tr>
                                     <td style='text-align:center;'>".$standing['position']."</td>
                                     <td style='margin-left:10px;'>
-                                        <img src='".$standing['teamCrest']."' alt='image club' width='20px' height='20px' />
-                                        <span class='name'>".$standing['teamName']."</span>
+                                        <img src='".$standing['team']['crest']."' alt='image club' width='20px' height='20px' />
+                                        <span class='name'>".$standing['team']['name']."</span>
                                     </td>
                                     <td style='text-align:center;'>".$standing['playedGames']."</td>
                                     <td style='text-align:center;'>".$standing['won']."</td>
@@ -177,7 +177,7 @@
                                     <tr>
                                         <td style='text-align:center;width:20px;'>".++$k."</td>
                                         <td style='margin-left:20px;width:100px;'>
-                                            <img src='".$scorer['teamCrest']."' alt='image équipe' width='20px' height='20px' />
+                                            <img src='".$scorer['playerTeamCrest']."' alt='image équipe' width='20px' height='20px' />
                                             ".$scorer['firstName']." ".$scorer['lastName']."
                                         </td>
                                         <td style='text-align:center;'>" .($scorer['playedMatches'] ? $scorer['playedMatches'] : '0')."</td>
@@ -238,8 +238,6 @@
  
     let competitionWinners = <?php echo json_encode($competitions['seasons']); ?>;
 
-    const validWinners = competitionWinners.filter(season => season.winner != null);
-
     let recentMatches = <?php echo json_encode($matches_finished); ?>;
     let upcomingMatches = <?php echo json_encode($matches_upcoming); ?>;
 
@@ -269,24 +267,21 @@
         resultsContainer.innerHTML = '';
 
         const startIndex = (page - 1) * itemsPerPage;
-        const endIndex = Math.min(startIndex + itemsPerPage, validWinners.length);
+        const endIndex = Math.min(startIndex + itemsPerPage, competitionWinners.length);
         
         for (let i = startIndex; i < endIndex; i++) {
-            const season = validWinners[i];
-
-            if(season.startDate && season.endDate && season.winner != null) {
+            const season = competitionWinners[i];
                 
-                const matchDiv = document.createElement('tr');
-                //matchDiv.className = 'match';
-                matchDiv.innerHTML = `
-                    <td class='align'>${yearSeason(season.startDate)} - ${yearSeason(season.endDate)}</td>
-                    <td class='align'>
-                        <img src='${season.winnerCrest}' alt='logo winner' width='20px' height='20px' />
-                        ${season.winnerName}
-                    </td>
-                `;
-                resultsContainer.appendChild(matchDiv);
-            }
+            const matchDiv = document.createElement('tr');
+            //matchDiv.className = 'match';
+            matchDiv.innerHTML = `
+                <td class='align'>${yearSeason(season.startDate)} - ${yearSeason(season.endDate)}</td>
+                <td class='align'>
+                    <img src='${season.winnerCrest}' alt='logo winner' width='20px' height='20px' />
+                    ${season.winnerName}
+                </td>
+            `;
+            resultsContainer.appendChild(matchDiv);
         }
 
         displayWinnerPagination(page);
@@ -296,7 +291,7 @@
         const paginationContainer = document.getElementById('winner-pagination');
         paginationContainer.innerHTML = '';
 
-        const totalPages = Math.ceil(validWinners.length / itemsPerPage);
+        const totalPages = Math.ceil(competitionWinners.length / itemsPerPage);
         
         if (page > 1) {
             const prevButton = document.createElement('button');

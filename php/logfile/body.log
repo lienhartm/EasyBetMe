@@ -160,7 +160,7 @@
 
     function fetchMatches() {
 
-        const data = null;
+        const data = {"matches":[]};
 
 
     

@@ -5,7 +5,7 @@
 
     ob_start(); 
 
-    if(isset($ata['matches'])) { $data = $ata['matches']; }
+    if(isset($data['matches'])) { $data = $data['matches']; }
     //var_dump($data);
 
     $_SESSION['login']=0; 
@@ -61,15 +61,6 @@
 
 </div>
 
-<?php
-
-    $contenu = ob_get_clean();
-
-    require_once "template.php";
-
-?>
-
-
 <script>
         
     document.addEventListener('DOMContentLoaded', function() {        
@@ -91,15 +82,10 @@
 
         const data = <?php echo json_encode($data); ?>;
 
-
-    
         const session = <?= json_encode($_SESSION['login']); ?>;
 
-        console.log(session);
-
-
         if (!data || data.length === 0) {
-            document.getElementById('competition-container').innerHTML = `<h2>Aucun matches aujourd\'hui !<br />Mais vous pouvez toujours jouez au ${session ? '<a href="/penalty">mini-jeu de penalty !</a>' : 'mini-jeu de penalty !'}<br /><br />${!session ? '<a href="/login">Inscrivez-vous/Connectez-vous</a>' : ''}</h2>`;
+            document.getElementById('competition-container').innerHTML = `<h3>Aucun matches aujourd\'hui !<br />Mais vous pouvez toujours jouez au ${session ? '<a href="/penalty">mini-jeu de penalty !</a>' : 'mini-jeu de penalty !'}<br /><br />${!session ? '<a href="/login">Inscrivez-vous/Connectez-vous</a>' : ''}</h3>`;
             document.getElementById('matches-container').innerHTML = ``;
             return;
         }
@@ -313,3 +299,11 @@
     }, 20000);
     
 </script>
+
+<?php
+
+    $contenu = ob_get_clean();
+
+    require_once "template.php";
+
+?>

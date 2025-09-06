@@ -1,4 +1,11 @@
 {
+    "areaName": "Italy",
+    "areaFlag": "https:\/\/crests.football-data.org\/784.svg",
+    "name": "Serie A",
+    "emblem": "https:\/\/crests.football-data.org\/SA.png",
+    "currentMatchday": 3,
+    "startDate": "2025-08-24",
+    "endDate": "2026-05-24",
     "seasons": [
         {
             "startDate": "2020-09-19",

@@ -1,4 +1,11 @@
 {
+    "areaName": "France",
+    "areaFlag": "https:\/\/crests.football-data.org\/773.svg",
+    "name": "Ligue 1",
+    "emblem": "https:\/\/crests.football-data.org\/FL1.png",
+    "currentMatchday": 4,
+    "startDate": "2025-08-17",
+    "endDate": "2026-05-16",
     "seasons": [
         {
             "startDate": "2017-08-04",

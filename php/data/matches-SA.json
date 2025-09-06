@@ -2,6 +2,7 @@
     "matches": {
         "536819": {
             "utcDate": "2025-08-23T16:30:00Z",
+            "status": "FINISHED",
             "homeTeamName": "Genoa CFC",
             "awayTeamName": "Genoa CFC",
             "homeTeamCrest": "https:\/\/crests.football-data.org\/107.png",
@@ -12,6 +13,7 @@
         },
         "536823": {
             "utcDate": "2025-08-23T16:30:00Z",
+            "status": "FINISHED",
             "homeTeamName": "US Sassuolo Calcio",
             "awayTeamName": "US Sassuolo Calcio",
             "homeTeamCrest": "https:\/\/crests.football-data.org\/471.png",
@@ -22,6 +24,7 @@
         },
         "536815": {
             "utcDate": "2025-08-23T18:45:00Z",
+            "status": "FINISHED",
             "homeTeamName": "AC Milan",
             "awayTeamName": "AC Milan",
             "homeTeamCrest": "https:\/\/crests.football-data.org\/98.png",
@@ -32,6 +35,7 @@
         },
         "536816": {
             "utcDate": "2025-08-23T18:45:00Z",
+            "status": "FINISHED",
             "homeTeamName": "AS Roma",
             "awayTeamName": "AS Roma",
             "homeTeamCrest": "https:\/\/crests.football-data.org\/100.png",
@@ -42,6 +46,7 @@
         },
         "536818": {
             "utcDate": "2025-08-24T16:30:00Z",
+            "status": "FINISHED",
             "homeTeamName": "Cagliari Calcio",
             "awayTeamName": "Cagliari Calcio",
             "homeTeamCrest": "https:\/\/crests.football-data.org\/104.png",
@@ -52,6 +57,7 @@
         },
         "536820": {
             "utcDate": "2025-08-24T16:30:00Z",
+            "status": "FINISHED",
             "homeTeamName": "Como 1907",
             "awayTeamName": "Como 1907",
             "homeTeamCrest": "https:\/\/crests.football-data.org\/7397.png",
@@ -62,6 +68,7 @@
         },
         "536817": {
             "utcDate": "2025-08-24T18:45:00Z",
+            "status": "FINISHED",
             "homeTeamName": "Atalanta BC",
             "awayTeamName": "Atalanta BC",
             "homeTeamCrest": "https:\/\/crests.football-data.org\/102.png",
@@ -72,6 +79,7 @@
         },
         "536822": {
             "utcDate": "2025-08-24T18:45:00Z",
+            "status": "FINISHED",
             "homeTeamName": "Juventus FC",
             "awayTeamName": "Juventus FC",
             "homeTeamCrest": "https:\/\/crests.football-data.org\/109.png",
@@ -82,6 +90,7 @@
         },
         "536824": {
             "utcDate": "2025-08-25T16:30:00Z",
+            "status": "FINISHED",
             "homeTeamName": "Udinese Calcio",
             "awayTeamName": "Udinese Calcio",
             "homeTeamCrest": "https:\/\/crests.football-data.org\/115.png",
@@ -92,6 +101,7 @@
         },
         "536821": {
             "utcDate": "2025-08-25T18:45:00Z",
+            "status": "FINISHED",
             "homeTeamName": "FC Internazionale Milano",
             "awayTeamName": "FC Internazionale Milano",
             "homeTeamCrest": "https:\/\/crests.football-data.org\/108.png",
@@ -102,6 +112,7 @@
         },
         "536833": {
             "utcDate": "2025-08-29T16:30:00Z",
+            "status": "FINISHED",
             "homeTeamName": "US Cremonese",
             "awayTeamName": "US Cremonese",
             "homeTeamCrest": "https:\/\/crests.football-data.org\/457.png",
@@ -112,6 +123,7 @@
         },
         "536834": {
             "utcDate": "2025-08-29T18:45:00Z",
+            "status": "FINISHED",
             "homeTeamName": "US Lecce",
             "awayTeamName": "US Lecce",
             "homeTeamCrest": "https:\/\/crests.football-data.org\/5890.png",
@@ -122,6 +134,7 @@
         },
         "536826": {
             "utcDate": "2025-08-30T16:30:00Z",
+            "status": "FINISHED",
             "homeTeamName": "Bologna FC 1909",
             "awayTeamName": "Bologna FC 1909",
             "homeTeamCrest": "https:\/\/crests.football-data.org\/103.png",
@@ -132,6 +145,7 @@
         },
         "536830": {
             "utcDate": "2025-08-30T16:30:00Z",
+            "status": "FINISHED",
             "homeTeamName": "Parma Calcio 1913",
             "awayTeamName": "Parma Calcio 1913",
             "homeTeamCrest": "https:\/\/crests.football-data.org\/112.png",
@@ -142,6 +156,7 @@
         },
         "536832": {
             "utcDate": "2025-08-30T18:45:00Z",
+            "status": "FINISHED",
             "homeTeamName": "SSC Napoli",
             "awayTeamName": "SSC Napoli",
             "homeTeamCrest": "https:\/\/crests.football-data.org\/113.png",
@@ -152,6 +167,7 @@
         },
         "536831": {
             "utcDate": "2025-08-30T18:45:00Z",
+            "status": "FINISHED",
             "homeTeamName": "AC Pisa 1909",
             "awayTeamName": "AC Pisa 1909",
             "homeTeamCrest": "https:\/\/crests.football-data.org\/487.png",
@@ -162,6 +178,7 @@
         },
         "536825": {
             "utcDate": "2025-08-31T16:30:00Z",
+            "status": "FINISHED",
             "homeTeamName": "Genoa CFC",
             "awayTeamName": "Genoa CFC",
             "homeTeamCrest": "https:\/\/crests.football-data.org\/107.png",
@@ -172,6 +189,7 @@
         },
         "536827": {
             "utcDate": "2025-08-31T16:30:00Z",
+            "status": "FINISHED",
             "homeTeamName": "Torino FC",
             "awayTeamName": "Torino FC",
             "homeTeamCrest": "https:\/\/crests.football-data.org\/586.png",
@@ -182,6 +200,7 @@
         },
         "536828": {
             "utcDate": "2025-08-31T18:45:00Z",
+            "status": "FINISHED",
             "homeTeamName": "FC Internazionale Milano",
             "awayTeamName": "FC Internazionale Milano",
             "homeTeamCrest": "https:\/\/crests.football-data.org\/108.png",
@@ -192,6 +211,7 @@
         },
         "536829": {
             "utcDate": "2025-08-31T18:45:00Z",
+            "status": "FINISHED",
             "homeTeamName": "SS Lazio",
             "awayTeamName": "SS Lazio",
             "homeTeamCrest": "https:\/\/crests.football-data.org\/110.png",
@@ -202,6 +222,7 @@
         },
         "536839": {
             "utcDate": "2025-09-13T13:00:00Z",
+            "status": "TIMED",
             "homeTeamName": "Cagliari Calcio",
             "awayTeamName": "Cagliari Calcio",
             "homeTeamCrest": "https:\/\/crests.football-data.org\/104.png",
@@ -212,6 +233,7 @@
         },
         "536842": {
             "utcDate": "2025-09-13T16:00:00Z",
+            "status": "TIMED",
             "homeTeamName": "Juventus FC",
             "awayTeamName": "Juventus FC",
             "homeTeamCrest": "https:\/\/crests.football-data.org\/109.png",
@@ -222,6 +244,7 @@
         },
         "536835": {
             "utcDate": "2025-09-13T18:45:00Z",
+            "status": "TIMED",
             "homeTeamName": "ACF Fiorentina",
             "awayTeamName": "ACF Fiorentina",
             "homeTeamCrest": "https:\/\/crests.football-data.org\/99.png",
@@ -232,6 +255,7 @@
         },
         "536837": {
             "utcDate": "2025-09-14T10:30:00Z",
+            "status": "TIMED",
             "homeTeamName": "AS Roma",
             "awayTeamName": "AS Roma",
             "homeTeamCrest": "https:\/\/crests.football-data.org\/100.png",
@@ -242,6 +266,7 @@
         },
         "536838": {
             "utcDate": "2025-09-14T13:00:00Z",
+            "status": "TIMED",
             "homeTeamName": "Atalanta BC",
             "awayTeamName": "Atalanta BC",
             "homeTeamCrest": "https:\/\/crests.football-data.org\/102.png",
@@ -252,6 +277,7 @@
         },
         "536843": {
             "utcDate": "2025-09-14T13:00:00Z",
+            "status": "TIMED",
             "homeTeamName": "AC Pisa 1909",
             "awayTeamName": "AC Pisa 1909",
             "homeTeamCrest": "https:\/\/crests.football-data.org\/487.png",
@@ -262,6 +288,7 @@
         },
         "536844": {
             "utcDate": "2025-09-14T16:00:00Z",
+            "status": "TIMED",
             "homeTeamName": "US Sassuolo Calcio",
             "awayTeamName": "US Sassuolo Calcio",
             "homeTeamCrest": "https:\/\/crests.football-data.org\/471.png",
@@ -272,6 +299,7 @@
         },
         "536836": {
             "utcDate": "2025-09-14T18:45:00Z",
+            "status": "TIMED",
             "homeTeamName": "AC Milan",
             "awayTeamName": "AC Milan",
             "homeTeamCrest": "https:\/\/crests.football-data.org\/98.png",
@@ -282,6 +310,7 @@
         },
         "536841": {
             "utcDate": "2025-09-15T16:30:00Z",
+            "status": "TIMED",
             "homeTeamName": "Hellas Verona FC",
             "awayTeamName": "Hellas Verona FC",
             "homeTeamCrest": "https:\/\/crests.football-data.org\/450.png",
@@ -292,6 +321,7 @@
         },
         "536840": {
             "utcDate": "2025-09-15T18:45:00Z",
+            "status": "TIMED",
             "homeTeamName": "Como 1907",
             "awayTeamName": "Como 1907",
             "homeTeamCrest": "https:\/\/crests.football-data.org\/7397.png",
@@ -302,6 +332,7 @@
         },
         "536854": {
             "utcDate": "2025-09-19T18:45:00Z",
+            "status": "TIMED",
             "homeTeamName": "US Lecce",
             "awayTeamName": "US Lecce",
             "homeTeamCrest": "https:\/\/crests.football-data.org\/5890.png",
@@ -312,6 +343,7 @@
         },
         "536846": {
             "utcDate": "2025-09-20T13:00:00Z",
+            "status": "TIMED",
             "homeTeamName": "Bologna FC 1909",
             "awayTeamName": "Bologna FC 1909",
             "homeTeamCrest": "https:\/\/crests.football-data.org\/103.png",
@@ -322,6 +354,7 @@
         },
         "536848": {
             "utcDate": "2025-09-20T16:00:00Z",
+            "status": "TIMED",
             "homeTeamName": "Hellas Verona FC",
             "awayTeamName": "Hellas Verona FC",
             "homeTeamCrest": "https:\/\/crests.football-data.org\/450.png",
@@ -332,6 +365,7 @@
         },
         "536852": {
             "utcDate": "2025-09-20T18:45:00Z",
+            "status": "TIMED",
             "homeTeamName": "Udinese Calcio",
             "awayTeamName": "Udinese Calcio",
             "homeTeamCrest": "https:\/\/crests.football-data.org\/115.png",
@@ -342,6 +376,7 @@
         },
         "536850": {
             "utcDate": "2025-09-21T10:30:00Z",
+            "status": "TIMED",
             "homeTeamName": "SS Lazio",
             "awayTeamName": "SS Lazio",
             "homeTeamCrest": "https:\/\/crests.football-data.org\/110.png",
@@ -352,6 +387,7 @@
         },
         "536847": {
             "utcDate": "2025-09-21T13:00:00Z",
+            "status": "TIMED",
             "homeTeamName": "Torino FC",
             "awayTeamName": "Torino FC",
             "homeTeamCrest": "https:\/\/crests.football-data.org\/586.png",
@@ -362,6 +398,7 @@
         },
         "536853": {
             "utcDate": "2025-09-21T13:00:00Z",
+            "status": "TIMED",
             "homeTeamName": "US Cremonese",
             "awayTeamName": "US Cremonese",
             "homeTeamCrest": "https:\/\/crests.football-data.org\/457.png",
@@ -372,6 +409,7 @@
         },
         "536845": {
             "utcDate": "2025-09-21T16:00:00Z",
+            "status": "TIMED",
             "homeTeamName": "ACF Fiorentina",
             "awayTeamName": "ACF Fiorentina",
             "homeTeamCrest": "https:\/\/crests.football-data.org\/99.png",
@@ -382,6 +420,7 @@
         },
         "536849": {
             "utcDate": "2025-09-21T18:45:00Z",
+            "status": "TIMED",
             "homeTeamName": "FC Internazionale Milano",
             "awayTeamName": "FC Internazionale Milano",
             "homeTeamCrest": "https:\/\/crests.football-data.org\/108.png",
@@ -392,6 +431,7 @@
         },
         "536851": {
             "utcDate": "2025-09-22T18:45:00Z",
+            "status": "TIMED",
             "homeTeamName": "SSC Napoli",
             "awayTeamName": "SSC Napoli",
             "homeTeamCrest": "https:\/\/crests.football-data.org\/113.png",
@@ -402,6 +442,7 @@
         },
         "536859": {
             "utcDate": "2025-09-27T13:00:00Z",
+            "status": "TIMED",
             "homeTeamName": "Como 1907",
             "awayTeamName": "Como 1907",
             "homeTeamCrest": "https:\/\/crests.football-data.org\/7397.png",
@@ -412,6 +453,7 @@
         },
         "536860": {
             "utcDate": "2025-09-27T16:00:00Z",
+            "status": "TIMED",
             "homeTeamName": "Juventus FC",
             "awayTeamName": "Juventus FC",
             "homeTeamCrest": "https:\/\/crests.football-data.org\/109.png",
@@ -422,6 +464,7 @@
         },
         "536857": {
             "utcDate": "2025-09-27T18:45:00Z",
+            "status": "TIMED",
             "homeTeamName": "Cagliari Calcio",
             "awayTeamName": "Cagliari Calcio",
             "homeTeamCrest": "https:\/\/crests.football-data.org\/104.png",
@@ -432,6 +475,7 @@
         },
         "536863": {
             "utcDate": "2025-09-28T10:30:00Z",
+            "status": "TIMED",
             "homeTeamName": "US Sassuolo Calcio",
             "awayTeamName": "US Sassuolo Calcio",
             "homeTeamCrest": "https:\/\/crests.football-data.org\/471.png",
@@ -442,6 +486,7 @@
         },
         "536856": {
             "utcDate": "2025-09-28T13:00:00Z",
+            "status": "TIMED",
             "homeTeamName": "AS Roma",
             "awayTeamName": "AS Roma",
             "homeTeamCrest": "https:\/\/crests.football-data.org\/100.png",
@@ -452,6 +497,7 @@
         },
         "536862": {
             "utcDate": "2025-09-28T13:00:00Z",
+            "status": "TIMED",
             "homeTeamName": "AC Pisa 1909",
             "awayTeamName": "AC Pisa 1909",
             "homeTeamCrest": "https:\/\/crests.football-data.org\/487.png",
@@ -462,6 +508,7 @@
         },
         "536864": {
             "utcDate": "2025-09-28T16:00:00Z",
+            "status": "TIMED",
             "homeTeamName": "US Lecce",
             "awayTeamName": "US Lecce",
             "homeTeamCrest": "https:\/\/crests.football-data.org\/5890.png",
@@ -472,6 +519,7 @@
         },
         "536855": {
             "utcDate": "2025-09-28T18:45:00Z",
+            "status": "TIMED",
             "homeTeamName": "AC Milan",
             "awayTeamName": "AC Milan",
             "homeTeamCrest": "https:\/\/crests.football-data.org\/98.png",
@@ -482,6 +530,7 @@
         },
         "536861": {
             "utcDate": "2025-09-29T16:30:00Z",
+            "status": "TIMED",
             "homeTeamName": "Parma Calcio 1913",
             "awayTeamName": "Parma Calcio 1913",
             "homeTeamCrest": "https:\/\/crests.football-data.org\/112.png",
@@ -492,6 +541,7 @@
         },
         "536858": {
             "utcDate": "2025-09-29T18:45:00Z",
+            "status": "TIMED",
             "homeTeamName": "Genoa CFC",
             "awayTeamName": "Genoa CFC",
             "homeTeamCrest": "https:\/\/crests.football-data.org\/107.png",
@@ -502,6 +552,7 @@
         },
         "536868": {
             "utcDate": "2025-10-03T18:45:00Z",
+            "status": "TIMED",
             "homeTeamName": "Hellas Verona FC",
             "awayTeamName": "Hellas Verona FC",
             "homeTeamCrest": "https:\/\/crests.football-data.org\/450.png",
@@ -512,6 +563,7 @@
         },
         "536871": {
             "utcDate": "2025-10-04T13:00:00Z",
+            "status": "TIMED",
             "homeTeamName": "SS Lazio",
             "awayTeamName": "SS Lazio",
             "homeTeamCrest": "https:\/\/crests.football-data.org\/110.png",
@@ -522,6 +574,7 @@
         },
         "536872": {
             "utcDate": "2025-10-04T13:00:00Z",
+            "status": "TIMED",
             "homeTeamName": "Parma Calcio 1913",
             "awayTeamName": "Parma Calcio 1913",
             "homeTeamCrest": "https:\/\/crests.football-data.org\/112.png",
@@ -532,6 +585,7 @@
         },
         "536869": {
             "utcDate": "2025-10-04T16:00:00Z",
+            "status": "TIMED",
             "homeTeamName": "FC Internazionale Milano",
             "awayTeamName": "FC Internazionale Milano",
             "homeTeamCrest": "https:\/\/crests.football-data.org\/108.png",
@@ -542,6 +596,7 @@
         },
         "536866": {
             "utcDate": "2025-10-04T18:45:00Z",
+            "status": "TIMED",
             "homeTeamName": "Atalanta BC",
             "awayTeamName": "Atalanta BC",
             "homeTeamCrest": "https:\/\/crests.football-data.org\/102.png",
@@ -552,6 +607,7 @@
         },
         "536874": {
             "utcDate": "2025-10-05T10:30:00Z",
+            "status": "TIMED",
             "homeTeamName": "Udinese Calcio",
             "awayTeamName": "Udinese Calcio",
             "homeTeamCrest": "https:\/\/crests.football-data.org\/115.png",
@@ -562,6 +618,7 @@
         },
         "536865": {
             "utcDate": "2025-10-05T13:00:00Z",
+            "status": "TIMED",
             "homeTeamName": "ACF Fiorentina",
             "awayTeamName": "ACF Fiorentina",
             "homeTeamCrest": "https:\/\/crests.football-data.org\/99.png",
@@ -572,6 +629,7 @@
         },
         "536867": {
             "utcDate": "2025-10-05T13:00:00Z",
+            "status": "TIMED",
             "homeTeamName": "Bologna FC 1909",
             "awayTeamName": "Bologna FC 1909",
             "homeTeamCrest": "https:\/\/crests.football-data.org\/103.png",
@@ -582,6 +640,7 @@
         },
         "536873": {
             "utcDate": "2025-10-05T16:00:00Z",
+            "status": "TIMED",
             "homeTeamName": "SSC Napoli",
             "awayTeamName": "SSC Napoli",
             "homeTeamCrest": "https:\/\/crests.football-data.org\/113.png",
@@ -592,6 +651,7 @@
         },
         "536870": {
             "utcDate": "2025-10-05T18:45:00Z",
+            "status": "TIMED",
             "homeTeamName": "Juventus FC",
             "awayTeamName": "Juventus FC",
             "homeTeamCrest": "https:\/\/crests.football-data.org\/109.png",
@@ -602,6 +662,7 @@
         },
         "536882": {
             "utcDate": "2025-10-18T13:00:00Z",
+            "status": "TIMED",
             "homeTeamName": "AC Pisa 1909",
             "awayTeamName": "AC Pisa 1909",
             "homeTeamCrest": "https:\/\/crests.football-data.org\/487.png",
@@ -612,6 +673,7 @@
         },
         "536884": {
             "utcDate": "2025-10-18T13:00:00Z",
+            "status": "TIMED",
             "homeTeamName": "US Lecce",
             "awayTeamName": "US Lecce",
             "homeTeamCrest": "https:\/\/crests.football-data.org\/5890.png",
@@ -622,6 +684,7 @@
         },
         "536881": {
             "utcDate": "2025-10-18T16:00:00Z",
+            "status": "TIMED",
             "homeTeamName": "Torino FC",
             "awayTeamName": "Torino FC",
             "homeTeamCrest": "https:\/\/crests.football-data.org\/586.png",
@@ -632,6 +695,7 @@
         },
         "536876": {
             "utcDate": "2025-10-18T18:45:00Z",
+            "status": "TIMED",
             "homeTeamName": "AS Roma",
             "awayTeamName": "AS Roma",
             "homeTeamCrest": "https:\/\/crests.football-data.org\/100.png",
@@ -642,6 +706,7 @@
         },
         "536880": {
             "utcDate": "2025-10-19T10:30:00Z",
+            "status": "TIMED",
             "homeTeamName": "Como 1907",
             "awayTeamName": "Como 1907",
             "homeTeamCrest": "https:\/\/crests.football-data.org\/7397.png",
@@ -652,6 +717,7 @@
         },
         "536878": {
             "utcDate": "2025-10-19T13:00:00Z",
+            "status": "TIMED",
             "homeTeamName": "Cagliari Calcio",
             "awayTeamName": "Cagliari Calcio",
             "homeTeamCrest": "https:\/\/crests.football-data.org\/104.png",
@@ -662,6 +728,7 @@
         },
         "536879": {
             "utcDate": "2025-10-19T13:00:00Z",
+            "status": "TIMED",
             "homeTeamName": "Genoa CFC",
             "awayTeamName": "Genoa CFC",
             "homeTeamCrest": "https:\/\/crests.football-data.org\/107.png",
@@ -672,6 +739,7 @@
         },
         "536877": {
             "utcDate": "2025-10-19T16:00:00Z",
+            "status": "TIMED",
             "homeTeamName": "Atalanta BC",
             "awayTeamName": "Atalanta BC",
             "homeTeamCrest": "https:\/\/crests.football-data.org\/102.png",
@@ -682,6 +750,7 @@
         },
         "536875": {
             "utcDate": "2025-10-19T18:45:00Z",
+            "status": "TIMED",
             "homeTeamName": "AC Milan",
             "awayTeamName": "AC Milan",
             "homeTeamCrest": "https:\/\/crests.football-data.org\/98.png",
@@ -692,6 +761,7 @@
         },
         "536883": {
             "utcDate": "2025-10-20T18:45:00Z",
+            "status": "TIMED",
             "homeTeamName": "US Cremonese",
             "awayTeamName": "US Cremonese",
             "homeTeamCrest": "https:\/\/crests.football-data.org\/457.png",
@@ -702,6 +772,7 @@
         },
         "536886": {
             "utcDate": "2025-10-24T18:45:00Z",
+            "status": "TIMED",
             "homeTeamName": "AC Milan",
             "awayTeamName": "AC Milan",
             "homeTeamCrest": "https:\/\/crests.football-data.org\/98.png",
@@ -712,6 +783,7 @@
         },
         "536890": {
             "utcDate": "2025-10-25T13:00:00Z",
+            "status": "TIMED",
             "homeTeamName": "Parma Calcio 1913",
             "awayTeamName": "Parma Calcio 1913",
             "homeTeamCrest": "https:\/\/crests.football-data.org\/112.png",
@@ -722,6 +794,7 @@
         },
         "536893": {
             "utcDate": "2025-10-25T13:00:00Z",
+            "status": "TIMED",
             "homeTeamName": "Udinese Calcio",
             "awayTeamName": "Udinese Calcio",
             "homeTeamCrest": "https:\/\/crests.football-data.org\/115.png",
@@ -732,6 +805,7 @@
         },
         "536892": {
             "utcDate": "2025-10-25T16:00:00Z",
+            "status": "TIMED",
             "homeTeamName": "SSC Napoli",
             "awayTeamName": "SSC Napoli",
             "homeTeamCrest": "https:\/\/crests.football-data.org\/113.png",
@@ -742,6 +816,7 @@
         },
         "536894": {
             "utcDate": "2025-10-25T18:45:00Z",
+            "status": "TIMED",
             "homeTeamName": "US Cremonese",
             "awayTeamName": "US Cremonese",
             "homeTeamCrest": "https:\/\/crests.football-data.org\/457.png",
@@ -752,6 +827,7 @@
         },
         "536887": {
             "utcDate": "2025-10-26T11:30:00Z",
+            "status": "TIMED",
             "homeTeamName": "Torino FC",
             "awayTeamName": "Torino FC",
             "homeTeamCrest": "https:\/\/crests.football-data.org\/586.png",
@@ -762,6 +838,7 @@
         },
         "536888": {
             "utcDate": "2025-10-26T14:00:00Z",
+            "status": "TIMED",
             "homeTeamName": "Hellas Verona FC",
             "awayTeamName": "Hellas Verona FC",
             "homeTeamCrest": "https:\/\/crests.football-data.org\/450.png",
@@ -772,6 +849,7 @@
         },
         "536891": {
             "utcDate": "2025-10-26T14:00:00Z",
+            "status": "TIMED",
             "homeTeamName": "US Sassuolo Calcio",
             "awayTeamName": "US Sassuolo Calcio",
             "homeTeamCrest": "https:\/\/crests.football-data.org\/471.png",
@@ -782,6 +860,7 @@
         },
         "536885": {
             "utcDate": "2025-10-26T17:00:00Z",
+            "status": "TIMED",
             "homeTeamName": "ACF Fiorentina",
             "awayTeamName": "ACF Fiorentina",
             "homeTeamCrest": "https:\/\/crests.football-data.org\/99.png",
@@ -792,6 +871,7 @@
         },
         "536889": {
             "utcDate": "2025-10-26T19:45:00Z",
+            "status": "TIMED",
             "homeTeamName": "SS Lazio",
             "awayTeamName": "SS Lazio",
             "homeTeamCrest": "https:\/\/crests.football-data.org\/110.png",
@@ -802,6 +882,7 @@
         },
         "536904": {
             "utcDate": "2025-10-28T17:30:00Z",
+            "status": "TIMED",
             "homeTeamName": "US Lecce",
             "awayTeamName": "US Lecce",
             "homeTeamCrest": "https:\/\/crests.football-data.org\/5890.png",
@@ -812,6 +893,7 @@
         },
         "536896": {
             "utcDate": "2025-10-28T19:45:00Z",
+            "status": "TIMED",
             "homeTeamName": "Atalanta BC",
             "awayTeamName": "Atalanta BC",
             "homeTeamCrest": "https:\/\/crests.football-data.org\/102.png",
@@ -822,6 +904,7 @@
         },
         "536895": {
             "utcDate": "2025-10-29T17:30:00Z",
+            "status": "TIMED",
             "homeTeamName": "AS Roma",
             "awayTeamName": "AS Roma",
             "homeTeamCrest": "https:\/\/crests.football-data.org\/100.png",
@@ -832,6 +915,7 @@
         },
         "536899": {
             "utcDate": "2025-10-29T17:30:00Z",
+            "status": "TIMED",
             "homeTeamName": "Como 1907",
             "awayTeamName": "Como 1907",
             "homeTeamCrest": "https:\/\/crests.football-data.org\/7397.png",
@@ -842,6 +926,7 @@
         },
         "536902": {
             "utcDate": "2025-10-29T17:30:00Z",
+            "status": "TIMED",
             "homeTeamName": "Juventus FC",
             "awayTeamName": "Juventus FC",
             "homeTeamCrest": "https:\/\/crests.football-data.org\/109.png",
@@ -852,6 +937,7 @@
         },
         "536898": {
             "utcDate": "2025-10-29T19:45:00Z",
+            "status": "TIMED",
             "homeTeamName": "Genoa CFC",
             "awayTeamName": "Genoa CFC",
             "homeTeamCrest": "https:\/\/crests.football-data.org\/107.png",
@@ -862,6 +948,7 @@
         },
         "536900": {
             "utcDate": "2025-10-29T19:45:00Z",
+            "status": "TIMED",
             "homeTeamName": "Bologna FC 1909",
             "awayTeamName": "Bologna FC 1909",
             "homeTeamCrest": "https:\/\/crests.football-data.org\/103.png",
@@ -872,6 +959,7 @@
         },
         "536901": {
             "utcDate": "2025-10-29T19:45:00Z",
+            "status": "TIMED",
             "homeTeamName": "FC Internazionale Milano",
             "awayTeamName": "FC Internazionale Milano",
             "homeTeamCrest": "https:\/\/crests.football-data.org\/108.png",
@@ -882,6 +970,7 @@
         },
         "536897": {
             "utcDate": "2025-10-30T17:30:00Z",
+            "status": "TIMED",
             "homeTeamName": "Cagliari Calcio",
             "awayTeamName": "Cagliari Calcio",
             "homeTeamCrest": "https:\/\/crests.football-data.org\/104.png",
@@ -892,6 +981,7 @@
         },
         "536903": {
             "utcDate": "2025-10-30T19:45:00Z",
+            "status": "TIMED",
             "homeTeamName": "AC Pisa 1909",
             "awayTeamName": "AC Pisa 1909",
             "homeTeamCrest": "https:\/\/crests.football-data.org\/487.png",
@@ -902,6 +992,7 @@
         },
         "536913": {
             "utcDate": "2025-11-01T14:00:00Z",
+            "status": "TIMED",
             "homeTeamName": "Udinese Calcio",
             "awayTeamName": "Udinese Calcio",
             "homeTeamCrest": "https:\/\/crests.football-data.org\/115.png",
@@ -912,6 +1003,7 @@
         },
         "536912": {
             "utcDate": "2025-11-01T17:00:00Z",
+            "status": "TIMED",
             "homeTeamName": "SSC Napoli",
             "awayTeamName": "SSC Napoli",
             "homeTeamCrest": "https:\/\/crests.football-data.org\/113.png",
@@ -922,6 +1014,7 @@
         },
         "536914": {
             "utcDate": "2025-11-01T19:45:00Z",
+            "status": "TIMED",
             "homeTeamName": "US Cremonese",
             "awayTeamName": "US Cremonese",
             "homeTeamCrest": "https:\/\/crests.football-data.org\/457.png",
@@ -932,6 +1025,7 @@
         },
         "536908": {
             "utcDate": "2025-11-02T11:30:00Z",
+            "status": "TIMED",
             "homeTeamName": "Hellas Verona FC",
             "awayTeamName": "Hellas Verona FC",
             "homeTeamCrest": "https:\/\/crests.football-data.org\/450.png",
@@ -942,6 +1036,7 @@
         },
         "536905": {
             "utcDate": "2025-11-02T14:00:00Z",
+            "status": "TIMED",
             "homeTeamName": "ACF Fiorentina",
             "awayTeamName": "ACF Fiorentina",
             "homeTeamCrest": "https:\/\/crests.football-data.org\/99.png",
@@ -952,6 +1047,7 @@
         },
         "536907": {
             "utcDate": "2025-11-02T14:00:00Z",
+            "status": "TIMED",
             "homeTeamName": "Torino FC",
             "awayTeamName": "Torino FC",
             "homeTeamCrest": "https:\/\/crests.football-data.org\/586.png",
@@ -962,6 +1058,7 @@
         },
         "536910": {
             "utcDate": "2025-11-02T17:00:00Z",
+            "status": "TIMED",
             "homeTeamName": "Parma Calcio 1913",
             "awayTeamName": "Parma Calcio 1913",
             "homeTeamCrest": "https:\/\/crests.football-data.org\/112.png",
@@ -972,6 +1069,7 @@
         },
         "536906": {
             "utcDate": "2025-11-02T19:45:00Z",
+            "status": "TIMED",
             "homeTeamName": "AC Milan",
             "awayTeamName": "AC Milan",
             "homeTeamCrest": "https:\/\/crests.football-data.org\/98.png",
@@ -982,6 +1080,7 @@
         },
         "536911": {
             "utcDate": "2025-11-03T17:30:00Z",
+            "status": "TIMED",
             "homeTeamName": "US Sassuolo Calcio",
             "awayTeamName": "US Sassuolo Calcio",
             "homeTeamCrest": "https:\/\/crests.football-data.org\/471.png",
@@ -992,6 +1091,7 @@
         },
         "536909": {
             "utcDate": "2025-11-03T19:45:00Z",
+            "status": "TIMED",
             "homeTeamName": "SS Lazio",
             "awayTeamName": "SS Lazio",
             "homeTeamCrest": "https:\/\/crests.football-data.org\/110.png",
@@ -1002,6 +1102,7 @@
         },
         "536923": {
             "utcDate": "2025-11-07T19:45:00Z",
+            "status": "TIMED",
             "homeTeamName": "AC Pisa 1909",
             "awayTeamName": "AC Pisa 1909",
             "homeTeamCrest": "https:\/\/crests.football-data.org\/487.png",
@@ -1012,6 +1113,7 @@
         },
         "536918": {
             "utcDate": "2025-11-08T14:00:00Z",
+            "status": "TIMED",
             "homeTeamName": "Como 1907",
             "awayTeamName": "Como 1907",
             "homeTeamCrest": "https:\/\/crests.football-data.org\/7397.png",
@@ -1022,6 +1124,7 @@
         },
         "536924": {
             "utcDate": "2025-11-08T14:00:00Z",
+            "status": "TIMED",
             "homeTeamName": "US Lecce",
             "awayTeamName": "US Lecce",
             "homeTeamCrest": "https:\/\/crests.football-data.org\/5890.png",
@@ -1032,6 +1135,7 @@
         },
         "536921": {
             "utcDate": "2025-11-08T17:00:00Z",
+            "status": "TIMED",
             "homeTeamName": "Juventus FC",
             "awayTeamName": "Juventus FC",
             "homeTeamCrest": "https:\/\/crests.football-data.org\/109.png",
@@ -1042,6 +1146,7 @@
         },
         "536922": {
             "utcDate": "2025-11-08T19:45:00Z",
+            "status": "TIMED",
             "homeTeamName": "Parma Calcio 1913",
             "awayTeamName": "Parma Calcio 1913",
             "homeTeamCrest": "https:\/\/crests.football-data.org\/112.png",
@@ -1052,6 +1157,7 @@
         },
         "536916": {
             "utcDate": "2025-11-09T11:30:00Z",
+            "status": "TIMED",
             "homeTeamName": "Atalanta BC",
             "awayTeamName": "Atalanta BC",
             "homeTeamCrest": "https:\/\/crests.football-data.org\/102.png",
@@ -1062,6 +1168,7 @@
         },
         "536917": {
             "utcDate": "2025-11-09T14:00:00Z",
+            "status": "TIMED",
             "homeTeamName": "Genoa CFC",
             "awayTeamName": "Genoa CFC",
             "homeTeamCrest": "https:\/\/crests.football-data.org\/107.png",
@@ -1072,6 +1179,7 @@
         },
         "536919": {
             "utcDate": "2025-11-09T14:00:00Z",
+            "status": "TIMED",
             "homeTeamName": "Bologna FC 1909",
             "awayTeamName": "Bologna FC 1909",
             "homeTeamCrest": "https:\/\/crests.football-data.org\/103.png",
@@ -1082,6 +1190,7 @@
         },
         "536915": {
             "utcDate": "2025-11-09T17:00:00Z",
+            "status": "TIMED",
             "homeTeamName": "AS Roma",
             "awayTeamName": "AS Roma",
             "homeTeamCrest": "https:\/\/crests.football-data.org\/100.png",
@@ -1092,6 +1201,7 @@
         },
         "536920": {
             "utcDate": "2025-11-09T19:45:00Z",
+            "status": "TIMED",
             "homeTeamName": "FC Internazionale Milano",
             "awayTeamName": "FC Internazionale Milano",
             "homeTeamCrest": "https:\/\/crests.football-data.org\/108.png",
@@ -1102,6 +1212,7 @@
         },
         "536926": {
             "utcDate": "2025-11-22T14:00:00Z",
+            "status": "TIMED",
             "homeTeamName": "Cagliari Calcio",
             "awayTeamName": "Cagliari Calcio",
             "homeTeamCrest": "https:\/\/crests.football-data.org\/104.png",
@@ -1112,6 +1223,7 @@
         },
         "536933": {
             "utcDate": "2025-11-22T14:00:00Z",
+            "status": "TIMED",
             "homeTeamName": "Udinese Calcio",
             "awayTeamName": "Udinese Calcio",
             "homeTeamCrest": "https:\/\/crests.football-data.org\/115.png",
@@ -1122,6 +1234,7 @@
         },
         "536925": {
             "utcDate": "2025-11-22T17:00:00Z",
+            "status": "TIMED",
             "homeTeamName": "ACF Fiorentina",
             "awayTeamName": "ACF Fiorentina",
             "homeTeamCrest": "https:\/\/crests.football-data.org\/99.png",
@@ -1132,6 +1245,7 @@
         },
         "536932": {
             "utcDate": "2025-11-22T19:45:00Z",
+            "status": "TIMED",
             "homeTeamName": "SSC Napoli",
             "awayTeamName": "SSC Napoli",
             "homeTeamCrest": "https:\/\/crests.football-data.org\/113.png",
@@ -1142,6 +1256,7 @@
         },
         "536928": {
             "utcDate": "2025-11-23T11:30:00Z",
+            "status": "TIMED",
             "homeTeamName": "Hellas Verona FC",
             "awayTeamName": "Hellas Verona FC",
             "homeTeamCrest": "https:\/\/crests.football-data.org\/450.png",
@@ -1152,6 +1267,7 @@
         },
         "536934": {
             "utcDate": "2025-11-23T14:00:00Z",
+            "status": "TIMED",
             "homeTeamName": "US Cremonese",
             "awayTeamName": "US Cremonese",
             "homeTeamCrest": "https:\/\/crests.football-data.org\/457.png",
@@ -1162,6 +1278,7 @@
         },
         "536930": {
             "utcDate": "2025-11-23T17:00:00Z",
+            "status": "TIMED",
             "homeTeamName": "SS Lazio",
             "awayTeamName": "SS Lazio",
             "homeTeamCrest": "https:\/\/crests.football-data.org\/110.png",
@@ -1172,6 +1289,7 @@
         },
         "536929": {
             "utcDate": "2025-11-23T19:45:00Z",
+            "status": "TIMED",
             "homeTeamName": "FC Internazionale Milano",
             "awayTeamName": "FC Internazionale Milano",
             "homeTeamCrest": "https:\/\/crests.football-data.org\/108.png",
@@ -1182,6 +1300,7 @@
         },
         "536927": {
             "utcDate": "2025-11-24T17:30:00Z",
+            "status": "TIMED",
             "homeTeamName": "Torino FC",
             "awayTeamName": "Torino FC",
             "homeTeamCrest": "https:\/\/crests.football-data.org\/586.png",
@@ -1192,6 +1311,7 @@
         },
         "536931": {
             "utcDate": "2025-11-24T19:45:00Z",
+            "status": "TIMED",
             "homeTeamName": "US Sassuolo Calcio",
             "awayTeamName": "US Sassuolo Calcio",
             "homeTeamCrest": "https:\/\/crests.football-data.org\/471.png",
@@ -1202,6 +1322,7 @@
         },
         "536935": {
             "utcDate": "2025-11-30T00:00:00Z",
+            "status": "SCHEDULED",
             "homeTeamName": "AC Milan",
             "awayTeamName": "AC Milan",
             "homeTeamCrest": "https:\/\/crests.football-data.org\/98.png",
@@ -1212,6 +1333,7 @@
         },
         "536936": {
             "utcDate": "2025-11-30T00:00:00Z",
+            "status": "SCHEDULED",
             "homeTeamName": "AS Roma",
             "awayTeamName": "AS Roma",
             "homeTeamCrest": "https:\/\/crests.football-data.org\/100.png",
@@ -1222,6 +1344,7 @@
         },
         "536937": {
             "utcDate": "2025-11-30T00:00:00Z",
+            "status": "SCHEDULED",
             "homeTeamName": "Atalanta BC",
             "awayTeamName": "Atalanta BC",
             "homeTeamCrest": "https:\/\/crests.football-data.org\/102.png",
@@ -1232,6 +1355,7 @@
         },
         "536938": {
             "utcDate": "2025-11-30T00:00:00Z",
+            "status": "SCHEDULED",
             "homeTeamName": "Genoa CFC",
             "awayTeamName": "Genoa CFC",
             "homeTeamCrest": "https:\/\/crests.football-data.org\/107.png",
@@ -1242,6 +1366,7 @@
         },
         "536939": {
             "utcDate": "2025-11-30T00:00:00Z",
+            "status": "SCHEDULED",
             "homeTeamName": "Como 1907",
             "awayTeamName": "Como 1907",
             "homeTeamCrest": "https:\/\/crests.football-data.org\/7397.png",
@@ -1252,6 +1377,7 @@
         },
         "536940": {
             "utcDate": "2025-11-30T00:00:00Z",
+            "status": "SCHEDULED",
             "homeTeamName": "Bologna FC 1909",
             "awayTeamName": "Bologna FC 1909",
             "homeTeamCrest": "https:\/\/crests.football-data.org\/103.png",
@@ -1262,6 +1388,7 @@
         },
         "536941": {
             "utcDate": "2025-11-30T00:00:00Z",
+            "status": "SCHEDULED",
             "homeTeamName": "Juventus FC",
             "awayTeamName": "Juventus FC",
             "homeTeamCrest": "https:\/\/crests.football-data.org\/109.png",
@@ -1272,6 +1399,7 @@
         },
         "536942": {
             "utcDate": "2025-11-30T00:00:00Z",
+            "status": "SCHEDULED",
             "homeTeamName": "Parma Calcio 1913",
             "awayTeamName": "Parma Calcio 1913",
             "homeTeamCrest": "https:\/\/crests.football-data.org\/112.png",
@@ -1282,6 +1410,7 @@
         },
         "536943": {
             "utcDate": "2025-11-30T00:00:00Z",
+            "status": "SCHEDULED",
             "homeTeamName": "AC Pisa 1909",
             "awayTeamName": "AC Pisa 1909",
             "homeTeamCrest": "https:\/\/crests.football-data.org\/487.png",
@@ -1292,6 +1421,7 @@
         },
         "536944": {
             "utcDate": "2025-11-30T00:00:00Z",
+            "status": "SCHEDULED",
             "homeTeamName": "US Lecce",
             "awayTeamName": "US Lecce",
             "homeTeamCrest": "https:\/\/crests.football-data.org\/5890.png",
@@ -1302,6 +1432,7 @@
         },
         "536945": {
             "utcDate": "2025-12-07T00:00:00Z",
+            "status": "SCHEDULED",
             "homeTeamName": "Cagliari Calcio",
             "awayTeamName": "Cagliari Calcio",
             "homeTeamCrest": "https:\/\/crests.football-data.org\/104.png",
@@ -1312,6 +1443,7 @@
         },
         "536946": {
             "utcDate": "2025-12-07T00:00:00Z",
+            "status": "SCHEDULED",
             "homeTeamName": "Torino FC",
             "awayTeamName": "Torino FC",
             "homeTeamCrest": "https:\/\/crests.football-data.org\/586.png",
@@ -1322,6 +1454,7 @@
         },
         "536947": {
             "utcDate": "2025-12-07T00:00:00Z",
+            "status": "SCHEDULED",
             "homeTeamName": "Hellas Verona FC",
             "awayTeamName": "Hellas Verona FC",
             "homeTeamCrest": "https:\/\/crests.football-data.org\/450.png",
@@ -1332,6 +1465,7 @@
         },
         "536948": {
             "utcDate": "2025-12-07T00:00:00Z",
+            "status": "SCHEDULED",
             "homeTeamName": "FC Internazionale Milano",
             "awayTeamName": "FC Internazionale Milano",
             "homeTeamCrest": "https:\/\/crests.football-data.org\/108.png",
@@ -1342,6 +1476,7 @@
         },
         "536949": {
             "utcDate": "2025-12-07T00:00:00Z",
+            "status": "SCHEDULED",
             "homeTeamName": "SS Lazio",
             "awayTeamName": "SS Lazio",
             "homeTeamCrest": "https:\/\/crests.football-data.org\/110.png",
@@ -1352,6 +1487,7 @@
         },
         "536950": {
             "utcDate": "2025-12-07T00:00:00Z",
+            "status": "SCHEDULED",
             "homeTeamName": "AC Pisa 1909",
             "awayTeamName": "AC Pisa 1909",
             "homeTeamCrest": "https:\/\/crests.football-data.org\/487.png",
@@ -1362,6 +1498,7 @@
         },
         "536951": {
             "utcDate": "2025-12-07T00:00:00Z",
+            "status": "SCHEDULED",
             "homeTeamName": "US Sassuolo Calcio",
             "awayTeamName": "US Sassuolo Calcio",
             "homeTeamCrest": "https:\/\/crests.football-data.org\/471.png",
@@ -1372,6 +1509,7 @@
         },
         "536952": {
             "utcDate": "2025-12-07T00:00:00Z",
+            "status": "SCHEDULED",
             "homeTeamName": "SSC Napoli",
             "awayTeamName": "SSC Napoli",
             "homeTeamCrest": "https:\/\/crests.football-data.org\/113.png",
@@ -1382,6 +1520,7 @@
         },
         "536953": {
             "utcDate": "2025-12-07T00:00:00Z",
+            "status": "SCHEDULED",
             "homeTeamName": "Udinese Calcio",
             "awayTeamName": "Udinese Calcio",
             "homeTeamCrest": "https:\/\/crests.football-data.org\/115.png",
@@ -1392,6 +1531,7 @@
         },
         "536954": {
             "utcDate": "2025-12-07T00:00:00Z",
+            "status": "SCHEDULED",
             "homeTeamName": "US Cremonese",
             "awayTeamName": "US Cremonese",
             "homeTeamCrest": "https:\/\/crests.football-data.org\/457.png",
@@ -1402,6 +1542,7 @@
         },
         "536955": {
             "utcDate": "2025-12-14T00:00:00Z",
+            "status": "SCHEDULED",
             "homeTeamName": "ACF Fiorentina",
             "awayTeamName": "ACF Fiorentina",
             "homeTeamCrest": "https:\/\/crests.football-data.org\/99.png",
@@ -1412,6 +1553,7 @@
         },
         "536956": {
             "utcDate": "2025-12-14T00:00:00Z",
+            "status": "SCHEDULED",
             "homeTeamName": "AC Milan",
             "awayTeamName": "AC Milan",
             "homeTeamCrest": "https:\/\/crests.football-data.org\/98.png",
@@ -1422,6 +1564,7 @@
         },
         "536957": {
             "utcDate": "2025-12-14T00:00:00Z",
+            "status": "SCHEDULED",
             "homeTeamName": "AS Roma",
             "awayTeamName": "AS Roma",
             "homeTeamCrest": "https:\/\/crests.football-data.org\/100.png",
@@ -1432,6 +1575,7 @@
         },
         "536958": {
             "utcDate": "2025-12-14T00:00:00Z",
+            "status": "SCHEDULED",
             "homeTeamName": "Atalanta BC",
             "awayTeamName": "Atalanta BC",
             "homeTeamCrest": "https:\/\/crests.football-data.org\/102.png",
@@ -1442,6 +1586,7 @@
         },
         "536959": {
             "utcDate": "2025-12-14T00:00:00Z",
+            "status": "SCHEDULED",
             "homeTeamName": "Genoa CFC",
             "awayTeamName": "Genoa CFC",
             "homeTeamCrest": "https:\/\/crests.football-data.org\/107.png",
@@ -1452,6 +1597,7 @@
         },
         "536960": {
             "utcDate": "2025-12-14T00:00:00Z",
+            "status": "SCHEDULED",
             "homeTeamName": "Bologna FC 1909",
             "awayTeamName": "Bologna FC 1909",
             "homeTeamCrest": "https:\/\/crests.football-data.org\/103.png",
@@ -1462,6 +1608,7 @@
         },
         "536961": {
             "utcDate": "2025-12-14T00:00:00Z",
+            "status": "SCHEDULED",
             "homeTeamName": "Torino FC",
             "awayTeamName": "Torino FC",
             "homeTeamCrest": "https:\/\/crests.football-data.org\/586.png",
@@ -1472,6 +1619,7 @@
         },
         "536962": {
             "utcDate": "2025-12-14T00:00:00Z",
+            "status": "SCHEDULED",
             "homeTeamName": "Parma Calcio 1913",
             "awayTeamName": "Parma Calcio 1913",
             "homeTeamCrest": "https:\/\/crests.football-data.org\/112.png",
@@ -1482,6 +1630,7 @@
         },
         "536963": {
             "utcDate": "2025-12-14T00:00:00Z",
+            "status": "SCHEDULED",
             "homeTeamName": "Udinese Calcio",
             "awayTeamName": "Udinese Calcio",
             "homeTeamCrest": "https:\/\/crests.football-data.org\/115.png",
@@ -1492,6 +1641,7 @@
         },
         "536964": {
             "utcDate": "2025-12-14T00:00:00Z",
+            "status": "SCHEDULED",
             "homeTeamName": "US Lecce",
             "awayTeamName": "US Lecce",
             "homeTeamCrest": "https:\/\/crests.football-data.org\/5890.png",
@@ -1502,6 +1652,7 @@
         },
         "536965": {
             "utcDate": "2025-12-21T00:00:00Z",
+            "status": "SCHEDULED",
             "homeTeamName": "ACF Fiorentina",
             "awayTeamName": "ACF Fiorentina",
             "homeTeamCrest": "https:\/\/crests.football-data.org\/99.png",
@@ -1512,6 +1663,7 @@
         },
         "536966": {
             "utcDate": "2025-12-21T00:00:00Z",
+            "status": "SCHEDULED",
             "homeTeamName": "Cagliari Calcio",
             "awayTeamName": "Cagliari Calcio",
             "homeTeamCrest": "https:\/\/crests.football-data.org\/104.png",
@@ -1522,6 +1674,7 @@
         },
         "536967": {
             "utcDate": "2025-12-21T00:00:00Z",
+            "status": "SCHEDULED",
             "homeTeamName": "Genoa CFC",
             "awayTeamName": "Genoa CFC",
             "homeTeamCrest": "https:\/\/crests.football-data.org\/107.png",
@@ -1532,6 +1685,7 @@
         },
         "536968": {
             "utcDate": "2025-12-21T00:00:00Z",
+            "status": "SCHEDULED",
             "homeTeamName": "Como 1907",
             "awayTeamName": "Como 1907",
             "homeTeamCrest": "https:\/\/crests.football-data.org\/7397.png",
@@ -1542,6 +1696,7 @@
         },
         "536969": {
             "utcDate": "2025-12-21T00:00:00Z",
+            "status": "SCHEDULED",
             "homeTeamName": "Hellas Verona FC",
             "awayTeamName": "Hellas Verona FC",
             "homeTeamCrest": "https:\/\/crests.football-data.org\/450.png",
@@ -1552,6 +1707,7 @@
         },
         "536970": {
             "utcDate": "2025-12-21T00:00:00Z",
+            "status": "SCHEDULED",
             "homeTeamName": "FC Internazionale Milano",
             "awayTeamName": "FC Internazionale Milano",
             "homeTeamCrest": "https:\/\/crests.football-data.org\/108.png",
@@ -1562,6 +1718,7 @@
         },
         "536971": {
             "utcDate": "2025-12-21T00:00:00Z",
+            "status": "SCHEDULED",
             "homeTeamName": "Juventus FC",
             "awayTeamName": "Juventus FC",
             "homeTeamCrest": "https:\/\/crests.football-data.org\/109.png",
@@ -1572,6 +1729,7 @@
         },
         "536972": {
             "utcDate": "2025-12-21T00:00:00Z",
+            "status": "SCHEDULED",
             "homeTeamName": "SS Lazio",
             "awayTeamName": "SS Lazio",
             "homeTeamCrest": "https:\/\/crests.football-data.org\/110.png",
@@ -1582,6 +1740,7 @@
         },
         "536973": {
             "utcDate": "2025-12-21T00:00:00Z",
+            "status": "SCHEDULED",
             "homeTeamName": "US Sassuolo Calcio",
             "awayTeamName": "US Sassuolo Calcio",
             "homeTeamCrest": "https:\/\/crests.football-data.org\/471.png",
@@ -1592,6 +1751,7 @@
         },
         "536974": {
             "utcDate": "2025-12-21T00:00:00Z",
+            "status": "SCHEDULED",
             "homeTeamName": "SSC Napoli",
             "awayTeamName": "SSC Napoli",
             "homeTeamCrest": "https:\/\/crests.football-data.org\/113.png",
@@ -1602,6 +1762,7 @@
         },
         "536975": {
             "utcDate": "2025-12-28T00:00:00Z",
+            "status": "SCHEDULED",
             "homeTeamName": "AC Milan",
             "awayTeamName": "AC Milan",
             "homeTeamCrest": "https:\/\/crests.football-data.org\/98.png",
@@ -1612,6 +1773,7 @@
         },
         "536976": {
             "utcDate": "2025-12-28T00:00:00Z",
+            "status": "SCHEDULED",
             "homeTeamName": "AS Roma",
             "awayTeamName": "AS Roma",
             "homeTeamCrest": "https:\/\/crests.football-data.org\/100.png",
@@ -1622,6 +1784,7 @@
         },
         "536977": {
             "utcDate": "2025-12-28T00:00:00Z",
+            "status": "SCHEDULED",
             "homeTeamName": "Atalanta BC",
             "awayTeamName": "Atalanta BC",
             "homeTeamCrest": "https:\/\/crests.football-data.org\/102.png",
@@ -1632,6 +1795,7 @@
         },
         "536978": {
             "utcDate": "2025-12-28T00:00:00Z",
+            "status": "SCHEDULED",
             "homeTeamName": "Bologna FC 1909",
             "awayTeamName": "Bologna FC 1909",
             "homeTeamCrest": "https:\/\/crests.football-data.org\/103.png",
@@ -1642,6 +1806,7 @@
         },
         "536979": {
             "utcDate": "2025-12-28T00:00:00Z",
+            "status": "SCHEDULED",
             "homeTeamName": "Torino FC",
             "awayTeamName": "Torino FC",
             "homeTeamCrest": "https:\/\/crests.football-data.org\/586.png",
@@ -1652,6 +1817,7 @@
         },
         "536980": {
             "utcDate": "2025-12-28T00:00:00Z",
+            "status": "SCHEDULED",
             "homeTeamName": "Parma Calcio 1913",
             "awayTeamName": "Parma Calcio 1913",
             "homeTeamCrest": "https:\/\/crests.football-data.org\/112.png",
@@ -1662,6 +1828,7 @@
         },
         "536981": {
             "utcDate": "2025-12-28T00:00:00Z",
+            "status": "SCHEDULED",
             "homeTeamName": "AC Pisa 1909",
             "awayTeamName": "AC Pisa 1909",
             "homeTeamCrest": "https:\/\/crests.football-data.org\/487.png",
@@ -1672,6 +1839,7 @@
         },
         "536982": {
             "utcDate": "2025-12-28T00:00:00Z",
+            "status": "SCHEDULED",
             "homeTeamName": "Udinese Calcio",
             "awayTeamName": "Udinese Calcio",
             "homeTeamCrest": "https:\/\/crests.football-data.org\/115.png",
@@ -1682,6 +1850,7 @@
         },
         "536983": {
             "utcDate": "2025-12-28T00:00:00Z",
+            "status": "SCHEDULED",
             "homeTeamName": "US Cremonese",
             "awayTeamName": "US Cremonese",
             "homeTeamCrest": "https:\/\/crests.football-data.org\/457.png",
@@ -1692,6 +1861,7 @@
         },
         "536984": {
             "utcDate": "2025-12-28T00:00:00Z",
+            "status": "SCHEDULED",
             "homeTeamName": "US Lecce",
             "awayTeamName": "US Lecce",
             "homeTeamCrest": "https:\/\/crests.football-data.org\/5890.png",
@@ -1702,6 +1872,7 @@
         },
         "536985": {
             "utcDate": "2026-01-03T00:00:00Z",
+            "status": "SCHEDULED",
             "homeTeamName": "ACF Fiorentina",
             "awayTeamName": "ACF Fiorentina",
             "homeTeamCrest": "https:\/\/crests.football-data.org\/99.png",
@@ -1712,6 +1883,7 @@
         },
         "536986": {
             "utcDate": "2026-01-03T00:00:00Z",
+            "status": "SCHEDULED",
             "homeTeamName": "Atalanta BC",
             "awayTeamName": "Atalanta BC",
             "homeTeamCrest": "https:\/\/crests.football-data.org\/102.png",
@@ -1722,6 +1894,7 @@
         },
         "536987": {
             "utcDate": "2026-01-03T00:00:00Z",
+            "status": "SCHEDULED",
             "homeTeamName": "Cagliari Calcio",
             "awayTeamName": "Cagliari Calcio",
             "homeTeamCrest": "https:\/\/crests.football-data.org\/104.png",
@@ -1732,6 +1905,7 @@
         },
         "536988": {
             "utcDate": "2026-01-03T00:00:00Z",
+            "status": "SCHEDULED",
             "homeTeamName": "Genoa CFC",
             "awayTeamName": "Genoa CFC",
             "homeTeamCrest": "https:\/\/crests.football-data.org\/107.png",
@@ -1742,6 +1916,7 @@
         },
         "536989": {
             "utcDate": "2026-01-03T00:00:00Z",
+            "status": "SCHEDULED",
             "homeTeamName": "Como 1907",
             "awayTeamName": "Como 1907",
             "homeTeamCrest": "https:\/\/crests.football-data.org\/7397.png",
@@ -1752,6 +1927,7 @@
         },
         "536990": {
             "utcDate": "2026-01-03T00:00:00Z",
+            "status": "SCHEDULED",
             "homeTeamName": "Hellas Verona FC",
             "awayTeamName": "Hellas Verona FC",
             "homeTeamCrest": "https:\/\/crests.football-data.org\/450.png",
@@ -1762,6 +1938,7 @@
         },
         "536991": {
             "utcDate": "2026-01-03T00:00:00Z",
+            "status": "SCHEDULED",
             "homeTeamName": "FC Internazionale Milano",
             "awayTeamName": "FC Internazionale Milano",
             "homeTeamCrest": "https:\/\/crests.football-data.org\/108.png",
@@ -1772,6 +1949,7 @@
         },
         "536992": {
             "utcDate": "2026-01-03T00:00:00Z",
+            "status": "SCHEDULED",
             "homeTeamName": "Juventus FC",
             "awayTeamName": "Juventus FC",
             "homeTeamCrest": "https:\/\/crests.football-data.org\/109.png",
@@ -1782,6 +1960,7 @@
         },
         "536993": {
             "utcDate": "2026-01-03T00:00:00Z",
+            "status": "SCHEDULED",
             "homeTeamName": "SS Lazio",
             "awayTeamName": "SS Lazio",
             "homeTeamCrest": "https:\/\/crests.football-data.org\/110.png",
@@ -1792,6 +1971,7 @@
         },
         "536994": {
             "utcDate": "2026-01-03T00:00:00Z",
+            "status": "SCHEDULED",
             "homeTeamName": "US Sassuolo Calcio",
             "awayTeamName": "US Sassuolo Calcio",
             "homeTeamCrest": "https:\/\/crests.football-data.org\/471.png",
@@ -1802,6 +1982,7 @@
         },
         "536995": {
             "utcDate": "2026-01-06T00:00:00Z",
+            "status": "SCHEDULED",
             "homeTeamName": "AC Milan",
             "awayTeamName": "AC Milan",
             "homeTeamCrest": "https:\/\/crests.football-data.org\/98.png",
@@ -1812,6 +1993,7 @@
         },
         "536996": {
             "utcDate": "2026-01-06T00:00:00Z",
+            "status": "SCHEDULED",
             "homeTeamName": "Bologna FC 1909",
             "awayTeamName": "Bologna FC 1909",
             "homeTeamCrest": "https:\/\/crests.football-data.org\/103.png",
@@ -1822,6 +2004,7 @@
         },
         "536997": {
             "utcDate": "2026-01-06T00:00:00Z",
+            "status": "SCHEDULED",
             "homeTeamName": "Torino FC",
             "awayTeamName": "Torino FC",
             "homeTeamCrest": "https:\/\/crests.football-data.org\/586.png",
@@ -1832,6 +2015,7 @@
         },
         "536998": {
             "utcDate": "2026-01-06T00:00:00Z",
+            "status": "SCHEDULED",
             "homeTeamName": "SS Lazio",
             "awayTeamName": "SS Lazio",
             "homeTeamCrest": "https:\/\/crests.football-data.org\/110.png",
@@ -1842,6 +2026,7 @@
         },
         "536999": {
             "utcDate": "2026-01-06T00:00:00Z",
+            "status": "SCHEDULED",
             "homeTeamName": "Parma Calcio 1913",
             "awayTeamName": "Parma Calcio 1913",
             "homeTeamCrest": "https:\/\/crests.football-data.org\/112.png",
@@ -1852,6 +2037,7 @@
         },
         "537000": {
             "utcDate": "2026-01-06T00:00:00Z",
+            "status": "SCHEDULED",
             "homeTeamName": "AC Pisa 1909",
             "awayTeamName": "AC Pisa 1909",
             "homeTeamCrest": "https:\/\/crests.football-data.org\/487.png",
@@ -1862,6 +2048,7 @@
         },
         "537001": {
             "utcDate": "2026-01-06T00:00:00Z",
+            "status": "SCHEDULED",
             "homeTeamName": "US Sassuolo Calcio",
             "awayTeamName": "US Sassuolo Calcio",
             "homeTeamCrest": "https:\/\/crests.football-data.org\/471.png",
@@ -1872,6 +2059,7 @@
         },
         "537002": {
             "utcDate": "2026-01-06T00:00:00Z",
+            "status": "SCHEDULED",
             "homeTeamName": "SSC Napoli",
             "awayTeamName": "SSC Napoli",
             "homeTeamCrest": "https:\/\/crests.football-data.org\/113.png",
@@ -1882,6 +2070,7 @@
         },
         "537003": {
             "utcDate": "2026-01-06T00:00:00Z",
+            "status": "SCHEDULED",
             "homeTeamName": "US Cremonese",
             "awayTeamName": "US Cremonese",
             "homeTeamCrest": "https:\/\/crests.football-data.org\/457.png",
@@ -1892,6 +2081,7 @@
         },
         "537004": {
             "utcDate": "2026-01-06T00:00:00Z",
+            "status": "SCHEDULED",
             "homeTeamName": "US Lecce",
             "awayTeamName": "US Lecce",
             "homeTeamCrest": "https:\/\/crests.football-data.org\/5890.png",
@@ -1902,6 +2092,7 @@
         },
         "537005": {
             "utcDate": "2026-01-11T00:00:00Z",
+            "status": "SCHEDULED",
             "homeTeamName": "ACF Fiorentina",
             "awayTeamName": "ACF Fiorentina",
             "homeTeamCrest": "https:\/\/crests.football-data.org\/99.png",
@@ -1912,6 +2103,7 @@
         },
         "537006": {
             "utcDate": "2026-01-11T00:00:00Z",
+            "status": "SCHEDULED",
             "homeTeamName": "AS Roma",
             "awayTeamName": "AS Roma",
             "homeTeamCrest": "https:\/\/crests.football-data.org\/100.png",
@@ -1922,6 +2114,7 @@
         },
         "537007": {
             "utcDate": "2026-01-11T00:00:00Z",
+            "status": "SCHEDULED",
             "homeTeamName": "Atalanta BC",
             "awayTeamName": "Atalanta BC",
             "homeTeamCrest": "https:\/\/crests.football-data.org\/102.png",
@@ -1932,6 +2125,7 @@
         },
         "537008": {
             "utcDate": "2026-01-11T00:00:00Z",
+            "status": "SCHEDULED",
             "homeTeamName": "Genoa CFC",
             "awayTeamName": "Genoa CFC",
             "homeTeamCrest": "https:\/\/crests.football-data.org\/107.png",
@@ -1942,6 +2136,7 @@
         },
         "537009": {
             "utcDate": "2026-01-11T00:00:00Z",
+            "status": "SCHEDULED",
             "homeTeamName": "Como 1907",
             "awayTeamName": "Como 1907",
             "homeTeamCrest": "https:\/\/crests.football-data.org\/7397.png",
@@ -1952,6 +2147,7 @@
         },
         "537010": {
             "utcDate": "2026-01-11T00:00:00Z",
+            "status": "SCHEDULED",
             "homeTeamName": "Hellas Verona FC",
             "awayTeamName": "Hellas Verona FC",
             "homeTeamCrest": "https:\/\/crests.football-data.org\/450.png",
@@ -1962,6 +2158,7 @@
         },
         "537011": {
             "utcDate": "2026-01-11T00:00:00Z",
+            "status": "SCHEDULED",
             "homeTeamName": "FC Internazionale Milano",
             "awayTeamName": "FC Internazionale Milano",
             "homeTeamCrest": "https:\/\/crests.football-data.org\/108.png",
@@ -1972,6 +2169,7 @@
         },
         "537012": {
             "utcDate": "2026-01-11T00:00:00Z",
+            "status": "SCHEDULED",
             "homeTeamName": "Juventus FC",
             "awayTeamName": "Juventus FC",
             "homeTeamCrest": "https:\/\/crests.football-data.org\/109.png",
@@ -1982,6 +2180,7 @@
         },
         "537013": {
             "utcDate": "2026-01-11T00:00:00Z",
+            "status": "SCHEDULED",
             "homeTeamName": "Udinese Calcio",
             "awayTeamName": "Udinese Calcio",
             "homeTeamCrest": "https:\/\/crests.football-data.org\/115.png",
@@ -1992,6 +2191,7 @@
         },
         "537014": {
             "utcDate": "2026-01-11T00:00:00Z",
+            "status": "SCHEDULED",
             "homeTeamName": "US Lecce",
             "awayTeamName": "US Lecce",
             "homeTeamCrest": "https:\/\/crests.football-data.org\/5890.png",
@@ -2002,6 +2202,7 @@
         },
         "537015": {
             "utcDate": "2026-01-18T00:00:00Z",
+            "status": "SCHEDULED",
             "homeTeamName": "AC Milan",
             "awayTeamName": "AC Milan",
             "homeTeamCrest": "https:\/\/crests.football-data.org\/98.png",
@@ -2012,6 +2213,7 @@
         },
         "537016": {
             "utcDate": "2026-01-18T00:00:00Z",
+            "status": "SCHEDULED",
             "homeTeamName": "Cagliari Calcio",
             "awayTeamName": "Cagliari Calcio",
             "homeTeamCrest": "https:\/\/crests.football-data.org\/104.png",
@@ -2022,6 +2224,7 @@
         },
         "537017": {
             "utcDate": "2026-01-18T00:00:00Z",
+            "status": "SCHEDULED",
             "homeTeamName": "Bologna FC 1909",
             "awayTeamName": "Bologna FC 1909",
             "homeTeamCrest": "https:\/\/crests.football-data.org\/103.png",
@@ -2032,6 +2235,7 @@
         },
         "537018": {
             "utcDate": "2026-01-18T00:00:00Z",
+            "status": "SCHEDULED",
             "homeTeamName": "Torino FC",
             "awayTeamName": "Torino FC",
             "homeTeamCrest": "https:\/\/crests.football-data.org\/586.png",
@@ -2042,6 +2246,7 @@
         },
         "537019": {
             "utcDate": "2026-01-18T00:00:00Z",
+            "status": "SCHEDULED",
             "homeTeamName": "SS Lazio",
             "awayTeamName": "SS Lazio",
             "homeTeamCrest": "https:\/\/crests.football-data.org\/110.png",
@@ -2052,6 +2257,7 @@
         },
         "537020": {
             "utcDate": "2026-01-18T00:00:00Z",
+            "status": "SCHEDULED",
             "homeTeamName": "Parma Calcio 1913",
             "awayTeamName": "Parma Calcio 1913",
             "homeTeamCrest": "https:\/\/crests.football-data.org\/112.png",
@@ -2062,6 +2268,7 @@
         },
         "537021": {
             "utcDate": "2026-01-18T00:00:00Z",
+            "status": "SCHEDULED",
             "homeTeamName": "AC Pisa 1909",
             "awayTeamName": "AC Pisa 1909",
             "homeTeamCrest": "https:\/\/crests.football-data.org\/487.png",
@@ -2072,6 +2279,7 @@
         },
         "537022": {
             "utcDate": "2026-01-18T00:00:00Z",
+            "status": "SCHEDULED",
             "homeTeamName": "SSC Napoli",
             "awayTeamName": "SSC Napoli",
             "homeTeamCrest": "https:\/\/crests.football-data.org\/113.png",
@@ -2082,6 +2290,7 @@
         },
         "537023": {
             "utcDate": "2026-01-18T00:00:00Z",
+            "status": "SCHEDULED",
             "homeTeamName": "Udinese Calcio",
             "awayTeamName": "Udinese Calcio",
             "homeTeamCrest": "https:\/\/crests.football-data.org\/115.png",
@@ -2092,6 +2301,7 @@
         },
         "537024": {
             "utcDate": "2026-01-18T00:00:00Z",
+            "status": "SCHEDULED",
             "homeTeamName": "US Cremonese",
             "awayTeamName": "US Cremonese",
             "homeTeamCrest": "https:\/\/crests.football-data.org\/457.png",
@@ -2102,6 +2312,7 @@
         },
         "537025": {
             "utcDate": "2026-01-25T00:00:00Z",
+            "status": "SCHEDULED",
             "homeTeamName": "ACF Fiorentina",
             "awayTeamName": "ACF Fiorentina",
             "homeTeamCrest": "https:\/\/crests.football-data.org\/99.png",
@@ -2112,6 +2323,7 @@
         },
         "537026": {
             "utcDate": "2026-01-25T00:00:00Z",
+            "status": "SCHEDULED",
             "homeTeamName": "AS Roma",
             "awayTeamName": "AS Roma",
             "homeTeamCrest": "https:\/\/crests.football-data.org\/100.png",
@@ -2122,6 +2334,7 @@
         },
         "537027": {
             "utcDate": "2026-01-25T00:00:00Z",
+            "status": "SCHEDULED",
             "homeTeamName": "Atalanta BC",
             "awayTeamName": "Atalanta BC",
             "homeTeamCrest": "https:\/\/crests.football-data.org\/102.png",
@@ -2132,6 +2345,7 @@
         },
         "537028": {
             "utcDate": "2026-01-25T00:00:00Z",
+            "status": "SCHEDULED",
             "homeTeamName": "Genoa CFC",
             "awayTeamName": "Genoa CFC",
             "homeTeamCrest": "https:\/\/crests.football-data.org\/107.png",
@@ -2142,6 +2356,7 @@
         },
         "537029": {
             "utcDate": "2026-01-25T00:00:00Z",
+            "status": "SCHEDULED",
             "homeTeamName": "Como 1907",
             "awayTeamName": "Como 1907",
             "homeTeamCrest": "https:\/\/crests.football-data.org\/7397.png",
@@ -2152,6 +2367,7 @@
         },
         "537030": {
             "utcDate": "2026-01-25T00:00:00Z",
+            "status": "SCHEDULED",
             "homeTeamName": "Hellas Verona FC",
             "awayTeamName": "Hellas Verona FC",
             "homeTeamCrest": "https:\/\/crests.football-data.org\/450.png",
@@ -2162,6 +2378,7 @@
         },
         "537031": {
             "utcDate": "2026-01-25T00:00:00Z",
+            "status": "SCHEDULED",
             "homeTeamName": "FC Internazionale Milano",
             "awayTeamName": "FC Internazionale Milano",
             "homeTeamCrest": "https:\/\/crests.football-data.org\/108.png",
@@ -2172,6 +2389,7 @@
         },
         "537032": {
             "utcDate": "2026-01-25T00:00:00Z",
+            "status": "SCHEDULED",
             "homeTeamName": "Juventus FC",
             "awayTeamName": "Juventus FC",
             "homeTeamCrest": "https:\/\/crests.football-data.org\/109.png",
@@ -2182,6 +2400,7 @@
         },
         "537033": {
             "utcDate": "2026-01-25T00:00:00Z",
+            "status": "SCHEDULED",
             "homeTeamName": "US Sassuolo Calcio",
             "awayTeamName": "US Sassuolo Calcio",
             "homeTeamCrest": "https:\/\/crests.football-data.org\/471.png",
@@ -2192,6 +2411,7 @@
         },
         "537034": {
             "utcDate": "2026-01-25T00:00:00Z",
+            "status": "SCHEDULED",
             "homeTeamName": "US Lecce",
             "awayTeamName": "US Lecce",
             "homeTeamCrest": "https:\/\/crests.football-data.org\/5890.png",
@@ -2202,6 +2422,7 @@
         },
         "537035": {
             "utcDate": "2026-02-01T00:00:00Z",
+            "status": "SCHEDULED",
             "homeTeamName": "Cagliari Calcio",
             "awayTeamName": "Cagliari Calcio",
             "homeTeamCrest": "https:\/\/crests.football-data.org\/104.png",
@@ -2212,6 +2433,7 @@
         },
         "537036": {
             "utcDate": "2026-02-01T00:00:00Z",
+            "status": "SCHEDULED",
             "homeTeamName": "Como 1907",
             "awayTeamName": "Como 1907",
             "homeTeamCrest": "https:\/\/crests.football-data.org\/7397.png",
@@ -2222,6 +2444,7 @@
         },
         "537037": {
             "utcDate": "2026-02-01T00:00:00Z",
+            "status": "SCHEDULED",
             "homeTeamName": "Bologna FC 1909",
             "awayTeamName": "Bologna FC 1909",
             "homeTeamCrest": "https:\/\/crests.football-data.org\/103.png",
@@ -2232,6 +2455,7 @@
         },
         "537038": {
             "utcDate": "2026-02-01T00:00:00Z",
+            "status": "SCHEDULED",
             "homeTeamName": "Torino FC",
             "awayTeamName": "Torino FC",
             "homeTeamCrest": "https:\/\/crests.football-data.org\/586.png",
@@ -2242,6 +2466,7 @@
         },
         "537039": {
             "utcDate": "2026-02-01T00:00:00Z",
+            "status": "SCHEDULED",
             "homeTeamName": "SS Lazio",
             "awayTeamName": "SS Lazio",
             "homeTeamCrest": "https:\/\/crests.football-data.org\/110.png",
@@ -2252,6 +2477,7 @@
         },
         "537040": {
             "utcDate": "2026-02-01T00:00:00Z",
+            "status": "SCHEDULED",
             "homeTeamName": "Parma Calcio 1913",
             "awayTeamName": "Parma Calcio 1913",
             "homeTeamCrest": "https:\/\/crests.football-data.org\/112.png",
@@ -2262,6 +2488,7 @@
         },
         "537041": {
             "utcDate": "2026-02-01T00:00:00Z",
+            "status": "SCHEDULED",
             "homeTeamName": "AC Pisa 1909",
             "awayTeamName": "AC Pisa 1909",
             "homeTeamCrest": "https:\/\/crests.football-data.org\/487.png",
@@ -2272,6 +2499,7 @@
         },
         "537042": {
             "utcDate": "2026-02-01T00:00:00Z",
+            "status": "SCHEDULED",
             "homeTeamName": "SSC Napoli",
             "awayTeamName": "SSC Napoli",
             "homeTeamCrest": "https:\/\/crests.football-data.org\/113.png",
@@ -2282,6 +2510,7 @@
         },
         "537043": {
             "utcDate": "2026-02-01T00:00:00Z",
+            "status": "SCHEDULED",
             "homeTeamName": "Udinese Calcio",
             "awayTeamName": "Udinese Calcio",
             "homeTeamCrest": "https:\/\/crests.football-data.org\/115.png",
@@ -2292,6 +2521,7 @@
         },
         "537044": {
             "utcDate": "2026-02-01T00:00:00Z",
+            "status": "SCHEDULED",
             "homeTeamName": "US Cremonese",
             "awayTeamName": "US Cremonese",
             "homeTeamCrest": "https:\/\/crests.football-data.org\/457.png",
@@ -2302,6 +2532,7 @@
         },
         "537045": {
             "utcDate": "2026-02-08T00:00:00Z",
+            "status": "SCHEDULED",
             "homeTeamName": "ACF Fiorentina",
             "awayTeamName": "ACF Fiorentina",
             "homeTeamCrest": "https:\/\/crests.football-data.org\/99.png",
@@ -2312,6 +2543,7 @@
         },
         "537046": {
             "utcDate": "2026-02-08T00:00:00Z",
+            "status": "SCHEDULED",
             "homeTeamName": "AC Milan",
             "awayTeamName": "AC Milan",
             "homeTeamCrest": "https:\/\/crests.football-data.org\/98.png",
@@ -2322,6 +2554,7 @@
         },
         "537047": {
             "utcDate": "2026-02-08T00:00:00Z",
+            "status": "SCHEDULED",
             "homeTeamName": "AS Roma",
             "awayTeamName": "AS Roma",
             "homeTeamCrest": "https:\/\/crests.football-data.org\/100.png",
@@ -2332,6 +2565,7 @@
         },
         "537048": {
             "utcDate": "2026-02-08T00:00:00Z",
+            "status": "SCHEDULED",
             "homeTeamName": "Atalanta BC",
             "awayTeamName": "Atalanta BC",
             "homeTeamCrest": "https:\/\/crests.football-data.org\/102.png",
@@ -2342,6 +2576,7 @@
         },
         "537049": {
             "utcDate": "2026-02-08T00:00:00Z",
+            "status": "SCHEDULED",
             "homeTeamName": "Genoa CFC",
             "awayTeamName": "Genoa CFC",
             "homeTeamCrest": "https:\/\/crests.football-data.org\/107.png",
@@ -2352,6 +2587,7 @@
         },
         "537050": {
             "utcDate": "2026-02-08T00:00:00Z",
+            "status": "SCHEDULED",
             "homeTeamName": "Bologna FC 1909",
             "awayTeamName": "Bologna FC 1909",
             "homeTeamCrest": "https:\/\/crests.football-data.org\/103.png",
@@ -2362,6 +2598,7 @@
         },
         "537051": {
             "utcDate": "2026-02-08T00:00:00Z",
+            "status": "SCHEDULED",
             "homeTeamName": "Hellas Verona FC",
             "awayTeamName": "Hellas Verona FC",
             "homeTeamCrest": "https:\/\/crests.football-data.org\/450.png",
@@ -2372,6 +2609,7 @@
         },
         "537052": {
             "utcDate": "2026-02-08T00:00:00Z",
+            "status": "SCHEDULED",
             "homeTeamName": "Juventus FC",
             "awayTeamName": "Juventus FC",
             "homeTeamCrest": "https:\/\/crests.football-data.org\/109.png",
@@ -2382,6 +2620,7 @@
         },
         "537053": {
             "utcDate": "2026-02-08T00:00:00Z",
+            "status": "SCHEDULED",
             "homeTeamName": "US Sassuolo Calcio",
             "awayTeamName": "US Sassuolo Calcio",
             "homeTeamCrest": "https:\/\/crests.football-data.org\/471.png",
@@ -2392,6 +2631,7 @@
         },
         "537054": {
             "utcDate": "2026-02-08T00:00:00Z",
+            "status": "SCHEDULED",
             "homeTeamName": "US Lecce",
             "awayTeamName": "US Lecce",
             "homeTeamCrest": "https:\/\/crests.football-data.org\/5890.png",
@@ -2402,6 +2642,7 @@
         },
         "537055": {
             "utcDate": "2026-02-15T00:00:00Z",
+            "status": "SCHEDULED",
             "homeTeamName": "Cagliari Calcio",
             "awayTeamName": "Cagliari Calcio",
             "homeTeamCrest": "https:\/\/crests.football-data.org\/104.png",
@@ -2412,6 +2653,7 @@
         },
         "537056": {
             "utcDate": "2026-02-15T00:00:00Z",
+            "status": "SCHEDULED",
             "homeTeamName": "Como 1907",
             "awayTeamName": "Como 1907",
             "homeTeamCrest": "https:\/\/crests.football-data.org\/7397.png",
@@ -2422,6 +2664,7 @@
         },
         "537057": {
             "utcDate": "2026-02-15T00:00:00Z",
+            "status": "SCHEDULED",
             "homeTeamName": "Torino FC",
             "awayTeamName": "Torino FC",
             "homeTeamCrest": "https:\/\/crests.football-data.org\/586.png",
@@ -2432,6 +2675,7 @@
         },
         "537058": {
             "utcDate": "2026-02-15T00:00:00Z",
+            "status": "SCHEDULED",
             "homeTeamName": "FC Internazionale Milano",
             "awayTeamName": "FC Internazionale Milano",
             "homeTeamCrest": "https:\/\/crests.football-data.org\/108.png",
@@ -2442,6 +2686,7 @@
         },
         "537059": {
             "utcDate": "2026-02-15T00:00:00Z",
+            "status": "SCHEDULED",
             "homeTeamName": "SS Lazio",
             "awayTeamName": "SS Lazio",
             "homeTeamCrest": "https:\/\/crests.football-data.org\/110.png",
@@ -2452,6 +2697,7 @@
         },
         "537060": {
             "utcDate": "2026-02-15T00:00:00Z",
+            "status": "SCHEDULED",
             "homeTeamName": "Parma Calcio 1913",
             "awayTeamName": "Parma Calcio 1913",
             "homeTeamCrest": "https:\/\/crests.football-data.org\/112.png",
@@ -2462,6 +2708,7 @@
         },
         "537061": {
             "utcDate": "2026-02-15T00:00:00Z",
+            "status": "SCHEDULED",
             "homeTeamName": "AC Pisa 1909",
             "awayTeamName": "AC Pisa 1909",
             "homeTeamCrest": "https:\/\/crests.football-data.org\/487.png",
@@ -2472,6 +2719,7 @@
         },
         "537062": {
             "utcDate": "2026-02-15T00:00:00Z",
+            "status": "SCHEDULED",
             "homeTeamName": "SSC Napoli",
             "awayTeamName": "SSC Napoli",
             "homeTeamCrest": "https:\/\/crests.football-data.org\/113.png",
@@ -2482,6 +2730,7 @@
         },
         "537063": {
             "utcDate": "2026-02-15T00:00:00Z",
+            "status": "SCHEDULED",
             "homeTeamName": "Udinese Calcio",
             "awayTeamName": "Udinese Calcio",
             "homeTeamCrest": "https:\/\/crests.football-data.org\/115.png",
@@ -2492,6 +2741,7 @@
         },
         "537064": {
             "utcDate": "2026-02-15T00:00:00Z",
+            "status": "SCHEDULED",
             "homeTeamName": "US Cremonese",
             "awayTeamName": "US Cremonese",
             "homeTeamCrest": "https:\/\/crests.football-data.org\/457.png",
@@ -2502,6 +2752,7 @@
         },
         "537065": {
             "utcDate": "2026-02-22T00:00:00Z",
+            "status": "SCHEDULED",
             "homeTeamName": "ACF Fiorentina",
             "awayTeamName": "ACF Fiorentina",
             "homeTeamCrest": "https:\/\/crests.football-data.org\/99.png",
@@ -2512,6 +2763,7 @@
         },
         "537066": {
             "utcDate": "2026-02-22T00:00:00Z",
+            "status": "SCHEDULED",
             "homeTeamName": "AC Milan",
             "awayTeamName": "AC Milan",
             "homeTeamCrest": "https:\/\/crests.football-data.org\/98.png",
@@ -2522,6 +2774,7 @@
         },
         "537067": {
             "utcDate": "2026-02-22T00:00:00Z",
+            "status": "SCHEDULED",
             "homeTeamName": "AS Roma",
             "awayTeamName": "AS Roma",
             "homeTeamCrest": "https:\/\/crests.football-data.org\/100.png",
@@ -2532,6 +2785,7 @@
         },
         "537068": {
             "utcDate": "2026-02-22T00:00:00Z",
+            "status": "SCHEDULED",
             "homeTeamName": "Atalanta BC",
             "awayTeamName": "Atalanta BC",
             "homeTeamCrest": "https:\/\/crests.football-data.org\/102.png",
@@ -2542,6 +2796,7 @@
         },
         "537069": {
             "utcDate": "2026-02-22T00:00:00Z",
+            "status": "SCHEDULED",
             "homeTeamName": "Cagliari Calcio",
             "awayTeamName": "Cagliari Calcio",
             "homeTeamCrest": "https:\/\/crests.football-data.org\/104.png",
@@ -2552,6 +2807,7 @@
         },
         "537070": {
             "utcDate": "2026-02-22T00:00:00Z",
+            "status": "SCHEDULED",
             "homeTeamName": "Genoa CFC",
             "awayTeamName": "Genoa CFC",
             "homeTeamCrest": "https:\/\/crests.football-data.org\/107.png",
@@ -2562,6 +2818,7 @@
         },
         "537071": {
             "utcDate": "2026-02-22T00:00:00Z",
+            "status": "SCHEDULED",
             "homeTeamName": "Bologna FC 1909",
             "awayTeamName": "Bologna FC 1909",
             "homeTeamCrest": "https:\/\/crests.football-data.org\/103.png",
@@ -2572,6 +2829,7 @@
         },
         "537072": {
             "utcDate": "2026-02-22T00:00:00Z",
+            "status": "SCHEDULED",
             "homeTeamName": "Juventus FC",
             "awayTeamName": "Juventus FC",
             "homeTeamCrest": "https:\/\/crests.football-data.org\/109.png",
@@ -2582,6 +2840,7 @@
         },
         "537073": {
             "utcDate": "2026-02-22T00:00:00Z",
+            "status": "SCHEDULED",
             "homeTeamName": "US Sassuolo Calcio",
             "awayTeamName": "US Sassuolo Calcio",
             "homeTeamCrest": "https:\/\/crests.football-data.org\/471.png",
@@ -2592,6 +2851,7 @@
         },
         "537074": {
             "utcDate": "2026-02-22T00:00:00Z",
+            "status": "SCHEDULED",
             "homeTeamName": "US Lecce",
             "awayTeamName": "US Lecce",
             "homeTeamCrest": "https:\/\/crests.football-data.org\/5890.png",
@@ -2602,6 +2862,7 @@
         },
         "537075": {
             "utcDate": "2026-03-01T00:00:00Z",
+            "status": "SCHEDULED",
             "homeTeamName": "AS Roma",
             "awayTeamName": "AS Roma",
             "homeTeamCrest": "https:\/\/crests.football-data.org\/100.png",
@@ -2612,6 +2873,7 @@
         },
         "537076": {
             "utcDate": "2026-03-01T00:00:00Z",
+            "status": "SCHEDULED",
             "homeTeamName": "Como 1907",
             "awayTeamName": "Como 1907",
             "homeTeamCrest": "https:\/\/crests.football-data.org\/7397.png",
@@ -2622,6 +2884,7 @@
         },
         "537077": {
             "utcDate": "2026-03-01T00:00:00Z",
+            "status": "SCHEDULED",
             "homeTeamName": "Torino FC",
             "awayTeamName": "Torino FC",
             "homeTeamCrest": "https:\/\/crests.football-data.org\/586.png",
@@ -2632,6 +2895,7 @@
         },
         "537078": {
             "utcDate": "2026-03-01T00:00:00Z",
+            "status": "SCHEDULED",
             "homeTeamName": "Hellas Verona FC",
             "awayTeamName": "Hellas Verona FC",
             "homeTeamCrest": "https:\/\/crests.football-data.org\/450.png",
@@ -2642,6 +2906,7 @@
         },
         "537079": {
             "utcDate": "2026-03-01T00:00:00Z",
+            "status": "SCHEDULED",
             "homeTeamName": "FC Internazionale Milano",
             "awayTeamName": "FC Internazionale Milano",
             "homeTeamCrest": "https:\/\/crests.football-data.org\/108.png",
@@ -2652,6 +2917,7 @@
         },
         "537080": {
             "utcDate": "2026-03-01T00:00:00Z",
+            "status": "SCHEDULED",
             "homeTeamName": "Parma Calcio 1913",
             "awayTeamName": "Parma Calcio 1913",
             "homeTeamCrest": "https:\/\/crests.football-data.org\/112.png",
@@ -2662,6 +2928,7 @@
         },
         "537081": {
             "utcDate": "2026-03-01T00:00:00Z",
+            "status": "SCHEDULED",
             "homeTeamName": "AC Pisa 1909",
             "awayTeamName": "AC Pisa 1909",
             "homeTeamCrest": "https:\/\/crests.football-data.org\/487.png",
@@ -2672,6 +2939,7 @@
         },
         "537082": {
             "utcDate": "2026-03-01T00:00:00Z",
+            "status": "SCHEDULED",
             "homeTeamName": "US Sassuolo Calcio",
             "awayTeamName": "US Sassuolo Calcio",
             "homeTeamCrest": "https:\/\/crests.football-data.org\/471.png",
@@ -2682,6 +2950,7 @@
         },
         "537083": {
             "utcDate": "2026-03-01T00:00:00Z",
+            "status": "SCHEDULED",
             "homeTeamName": "Udinese Calcio",
             "awayTeamName": "Udinese Calcio",
             "homeTeamCrest": "https:\/\/crests.football-data.org\/115.png",
@@ -2692,6 +2961,7 @@
         },
         "537084": {
             "utcDate": "2026-03-01T00:00:00Z",
+            "status": "SCHEDULED",
             "homeTeamName": "US Cremonese",
             "awayTeamName": "US Cremonese",
             "homeTeamCrest": "https:\/\/crests.football-data.org\/457.png",
@@ -2702,6 +2972,7 @@
         },
         "537088": {
             "utcDate": "2026-03-08T00:00:00Z",
+            "status": "SCHEDULED",
             "homeTeamName": "Cagliari Calcio",
             "awayTeamName": "Cagliari Calcio",
             "homeTeamCrest": "https:\/\/crests.football-data.org\/104.png",
@@ -2712,6 +2983,7 @@
         },
         "537089": {
             "utcDate": "2026-03-08T00:00:00Z",
+            "status": "SCHEDULED",
             "homeTeamName": "Genoa CFC",
             "awayTeamName": "Genoa CFC",
             "homeTeamCrest": "https:\/\/crests.football-data.org\/107.png",
@@ -2722,6 +2994,7 @@
         },
         "537090": {
             "utcDate": "2026-03-08T00:00:00Z",
+            "status": "SCHEDULED",
             "homeTeamName": "Bologna FC 1909",
             "awayTeamName": "Bologna FC 1909",
             "homeTeamCrest": "https:\/\/crests.football-data.org\/103.png",
@@ -2732,6 +3005,7 @@
         },
         "537091": {
             "utcDate": "2026-03-08T00:00:00Z",
+            "status": "SCHEDULED",
             "homeTeamName": "Juventus FC",
             "awayTeamName": "Juventus FC",
             "homeTeamCrest": "https:\/\/crests.football-data.org\/109.png",
@@ -2742,6 +3016,7 @@
         },
         "537092": {
             "utcDate": "2026-03-08T00:00:00Z",
+            "status": "SCHEDULED",
             "homeTeamName": "SS Lazio",
             "awayTeamName": "SS Lazio",
             "homeTeamCrest": "https:\/\/crests.football-data.org\/110.png",
@@ -2752,6 +3027,7 @@
         },
         "537093": {
             "utcDate": "2026-03-08T00:00:00Z",
+            "status": "SCHEDULED",
             "homeTeamName": "SSC Napoli",
             "awayTeamName": "SSC Napoli",
             "homeTeamCrest": "https:\/\/crests.football-data.org\/113.png",
@@ -2762,6 +3038,7 @@
         },
         "537094": {
             "utcDate": "2026-03-08T00:00:00Z",
+            "status": "SCHEDULED",
             "homeTeamName": "US Lecce",
             "awayTeamName": "US Lecce",
             "homeTeamCrest": "https:\/\/crests.football-data.org\/5890.png",
@@ -2772,6 +3049,7 @@
         },
         "537085": {
             "utcDate": "2026-03-08T00:00:00Z",
+            "status": "SCHEDULED",
             "homeTeamName": "ACF Fiorentina",
             "awayTeamName": "ACF Fiorentina",
             "homeTeamCrest": "https:\/\/crests.football-data.org\/99.png",
@@ -2782,6 +3060,7 @@
         },
         "537086": {
             "utcDate": "2026-03-08T00:00:00Z",
+            "status": "SCHEDULED",
             "homeTeamName": "AC Milan",
             "awayTeamName": "AC Milan",
             "homeTeamCrest": "https:\/\/crests.football-data.org\/98.png",
@@ -2792,6 +3071,7 @@
         },
         "537087": {
             "utcDate": "2026-03-08T00:00:00Z",
+            "status": "SCHEDULED",
             "homeTeamName": "Atalanta BC",
             "awayTeamName": "Atalanta BC",
             "homeTeamCrest": "https:\/\/crests.football-data.org\/102.png",
@@ -2802,6 +3082,7 @@
         },
         "537095": {
             "utcDate": "2026-03-15T00:00:00Z",
+            "status": "SCHEDULED",
             "homeTeamName": "Como 1907",
             "awayTeamName": "Como 1907",
             "homeTeamCrest": "https:\/\/crests.football-data.org\/7397.png",
@@ -2812,6 +3093,7 @@
         },
         "537096": {
             "utcDate": "2026-03-15T00:00:00Z",
+            "status": "SCHEDULED",
             "homeTeamName": "Torino FC",
             "awayTeamName": "Torino FC",
             "homeTeamCrest": "https:\/\/crests.football-data.org\/586.png",
@@ -2822,6 +3104,7 @@
         },
         "537097": {
             "utcDate": "2026-03-15T00:00:00Z",
+            "status": "SCHEDULED",
             "homeTeamName": "Hellas Verona FC",
             "awayTeamName": "Hellas Verona FC",
             "homeTeamCrest": "https:\/\/crests.football-data.org\/450.png",
@@ -2832,6 +3115,7 @@
         },
         "537098": {
             "utcDate": "2026-03-15T00:00:00Z",
+            "status": "SCHEDULED",
             "homeTeamName": "FC Internazionale Milano",
             "awayTeamName": "FC Internazionale Milano",
             "homeTeamCrest": "https:\/\/crests.football-data.org\/108.png",
@@ -2842,6 +3126,7 @@
         },
         "537099": {
             "utcDate": "2026-03-15T00:00:00Z",
+            "status": "SCHEDULED",
             "homeTeamName": "SS Lazio",
             "awayTeamName": "SS Lazio",
             "homeTeamCrest": "https:\/\/crests.football-data.org\/110.png",
@@ -2852,6 +3137,7 @@
         },
         "537100": {
             "utcDate": "2026-03-15T00:00:00Z",
+            "status": "SCHEDULED",
             "homeTeamName": "AC Pisa 1909",
             "awayTeamName": "AC Pisa 1909",
             "homeTeamCrest": "https:\/\/crests.football-data.org\/487.png",
@@ -2862,6 +3148,7 @@
         },
         "537101": {
             "utcDate": "2026-03-15T00:00:00Z",
+            "status": "SCHEDULED",
             "homeTeamName": "US Sassuolo Calcio",
             "awayTeamName": "US Sassuolo Calcio",
             "homeTeamCrest": "https:\/\/crests.football-data.org\/471.png",
@@ -2872,6 +3159,7 @@
         },
         "537102": {
             "utcDate": "2026-03-15T00:00:00Z",
+            "status": "SCHEDULED",
             "homeTeamName": "SSC Napoli",
             "awayTeamName": "SSC Napoli",
             "homeTeamCrest": "https:\/\/crests.football-data.org\/113.png",
@@ -2882,6 +3170,7 @@
         },
         "537103": {
             "utcDate": "2026-03-15T00:00:00Z",
+            "status": "SCHEDULED",
             "homeTeamName": "Udinese Calcio",
             "awayTeamName": "Udinese Calcio",
             "homeTeamCrest": "https:\/\/crests.football-data.org\/115.png",
@@ -2892,6 +3181,7 @@
         },
         "537104": {
             "utcDate": "2026-03-15T00:00:00Z",
+            "status": "SCHEDULED",
             "homeTeamName": "US Cremonese",
             "awayTeamName": "US Cremonese",
             "homeTeamCrest": "https:\/\/crests.football-data.org\/457.png",
@@ -2902,6 +3192,7 @@
         },
         "537105": {
             "utcDate": "2026-03-22T00:00:00Z",
+            "status": "SCHEDULED",
             "homeTeamName": "ACF Fiorentina",
             "awayTeamName": "ACF Fiorentina",
             "homeTeamCrest": "https:\/\/crests.football-data.org\/99.png",
@@ -2912,6 +3203,7 @@
         },
         "537106": {
             "utcDate": "2026-03-22T00:00:00Z",
+            "status": "SCHEDULED",
             "homeTeamName": "AC Milan",
             "awayTeamName": "AC Milan",
             "homeTeamCrest": "https:\/\/crests.football-data.org\/98.png",
@@ -2922,6 +3214,7 @@
         },
         "537107": {
             "utcDate": "2026-03-22T00:00:00Z",
+            "status": "SCHEDULED",
             "homeTeamName": "AS Roma",
             "awayTeamName": "AS Roma",
             "homeTeamCrest": "https:\/\/crests.football-data.org\/100.png",
@@ -2932,6 +3225,7 @@
         },
         "537108": {
             "utcDate": "2026-03-22T00:00:00Z",
+            "status": "SCHEDULED",
             "homeTeamName": "Atalanta BC",
             "awayTeamName": "Atalanta BC",
             "homeTeamCrest": "https:\/\/crests.football-data.org\/102.png",
@@ -2942,6 +3236,7 @@
         },
         "537109": {
             "utcDate": "2026-03-22T00:00:00Z",
+            "status": "SCHEDULED",
             "homeTeamName": "Cagliari Calcio",
             "awayTeamName": "Cagliari Calcio",
             "homeTeamCrest": "https:\/\/crests.football-data.org\/104.png",
@@ -2952,6 +3247,7 @@
         },
         "537110": {
             "utcDate": "2026-03-22T00:00:00Z",
+            "status": "SCHEDULED",
             "homeTeamName": "Genoa CFC",
             "awayTeamName": "Genoa CFC",
             "homeTeamCrest": "https:\/\/crests.football-data.org\/107.png",
@@ -2962,6 +3258,7 @@
         },
         "537111": {
             "utcDate": "2026-03-22T00:00:00Z",
+            "status": "SCHEDULED",
             "homeTeamName": "Como 1907",
             "awayTeamName": "Como 1907",
             "homeTeamCrest": "https:\/\/crests.football-data.org\/7397.png",
@@ -2972,6 +3269,7 @@
         },
         "537112": {
             "utcDate": "2026-03-22T00:00:00Z",
+            "status": "SCHEDULED",
             "homeTeamName": "Bologna FC 1909",
             "awayTeamName": "Bologna FC 1909",
             "homeTeamCrest": "https:\/\/crests.football-data.org\/103.png",
@@ -2982,6 +3280,7 @@
         },
         "537113": {
             "utcDate": "2026-03-22T00:00:00Z",
+            "status": "SCHEDULED",
             "homeTeamName": "Juventus FC",
             "awayTeamName": "Juventus FC",
             "homeTeamCrest": "https:\/\/crests.football-data.org\/109.png",
@@ -2992,6 +3291,7 @@
         },
         "537114": {
             "utcDate": "2026-03-22T00:00:00Z",
+            "status": "SCHEDULED",
             "homeTeamName": "Parma Calcio 1913",
             "awayTeamName": "Parma Calcio 1913",
             "homeTeamCrest": "https:\/\/crests.football-data.org\/112.png",
@@ -3002,6 +3302,7 @@
         },
         "537115": {
             "utcDate": "2026-04-04T00:00:00Z",
+            "status": "SCHEDULED",
             "homeTeamName": "Hellas Verona FC",
             "awayTeamName": "Hellas Verona FC",
             "homeTeamCrest": "https:\/\/crests.football-data.org\/450.png",
@@ -3012,6 +3313,7 @@
         },
         "537116": {
             "utcDate": "2026-04-04T00:00:00Z",
+            "status": "SCHEDULED",
             "homeTeamName": "FC Internazionale Milano",
             "awayTeamName": "FC Internazionale Milano",
             "homeTeamCrest": "https:\/\/crests.football-data.org\/108.png",
@@ -3022,6 +3324,7 @@
         },
         "537117": {
             "utcDate": "2026-04-04T00:00:00Z",
+            "status": "SCHEDULED",
             "homeTeamName": "Juventus FC",
             "awayTeamName": "Juventus FC",
             "homeTeamCrest": "https:\/\/crests.football-data.org\/109.png",
@@ -3032,6 +3335,7 @@
         },
         "537118": {
             "utcDate": "2026-04-04T00:00:00Z",
+            "status": "SCHEDULED",
             "homeTeamName": "SS Lazio",
             "awayTeamName": "SS Lazio",
             "homeTeamCrest": "https:\/\/crests.football-data.org\/110.png",
@@ -3042,6 +3346,7 @@
         },
         "537119": {
             "utcDate": "2026-04-04T00:00:00Z",
+            "status": "SCHEDULED",
             "homeTeamName": "AC Pisa 1909",
             "awayTeamName": "AC Pisa 1909",
             "homeTeamCrest": "https:\/\/crests.football-data.org\/487.png",
@@ -3052,6 +3357,7 @@
         },
         "537120": {
             "utcDate": "2026-04-04T00:00:00Z",
+            "status": "SCHEDULED",
             "homeTeamName": "US Sassuolo Calcio",
             "awayTeamName": "US Sassuolo Calcio",
             "homeTeamCrest": "https:\/\/crests.football-data.org\/471.png",
@@ -3062,6 +3368,7 @@
         },
         "537121": {
             "utcDate": "2026-04-04T00:00:00Z",
+            "status": "SCHEDULED",
             "homeTeamName": "SSC Napoli",
             "awayTeamName": "SSC Napoli",
             "homeTeamCrest": "https:\/\/crests.football-data.org\/113.png",
@@ -3072,6 +3379,7 @@
         },
         "537122": {
             "utcDate": "2026-04-04T00:00:00Z",
+            "status": "SCHEDULED",
             "homeTeamName": "Udinese Calcio",
             "awayTeamName": "Udinese Calcio",
             "homeTeamCrest": "https:\/\/crests.football-data.org\/115.png",
@@ -3082,6 +3390,7 @@
         },
         "537123": {
             "utcDate": "2026-04-04T00:00:00Z",
+            "status": "SCHEDULED",
             "homeTeamName": "US Cremonese",
             "awayTeamName": "US Cremonese",
             "homeTeamCrest": "https:\/\/crests.football-data.org\/457.png",
@@ -3092,6 +3401,7 @@
         },
         "537124": {
             "utcDate": "2026-04-04T00:00:00Z",
+            "status": "SCHEDULED",
             "homeTeamName": "US Lecce",
             "awayTeamName": "US Lecce",
             "homeTeamCrest": "https:\/\/crests.football-data.org\/5890.png",
@@ -3102,6 +3412,7 @@
         },
         "537125": {
             "utcDate": "2026-04-12T00:00:00Z",
+            "status": "SCHEDULED",
             "homeTeamName": "ACF Fiorentina",
             "awayTeamName": "ACF Fiorentina",
             "homeTeamCrest": "https:\/\/crests.football-data.org\/99.png",
@@ -3112,6 +3423,7 @@
         },
         "537126": {
             "utcDate": "2026-04-12T00:00:00Z",
+            "status": "SCHEDULED",
             "homeTeamName": "AC Milan",
             "awayTeamName": "AC Milan",
             "homeTeamCrest": "https:\/\/crests.football-data.org\/98.png",
@@ -3122,6 +3434,7 @@
         },
         "537127": {
             "utcDate": "2026-04-12T00:00:00Z",
+            "status": "SCHEDULED",
             "homeTeamName": "AS Roma",
             "awayTeamName": "AS Roma",
             "homeTeamCrest": "https:\/\/crests.football-data.org\/100.png",
@@ -3132,6 +3445,7 @@
         },
         "537128": {
             "utcDate": "2026-04-12T00:00:00Z",
+            "status": "SCHEDULED",
             "homeTeamName": "Atalanta BC",
             "awayTeamName": "Atalanta BC",
             "homeTeamCrest": "https:\/\/crests.football-data.org\/102.png",
@@ -3142,6 +3456,7 @@
         },
         "537129": {
             "utcDate": "2026-04-12T00:00:00Z",
+            "status": "SCHEDULED",
             "homeTeamName": "Cagliari Calcio",
             "awayTeamName": "Cagliari Calcio",
             "homeTeamCrest": "https:\/\/crests.football-data.org\/104.png",
@@ -3152,6 +3467,7 @@
         },
         "537130": {
             "utcDate": "2026-04-12T00:00:00Z",
+            "status": "SCHEDULED",
             "homeTeamName": "Genoa CFC",
             "awayTeamName": "Genoa CFC",
             "homeTeamCrest": "https:\/\/crests.football-data.org\/107.png",
@@ -3162,6 +3478,7 @@
         },
         "537131": {
             "utcDate": "2026-04-12T00:00:00Z",
+            "status": "SCHEDULED",
             "homeTeamName": "Como 1907",
             "awayTeamName": "Como 1907",
             "homeTeamCrest": "https:\/\/crests.football-data.org\/7397.png",
@@ -3172,6 +3489,7 @@
         },
         "537132": {
             "utcDate": "2026-04-12T00:00:00Z",
+            "status": "SCHEDULED",
             "homeTeamName": "Bologna FC 1909",
             "awayTeamName": "Bologna FC 1909",
             "homeTeamCrest": "https:\/\/crests.football-data.org\/103.png",
@@ -3182,6 +3500,7 @@
         },
         "537133": {
             "utcDate": "2026-04-12T00:00:00Z",
+            "status": "SCHEDULED",
             "homeTeamName": "Torino FC",
             "awayTeamName": "Torino FC",
             "homeTeamCrest": "https:\/\/crests.football-data.org\/586.png",
@@ -3192,6 +3511,7 @@
         },
         "537134": {
             "utcDate": "2026-04-12T00:00:00Z",
+            "status": "SCHEDULED",
             "homeTeamName": "Parma Calcio 1913",
             "awayTeamName": "Parma Calcio 1913",
             "homeTeamCrest": "https:\/\/crests.football-data.org\/112.png",
@@ -3202,6 +3522,7 @@
         },
         "537135": {
             "utcDate": "2026-04-19T00:00:00Z",
+            "status": "SCHEDULED",
             "homeTeamName": "AS Roma",
             "awayTeamName": "AS Roma",
             "homeTeamCrest": "https:\/\/crests.football-data.org\/100.png",
@@ -3212,6 +3533,7 @@
         },
         "537136": {
             "utcDate": "2026-04-19T00:00:00Z",
+            "status": "SCHEDULED",
             "homeTeamName": "Hellas Verona FC",
             "awayTeamName": "Hellas Verona FC",
             "homeTeamCrest": "https:\/\/crests.football-data.org\/450.png",
@@ -3222,6 +3544,7 @@
         },
         "537137": {
             "utcDate": "2026-04-19T00:00:00Z",
+            "status": "SCHEDULED",
             "homeTeamName": "FC Internazionale Milano",
             "awayTeamName": "FC Internazionale Milano",
             "homeTeamCrest": "https:\/\/crests.football-data.org\/108.png",
@@ -3232,6 +3555,7 @@
         },
         "537138": {
             "utcDate": "2026-04-19T00:00:00Z",
+            "status": "SCHEDULED",
             "homeTeamName": "Juventus FC",
             "awayTeamName": "Juventus FC",
             "homeTeamCrest": "https:\/\/crests.football-data.org\/109.png",
@@ -3242,6 +3566,7 @@
         },
         "537139": {
             "utcDate": "2026-04-19T00:00:00Z",
+            "status": "SCHEDULED",
             "homeTeamName": "AC Pisa 1909",
             "awayTeamName": "AC Pisa 1909",
             "homeTeamCrest": "https:\/\/crests.football-data.org\/487.png",
@@ -3252,6 +3577,7 @@
         },
         "537140": {
             "utcDate": "2026-04-19T00:00:00Z",
+            "status": "SCHEDULED",
             "homeTeamName": "US Sassuolo Calcio",
             "awayTeamName": "US Sassuolo Calcio",
             "homeTeamCrest": "https:\/\/crests.football-data.org\/471.png",
@@ -3262,6 +3588,7 @@
         },
         "537141": {
             "utcDate": "2026-04-19T00:00:00Z",
+            "status": "SCHEDULED",
             "homeTeamName": "SSC Napoli",
             "awayTeamName": "SSC Napoli",
             "homeTeamCrest": "https:\/\/crests.football-data.org\/113.png",
@@ -3272,6 +3599,7 @@
         },
         "537142": {
             "utcDate": "2026-04-19T00:00:00Z",
+            "status": "SCHEDULED",
             "homeTeamName": "Udinese Calcio",
             "awayTeamName": "Udinese Calcio",
             "homeTeamCrest": "https:\/\/crests.football-data.org\/115.png",
@@ -3282,6 +3610,7 @@
         },
         "537143": {
             "utcDate": "2026-04-19T00:00:00Z",
+            "status": "SCHEDULED",
             "homeTeamName": "US Cremonese",
             "awayTeamName": "US Cremonese",
             "homeTeamCrest": "https:\/\/crests.football-data.org\/457.png",
@@ -3292,6 +3621,7 @@
         },
         "537144": {
             "utcDate": "2026-04-19T00:00:00Z",
+            "status": "SCHEDULED",
             "homeTeamName": "US Lecce",
             "awayTeamName": "US Lecce",
             "homeTeamCrest": "https:\/\/crests.football-data.org\/5890.png",
@@ -3302,6 +3632,7 @@
         },
         "537145": {
             "utcDate": "2026-04-26T00:00:00Z",
+            "status": "SCHEDULED",
             "homeTeamName": "ACF Fiorentina",
             "awayTeamName": "ACF Fiorentina",
             "homeTeamCrest": "https:\/\/crests.football-data.org\/99.png",
@@ -3312,6 +3643,7 @@
         },
         "537146": {
             "utcDate": "2026-04-26T00:00:00Z",
+            "status": "SCHEDULED",
             "homeTeamName": "AC Milan",
             "awayTeamName": "AC Milan",
             "homeTeamCrest": "https:\/\/crests.football-data.org\/98.png",
@@ -3322,6 +3654,7 @@
         },
         "537147": {
             "utcDate": "2026-04-26T00:00:00Z",
+            "status": "SCHEDULED",
             "homeTeamName": "Cagliari Calcio",
             "awayTeamName": "Cagliari Calcio",
             "homeTeamCrest": "https:\/\/crests.football-data.org\/104.png",
@@ -3332,6 +3665,7 @@
         },
         "537148": {
             "utcDate": "2026-04-26T00:00:00Z",
+            "status": "SCHEDULED",
             "homeTeamName": "Genoa CFC",
             "awayTeamName": "Genoa CFC",
             "homeTeamCrest": "https:\/\/crests.football-data.org\/107.png",
@@ -3342,6 +3676,7 @@
         },
         "537149": {
             "utcDate": "2026-04-26T00:00:00Z",
+            "status": "SCHEDULED",
             "homeTeamName": "Bologna FC 1909",
             "awayTeamName": "Bologna FC 1909",
             "homeTeamCrest": "https:\/\/crests.football-data.org\/103.png",
@@ -3352,6 +3687,7 @@
         },
         "537150": {
             "utcDate": "2026-04-26T00:00:00Z",
+            "status": "SCHEDULED",
             "homeTeamName": "Torino FC",
             "awayTeamName": "Torino FC",
             "homeTeamCrest": "https:\/\/crests.football-data.org\/586.png",
@@ -3362,6 +3698,7 @@
         },
         "537151": {
             "utcDate": "2026-04-26T00:00:00Z",
+            "status": "SCHEDULED",
             "homeTeamName": "Hellas Verona FC",
             "awayTeamName": "Hellas Verona FC",
             "homeTeamCrest": "https:\/\/crests.football-data.org\/450.png",
@@ -3372,6 +3709,7 @@
         },
         "537152": {
             "utcDate": "2026-04-26T00:00:00Z",
+            "status": "SCHEDULED",
             "homeTeamName": "SS Lazio",
             "awayTeamName": "SS Lazio",
             "homeTeamCrest": "https:\/\/crests.football-data.org\/110.png",
@@ -3382,6 +3720,7 @@
         },
         "537153": {
             "utcDate": "2026-04-26T00:00:00Z",
+            "status": "SCHEDULED",
             "homeTeamName": "Parma Calcio 1913",
             "awayTeamName": "Parma Calcio 1913",
             "homeTeamCrest": "https:\/\/crests.football-data.org\/112.png",
@@ -3392,6 +3731,7 @@
         },
         "537154": {
             "utcDate": "2026-04-26T00:00:00Z",
+            "status": "SCHEDULED",
             "homeTeamName": "SSC Napoli",
             "awayTeamName": "SSC Napoli",
             "homeTeamCrest": "https:\/\/crests.football-data.org\/113.png",
@@ -3402,6 +3742,7 @@
         },
         "537155": {
             "utcDate": "2026-05-03T00:00:00Z",
+            "status": "SCHEDULED",
             "homeTeamName": "AS Roma",
             "awayTeamName": "AS Roma",
             "homeTeamCrest": "https:\/\/crests.football-data.org\/100.png",
@@ -3412,6 +3753,7 @@
         },
         "537156": {
             "utcDate": "2026-05-03T00:00:00Z",
+            "status": "SCHEDULED",
             "homeTeamName": "Atalanta BC",
             "awayTeamName": "Atalanta BC",
             "homeTeamCrest": "https:\/\/crests.football-data.org\/102.png",
@@ -3422,6 +3764,7 @@
         },
         "537157": {
             "utcDate": "2026-05-03T00:00:00Z",
+            "status": "SCHEDULED",
             "homeTeamName": "Como 1907",
             "awayTeamName": "Como 1907",
             "homeTeamCrest": "https:\/\/crests.football-data.org\/7397.png",
@@ -3432,6 +3775,7 @@
         },
         "537158": {
             "utcDate": "2026-05-03T00:00:00Z",
+            "status": "SCHEDULED",
             "homeTeamName": "Bologna FC 1909",
             "awayTeamName": "Bologna FC 1909",
             "homeTeamCrest": "https:\/\/crests.football-data.org\/103.png",
@@ -3442,6 +3786,7 @@
         },
         "537159": {
             "utcDate": "2026-05-03T00:00:00Z",
+            "status": "SCHEDULED",
             "homeTeamName": "FC Internazionale Milano",
             "awayTeamName": "FC Internazionale Milano",
             "homeTeamCrest": "https:\/\/crests.football-data.org\/108.png",
@@ -3452,6 +3797,7 @@
         },
         "537160": {
             "utcDate": "2026-05-03T00:00:00Z",
+            "status": "SCHEDULED",
             "homeTeamName": "Juventus FC",
             "awayTeamName": "Juventus FC",
             "homeTeamCrest": "https:\/\/crests.football-data.org\/109.png",
@@ -3462,6 +3808,7 @@
         },
         "537161": {
             "utcDate": "2026-05-03T00:00:00Z",
+            "status": "SCHEDULED",
             "homeTeamName": "AC Pisa 1909",
             "awayTeamName": "AC Pisa 1909",
             "homeTeamCrest": "https:\/\/crests.football-data.org\/487.png",
@@ -3472,6 +3819,7 @@
         },
         "537162": {
             "utcDate": "2026-05-03T00:00:00Z",
+            "status": "SCHEDULED",
             "homeTeamName": "US Sassuolo Calcio",
             "awayTeamName": "US Sassuolo Calcio",
             "homeTeamCrest": "https:\/\/crests.football-data.org\/471.png",
@@ -3482,6 +3830,7 @@
         },
         "537163": {
             "utcDate": "2026-05-03T00:00:00Z",
+            "status": "SCHEDULED",
             "homeTeamName": "Udinese Calcio",
             "awayTeamName": "Udinese Calcio",
             "homeTeamCrest": "https:\/\/crests.football-data.org\/115.png",
@@ -3492,6 +3841,7 @@
         },
         "537164": {
             "utcDate": "2026-05-03T00:00:00Z",
+            "status": "SCHEDULED",
             "homeTeamName": "US Cremonese",
             "awayTeamName": "US Cremonese",
             "homeTeamCrest": "https:\/\/crests.football-data.org\/457.png",
@@ -3502,6 +3852,7 @@
         },
         "537165": {
             "utcDate": "2026-05-10T00:00:00Z",
+            "status": "SCHEDULED",
             "homeTeamName": "ACF Fiorentina",
             "awayTeamName": "ACF Fiorentina",
             "homeTeamCrest": "https:\/\/crests.football-data.org\/99.png",
@@ -3512,6 +3863,7 @@
         },
         "537166": {
             "utcDate": "2026-05-10T00:00:00Z",
+            "status": "SCHEDULED",
             "homeTeamName": "AC Milan",
             "awayTeamName": "AC Milan",
             "homeTeamCrest": "https:\/\/crests.football-data.org\/98.png",
@@ -3522,6 +3874,7 @@
         },
         "537167": {
             "utcDate": "2026-05-10T00:00:00Z",
+            "status": "SCHEDULED",
             "homeTeamName": "Cagliari Calcio",
             "awayTeamName": "Cagliari Calcio",
             "homeTeamCrest": "https:\/\/crests.football-data.org\/104.png",
@@ -3532,6 +3885,7 @@
         },
         "537168": {
             "utcDate": "2026-05-10T00:00:00Z",
+            "status": "SCHEDULED",
             "homeTeamName": "Torino FC",
             "awayTeamName": "Torino FC",
             "homeTeamCrest": "https:\/\/crests.football-data.org\/586.png",
@@ -3542,6 +3896,7 @@
         },
         "537169": {
             "utcDate": "2026-05-10T00:00:00Z",
+            "status": "SCHEDULED",
             "homeTeamName": "Hellas Verona FC",
             "awayTeamName": "Hellas Verona FC",
             "homeTeamCrest": "https:\/\/crests.football-data.org\/450.png",
@@ -3552,6 +3907,7 @@
         },
         "537170": {
             "utcDate": "2026-05-10T00:00:00Z",
+            "status": "SCHEDULED",
             "homeTeamName": "SS Lazio",
             "awayTeamName": "SS Lazio",
             "homeTeamCrest": "https:\/\/crests.football-data.org\/110.png",
@@ -3562,6 +3918,7 @@
         },
         "537171": {
             "utcDate": "2026-05-10T00:00:00Z",
+            "status": "SCHEDULED",
             "homeTeamName": "Parma Calcio 1913",
             "awayTeamName": "Parma Calcio 1913",
             "homeTeamCrest": "https:\/\/crests.football-data.org\/112.png",
@@ -3572,6 +3929,7 @@
         },
         "537172": {
             "utcDate": "2026-05-10T00:00:00Z",
+            "status": "SCHEDULED",
             "homeTeamName": "SSC Napoli",
             "awayTeamName": "SSC Napoli",
             "homeTeamCrest": "https:\/\/crests.football-data.org\/113.png",
@@ -3582,6 +3940,7 @@
         },
         "537173": {
             "utcDate": "2026-05-10T00:00:00Z",
+            "status": "SCHEDULED",
             "homeTeamName": "US Cremonese",
             "awayTeamName": "US Cremonese",
             "homeTeamCrest": "https:\/\/crests.football-data.org\/457.png",
@@ -3592,6 +3951,7 @@
         },
         "537174": {
             "utcDate": "2026-05-10T00:00:00Z",
+            "status": "SCHEDULED",
             "homeTeamName": "US Lecce",
             "awayTeamName": "US Lecce",
             "homeTeamCrest": "https:\/\/crests.football-data.org\/5890.png",
@@ -3602,6 +3962,7 @@
         },
         "537175": {
             "utcDate": "2026-05-17T00:00:00Z",
+            "status": "SCHEDULED",
             "homeTeamName": "AS Roma",
             "awayTeamName": "AS Roma",
             "homeTeamCrest": "https:\/\/crests.football-data.org\/100.png",
@@ -3612,6 +3973,7 @@
         },
         "537176": {
             "utcDate": "2026-05-17T00:00:00Z",
+            "status": "SCHEDULED",
             "homeTeamName": "Atalanta BC",
             "awayTeamName": "Atalanta BC",
             "homeTeamCrest": "https:\/\/crests.football-data.org\/102.png",
@@ -3622,6 +3984,7 @@
         },
         "537177": {
             "utcDate": "2026-05-17T00:00:00Z",
+            "status": "SCHEDULED",
             "homeTeamName": "Cagliari Calcio",
             "awayTeamName": "Cagliari Calcio",
             "homeTeamCrest": "https:\/\/crests.football-data.org\/104.png",
@@ -3632,6 +3995,7 @@
         },
         "537178": {
             "utcDate": "2026-05-17T00:00:00Z",
+            "status": "SCHEDULED",
             "homeTeamName": "Genoa CFC",
             "awayTeamName": "Genoa CFC",
             "homeTeamCrest": "https:\/\/crests.football-data.org\/107.png",
@@ -3642,6 +4006,7 @@
         },
         "537179": {
             "utcDate": "2026-05-17T00:00:00Z",
+            "status": "SCHEDULED",
             "homeTeamName": "Como 1907",
             "awayTeamName": "Como 1907",
             "homeTeamCrest": "https:\/\/crests.football-data.org\/7397.png",
@@ -3652,6 +4017,7 @@
         },
         "537180": {
             "utcDate": "2026-05-17T00:00:00Z",
+            "status": "SCHEDULED",
             "homeTeamName": "FC Internazionale Milano",
             "awayTeamName": "FC Internazionale Milano",
             "homeTeamCrest": "https:\/\/crests.football-data.org\/108.png",
@@ -3662,6 +4028,7 @@
         },
         "537181": {
             "utcDate": "2026-05-17T00:00:00Z",
+            "status": "SCHEDULED",
             "homeTeamName": "Juventus FC",
             "awayTeamName": "Juventus FC",
             "homeTeamCrest": "https:\/\/crests.football-data.org\/109.png",
@@ -3672,6 +4039,7 @@
         },
         "537182": {
             "utcDate": "2026-05-17T00:00:00Z",
+            "status": "SCHEDULED",
             "homeTeamName": "AC Pisa 1909",
             "awayTeamName": "AC Pisa 1909",
             "homeTeamCrest": "https:\/\/crests.football-data.org\/487.png",
@@ -3682,6 +4050,7 @@
         },
         "537183": {
             "utcDate": "2026-05-17T00:00:00Z",
+            "status": "SCHEDULED",
             "homeTeamName": "US Sassuolo Calcio",
             "awayTeamName": "US Sassuolo Calcio",
             "homeTeamCrest": "https:\/\/crests.football-data.org\/471.png",
@@ -3692,6 +4061,7 @@
         },
         "537184": {
             "utcDate": "2026-05-17T00:00:00Z",
+            "status": "SCHEDULED",
             "homeTeamName": "Udinese Calcio",
             "awayTeamName": "Udinese Calcio",
             "homeTeamCrest": "https:\/\/crests.football-data.org\/115.png",
@@ -3702,6 +4072,7 @@
         },
         "537185": {
             "utcDate": "2026-05-24T00:00:00Z",
+            "status": "SCHEDULED",
             "homeTeamName": "ACF Fiorentina",
             "awayTeamName": "ACF Fiorentina",
             "homeTeamCrest": "https:\/\/crests.football-data.org\/99.png",
@@ -3712,6 +4083,7 @@
         },
         "537186": {
             "utcDate": "2026-05-24T00:00:00Z",
+            "status": "SCHEDULED",
             "homeTeamName": "AC Milan",
             "awayTeamName": "AC Milan",
             "homeTeamCrest": "https:\/\/crests.football-data.org\/98.png",
@@ -3722,6 +4094,7 @@
         },
         "537187": {
             "utcDate": "2026-05-24T00:00:00Z",
+            "status": "SCHEDULED",
             "homeTeamName": "Bologna FC 1909",
             "awayTeamName": "Bologna FC 1909",
             "homeTeamCrest": "https:\/\/crests.football-data.org\/103.png",
@@ -3732,6 +4105,7 @@
         },
         "537188": {
             "utcDate": "2026-05-24T00:00:00Z",
+            "status": "SCHEDULED",
             "homeTeamName": "Torino FC",
             "awayTeamName": "Torino FC",
             "homeTeamCrest": "https:\/\/crests.football-data.org\/586.png",
@@ -3742,6 +4116,7 @@
         },
         "537189": {
             "utcDate": "2026-05-24T00:00:00Z",
+            "status": "SCHEDULED",
             "homeTeamName": "Hellas Verona FC",
             "awayTeamName": "Hellas Verona FC",
             "homeTeamCrest": "https:\/\/crests.football-data.org\/450.png",
@@ -3752,6 +4127,7 @@
         },
         "537190": {
             "utcDate": "2026-05-24T00:00:00Z",
+            "status": "SCHEDULED",
             "homeTeamName": "SS Lazio",
             "awayTeamName": "SS Lazio",
             "homeTeamCrest": "https:\/\/crests.football-data.org\/110.png",
@@ -3762,6 +4138,7 @@
         },
         "537191": {
             "utcDate": "2026-05-24T00:00:00Z",
+            "status": "SCHEDULED",
             "homeTeamName": "Parma Calcio 1913",
             "awayTeamName": "Parma Calcio 1913",
             "homeTeamCrest": "https:\/\/crests.football-data.org\/112.png",
@@ -3772,6 +4149,7 @@
         },
         "537192": {
             "utcDate": "2026-05-24T00:00:00Z",
+            "status": "SCHEDULED",
             "homeTeamName": "SSC Napoli",
             "awayTeamName": "SSC Napoli",
             "homeTeamCrest": "https:\/\/crests.football-data.org\/113.png",
@@ -3782,6 +4160,7 @@
         },
         "537193": {
             "utcDate": "2026-05-24T00:00:00Z",
+            "status": "SCHEDULED",
             "homeTeamName": "US Cremonese",
             "awayTeamName": "US Cremonese",
             "homeTeamCrest": "https:\/\/crests.football-data.org\/457.png",
@@ -3792,6 +4171,7 @@
         },
         "537194": {
             "utcDate": "2026-05-24T00:00:00Z",
+            "status": "SCHEDULED",
             "homeTeamName": "US Lecce",
             "awayTeamName": "US Lecce",
             "homeTeamCrest": "https:\/\/crests.football-data.org\/5890.png",

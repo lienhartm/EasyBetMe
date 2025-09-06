@@ -1,4 +1,11 @@
 {
+    "areaName": "World",
+    "areaFlag": null,
+    "name": "FIFA World Cup",
+    "emblem": "https:\/\/crests.football-data.org\/qatar.png",
+    "currentMatchday": 1,
+    "startDate": "2026-06-11",
+    "endDate": "2026-07-19",
     "seasons": [
         {
             "startDate": "2022-11-20",

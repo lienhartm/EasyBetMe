@@ -2,6 +2,7 @@
     "matches": {
         "537327": {
             "utcDate": "2026-06-11T00:00:00Z",
+            "status": "SCHEDULED",
             "homeTeamName": "Mexico",
             "awayTeamName": "Mexico",
             "homeTeamCrest": "https:\/\/crests.football-data.org\/769.svg",
@@ -12,6 +13,7 @@
         },
         "537328": {
             "utcDate": "2026-06-11T00:00:00Z",
+            "status": "SCHEDULED",
             "homeTeamName": null,
             "awayTeamName": null,
             "homeTeamCrest": null,
@@ -22,6 +24,7 @@
         },
         "537345": {
             "utcDate": "2026-06-12T00:00:00Z",
+            "status": "SCHEDULED",
             "homeTeamName": "United States",
             "awayTeamName": "United States",
             "homeTeamCrest": "https:\/\/crests.football-data.org\/usa.svg",
@@ -32,6 +35,7 @@
         },
         "537346": {
             "utcDate": "2026-06-12T00:00:00Z",
+            "status": "SCHEDULED",
             "homeTeamName": null,
             "awayTeamName": null,
             "homeTeamCrest": null,
@@ -42,6 +46,7 @@
         },
         "537333": {
             "utcDate": "2026-06-12T00:00:00Z",
+            "status": "SCHEDULED",
             "homeTeamName": "Canada",
             "awayTeamName": "Canada",
             "homeTeamCrest": "https:\/\/crests.football-data.org\/canada.svg",
@@ -52,6 +57,7 @@
         },
         "537334": {
             "utcDate": "2026-06-12T00:00:00Z",
+            "status": "SCHEDULED",
             "homeTeamName": null,
             "awayTeamName": null,
             "homeTeamCrest": null,
@@ -62,6 +68,7 @@
         },
         "537339": {
             "utcDate": "2026-06-13T00:00:00Z",
+            "status": "SCHEDULED",
             "homeTeamName": null,
             "awayTeamName": null,
             "homeTeamCrest": null,
@@ -72,6 +79,7 @@
         },
         "537340": {
             "utcDate": "2026-06-13T00:00:00Z",
+            "status": "SCHEDULED",
             "homeTeamName": null,
             "awayTeamName": null,
             "homeTeamCrest": null,
@@ -82,6 +90,7 @@
         },
         "537351": {
             "utcDate": "2026-06-14T00:00:00Z",
+            "status": "SCHEDULED",
             "homeTeamName": null,
             "awayTeamName": null,
             "homeTeamCrest": null,
@@ -92,6 +101,7 @@
         },
         "537352": {
             "utcDate": "2026-06-14T00:00:00Z",
+            "status": "SCHEDULED",
             "homeTeamName": null,
             "awayTeamName": null,
             "homeTeamCrest": null,
@@ -102,6 +112,7 @@
         },
         "537357": {
             "utcDate": "2026-06-14T00:00:00Z",
+            "status": "SCHEDULED",
             "homeTeamName": null,
             "awayTeamName": null,
             "homeTeamCrest": null,
@@ -112,6 +123,7 @@
         },
         "537358": {
             "utcDate": "2026-06-14T00:00:00Z",
+            "status": "SCHEDULED",
             "homeTeamName": null,
             "awayTeamName": null,
             "homeTeamCrest": null,
@@ -122,6 +134,7 @@
         },
         "537363": {
             "utcDate": "2026-06-15T00:00:00Z",
+            "status": "SCHEDULED",
             "homeTeamName": null,
             "awayTeamName": null,
             "homeTeamCrest": null,
@@ -132,6 +145,7 @@
         },
         "537364": {
             "utcDate": "2026-06-15T00:00:00Z",
+            "status": "SCHEDULED",
             "homeTeamName": null,
             "awayTeamName": null,
             "homeTeamCrest": null,
@@ -142,6 +156,7 @@
         },
         "537369": {
             "utcDate": "2026-06-15T00:00:00Z",
+            "status": "SCHEDULED",
             "homeTeamName": null,
             "awayTeamName": null,
             "homeTeamCrest": null,
@@ -152,6 +167,7 @@
         },
         "537370": {
             "utcDate": "2026-06-15T00:00:00Z",
+            "status": "SCHEDULED",
             "homeTeamName": null,
             "awayTeamName": null,
             "homeTeamCrest": null,
@@ -162,6 +178,7 @@
         },
         "537391": {
             "utcDate": "2026-06-16T00:00:00Z",
+            "status": "SCHEDULED",
             "homeTeamName": null,
             "awayTeamName": null,
             "homeTeamCrest": null,
@@ -172,6 +189,7 @@
         },
         "537392": {
             "utcDate": "2026-06-16T00:00:00Z",
+            "status": "SCHEDULED",
             "homeTeamName": null,
             "awayTeamName": null,
             "homeTeamCrest": null,
@@ -182,6 +200,7 @@
         },
         "537397": {
             "utcDate": "2026-06-16T00:00:00Z",
+            "status": "SCHEDULED",
             "homeTeamName": null,
             "awayTeamName": null,
             "homeTeamCrest": null,
@@ -192,6 +211,7 @@
         },
         "537398": {
             "utcDate": "2026-06-16T00:00:00Z",
+            "status": "SCHEDULED",
             "homeTeamName": null,
             "awayTeamName": null,
             "homeTeamCrest": null,
@@ -202,6 +222,7 @@
         },
         "537403": {
             "utcDate": "2026-06-17T00:00:00Z",
+            "status": "SCHEDULED",
             "homeTeamName": null,
             "awayTeamName": null,
             "homeTeamCrest": null,
@@ -212,6 +233,7 @@
         },
         "537404": {
             "utcDate": "2026-06-17T00:00:00Z",
+            "status": "SCHEDULED",
             "homeTeamName": null,
             "awayTeamName": null,
             "homeTeamCrest": null,
@@ -222,6 +244,7 @@
         },
         "537409": {
             "utcDate": "2026-06-17T00:00:00Z",
+            "status": "SCHEDULED",
             "homeTeamName": null,
             "awayTeamName": null,
             "homeTeamCrest": null,
@@ -232,6 +255,7 @@
         },
         "537410": {
             "utcDate": "2026-06-17T00:00:00Z",
+            "status": "SCHEDULED",
             "homeTeamName": null,
             "awayTeamName": null,
             "homeTeamCrest": null,
@@ -242,6 +266,7 @@
         },
         "537329": {
             "utcDate": "2026-06-18T00:00:00Z",
+            "status": "SCHEDULED",
             "homeTeamName": null,
             "awayTeamName": null,
             "homeTeamCrest": null,
@@ -252,6 +277,7 @@
         },
         "537330": {
             "utcDate": "2026-06-18T00:00:00Z",
+            "status": "SCHEDULED",
             "homeTeamName": "Mexico",
             "awayTeamName": "Mexico",
             "homeTeamCrest": "https:\/\/crests.football-data.org\/769.svg",
@@ -262,6 +288,7 @@
         },
         "537335": {
             "utcDate": "2026-06-18T00:00:00Z",
+            "status": "SCHEDULED",
             "homeTeamName": null,
             "awayTeamName": null,
             "homeTeamCrest": null,
@@ -272,6 +299,7 @@
         },
         "537336": {
             "utcDate": "2026-06-18T00:00:00Z",
+            "status": "SCHEDULED",
             "homeTeamName": "Canada",
             "awayTeamName": "Canada",
             "homeTeamCrest": "https:\/\/crests.football-data.org\/canada.svg",
@@ -282,6 +310,7 @@
         },
         "537347": {
             "utcDate": "2026-06-19T00:00:00Z",
+            "status": "SCHEDULED",
             "homeTeamName": null,
             "awayTeamName": null,
             "homeTeamCrest": null,
@@ -292,6 +321,7 @@
         },
         "537348": {
             "utcDate": "2026-06-19T00:00:00Z",
+            "status": "SCHEDULED",
             "homeTeamName": "United States",
             "awayTeamName": "United States",
             "homeTeamCrest": "https:\/\/crests.football-data.org\/usa.svg",
@@ -302,6 +332,7 @@
         },
         "537341": {
             "utcDate": "2026-06-19T00:00:00Z",
+            "status": "SCHEDULED",
             "homeTeamName": null,
             "awayTeamName": null,
             "homeTeamCrest": null,
@@ -312,6 +343,7 @@
         },
         "537342": {
             "utcDate": "2026-06-19T00:00:00Z",
+            "status": "SCHEDULED",
             "homeTeamName": null,
             "awayTeamName": null,
             "homeTeamCrest": null,
@@ -322,6 +354,7 @@
         },
         "537353": {
             "utcDate": "2026-06-20T00:00:00Z",
+            "status": "SCHEDULED",
             "homeTeamName": null,
             "awayTeamName": null,
             "homeTeamCrest": null,
@@ -332,6 +365,7 @@
         },
         "537354": {
             "utcDate": "2026-06-20T00:00:00Z",
+            "status": "SCHEDULED",
             "homeTeamName": null,
             "awayTeamName": null,
             "homeTeamCrest": null,
@@ -342,6 +376,7 @@
         },
         "537359": {
             "utcDate": "2026-06-20T00:00:00Z",
+            "status": "SCHEDULED",
             "homeTeamName": null,
             "awayTeamName": null,
             "homeTeamCrest": null,
@@ -352,6 +387,7 @@
         },
         "537360": {
             "utcDate": "2026-06-20T00:00:00Z",
+            "status": "SCHEDULED",
             "homeTeamName": null,
             "awayTeamName": null,
             "homeTeamCrest": null,
@@ -362,6 +398,7 @@
         },
         "537365": {
             "utcDate": "2026-06-21T00:00:00Z",
+            "status": "SCHEDULED",
             "homeTeamName": null,
             "awayTeamName": null,
             "homeTeamCrest": null,
@@ -372,6 +409,7 @@
         },
         "537366": {
             "utcDate": "2026-06-21T00:00:00Z",
+            "status": "SCHEDULED",
             "homeTeamName": null,
             "awayTeamName": null,
             "homeTeamCrest": null,
@@ -382,6 +420,7 @@
         },
         "537371": {
             "utcDate": "2026-06-21T00:00:00Z",
+            "status": "SCHEDULED",
             "homeTeamName": null,
             "awayTeamName": null,
             "homeTeamCrest": null,
@@ -392,6 +431,7 @@
         },
         "537372": {
             "utcDate": "2026-06-21T00:00:00Z",
+            "status": "SCHEDULED",
             "homeTeamName": null,
             "awayTeamName": null,
             "homeTeamCrest": null,
@@ -402,6 +442,7 @@
         },
         "537393": {
             "utcDate": "2026-06-22T00:00:00Z",
+            "status": "SCHEDULED",
             "homeTeamName": null,
             "awayTeamName": null,
             "homeTeamCrest": null,
@@ -412,6 +453,7 @@
         },
         "537394": {
             "utcDate": "2026-06-22T00:00:00Z",
+            "status": "SCHEDULED",
             "homeTeamName": null,
             "awayTeamName": null,
             "homeTeamCrest": null,
@@ -422,6 +464,7 @@
         },
         "537399": {
             "utcDate": "2026-06-22T00:00:00Z",
+            "status": "SCHEDULED",
             "homeTeamName": null,
             "awayTeamName": null,
             "homeTeamCrest": null,
@@ -432,6 +475,7 @@
         },
         "537400": {
             "utcDate": "2026-06-22T00:00:00Z",
+            "status": "SCHEDULED",
             "homeTeamName": null,
             "awayTeamName": null,
             "homeTeamCrest": null,
@@ -442,6 +486,7 @@
         },
         "537405": {
             "utcDate": "2026-06-23T00:00:00Z",
+            "status": "SCHEDULED",
             "homeTeamName": null,
             "awayTeamName": null,
             "homeTeamCrest": null,
@@ -452,6 +497,7 @@
         },
         "537406": {
             "utcDate": "2026-06-23T00:00:00Z",
+            "status": "SCHEDULED",
             "homeTeamName": null,
             "awayTeamName": null,
             "homeTeamCrest": null,
@@ -462,6 +508,7 @@
         },
         "537411": {
             "utcDate": "2026-06-23T00:00:00Z",
+            "status": "SCHEDULED",
             "homeTeamName": null,
             "awayTeamName": null,
             "homeTeamCrest": null,
@@ -472,6 +519,7 @@
         },
         "537412": {
             "utcDate": "2026-06-23T00:00:00Z",
+            "status": "SCHEDULED",
             "homeTeamName": null,
             "awayTeamName": null,
             "homeTeamCrest": null,
@@ -482,6 +530,7 @@
         },
         "537344": {
             "utcDate": "2026-06-24T00:00:00Z",
+            "status": "SCHEDULED",
             "homeTeamName": null,
             "awayTeamName": null,
             "homeTeamCrest": null,
@@ -492,6 +541,7 @@
         },
         "537331": {
             "utcDate": "2026-06-24T00:00:00Z",
+            "status": "SCHEDULED",
             "homeTeamName": null,
             "awayTeamName": null,
             "homeTeamCrest": null,
@@ -502,6 +552,7 @@
         },
         "537332": {
             "utcDate": "2026-06-24T00:00:00Z",
+            "status": "SCHEDULED",
             "homeTeamName": null,
             "awayTeamName": null,
             "homeTeamCrest": null,
@@ -512,6 +563,7 @@
         },
         "537337": {
             "utcDate": "2026-06-24T00:00:00Z",
+            "status": "SCHEDULED",
             "homeTeamName": null,
             "awayTeamName": null,
             "homeTeamCrest": null,
@@ -522,6 +574,7 @@
         },
         "537338": {
             "utcDate": "2026-06-24T00:00:00Z",
+            "status": "SCHEDULED",
             "homeTeamName": null,
             "awayTeamName": null,
             "homeTeamCrest": null,
@@ -532,6 +585,7 @@
         },
         "537343": {
             "utcDate": "2026-06-24T00:00:00Z",
+            "status": "SCHEDULED",
             "homeTeamName": null,
             "awayTeamName": null,
             "homeTeamCrest": null,
@@ -542,6 +596,7 @@
         },
         "537349": {
             "utcDate": "2026-06-25T00:00:00Z",
+            "status": "SCHEDULED",
             "homeTeamName": null,
             "awayTeamName": null,
             "homeTeamCrest": null,
@@ -552,6 +607,7 @@
         },
         "537350": {
             "utcDate": "2026-06-25T00:00:00Z",
+            "status": "SCHEDULED",
             "homeTeamName": null,
             "awayTeamName": null,
             "homeTeamCrest": null,
@@ -562,6 +618,7 @@
         },
         "537355": {
             "utcDate": "2026-06-25T00:00:00Z",
+            "status": "SCHEDULED",
             "homeTeamName": null,
             "awayTeamName": null,
             "homeTeamCrest": null,
@@ -572,6 +629,7 @@
         },
         "537356": {
             "utcDate": "2026-06-25T00:00:00Z",
+            "status": "SCHEDULED",
             "homeTeamName": null,
             "awayTeamName": null,
             "homeTeamCrest": null,
@@ -582,6 +640,7 @@
         },
         "537361": {
             "utcDate": "2026-06-25T00:00:00Z",
+            "status": "SCHEDULED",
             "homeTeamName": null,
             "awayTeamName": null,
             "homeTeamCrest": null,
@@ -592,6 +651,7 @@
         },
         "537362": {
             "utcDate": "2026-06-25T00:00:00Z",
+            "status": "SCHEDULED",
             "homeTeamName": null,
             "awayTeamName": null,
             "homeTeamCrest": null,
@@ -602,6 +662,7 @@
         },
         "537367": {
             "utcDate": "2026-06-26T00:00:00Z",
+            "status": "SCHEDULED",
             "homeTeamName": null,
             "awayTeamName": null,
             "homeTeamCrest": null,
@@ -612,6 +673,7 @@
         },
         "537368": {
             "utcDate": "2026-06-26T00:00:00Z",
+            "status": "SCHEDULED",
             "homeTeamName": null,
             "awayTeamName": null,
             "homeTeamCrest": null,
@@ -622,6 +684,7 @@
         },
         "537373": {
             "utcDate": "2026-06-26T00:00:00Z",
+            "status": "SCHEDULED",
             "homeTeamName": null,
             "awayTeamName": null,
             "homeTeamCrest": null,
@@ -632,6 +695,7 @@
         },
         "537374": {
             "utcDate": "2026-06-26T00:00:00Z",
+            "status": "SCHEDULED",
             "homeTeamName": null,
             "awayTeamName": null,
             "homeTeamCrest": null,
@@ -642,6 +706,7 @@
         },
         "537395": {
             "utcDate": "2026-06-26T00:00:00Z",
+            "status": "SCHEDULED",
             "homeTeamName": null,
             "awayTeamName": null,
             "homeTeamCrest": null,
@@ -652,6 +717,7 @@
         },
         "537396": {
             "utcDate": "2026-06-26T00:00:00Z",
+            "status": "SCHEDULED",
             "homeTeamName": null,
             "awayTeamName": null,
             "homeTeamCrest": null,
@@ -662,6 +728,7 @@
         },
         "537401": {
             "utcDate": "2026-06-27T00:00:00Z",
+            "status": "SCHEDULED",
             "homeTeamName": null,
             "awayTeamName": null,
             "homeTeamCrest": null,
@@ -672,6 +739,7 @@
         },
         "537402": {
             "utcDate": "2026-06-27T00:00:00Z",
+            "status": "SCHEDULED",
             "homeTeamName": null,
             "awayTeamName": null,
             "homeTeamCrest": null,
@@ -682,6 +750,7 @@
         },
         "537407": {
             "utcDate": "2026-06-27T00:00:00Z",
+            "status": "SCHEDULED",
             "homeTeamName": null,
             "awayTeamName": null,
             "homeTeamCrest": null,
@@ -692,6 +761,7 @@
         },
         "537408": {
             "utcDate": "2026-06-27T00:00:00Z",
+            "status": "SCHEDULED",
             "homeTeamName": null,
             "awayTeamName": null,
             "homeTeamCrest": null,
@@ -702,6 +772,7 @@
         },
         "537413": {
             "utcDate": "2026-06-27T00:00:00Z",
+            "status": "SCHEDULED",
             "homeTeamName": null,
             "awayTeamName": null,
             "homeTeamCrest": null,
@@ -712,6 +783,7 @@
         },
         "537414": {
             "utcDate": "2026-06-27T00:00:00Z",
+            "status": "SCHEDULED",
             "homeTeamName": null,
             "awayTeamName": null,
             "homeTeamCrest": null,
@@ -722,6 +794,7 @@
         },
         "537417": {
             "utcDate": "2026-06-28T00:00:00Z",
+            "status": "SCHEDULED",
             "homeTeamName": null,
             "awayTeamName": null,
             "homeTeamCrest": null,
@@ -732,6 +805,7 @@
         },
         "537415": {
             "utcDate": "2026-06-29T00:00:00Z",
+            "status": "SCHEDULED",
             "homeTeamName": null,
             "awayTeamName": null,
             "homeTeamCrest": null,
@@ -742,6 +816,7 @@
         },
         "537418": {
             "utcDate": "2026-06-29T00:00:00Z",
+            "status": "SCHEDULED",
             "homeTeamName": null,
             "awayTeamName": null,
             "homeTeamCrest": null,
@@ -752,6 +827,7 @@
         },
         "537423": {
             "utcDate": "2026-06-29T00:00:00Z",
+            "status": "SCHEDULED",
             "homeTeamName": null,
             "awayTeamName": null,
             "homeTeamCrest": null,
@@ -762,6 +838,7 @@
         },
         "537416": {
             "utcDate": "2026-06-30T00:00:00Z",
+            "status": "SCHEDULED",
             "homeTeamName": null,
             "awayTeamName": null,
             "homeTeamCrest": null,
@@ -772,6 +849,7 @@
         },
         "537424": {
             "utcDate": "2026-06-30T00:00:00Z",
+            "status": "SCHEDULED",
             "homeTeamName": null,
             "awayTeamName": null,
             "homeTeamCrest": null,
@@ -782,6 +860,7 @@
         },
         "537425": {
             "utcDate": "2026-06-30T00:00:00Z",
+            "status": "SCHEDULED",
             "homeTeamName": null,
             "awayTeamName": null,
             "homeTeamCrest": null,
@@ -792,6 +871,7 @@
         },
         "537421": {
             "utcDate": "2026-07-01T00:00:00Z",
+            "status": "SCHEDULED",
             "homeTeamName": null,
             "awayTeamName": null,
             "homeTeamCrest": null,
@@ -802,6 +882,7 @@
         },
         "537422": {
             "utcDate": "2026-07-01T00:00:00Z",
+            "status": "SCHEDULED",
             "homeTeamName": null,
             "awayTeamName": null,
             "homeTeamCrest": null,
@@ -812,6 +893,7 @@
         },
         "537426": {
             "utcDate": "2026-07-01T00:00:00Z",
+            "status": "SCHEDULED",
             "homeTeamName": null,
             "awayTeamName": null,
             "homeTeamCrest": null,
@@ -822,6 +904,7 @@
         },
         "537419": {
             "utcDate": "2026-07-02T00:00:00Z",
+            "status": "SCHEDULED",
             "homeTeamName": null,
             "awayTeamName": null,
             "homeTeamCrest": null,
@@ -832,6 +915,7 @@
         },
         "537420": {
             "utcDate": "2026-07-02T00:00:00Z",
+            "status": "SCHEDULED",
             "homeTeamName": null,
             "awayTeamName": null,
             "homeTeamCrest": null,
@@ -842,6 +926,7 @@
         },
         "537429": {
             "utcDate": "2026-07-02T00:00:00Z",
+            "status": "SCHEDULED",
             "homeTeamName": null,
             "awayTeamName": null,
             "homeTeamCrest": null,
@@ -852,6 +937,7 @@
         },
         "537427": {
             "utcDate": "2026-07-03T00:00:00Z",
+            "status": "SCHEDULED",
             "homeTeamName": null,
             "awayTeamName": null,
             "homeTeamCrest": null,
@@ -862,6 +948,7 @@
         },
         "537428": {
             "utcDate": "2026-07-03T00:00:00Z",
+            "status": "SCHEDULED",
             "homeTeamName": null,
             "awayTeamName": null,
             "homeTeamCrest": null,
@@ -872,6 +959,7 @@
         },
         "537430": {
             "utcDate": "2026-07-03T00:00:00Z",
+            "status": "SCHEDULED",
             "homeTeamName": null,
             "awayTeamName": null,
             "homeTeamCrest": null,
@@ -882,6 +970,7 @@
         },
         "537375": {
             "utcDate": "2026-07-04T00:00:00Z",
+            "status": "SCHEDULED",
             "homeTeamName": null,
             "awayTeamName": null,
             "homeTeamCrest": null,
@@ -892,6 +981,7 @@
         },
         "537376": {
             "utcDate": "2026-07-04T00:00:00Z",
+            "status": "SCHEDULED",
             "homeTeamName": null,
             "awayTeamName": null,
             "homeTeamCrest": null,
@@ -902,6 +992,7 @@
         },
         "537377": {
             "utcDate": "2026-07-05T00:00:00Z",
+            "status": "SCHEDULED",
             "homeTeamName": null,
             "awayTeamName": null,
             "homeTeamCrest": null,
@@ -912,6 +1003,7 @@
         },
         "537378": {
             "utcDate": "2026-07-05T00:00:00Z",
+            "status": "SCHEDULED",
             "homeTeamName": null,
             "awayTeamName": null,
             "homeTeamCrest": null,
@@ -922,6 +1014,7 @@
         },
         "537379": {
             "utcDate": "2026-07-06T00:00:00Z",
+            "status": "SCHEDULED",
             "homeTeamName": null,
             "awayTeamName": null,
             "homeTeamCrest": null,
@@ -932,6 +1025,7 @@
         },
         "537380": {
             "utcDate": "2026-07-06T00:00:00Z",
+            "status": "SCHEDULED",
             "homeTeamName": null,
             "awayTeamName": null,
             "homeTeamCrest": null,
@@ -942,6 +1036,7 @@
         },
         "537381": {
             "utcDate": "2026-07-07T00:00:00Z",
+            "status": "SCHEDULED",
             "homeTeamName": null,
             "awayTeamName": null,
             "homeTeamCrest": null,
@@ -952,6 +1047,7 @@
         },
         "537382": {
             "utcDate": "2026-07-07T00:00:00Z",
+            "status": "SCHEDULED",
             "homeTeamName": null,
             "awayTeamName": null,
             "homeTeamCrest": null,
@@ -962,6 +1058,7 @@
         },
         "537383": {
             "utcDate": "2026-07-09T00:00:00Z",
+            "status": "SCHEDULED",
             "homeTeamName": null,
             "awayTeamName": null,
             "homeTeamCrest": null,
@@ -972,6 +1069,7 @@
         },
         "537384": {
             "utcDate": "2026-07-10T00:00:00Z",
+            "status": "SCHEDULED",
             "homeTeamName": null,
             "awayTeamName": null,
             "homeTeamCrest": null,
@@ -982,6 +1080,7 @@
         },
         "537385": {
             "utcDate": "2026-07-11T00:00:00Z",
+            "status": "SCHEDULED",
             "homeTeamName": null,
             "awayTeamName": null,
             "homeTeamCrest": null,
@@ -992,6 +1091,7 @@
         },
         "537386": {
             "utcDate": "2026-07-11T00:00:00Z",
+            "status": "SCHEDULED",
             "homeTeamName": null,
             "awayTeamName": null,
             "homeTeamCrest": null,
@@ -1002,6 +1102,7 @@
         },
         "537387": {
             "utcDate": "2026-07-14T00:00:00Z",
+            "status": "SCHEDULED",
             "homeTeamName": null,
             "awayTeamName": null,
             "homeTeamCrest": null,
@@ -1012,6 +1113,7 @@
         },
         "537388": {
             "utcDate": "2026-07-15T00:00:00Z",
+            "status": "SCHEDULED",
             "homeTeamName": null,
             "awayTeamName": null,
             "homeTeamCrest": null,
@@ -1022,6 +1124,7 @@
         },
         "537389": {
             "utcDate": "2026-07-18T00:00:00Z",
+            "status": "SCHEDULED",
             "homeTeamName": null,
             "awayTeamName": null,
             "homeTeamCrest": null,
@@ -1032,6 +1135,7 @@
         },
         "537390": {
             "utcDate": "2026-07-19T00:00:00Z",
+            "status": "SCHEDULED",
             "homeTeamName": null,
             "awayTeamName": null,
             "homeTeamCrest": null,
